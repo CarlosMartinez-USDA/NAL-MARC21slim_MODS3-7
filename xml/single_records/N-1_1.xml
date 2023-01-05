@@ -25,7 +25,7 @@
          <dateIssued encoding="marc">1998</dateIssued>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 355-359.</extent>
@@ -110,8 +110,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1093/ee/27.2.355</identifier>
-      <identifier type="control">9916288966107426</identifier>
-      <identifier type="agricola">IND21811969</identifier>
       <extension>
          <note type="saleTape">19990101 19990111 00000000</note>
          <note type="publicationSource">Other US</note>
@@ -220,8 +218,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1365-2699.2011.02505.x</identifier>
-      <identifier type="control">9916289322707426</identifier>
-      <identifier type="agricola">IND44591654</identifier>
       <extension>
          <identifier type="local">agid:644025</identifier>
       </extension>
@@ -370,8 +366,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10980-020-00983-0</identifier>
-      <identifier type="control">9916289329007426</identifier>
-      <identifier type="agricola">IND606884549</identifier>
       <extension>
          <identifier type="local">agid:6884549</identifier>
       </extension>
@@ -475,8 +469,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1525/auk.2009.09077</identifier>
-      <identifier type="control">9916290441907426</identifier>
-      <identifier type="agricola">IND601306789</identifier>
       <extension>
          <identifier type="local">agid:1306789</identifier>
       </extension>
@@ -625,8 +617,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/aec.12556</identifier>
-      <identifier type="control">9916290782307426</identifier>
-      <identifier type="agricola">IND605920367</identifier>
       <extension>
          <identifier type="local">agid:5920367</identifier>
       </extension>
@@ -751,8 +741,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2021.119595</identifier>
-      <identifier type="control">9916290827507426</identifier>
-      <identifier type="agricola">IND607482949</identifier>
       <extension>
          <identifier type="local">agid:7482949</identifier>
       </extension>
@@ -879,8 +867,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/BF02348474</identifier>
-      <identifier type="control">9916291268107426</identifier>
-      <identifier type="agricola">IND606945091</identifier>
       <extension>
          <identifier type="local">agid:6945091</identifier>
       </extension>
@@ -1033,8 +1019,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.landurbplan.2010.11.001</identifier>
-      <identifier type="control">9916291392207426</identifier>
-      <identifier type="agricola">IND600840224</identifier>
       <extension>
          <identifier type="local">agid:840224</identifier>
       </extension>
@@ -1152,8 +1136,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11258-007-9291-z</identifier>
-      <identifier type="control">9916292077007426</identifier>
-      <identifier type="agricola">IND43985474</identifier>
       <extension>
          <identifier type="local">agid:569706</identifier>
       </extension>
@@ -1325,8 +1307,6 @@
       </relatedItem>
       <identifier type="doi">10.1016/j.ufug.2017.03.030</identifier>
       <identifier type="chorus">10.1016/j.ufug.2017.03.030</identifier>
-      <identifier type="control">9916292503407426</identifier>
-      <identifier type="agricola">IND605730866</identifier>
       <extension>
          <identifier type="local">agid:5730866</identifier>
       </extension>
@@ -1451,8 +1431,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1636/A11-49.1</identifier>
-      <identifier type="control">9916292637007426</identifier>
-      <identifier type="agricola">IND601250309</identifier>
       <extension>
          <identifier type="local">agid:1250309</identifier>
       </extension>
@@ -1553,8 +1531,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1636/P10-29.1</identifier>
-      <identifier type="control">9916292689107426</identifier>
-      <identifier type="agricola">IND601250285</identifier>
       <extension>
          <identifier type="local">agid:1250285</identifier>
       </extension>
@@ -1702,8 +1678,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10342-013-0685-2</identifier>
-      <identifier type="control">9916292955007426</identifier>
-      <identifier type="agricola">IND500649921</identifier>
       <extension>
          <identifier type="local">agid:422262</identifier>
       </extension>
@@ -1817,8 +1791,6 @@
       <identifier type="chorus">10.1016/j.ecolind.2017.05.022</identifier>
       <identifier type="doi">10.1016/j.ecolind.2017.05.022</identifier>
       <identifier type="chorusOpen">10.1016/j.ecolind.2017.05.022</identifier>
-      <identifier type="control">9916293063507426</identifier>
-      <identifier type="agricola">IND605692187</identifier>
       <extension>
          <identifier type="local">agid:5692187</identifier>
       </extension>
@@ -1963,8 +1935,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.landusepol.2018.06.022</identifier>
-      <identifier type="control">9916293466107426</identifier>
-      <identifier type="agricola">IND606119146</identifier>
       <extension>
          <identifier type="local">agid:6119146</identifier>
       </extension>
@@ -2135,8 +2105,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1071/WR21018</identifier>
-      <identifier type="control">9916293508507426</identifier>
-      <identifier type="agricola">IND607843491</identifier>
       <extension>
          <identifier type="local">agid:7843491</identifier>
       </extension>
@@ -2304,8 +2272,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/ddi.13076</identifier>
-      <identifier type="control">9916293779707426</identifier>
-      <identifier type="agricola">IND607011170</identifier>
       <extension>
          <identifier type="local">agid:7011170</identifier>
       </extension>
@@ -2445,8 +2411,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1094/PHP-2012-0723-04-RS</identifier>
-      <identifier type="control">9916293999907426</identifier>
-      <identifier type="agricola">IND606224679</identifier>
       <extension>
          <identifier type="local">agid:6224679</identifier>
       </extension>
@@ -2588,8 +2552,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.scitotenv.2015.03.048</identifier>
-      <identifier type="control">9916294081907426</identifier>
-      <identifier type="agricola">IND605457126</identifier>
       <extension>
          <identifier type="local">agid:5457126</identifier>
       </extension>
@@ -2727,8 +2689,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10980-020-01118-1</identifier>
-      <identifier type="control">9916294355507426</identifier>
-      <identifier type="agricola">IND607181595</identifier>
       <extension>
          <identifier type="local">agid:7181595</identifier>
       </extension>
@@ -2877,8 +2837,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.ecolind.2016.04.018</identifier>
-      <identifier type="control">9916294677307426</identifier>
-      <identifier type="agricola">IND605248866</identifier>
       <extension>
          <identifier type="local">agid:5248866</identifier>
       </extension>
@@ -2995,8 +2953,6 @@
       <identifier type="pmid">18599560</identifier>
       <identifier type="pmcid">PMC2701798</identifier>
       <identifier type="doi">10.1093/aob/mcn113</identifier>
-      <identifier type="control">9916295512607426</identifier>
-      <identifier type="agricola">IND44090965</identifier>
       <extension>
          <identifier type="local">agid:450801</identifier>
       </extension>
@@ -3115,8 +3071,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10342-017-1084-x</identifier>
-      <identifier type="control">9916295558607426</identifier>
-      <identifier type="agricola">IND605951161</identifier>
       <extension>
          <identifier type="local">agid:5951161</identifier>
       </extension>
@@ -3331,8 +3285,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1472-4642.2009.00557.x</identifier>
-      <identifier type="control">9916296015207426</identifier>
-      <identifier type="agricola">IND44189455</identifier>
       <extension>
          <note type="saleTape">20090410 20090508 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -3433,8 +3385,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1139/x94-249</identifier>
-      <identifier type="control">9916296266307426</identifier>
-      <identifier type="agricola">IND20466157</identifier>
       <extension>
          <note type="saleTape">19950802 19950807 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -3552,8 +3502,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1139/x95-079</identifier>
-      <identifier type="control">9916296283507426</identifier>
-      <identifier type="agricola">IND20474081</identifier>
       <extension>
          <identifier type="local">agid:1405847</identifier>
       </extension>
@@ -3687,8 +3635,6 @@
       </relatedItem>
       <identifier type="pmid">24317795</identifier>
       <identifier type="doi">10.1007/s00484-013-0766-4</identifier>
-      <identifier type="control">9916296296907426</identifier>
-      <identifier type="agricola">IND600811744</identifier>
       <extension>
          <identifier type="local">agid:811744</identifier>
       </extension>
@@ -3826,8 +3772,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1139/x95-145</identifier>
-      <identifier type="control">9916296403107426</identifier>
-      <identifier type="agricola">IND20483648</identifier>
       <extension>
          <note type="saleTape">19951102 19951108 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -3966,8 +3910,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.3390/ijgi9090550</identifier>
-      <identifier type="control">9916296412007426</identifier>
-      <identifier type="agricola">IND607117274</identifier>
       <extension>
          <identifier type="local">agid:7117274</identifier>
       </extension>
@@ -4132,8 +4074,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1080/15481603.2019.1600110</identifier>
-      <identifier type="control">9916296788907426</identifier>
-      <identifier type="agricola">IND606562526</identifier>
       <extension>
          <identifier type="local">agid:6562526</identifier>
       </extension>
@@ -4288,8 +4228,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1093/treephys/tpy057</identifier>
-      <identifier type="control">9916296808907426</identifier>
-      <identifier type="agricola">IND606743474</identifier>
       <extension>
          <identifier type="local">agid:6743474</identifier>
       </extension>
@@ -4441,8 +4379,6 @@
       </relatedItem>
       <identifier type="chorus">10.1016/j.foreco.2020.118220</identifier>
       <identifier type="doi">10.1016/j.foreco.2020.118220</identifier>
-      <identifier type="control">9916296885907426</identifier>
-      <identifier type="agricola">IND606966671</identifier>
       <extension>
          <identifier type="local">agid:6966671</identifier>
       </extension>
@@ -4610,8 +4546,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2020.118198</identifier>
-      <identifier type="control">9916296892807426</identifier>
-      <identifier type="agricola">IND606966668</identifier>
       <extension>
          <identifier type="local">agid:6966668</identifier>
       </extension>
@@ -4770,8 +4704,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10795-007-9029-z</identifier>
-      <identifier type="control">9916297787207426</identifier>
-      <identifier type="agricola">IND43985222</identifier>
       <extension>
          <note type="saleTape">20080508 20080606 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -4946,8 +4878,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10457-007-9068-3</identifier>
-      <identifier type="control">9916297803107426</identifier>
-      <identifier type="agricola">IND43985208</identifier>
       <extension>
          <note type="saleTape">20110614 20110701 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -5080,8 +5010,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1071/BT07056</identifier>
-      <identifier type="control">9916298171307426</identifier>
-      <identifier type="agricola">IND44108641</identifier>
       <extension>
          <note type="saleTape">20081114 20081206 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -5205,8 +5133,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1071/BT07137</identifier>
-      <identifier type="control">9916298171807426</identifier>
-      <identifier type="agricola">IND44108665</identifier>
       <extension>
          <note type="saleTape">20110518 20110603 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -5332,8 +5258,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s13253-014-0175-0</identifier>
-      <identifier type="control">9916298447407426</identifier>
-      <identifier type="agricola">IND600807422</identifier>
       <extension>
          <identifier type="local">agid:807422</identifier>
       </extension>
@@ -5467,8 +5391,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10310-010-0182-0</identifier>
-      <identifier type="control">9916298709607426</identifier>
-      <identifier type="agricola">IND44407140</identifier>
       <extension>
          <identifier type="local">agid:2313810</identifier>
       </extension>
@@ -5609,8 +5531,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10592-011-0310-1</identifier>
-      <identifier type="control">9916298849107426</identifier>
-      <identifier type="agricola">IND44762300</identifier>
       <extension>
          <identifier type="local">agid:421974</identifier>
       </extension>
@@ -5731,8 +5651,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1890/1051-0761(1998)008[1072:IOGDAC]2.0.CO;2</identifier>
-      <identifier type="control">9916299164207426</identifier>
-      <identifier type="agricola">IND21964405</identifier>
       <extension>
          <note type="saleTape">19990131 19990208 00000000</note>
          <note type="publicationSource">Other US</note>
@@ -5834,8 +5752,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1890/1051-0761(1999)009[0186:SEOLCA]2.0.CO;2</identifier>
-      <identifier type="control">9916299182107426</identifier>
-      <identifier type="agricola">IND21979876</identifier>
       <extension>
          <identifier type="local">agid:2012631</identifier>
       </extension>
@@ -5951,8 +5867,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1890/1051-0761(1999)009[0548:PEOHDO]2.0.CO;2</identifier>
-      <identifier type="control">9916299185507426</identifier>
-      <identifier type="agricola">IND21990901</identifier>
       <extension>
          <identifier type="local">agid:2012667</identifier>
       </extension>
@@ -6127,8 +6041,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.ympev.2015.01.006</identifier>
-      <identifier type="control">9916299299007426</identifier>
-      <identifier type="agricola">IND605434945</identifier>
       <extension>
          <identifier type="local">agid:5434945</identifier>
       </extension>
@@ -6312,8 +6224,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.ympev.2015.02.004</identifier>
-      <identifier type="control">9916299300607426</identifier>
-      <identifier type="agricola">IND605434957</identifier>
       <extension>
          <identifier type="local">agid:5434957</identifier>
       </extension>
@@ -6609,8 +6519,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1365-2699.2010.02467.x</identifier>
-      <identifier type="control">9916299347507426</identifier>
-      <identifier type="agricola">IND44579708</identifier>
       <extension>
          <identifier type="local">agid:643763</identifier>
       </extension>
@@ -6751,8 +6659,6 @@
       </relatedItem>
       <identifier type="pmid">19562495</identifier>
       <identifier type="doi">10.1007/s10661-009-1060-0</identifier>
-      <identifier type="control">9916299450907426</identifier>
-      <identifier type="agricola">IND44397388</identifier>
       <extension>
          <note type="saleTape">20100709 20100807 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -6897,8 +6803,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.scitotenv.2020.138448</identifier>
-      <identifier type="control">9916299465107426</identifier>
-      <identifier type="agricola">IND606883320</identifier>
       <extension>
          <identifier type="local">agid:6883320</identifier>
       </extension>
@@ -7045,8 +6949,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/1365-2435.12524</identifier>
-      <identifier type="control">9916299483907426</identifier>
-      <identifier type="agricola">IND605159059</identifier>
       <extension>
          <identifier type="local">agid:5159059</identifier>
       </extension>
@@ -7210,8 +7112,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1080/10106049.2020.1861664</identifier>
-      <identifier type="control">9916299605707426</identifier>
-      <identifier type="agricola">IND607857672</identifier>
       <extension>
          <identifier type="local">agid:7857672</identifier>
       </extension>
@@ -7376,8 +7276,6 @@
       <identifier type="pmid">16574691</identifier>
       <identifier type="pmcid">PMC2803392</identifier>
       <identifier type="doi">10.1093/aob/mcl067</identifier>
-      <identifier type="control">9916300097107426</identifier>
-      <identifier type="agricola">IND43806796</identifier>
       <extension>
          <note type="saleTape">20060725 20060804 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -7487,8 +7385,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11104-005-8552-7</identifier>
-      <identifier type="control">9916300119207426</identifier>
-      <identifier type="agricola">IND43806867</identifier>
       <extension>
          <note type="saleTape">20061210 20070102 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -7615,8 +7511,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10342-022-01444-w</identifier>
-      <identifier type="control">9916300125607426</identifier>
-      <identifier type="agricola">IND607779136</identifier>
       <extension>
          <identifier type="local">agid:7779136</identifier>
       </extension>
@@ -7750,8 +7644,6 @@
       </relatedItem>
       <identifier type="doi">10.1007/s10980-015-0295-0</identifier>
       <identifier type="chorus">10.1007/s10980-015-0295-0</identifier>
-      <identifier type="control">9916300330407426</identifier>
-      <identifier type="agricola">IND604776594</identifier>
       <extension>
          <identifier type="local">agid:4776594</identifier>
       </extension>
@@ -7888,8 +7780,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1658/1100-9233(2002)013[0035:SEODTI]2.0.CO;2</identifier>
-      <identifier type="control">9916300843707426</identifier>
-      <identifier type="agricola">IND500650466</identifier>
       <extension>
          <identifier type="local">agid:166931</identifier>
       </extension>
@@ -8067,8 +7957,6 @@
       </relatedItem>
       <identifier type="chorus">10.1016/j.rse.2019.111233</identifier>
       <identifier type="doi">10.1016/j.rse.2019.111233</identifier>
-      <identifier type="control">9916301034907426</identifier>
-      <identifier type="agricola">IND606465684</identifier>
       <extension>
          <identifier type="local">agid:6465684</identifier>
       </extension>
@@ -8224,8 +8112,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.rse.2019.111232</identifier>
-      <identifier type="control">9916301035707426</identifier>
-      <identifier type="agricola">IND606465683</identifier>
       <extension>
          <identifier type="local">agid:6465683</identifier>
       </extension>
@@ -8412,8 +8298,6 @@
       </relatedItem>
       <identifier type="chorus">10.1016/j.rse.2019.111238</identifier>
       <identifier type="doi">10.1016/j.rse.2019.111238</identifier>
-      <identifier type="control">9916301218207426</identifier>
-      <identifier type="agricola">IND606465689</identifier>
       <extension>
          <identifier type="local">agid:6465689</identifier>
       </extension>
@@ -8524,8 +8408,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.baae.2010.11.006</identifier>
-      <identifier type="control">9916301983607426</identifier>
-      <identifier type="agricola">IND44831918</identifier>
       <extension>
          <identifier type="local">agid:365967</identifier>
       </extension>
@@ -8634,8 +8516,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1300/J091v15n03_04</identifier>
-      <identifier type="control">9916303153407426</identifier>
-      <identifier type="agricola">IND23299063</identifier>
       <extension>
          <note type="saleTape">20030101 20030107 00000000</note>
          <note type="publicationSource">Other US</note>
@@ -8777,8 +8657,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11273-018-9646-3</identifier>
-      <identifier type="control">9916303161907426</identifier>
-      <identifier type="agricola">IND606327551</identifier>
       <extension>
          <identifier type="local">agid:6327551</identifier>
       </extension>
@@ -8959,8 +8837,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1080/15481603.2020.1846948</identifier>
-      <identifier type="control">9916303384307426</identifier>
-      <identifier type="agricola">IND607196942</identifier>
       <extension>
          <identifier type="local">agid:7196942</identifier>
       </extension>
@@ -9141,8 +9017,6 @@
       </relatedItem>
       <identifier type="pmid">24840829</identifier>
       <identifier type="doi">10.1007/s12041-014-0347-2</identifier>
-      <identifier type="control">9916303534907426</identifier>
-      <identifier type="agricola">IND500905068</identifier>
       <extension>
          <identifier type="local">agid:361737</identifier>
       </extension>
@@ -9318,8 +9192,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.ecoleng.2020.105810</identifier>
-      <identifier type="control">9916303900607426</identifier>
-      <identifier type="agricola">IND606882461</identifier>
       <extension>
          <identifier type="local">agid:6882461</identifier>
       </extension>
@@ -9470,8 +9342,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1071/RJ14119</identifier>
-      <identifier type="control">9916304332007426</identifier>
-      <identifier type="agricola">IND601330778</identifier>
       <extension>
          <identifier type="local">agid:1330778</identifier>
       </extension>
@@ -9604,8 +9474,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2021.119980</identifier>
-      <identifier type="control">9916304622007426</identifier>
-      <identifier type="agricola">IND607611503</identifier>
       <extension>
          <identifier type="local">agid:7611503</identifier>
       </extension>
@@ -9817,8 +9685,6 @@
       </relatedItem>
       <identifier type="pmid">22570076</identifier>
       <identifier type="doi">10.1007/s00438-012-0696-6</identifier>
-      <identifier type="control">9916304938907426</identifier>
-      <identifier type="agricola">IND44801318</identifier>
       <extension>
          <identifier type="local">agid:495770</identifier>
       </extension>
@@ -9970,8 +9836,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.funeco.2020.100974</identifier>
-      <identifier type="control">9916304974307426</identifier>
-      <identifier type="agricola">IND607014186</identifier>
       <extension>
          <identifier type="local">agid:7014186</identifier>
       </extension>
@@ -10107,8 +9971,6 @@
       </relatedItem>
       <identifier type="doi">10.5558/tfc81369-3</identifier>
       <identifier type="hdl">10113/37321</identifier>
-      <identifier type="control">9916305014907426</identifier>
-      <identifier type="agricola">IND43729093</identifier>
       <extension>
          <note type="saleTape">20100108 20100205 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -10343,8 +10205,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2021.119480</identifier>
-      <identifier type="control">9916305051407426</identifier>
-      <identifier type="agricola">IND607443283</identifier>
       <extension>
          <identifier type="local">agid:7443283</identifier>
       </extension>
@@ -10531,8 +10391,6 @@
       </relatedItem>
       <identifier type="doi">10.1016/j.agrformet.2007.11.013</identifier>
       <identifier type="hdl">10113/18864</identifier>
-      <identifier type="control">9916305997507426</identifier>
-      <identifier type="agricola">IND44061650</identifier>
       <extension>
          <note type="saleTape">20080915 20081011 00000000</note>
          <note type="publicationSource">Other US</note>
@@ -10619,8 +10477,6 @@
             <text type="month">Apr</text>
          </part>
       </relatedItem>
-      <identifier type="control">9916306232607426</identifier>
-      <identifier type="agricola">IND86042972</identifier>
       <extension>
          <note type="publicationSource">Non-US</note>
          <identifier type="local">agid:2829993</identifier>
@@ -10759,8 +10615,6 @@
       </relatedItem>
       <identifier type="pmid">18713422</identifier>
       <identifier type="doi">10.1111/j.1744-7909.2008.00663.x</identifier>
-      <identifier type="control">9916306786607426</identifier>
-      <identifier type="agricola">IND44051791</identifier>
       <extension>
          <identifier type="local">agid:561007</identifier>
       </extension>
@@ -10912,8 +10766,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10457-009-9255-5</identifier>
-      <identifier type="control">9916306942907426</identifier>
-      <identifier type="agricola">IND44370663</identifier>
       <extension>
          <note type="saleTape">20100804 20100903 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -11087,8 +10939,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2016.03.013</identifier>
-      <identifier type="control">9916306962207426</identifier>
-      <identifier type="agricola">IND605262335</identifier>
       <extension>
          <identifier type="local">agid:5262335</identifier>
       </extension>
@@ -11251,8 +11101,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2016.02.018</identifier>
-      <identifier type="control">9916306974807426</identifier>
-      <identifier type="agricola">IND605262302</identifier>
       <extension>
          <identifier type="local">agid:5262302</identifier>
       </extension>
@@ -11433,8 +11281,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2016.02.033</identifier>
-      <identifier type="control">9916307006307426</identifier>
-      <identifier type="agricola">IND605262317</identifier>
       <extension>
          <identifier type="local">agid:5262317</identifier>
       </extension>
@@ -11682,8 +11528,6 @@
       <identifier type="chorus">10.1016/j.foreco.2016.03.025</identifier>
       <identifier type="doi">10.1016/j.foreco.2016.03.025</identifier>
       <identifier type="chorusOpen">10.1016/j.foreco.2016.03.025</identifier>
-      <identifier type="control">9916307115907426</identifier>
-      <identifier type="agricola">IND605262345</identifier>
       <extension>
          <identifier type="local">agid:5262345</identifier>
       </extension>
@@ -11827,8 +11671,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2016.03.035</identifier>
-      <identifier type="control">9916307133307426</identifier>
-      <identifier type="agricola">IND605262356</identifier>
       <extension>
          <identifier type="local">agid:5262356</identifier>
       </extension>
@@ -11947,8 +11789,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1515/prolas-2016-0018</identifier>
-      <identifier type="control">9916307336607426</identifier>
-      <identifier type="agricola">IND605369875</identifier>
       <extension>
          <identifier type="local">agid:5369875</identifier>
       </extension>
@@ -12124,8 +11964,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.scitotenv.2017.01.150</identifier>
-      <identifier type="control">9916307341607426</identifier>
-      <identifier type="agricola">IND605644411</identifier>
       <extension>
          <identifier type="local">agid:5644411</identifier>
       </extension>
@@ -12311,8 +12149,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2021.119319</identifier>
-      <identifier type="control">9916307853207426</identifier>
-      <identifier type="agricola">IND607375081</identifier>
       <extension>
          <identifier type="local">agid:7375081</identifier>
       </extension>
@@ -12438,8 +12274,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11104-012-1379-0</identifier>
-      <identifier type="control">9916308067407426</identifier>
-      <identifier type="agricola">IND500640058</identifier>
       <extension>
          <identifier type="local">agid:532034</identifier>
       </extension>
@@ -12562,8 +12396,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10980-020-01080-y</identifier>
-      <identifier type="control">9916308155807426</identifier>
-      <identifier type="agricola">IND607092436</identifier>
       <extension>
          <identifier type="local">agid:7092436</identifier>
       </extension>
@@ -12701,8 +12533,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1134/S1064229320080128</identifier>
-      <identifier type="control">9916308189207426</identifier>
-      <identifier type="agricola">IND607092455</identifier>
       <extension>
          <identifier type="local">agid:7092455</identifier>
       </extension>
@@ -12806,8 +12636,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1890/13-2153.1</identifier>
-      <identifier type="control">9916308470307426</identifier>
-      <identifier type="agricola">IND605234915</identifier>
       <extension>
          <identifier type="local">agid:5234915</identifier>
       </extension>
@@ -12974,8 +12802,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2012.08.025</identifier>
-      <identifier type="control">9916308510507426</identifier>
-      <identifier type="agricola">IND500594984</identifier>
       <extension>
          <identifier type="local">agid:482090</identifier>
       </extension>
@@ -13105,8 +12931,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/nph.13934</identifier>
-      <identifier type="control">9916308596007426</identifier>
-      <identifier type="agricola">IND605234980</identifier>
       <extension>
          <identifier type="local">agid:5234980</identifier>
       </extension>
@@ -13236,8 +13060,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.jhydrol.2007.10.051</identifier>
-      <identifier type="control">9916308725607426</identifier>
-      <identifier type="agricola">IND44019999</identifier>
       <extension>
          <note type="saleTape">20080623 20080704 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -13387,8 +13209,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1002/ecs2.4079</identifier>
-      <identifier type="control">9916308926407426</identifier>
-      <identifier type="agricola">IND607816001</identifier>
       <extension>
          <identifier type="local">agid:7816001</identifier>
       </extension>
@@ -13524,8 +13344,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1002/ecs2.3931</identifier>
-      <identifier type="control">9916309374607426</identifier>
-      <identifier type="agricola">IND607680598</identifier>
       <extension>
          <identifier type="local">agid:7680598</identifier>
       </extension>
@@ -13672,8 +13490,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.palaeo.2016.01.024</identifier>
-      <identifier type="control">9916309447307426</identifier>
-      <identifier type="agricola">IND605829606</identifier>
       <extension>
          <identifier type="local">agid:5829606</identifier>
       </extension>
@@ -13798,8 +13614,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1365-3059.2011.02524.x</identifier>
-      <identifier type="control">9916309867307426</identifier>
-      <identifier type="agricola">IND44684483</identifier>
       <extension>
          <identifier type="local">agid:414854</identifier>
       </extension>
@@ -13916,8 +13730,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s00468-008-0277-9</identifier>
-      <identifier type="control">9916310135807426</identifier>
-      <identifier type="agricola">IND44177653</identifier>
       <extension>
          <identifier type="local">agid:483520</identifier>
       </extension>
@@ -14132,8 +13944,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.rse.2021.112587</identifier>
-      <identifier type="control">9916310195107426</identifier>
-      <identifier type="agricola">IND607450770</identifier>
       <extension>
          <identifier type="local">agid:7450770</identifier>
       </extension>
@@ -14267,8 +14077,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10592-017-0993-z</identifier>
-      <identifier type="control">9916310964807426</identifier>
-      <identifier type="agricola">IND605850422</identifier>
       <extension>
          <identifier type="local">agid:5850422</identifier>
       </extension>
@@ -14400,8 +14208,6 @@
       </relatedItem>
       <identifier type="pmid">19037898</identifier>
       <identifier type="doi">10.1111/j.1365-294X.2008.04001.x</identifier>
-      <identifier type="control">9916311051007426</identifier>
-      <identifier type="agricola">IND44155697</identifier>
       <extension>
          <identifier type="local">agid:586174</identifier>
       </extension>
@@ -14656,8 +14462,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/gcb.14041</identifier>
-      <identifier type="control">9916311226107426</identifier>
-      <identifier type="agricola">IND605924107</identifier>
       <extension>
          <identifier type="local">agid:5924107</identifier>
       </extension>
@@ -14795,8 +14599,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2021.119315</identifier>
-      <identifier type="control">9916311362907426</identifier>
-      <identifier type="agricola">IND607369461</identifier>
       <extension>
          <identifier type="local">agid:7369461</identifier>
       </extension>
@@ -14970,8 +14772,6 @@
       </relatedItem>
       <identifier type="pmid">22290795</identifier>
       <identifier type="doi">10.1002/ps.2281</identifier>
-      <identifier type="control">9916311376007426</identifier>
-      <identifier type="agricola">IND44814567</identifier>
       <extension>
          <identifier type="local">agid:435725</identifier>
       </extension>
@@ -15101,8 +14901,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/nph.16467</identifier>
-      <identifier type="control">9915853835007426</identifier>
-      <identifier type="agricola">IND606990277</identifier>
       <extension>
          <identifier type="local">agid:6990277</identifier>
       </extension>
@@ -15275,8 +15073,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1365-2745.2008.01376.x</identifier>
-      <identifier type="control">9915853946707426</identifier>
-      <identifier type="agricola">IND44067095</identifier>
       <extension>
          <note type="saleTape">20080613 20080704 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -17409,8 +17205,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/geb.13123</identifier>
-      <identifier type="control">9915854268207426</identifier>
-      <identifier type="agricola">IND607053672</identifier>
       <extension>
          <identifier type="local">agid:7053672</identifier>
       </extension>
@@ -17520,8 +17314,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2005.11.022</identifier>
-      <identifier type="control">9915854334507426</identifier>
-      <identifier type="agricola">IND43837242</identifier>
       <extension>
          <note type="saleTape">20060918 20061003 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -17644,8 +17436,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2005.05.021</identifier>
-      <identifier type="control">9915854480307426</identifier>
-      <identifier type="agricola">IND43813248</identifier>
       <extension>
          <note type="saleTape">20060915 20061003 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -17762,8 +17552,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.2007.0030-1299.15415.x</identifier>
-      <identifier type="control">9915854487407426</identifier>
-      <identifier type="agricola">IND43899761</identifier>
       <extension>
          <identifier type="local">agid:573727</identifier>
       </extension>
@@ -17893,8 +17681,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/mec.15818</identifier>
-      <identifier type="control">9915854529307426</identifier>
-      <identifier type="agricola">IND607311624</identifier>
       <extension>
          <identifier type="local">agid:7311624</identifier>
       </extension>
@@ -18043,8 +17829,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.baae.2011.07.008</identifier>
-      <identifier type="control">9915854664807426</identifier>
-      <identifier type="agricola">IND44831908</identifier>
       <extension>
          <identifier type="local">agid:365688</identifier>
       </extension>
@@ -18181,8 +17965,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11557-012-0835-9</identifier>
-      <identifier type="control">9915855079807426</identifier>
-      <identifier type="agricola">IND500652528</identifier>
       <extension>
          <identifier type="local">agid:569935</identifier>
       </extension>
@@ -18525,8 +18307,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1469-8137.2012.04258.x</identifier>
-      <identifier type="control">9915855207307426</identifier>
-      <identifier type="agricola">IND607343763</identifier>
       <extension>
          <identifier type="local">agid:7343763</identifier>
       </extension>
@@ -18630,8 +18410,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1656/1528-7092(2006)5[737:HITTII]2.0.CO;2</identifier>
-      <identifier type="control">9915855352707426</identifier>
-      <identifier type="agricola">IND601302818</identifier>
       <extension>
          <identifier type="local">agid:1302818</identifier>
       </extension>
@@ -18750,8 +18528,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s13595-018-0698-6</identifier>
-      <identifier type="control">9915855604507426</identifier>
-      <identifier type="agricola">IND605906100</identifier>
       <extension>
          <identifier type="local">agid:5906100</identifier>
       </extension>
@@ -18908,8 +18684,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1002/ecs2.3108</identifier>
-      <identifier type="control">9915855774107426</identifier>
-      <identifier type="agricola">IND606968311</identifier>
       <extension>
          <identifier type="local">agid:6968311</identifier>
       </extension>
@@ -19050,8 +18824,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11356-020-08283-5</identifier>
-      <identifier type="control">9915855902207426</identifier>
-      <identifier type="agricola">IND606920777</identifier>
       <extension>
          <identifier type="local">agid:6920777</identifier>
       </extension>
@@ -19230,8 +19002,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.rse.2021.112847</identifier>
-      <identifier type="control">9915856030607426</identifier>
-      <identifier type="agricola">IND607595392</identifier>
       <extension>
          <identifier type="local">agid:7595392</identifier>
       </extension>
@@ -19346,8 +19116,6 @@
             <text type="month">Dec</text>
          </part>
       </relatedItem>
-      <identifier type="control">9915856149607426</identifier>
-      <identifier type="agricola">IND92043563</identifier>
       <extension>
          <note type="publicationSource">Non-US</note>
          <identifier type="local">agid:1613466</identifier>
@@ -19501,8 +19269,6 @@
       </relatedItem>
       <identifier type="sici">arac-46-01-09</identifier>
       <identifier type="doi">10.1636/JoA-S-16-033R3.1</identifier>
-      <identifier type="control">9915856287707426</identifier>
-      <identifier type="agricola">IND605968093</identifier>
       <extension>
          <identifier type="local">agid:5968093</identifier>
       </extension>
@@ -19700,8 +19466,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/nph.15274</identifier>
-      <identifier type="control">9915856693907426</identifier>
-      <identifier type="agricola">IND606113531</identifier>
       <extension>
          <identifier type="local">agid:6113531</identifier>
       </extension>
@@ -19818,8 +19582,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/nph.15270</identifier>
-      <identifier type="control">9915856710407426</identifier>
-      <identifier type="agricola">IND606113526</identifier>
       <extension>
          <identifier type="local">agid:6113526</identifier>
       </extension>
@@ -19967,8 +19729,6 @@
       <identifier type="pmcid">PMC3396589</identifier>
       <identifier type="pmid">22808236</identifier>
       <identifier>ns4449</identifier>
-      <identifier type="control">9915857080707426</identifier>
-      <identifier type="agricola">IND500894104</identifier>
       <extension>
          <identifier type="local">agid:58750</identifier>
       </extension>
@@ -20169,8 +19929,6 @@
       <identifier type="pmid">20952630</identifier>
       <identifier type="pmcid">PMC2955752</identifier>
       <identifier type="doi">10.1093/jxb/erq246</identifier>
-      <identifier type="control">9915857556107426</identifier>
-      <identifier type="agricola">IND44435920</identifier>
       <extension>
          <identifier type="local">agid:509796</identifier>
       </extension>
@@ -20305,8 +20063,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1002/hyp.11510</identifier>
-      <identifier type="control">9915857610207426</identifier>
-      <identifier type="agricola">IND605942958</identifier>
       <extension>
          <identifier type="local">agid:5942958</identifier>
       </extension>
@@ -20391,8 +20147,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.3390/ijgi11010007</identifier>
-      <identifier type="control">9915857943307426</identifier>
-      <identifier type="agricola">IND607634777</identifier>
       <extension>
          <identifier type="local">agid:7634777</identifier>
       </extension>
@@ -20631,8 +20385,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10113-022-01936-w</identifier>
-      <identifier type="control">9915858046207426</identifier>
-      <identifier type="agricola">IND607790519</identifier>
       <extension>
          <identifier type="local">agid:7790519</identifier>
       </extension>
@@ -20773,8 +20525,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.gecco.2019.e00790</identifier>
-      <identifier type="control">9915858225407426</identifier>
-      <identifier type="agricola">IND606699675</identifier>
       <extension>
          <identifier type="local">agid:6699675</identifier>
       </extension>
@@ -20944,8 +20694,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11240-019-01667-7</identifier>
-      <identifier type="control">9915858521407426</identifier>
-      <identifier type="agricola">IND606657103</identifier>
       <extension>
          <identifier type="local">agid:6657103</identifier>
       </extension>
@@ -21125,8 +20873,6 @@
       </relatedItem>
       <identifier type="chorus">10.1016/j.dendro.2020.125747</identifier>
       <identifier type="doi">10.1016/j.dendro.2020.125747</identifier>
-      <identifier type="control">9915859105107426</identifier>
-      <identifier type="agricola">IND607076170</identifier>
       <extension>
          <identifier type="local">agid:7076170</identifier>
       </extension>
@@ -21234,8 +20980,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10530-013-0602-0</identifier>
-      <identifier type="control">9915859347007426</identifier>
-      <identifier type="agricola">IND500723914</identifier>
       <extension>
          <identifier type="local">agid:375140</identifier>
       </extension>
@@ -21420,8 +21164,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.geomorph.2016.06.028</identifier>
-      <identifier type="control">9915859538707426</identifier>
-      <identifier type="agricola">IND605810543</identifier>
       <extension>
          <identifier type="local">agid:5810543</identifier>
       </extension>
@@ -21585,8 +21327,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.4996/fireecology.0302053</identifier>
-      <identifier type="control">9915859675307426</identifier>
-      <identifier type="agricola">IND44094694</identifier>
       <extension>
          <note type="saleTape">20090714 00000000 00000000</note>
          <note type="publicationSource">Other US</note>
@@ -21744,8 +21484,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1139/X08-065</identifier>
-      <identifier type="control">9915859688507426</identifier>
-      <identifier type="agricola">IND44094618</identifier>
       <extension>
          <note type="saleTape">20080908 20081011 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -21878,8 +21616,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11295-016-1053-4</identifier>
-      <identifier type="control">9915860046107426</identifier>
-      <identifier type="agricola">IND605506269</identifier>
       <extension>
          <identifier type="local">agid:5506269</identifier>
       </extension>
@@ -22004,8 +21740,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.3390/rs13010126</identifier>
-      <identifier type="control">9915860073707426</identifier>
-      <identifier type="agricola">IND607229220</identifier>
       <extension>
          <identifier type="local">agid:7229220</identifier>
       </extension>
@@ -22166,8 +21900,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11295-015-0863-0</identifier>
-      <identifier type="control">9915860129707426</identifier>
-      <identifier type="agricola">IND601244586</identifier>
       <extension>
          <identifier type="local">agid:1244586</identifier>
       </extension>
@@ -22309,8 +22041,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1002/hyp.13421</identifier>
-      <identifier type="control">9915860309707426</identifier>
-      <identifier type="agricola">IND606447041</identifier>
       <extension>
          <identifier type="local">agid:6447041</identifier>
       </extension>
@@ -22438,8 +22168,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.foreco.2011.01.007</identifier>
-      <identifier type="control">9915861242107426</identifier>
-      <identifier type="agricola">IND44501080</identifier>
       <extension>
          <identifier type="local">agid:485653</identifier>
       </extension>
@@ -22546,8 +22274,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.catena.2020.105071</identifier>
-      <identifier type="control">9915861440007426</identifier>
-      <identifier type="agricola">IND607205944</identifier>
       <extension>
          <identifier type="local">agid:7205944</identifier>
       </extension>
@@ -22671,8 +22397,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1600-0587.2009.06052.x</identifier>
-      <identifier type="control">9915861443707426</identifier>
-      <identifier type="agricola">IND44405611</identifier>
       <extension>
          <identifier type="local">agid:515229</identifier>
       </extension>
@@ -22765,8 +22489,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.4039/Ent1101213-11</identifier>
-      <identifier type="control">9915861456207426</identifier>
-      <identifier type="agricola">CAIN789178325</identifier>
       <extension>
          <identifier type="local">agid:2611015</identifier>
       </extension>
@@ -22924,8 +22646,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1093/jpe/rtx004</identifier>
-      <identifier type="control">9915862072807426</identifier>
-      <identifier type="agricola">IND606735958</identifier>
       <extension>
          <identifier type="local">agid:6735958</identifier>
       </extension>
@@ -23077,8 +22797,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1093/jpe/rtw141</identifier>
-      <identifier type="control">9915862076007426</identifier>
-      <identifier type="agricola">IND606735952</identifier>
       <extension>
          <identifier type="local">agid:6735952</identifier>
       </extension>
@@ -23231,8 +22949,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/geb.13529</identifier>
-      <identifier type="control">9915862228207426</identifier>
-      <identifier type="agricola">IND607944498</identifier>
       <extension>
          <identifier type="local">agid:7944498</identifier>
       </extension>
@@ -23356,8 +23072,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s10584-006-9148-9</identifier>
-      <identifier type="control">9915862268107426</identifier>
-      <identifier type="agricola">IND43901734</identifier>
       <extension>
          <identifier type="local">agid:485821</identifier>
       </extension>
@@ -23531,8 +23245,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s11240-014-0430-7</identifier>
-      <identifier type="control">9915862556407426</identifier>
-      <identifier type="agricola">IND500858421</identifier>
       <extension>
          <identifier type="local">agid:327262</identifier>
       </extension>
@@ -23702,8 +23414,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.jenvman.2020.110462</identifier>
-      <identifier type="control">9915862592007426</identifier>
-      <identifier type="agricola">IND606878949</identifier>
       <extension>
          <identifier type="local">agid:6878949</identifier>
       </extension>
@@ -23845,8 +23555,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1007/s00606-014-1144-3</identifier>
-      <identifier type="control">9915862619107426</identifier>
-      <identifier type="agricola">IND601237964</identifier>
       <extension>
          <identifier type="local">agid:1237964</identifier>
       </extension>
@@ -24006,8 +23714,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.rse.2022.112904</identifier>
-      <identifier type="control">9915863270707426</identifier>
-      <identifier type="agricola">IND607629663</identifier>
       <extension>
          <identifier type="local">agid:7629663</identifier>
       </extension>
@@ -24121,8 +23827,6 @@
             <text type="month">Nov</text>
          </part>
       </relatedItem>
-      <identifier type="control">9915863361607426</identifier>
-      <identifier type="agricola">IND43776014</identifier>
       <extension>
          <note type="saleTape">20060308 20060402 00000000</note>
          <note type="publicationSource">Non-US</note>
@@ -24322,8 +24026,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/1365-2664.14270</identifier>
-      <identifier type="control">9915863465907426</identifier>
-      <identifier type="agricola">IND607952176</identifier>
       <extension>
          <identifier type="local">agid:7952176</identifier>
       </extension>
@@ -24648,8 +24350,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/1365-2664.14247</identifier>
-      <identifier type="control">9915863481307426</identifier>
-      <identifier type="agricola">IND607952186</identifier>
       <extension>
          <identifier type="local">agid:7952186</identifier>
       </extension>
@@ -24767,8 +24467,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.1111/j.1570-7458.1995.tb01871.x</identifier>
-      <identifier type="control">9915863829007426</identifier>
-      <identifier type="agricola">IND44563176</identifier>
       <extension>
          <identifier type="local">agid:216780</identifier>
       </extension>
@@ -24896,8 +24594,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.3390/f11101079</identifier>
-      <identifier type="control">9915863899007426</identifier>
-      <identifier type="agricola">IND607152639</identifier>
       <extension>
          <identifier type="local">agid:7152639</identifier>
       </extension>
@@ -25011,8 +24707,6 @@
          </part>
       </relatedItem>
       <identifier type="doi">10.3390/f11101106</identifier>
-      <identifier type="control">9915863931907426</identifier>
-      <identifier type="agricola">IND607152670</identifier>
       <extension>
          <identifier type="local">agid:7152670</identifier>
       </extension>

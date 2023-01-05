@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in             relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and             location</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">K.W.</namePart>
+      <namePart type="family">McCravy</namePart>
+      <displayForm>McCravy, K.W.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.W.</namePart>
+      <namePart type="family">Berisford</namePart>
+      <displayForm>Berisford, C.W.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         <placeTerm type="text">Maryland</placeTerm>
+      </place>
+      <dateIssued encoding="marc">1998</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>p. 355-359.</extent>
+   </physicalDescription>
+   <abstract displayLabel="Summary">Patterns of parasitism by Trichogramma spp. relative to density and             location of Nantucket pine tip moth, Rhyacionia frustrana (Comstock), eggs were examined             during 1994 in a 13-ha, 2-yr-old Pinus taeda L. plantation in northeastern Georgia. Egg             densities were adjusted by temporarily enclosing trees in fine mesh screen cages and             introducing different numbers of tip moths. After exposing eggs to naturally occurring             parasitoids, all shoots were removed, and eggs were counted and evaluated for parasitism.             Tip moth egg densities ranged from 203 to 2,579 per tree for the spring generation, and from             1 to 89 per tree for the summer generation. Tip moths deposited significantly greater             numbers of eggs on needles than shoots on high- versus low-egg-density trees. Overall             parasitism rates were 37.2 and 43.3% for spring- and summer-generation eggs, respectively.             Parasitism was density independent at the whole-tree level in both generations, but             spring-generation parasitism was strongly inversely density dependent in the top whorl.             Numbers of eggs per needle fascicle ranged from 1 to 15 for spring-generation trees. Actual             numbers of parasitized eggs per discovered fascicle (one on which parasitism occurred)             increased with egg density, but the percentage of parasitized eggs decreased. Egg density             had no effect on fascicle discovery. These factors produced an inversely density-dependent             relationship between egg parasitism and density at the fascicle level. Eggs located on             shoots suffered significantly greater parasitism rates than those on needles. Implications             of these results are discussed.</abstract>
+   <note>2019-12-04</note>
+   <subject authority="atg">
+      <topic>parasitism</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>parasitoids</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Rhyacionia frustrana</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>ova</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>spatial distribution</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>host-parasite relationships</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>conifer needles</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>seasonal variation</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Pinus taeda</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>density</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Trichogramma</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>shoots</topic>
+   </subject>
+   <subject authority="atg">
+      <geographic>Georgia</geographic>
+   </subject>
+   <subject>
+      <topic>parasites</topic>
+   </subject>
+   <subject>
+      <topic>host location</topic>
+   </subject>
+   <subject>
+      <topic>parasites of insect pests</topic>
+   </subject>
+   <location>
+      <physicalLocation>DNAL</physicalLocation>
+   </location>
+   <location>
+      <url displayLabel="Available from publisher's Web site"
+           usage="primary display">http://dx.doi.org/10.1093/ee/27.2.355</url>
+   </location>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Environmental entomology</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>27</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <extent unit="pages">
+            <start>355</start>
+            <end>359</end>
+            <total>5</total>
+         </extent>
+         <text type="year">1998</text>
+         <text type="month">Apr</text>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1093/ee/27.2.355</identifier>
+   <identifier type="control">9916288966107426</identifier>
+   <identifier type="agricola">IND21811969</identifier>
+   <extension>
+      <note type="saleTape">19990101 19990111 00000000</note>
+      <note type="publicationSource">Other US</note>
+      <identifier type="local">agid:1408166</identifier>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">981119</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221118121758.0</recordChangeDate>
+      <recordIdentifier>9916288966107426</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.60) 20230104)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

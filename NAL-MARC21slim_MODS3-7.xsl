@@ -9,6 +9,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	exclude-result-prefixes="f marc marccountry nalsubcat saxon xd xlink xs xsi">
 
+
 	<!-- includes -->
 
 	<xsl:include href="NAL-MARC21slimUtils.xsl"/>
@@ -23,12 +24,14 @@
 	<!-- whitespace control -->
 	<xsl:strip-space elements="*"/>
 
+
 	<!-- Maintenance note: For each revision, change the content of <recordInfo><recordOrigin> to reflect the new revision number.
 	MARC21slim2MODS3-7
 	
 	┌ ━ ━ ━ ━ ━ ┐ 
 	│ MODS 3.7 │  
 	└ ━ ━ ━ ━ ━ ┘
+	Revision 1.161 NAL: Map Agricola accession ID to identifier 20230105 cm3		
 	Revision 1.160 - added 070 NAL Classification. 20230104 cm3
 	Revision 1.159 - added if test to prevent extra whitespace. 2022/12/23 cm3
 	Revision 1.158 - added conditional statement above issuance to focus on monographs, single part items and multipart monographs cm3 12/08/2022
@@ -49,7 +52,7 @@
 	Revision 1.143 - Added displayForm to 700 JG 2014/05/29
 	Revision 1.141 - Added subject from 072, classification from 070, identifier from 024, identifier from 001, and notes from 910, 930, 945, 946, 974 LC 2014/04/23
 	┌ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ┐ 
-	│  NAL Revisions (Revision 1.160) 20230104   |    
+	│  NAL Revisions (Revision 1.159) 20221223   |    
 	└ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ┘ 
 	┌ ━ ━ ━ ━ ━ ┐ 
 	│ MODS 3.6 │  
@@ -233,8 +236,8 @@
 		<xd:desc>Processes the marcRecord template</xd:desc>
 	</xd:doc>
 	<xsl:template match="/">
-		<xsl:result-document encoding="UTF-8" version="1.0" method="xml"
-			media-type="text/xml" indent="yes" format="saxon"
+		<xsl:result-document encoding="UTF-8" version="1.0" method="xml" media-type="text/xml"
+			indent="yes" format="saxon"
 			href="file:///{$workingDir}N-{replace($originalFilename,'(.*/)(.*)(\.xml)','$2')}_{position()}.xml">
 			<xsl:choose>
 				<xsl:when test="//collection/record">
@@ -2223,14 +2226,14 @@
 						</titleInfo>
 						<name type="personal">
 							<xsl:call-template name="xxx880"/>
-							<!--<namePart>
+							<namePart>
 								<xsl:call-template name="displayForm"/>
 								<xsl:call-template name="specialSubfieldSelect">
 									<xsl:with-param name="anyCodes">aq</xsl:with-param>
 									<xsl:with-param name="axis">t</xsl:with-param>
 									<xsl:with-param name="beforeCodes">g</xsl:with-param>
 								</xsl:call-template>
-							</namePart>-->
+							</namePart>
 							<xsl:call-template name="termsOfAddress"/>
 							<xsl:call-template name="nameDate"/>
 							<xsl:call-template name="role"/>
@@ -2637,25 +2640,156 @@
 							</xsl:if>
 						</xsl:if>
 						<!-- physical description -->
-						<xsl:apply-templates select="subfield[@code = 'h']" mode="relatedItem"/>
+						<xsl:apply-templates select="marc:subfield[@code='h']" mode="relatedItem"/>
 						<!-- note -->
-						<xsl:apply-templates select="subfield[@code = 'n']" mode="relatedItemNote"/>
+						<xsl:apply-templates select="marc:subfield[@code='n']" mode="relatedItemNote"/>
 						<!-- subjects -->
-						<xsl:apply-templates select="subfield[@code = 'j']" mode="relatedItem"/>
+						<xsl:apply-templates select="marc:subfield[@code='j']" mode="relatedItem"/>
 						<!-- identifiers -->
-						<xsl:apply-templates select="subfield[@code = 'o']" mode="relatedItem"/>
-						<xsl:apply-templates select="subfield[@code = 'x']" mode="relatedItem"/>
+						<xsl:apply-templates select="marc:subfield[@code='o']" mode="relatedItem"/>
+						<xsl:apply-templates select="marc:subfield[@code='x']" mode="relatedItem"/>
+						
 						<!--  1.120 - @76X-78X$z -->
-						<xsl:apply-templates select="subfield[@code = 'z']" mode="relatedItem"/>
-						<xsl:apply-templates select="subfield[@code = 'w']" mode="relatedItem"/>
+						<xsl:apply-templates select="marc:subfield[@code='z']" mode="relatedItem"/>
+						<xsl:apply-templates select="marc:subfield[@code='w']" mode="relatedItem"/>
 						<!-- related part -->
+							<xsl:if test="@tag = 773">
+									<xsl:for-each select="subfield[@code = 'g']">
+										<part>
+											<xsl:analyze-string select="." regex="(\d{{4,6}}.\w{{0,4}})(.+)">
+												<xsl:matching-substring>
+													<!-- volume -->
+													<detail type="volume">
+														<number>
+															<xsl:value-of
+																select="replace(regex-group(2), '(.*, v\.\s)(\d+)(.*)', '$2')"
+															/>
+														</number>
+														<caption>v.</caption>
+													</detail>
+													<!-- issue -->
+													<xsl:if test="matches(regex-group(2), 'no. ')">
+														<detail type="issue">
+															<number>
+																<xsl:value-of
+																	select="replace(regex-group(2), '(.*)(no. )(\d+|pt.\d+)(.*)', '$3')"
+																/>
+															</number>
+															<caption>no.</caption>
+														</detail>
+													</xsl:if>
+													<xsl:choose>
+														<!-- extent (pages) -->
+														<xsl:when test="matches(regex-group(2), '\d+\-\d+')">
+															<extent unit="pages">
+																<start>
+																	<xsl:value-of
+																		select="replace(regex-group(2), '(.*)(p.)(\d+)(\-)(\d+)', '$3')"
+																	/>
+																</start>
+																<end>
+																	<xsl:value-of
+																		select="replace(regex-group(2), '(.*)(p.)(\d+)(\-)(\d+)', '$5')"
+																	/>
+																</end>
+																<xsl:variable name="firstPage" as="xs:double"
+																	select="number(replace(regex-group(2), '(.*)(p.)(\d+)(\-)(\d+)', '$3'))"/>
+																<xsl:variable name="lastPage" as="xs:double"
+																	select="number(replace(regex-group(2), '(.*)(p.)(\d+)(\-)(\d+)', '$5'))"/>
+																<total>
+																	<xsl:value-of
+																		select="f:calculateTotalPgs($firstPage, $lastPage)"
+																	/>
+																</total>
+															</extent>
+														</xsl:when>
+														<xsl:otherwise>
+															<!-- extent (page total) -->
+															<xsl:if test="ends-with(regex-group(2), '-')">
+																<extent unit="pages">
+																	<xsl:variable name="clean-regex-group-2"
+																		select="substring-before(substring-after(regex-group(2), 'p.'), '-')"/>
+																	<total>
+																		<xsl:value-of
+																			select="translate($clean-regex-group-2, 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz', '')"
+																		/>
+																	</total>
+																</extent>
+															</xsl:if>
+														</xsl:otherwise>
+													</xsl:choose>
+													
+													<text type="year">
+														<xsl:value-of select="substring-before(regex-group(1), ' ')"/>
+													</text>
+													<text type="month">
+														<xsl:value-of select="substring-after(regex-group(1), ' ')"/>
+													</text>
+												</xsl:matching-substring>
+											</xsl:analyze-string>
+											
+										</part>
+							</xsl:for-each>
+							<xsl:for-each select="marc:subfield[@code='q']">
+								<part>
+									<xsl:call-template name="xxs880"/>
+									<xsl:call-template name="parsePart"/>
+								</part>
+							</xsl:for-each>
+						</xsl:if>
 						<!-- Call names -->
-						<xsl:apply-templates select="subfield[@code = 'a']" mode="relatedItem"/>
+						<xsl:apply-templates select="marc:subfield[@code='a']" mode="relatedItem"/>
 					</xsl:for-each>
 				</relatedItem>
 			</xsl:if>
 		</xsl:for-each>
-
+		
+		<!-- 1.121 -->
+		<xsl:for-each select="marc:datafield[@tag=800] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'800')]">
+			<xsl:variable name="s6" select="substring(normalize-space(marc:subfield[@code='6']), 5, 2)"/>
+			<xsl:if test="@tag=800 or (@tag='880' and not(../marc:datafield[@tag='800'][substring(marc:subfield[@code='6'],5,2) = $s6]))">
+				<relatedItem type="series">
+					<!-- 1.122 -->
+					<xsl:apply-templates select="marc:subfield[@code='0'][. != '']" mode="xlink"/>
+					<xsl:for-each
+						select=". | ../marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'800')][substring(marc:subfield[@code='6'],5,2) = $s6]">
+						<titleInfo>
+							<xsl:call-template name="xxx880"/>
+							<title>
+								<xsl:call-template name="chopPunctuation">
+									<xsl:with-param name="chopString">
+										<xsl:call-template name="specialSubfieldSelect">
+											<xsl:with-param name="anyCodes">tfklmors</xsl:with-param>
+											<xsl:with-param name="axis">t</xsl:with-param>
+											<xsl:with-param name="afterCodes">g</xsl:with-param>
+										</xsl:call-template>
+									</xsl:with-param>
+								</xsl:call-template>
+							</title>
+							<!-- 1.120 - @800$v -->
+							<xsl:apply-templates select="marc:subfield[@code='n']" mode="relatedItem"/>
+							<xsl:apply-templates select="marc:subfield[@code='v']" mode="relatedItem"/>
+							<xsl:apply-templates select="marc:subfield[@code='p']" mode="relatedItem"/>
+						</titleInfo>
+						<name type="personal">
+							<xsl:call-template name="xxx880"/>
+							<namePart>
+								<!-- 1.126 -->
+								<xsl:call-template name="specialSubfieldSelect">
+									<xsl:with-param name="anyCodes">aq</xsl:with-param>
+									<xsl:with-param name="axis">t</xsl:with-param>
+									<xsl:with-param name="beforeCodes">g</xsl:with-param>
+								</xsl:call-template>
+							</namePart>
+							<xsl:call-template name="termsOfAddress"/>
+							<xsl:call-template name="nameDate"/>
+							<xsl:call-template name="role"/>
+						</name>
+						<xsl:call-template name="relatedForm"/>
+					</xsl:for-each>
+				</relatedItem>
+			</xsl:if>
+		</xsl:for-each>
 		<!-- 1.121 -->
 		<xsl:for-each
 			select="datafield[@tag = 800] | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '800')]">
@@ -3023,7 +3157,14 @@
 				</identifier>
 			</xsl:if>
 		</xsl:for-each>
-
+		
+		<!-- 1.162 NAL identifier from 001 -->
+		<xsl:if test="controlfield[@tag = 001]">
+			<identifier type="control">
+				<xsl:value-of select="controlfield[@tag = 001]"/>
+			</identifier>
+		</xsl:if>
+		
 		<xsl:for-each select="datafield[@tag = '010'][subfield[@code = 'a']]">
 			<identifier type="lccn">
 				<xsl:value-of select="normalize-space(subfield[@code = 'a'])"/>
@@ -3125,7 +3266,12 @@
 				</identifier>
 			</xsl:if>
 		</xsl:for-each>
-
+		<!-- 1.161 NAL Agricola accession number -->		
+		<xsl:for-each select="datafield[@tag = '016'][subfield[@code = 'a']]">
+			<identifier type="agricola">
+				<xsl:value-of select="normalize-space(subfield[@code = 'a'])"/>
+			</identifier>
+		</xsl:for-each>
 		<xsl:for-each select="datafield[@tag = 024][@ind1 = 1]">
 			<identifier type="upc">
 				<xsl:value-of select="subfield[@code = 'a']"/>
@@ -3231,7 +3377,7 @@
 		<xd:desc>displayForm</xd:desc>
 	</xd:doc>
 	<xsl:template name="displayForm">
-		
+
 		<xsl:for-each select="subfield[@code = 'a']">
 			<!-- cm3 Revision 2.00 added namePart -->
 			<namePart type="given">
@@ -3248,7 +3394,7 @@
 					</xsl:otherwise>
 				</xsl:choose>
 			</namePart>
-			
+
 			<namePart type="family">
 				<xsl:value-of select="substring-before(normalize-space(.), ',')"/>
 			</namePart>
@@ -3264,13 +3410,12 @@
 				</xsl:choose>
 			</displayForm>
 		</xsl:for-each>
-		
+
 	</xsl:template>
-	<xd:doc id="affiliation" scope="component">
-		<xd:desc>affiliation</xd:desc>
+	<xd:doc>
+		<xd:desc/>
 	</xd:doc>
 	<xsl:template name="affiliation">
-
 		<xsl:for-each select="subfield[@code = 'u']">
 			<affiliation>
 				<xsl:value-of select="."/>
@@ -3354,19 +3499,19 @@
 		</xsl:if>
 	</xsl:template>
 
-	<xd:doc>
+	<!--xd:doc>
 		<xd:desc> @depreciated see 1.121 </xd:desc>
 	</xd:doc>
 	<xd:doc id="relatedPart" scope="component">
 		<xd:desc>relatedPart</xd:desc>
-	</xd:doc>
-	<xsl:template name="relatedPart">
+	</xd:doc>-->
+	<!--<xsl:template name="relatedPart" match="../subfield[@code = 'g']" mode="relatedItem">
 		<xsl:if test="@tag = 773">
 			<xsl:for-each select="subfield[@code = 'g']">
 				<part>
 					<xsl:analyze-string select="." regex="(\d{{4,6}}.\w{{0,4}})(.+)">
 						<xsl:matching-substring>
-							<!-- volume -->
+							<!-\- volume -\->
 							<detail type="volume">
 								<number>
 									<xsl:value-of
@@ -3375,7 +3520,7 @@
 								</number>
 								<caption>v.</caption>
 							</detail>
-							<!-- issue -->
+							<!-\- issue -\->
 							<xsl:if test="matches(regex-group(2), 'no. ')">
 								<detail type="issue">
 									<number>
@@ -3387,7 +3532,7 @@
 								</detail>
 							</xsl:if>
 							<xsl:choose>
-								<!-- extent (pages) -->
+								<!-\- extent (pages) -\->
 								<xsl:when test="matches(regex-group(2), '\d+\-\d+')">
 									<extent unit="pages">
 										<start>
@@ -3412,7 +3557,7 @@
 									</extent>
 								</xsl:when>
 								<xsl:otherwise>
-									<!-- extent (page total) -->
+									<!-\- extent (page total) -\->
 									<xsl:if test="ends-with(regex-group(2), '-')">
 										<extent unit="pages">
 											<xsl:variable name="clean-regex-group-2"
@@ -3444,7 +3589,7 @@
 				</part>
 			</xsl:for-each>
 		</xsl:if>
-	</xsl:template>
+	</xsl:template>-->
 	<xd:doc>
 		<xd:desc/>
 	</xd:doc>
@@ -3771,14 +3916,13 @@
 		<xsl:call-template name="relatedIdentifier"/>
 		<xsl:call-template name="relatedIdentifierISSN"/>
 		<xsl:call-template name="relatedIdentifierLocal"/>
-		<xsl:call-template name="relatedPart"/>
 	</xsl:template>
 
 
 	<xd:doc>
 		<xd:desc> @depreciated - no longer used see 1.121</xd:desc>
 	</xd:doc>
-	<xsl:template name="relatedItem76X-78X">
+		<xsl:template name="relatedItem76X-78X">
 		<xsl:call-template name="displayLabel"/>
 		<xsl:call-template name="relatedTitle76X-78X"/>
 		<xsl:call-template name="relatedName"/>
@@ -3790,7 +3934,6 @@
 		<xsl:call-template name="relatedIdentifier"/>
 		<xsl:call-template name="relatedIdentifierISSN"/>
 		<xsl:call-template name="relatedIdentifierLocal"/>
-		<xsl:call-template name="relatedPart"/>
 	</xsl:template>
 
 	<xd:doc>
@@ -5396,8 +5539,8 @@
 				<xsl:call-template name="displayForm"/>
 				<xsl:call-template name="affiliation"/>
 				<xsl:call-template name="role"/>
-				<!-- 1.116
-				<xsl:call-template name="nameIdentifier"/>-->
+				<!-- 1.116 -->
+				<xsl:call-template name="nameIdentifier"/>
 			</name>
 		</xsl:if>
 		<!-- 1.99 240 fix 20140804 -->
@@ -5416,7 +5559,7 @@
 				<xsl:call-template name="affiliation"/>
 				<xsl:call-template name="role"/>
 				<!-- 1.116 -->
-		<!--		<xsl:call-template name="nameIdentifier"/>-->
+				<xsl:call-template name="nameIdentifier"/>
 			</name>
 		</xsl:if>
 	</xsl:template>
@@ -5473,7 +5616,7 @@
 				<xsl:call-template name="nameTitleGroup"/>
 				<!-- 1.122 -->
 				<xsl:apply-templates select="subfield[@code = '0'][. != '']" mode="xlink"/>
-				<xsl:call-template name="nameABCDQ"/>
+				<!--<xsl:call-template name="nameABCDQ"/>-->
 				<xsl:call-template name="displayForm"/>
 				<xsl:call-template name="affiliation"/>
 				<xsl:call-template name="role"/>
@@ -5485,7 +5628,7 @@
 			<!--cm3 edit, Revision 2.06 added usage="primary" to <name> while checking if name in 100$a is present-->
 			<name type="family">
 				<xsl:call-template name="xxx880"/>
-				<xsl:call-template name="nameABCDQ"/>
+				<!--<xsl:call-template name="nameABCDQ"/>-->
 				<xsl:call-template name="displayForm"/>
 				<xsl:call-template name="affiliation"/>
 				<xsl:call-template name="role"/>

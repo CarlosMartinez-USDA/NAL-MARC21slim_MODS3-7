@@ -8,11 +8,21 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     exclude-result-prefixes="f marc marccountry nalsubcat saxon xd xlink xs xsi">
-
+    
     <!-- includes -->
-
-    <xsl:import href="pre/prefixed.xsl"/>
-        
+    
+    <xsl:include href="NAL-MARC21slimUtils.xsl"/>
+    <xsl:include href="commons/functions.xsl"/>
+    <xsl:include href="commons/params.xsl"/>
+    
+    <!-- outputs -->
+    
+    <xsl:output encoding="UTF-8" indent="yes" method="xml" name="saxon"
+        saxon:next-in-chain="fix_characters.xsl"/>
+    
+    <!-- whitespace control -->
+    <xsl:strip-space elements="*"/>
+    
     <!-- outputs -->
     <!--    <xsl:output encoding="UTF-8" indent="yes" method="xml"/>-->
     <xsl:output encoding="UTF-8" indent="yes" method="xml" name="saxon" saxon:next-in-chain="fix_characters.xsl"/>

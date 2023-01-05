@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- THIS FILE IS USED TO CONVERT AGRICOLA SUBJECT CATEGORY CODES TO ITS REPSECTIVE SUBJECT TERM -->
+<agricola
+	xmlns="http://nal-subject-category-codes" 
+	xmlns:nalsubcat="http://nal-subject-category-codes"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://nal-subject-category-codes nalSubjCat.xsd">
+	<subject>
+		<code>A000</code>
+		<category>Agriculture (General)</category>
+	</subject>
+	<subject>
+		<code>A500</code>
+		<category>Agricultural Research and Methodology</category>
+	</subject>
+	<subject>
+		<code>B100</code>
+		<category>Geography</category>
+	</subject>
+	<subject>
+		<code>B200</code>
+		<category>Meteorology and Climatology</category>
+	</subject>
+	<subject>
+		<code>B500</code>
+		<category>Agricultural History and Biography</category>
+	</subject>
+	<subject>
+		<code>C100</code>
+		<category>Agricultural Education and Training (Not Extension)</category>
+	</subject>
+	<subject>
+		<code>C200</code>
+		<category>Extension and Advisory Work (Non U.S.)</category>
+	</subject>
+	<subject>
+		<code>C210</code>
+		<category>U.S. Extension Services</category>
+	</subject>
+	<subject>
+		<code>D100</code>
+		<category>Administration of Agricultural Agencies and Organizations</category>
+	</subject>
+	<subject>
+		<code>D500</code>
+		<category>Laws and Regulations</category>
+	</subject>
+	<subject>
+		<code>E100</code>
+		<category>Agricultural Economics (General)</category>
+	</subject>
+	<subject>
+		<code>E110</code>
+		<category>Land Development, Land Reform and Utilization (Macroeconomics)</category>
+	</subject>
+	<subject>
+		<code>E130</code>
+		<category>Agricultural Production (Macroeconomics)</category>
+	</subject>
+	<subject>
+		<code>E200</code>
+		<category>Farm Organization and Management (Microeconomics)</category>
+	</subject>
+	<subject>
+		<code>E300</code>
+		<category>International Agricultural Development Aid Programs</category>
+	</subject>
+	<subject>
+		<code>E310</code>
+		<category>U.S. Food and Nutrition Programs</category>
+	</subject>
+	<subject>
+		<code>E400</code>
+		<category>Cooperatives</category>
+	</subject>
+	<subject>
+		<code>E500</code>
+		<category>Rural Sociology</category>
+	</subject>
+	<subject>
+		<code>E550</code>
+		<category>Rural Development</category>
+	</subject>
+	<subject>
+		<code>E560</code>
+		<category>Rural Community Public Services</category>
+	</subject>
+	<subject>
+		<code>E700</code>
+		<category>Distribution and Marketing of Agricultural Products</category>
+	</subject>
+	<subject>
+		<code>E710</code>
+		<category>Grading, Standards, Labeling</category>
+	</subject>
+	<subject>
+		<code>E720</code>
+		<category>Consumer Economics</category>
+	</subject>
+	<subject>
+		<code>F000</code>
+		<category>Plant Science (General)</category>
+	</subject>
+	<subject>
+		<code>F100</code>
+		<category>Plant Production (General)</category>
+	</subject>
+	<subject>
+		<code>F110</code>
+		<category>Plant Production (Horticultural Crops)</category>
+	</subject>
+	<subject>
+		<code>F120</code>
+		<category>Plant Production (Field Crops)</category>
+	</subject>
+	<subject>
+		<code>F130</code>
+		<category>Plant Production (Range and Pasture Crops)</category>
+	</subject>
+	<subject>
+		<code>F140</code>
+		<category>Plant Production (Miscellaneous Crops)</category>
+	</subject>
+	<subject>
+		<code>F200</code>
+		<category>Plant Breeding and Genetics</category>
+	</subject>
+	<subject>
+		<code>F300</code>
+		<category>Plant Ecology</category>
+	</subject>
+	<subject>
+		<code>F400</code>
+		<category>Plant Structure</category>
+	</subject>
+	<subject>
+		<code>F500</code>
+		<category>Plant Nutrition</category>
+	</subject>
+	<subject>
+		<code>F600</code>
+		<category>Plant Physiology and Biochemistry</category>
+	</subject>
+	<subject>
+		<code>F700</code>
+		<category>Plant Taxonomy, Collection, and Geography</category>
+	</subject>
+	<subject>
+		<code>F800</code>
+		<category>Protection of Plants</category>
+	</subject>
+	<subject>
+		<code>F820</code>
+		<category>Pests of Plants (Animals)</category>
+	</subject>
+	<subject>
+		<code>F821</code>
+		<category>Pests of Plants (Insects and Other Arthropods)</category>
+	</subject>
+	<subject>
+		<code>F822</code>
+		<category>Pests of Plants (Nematodes)</category>
+	</subject>
+	<subject>
+		<code>F830</code>
+		<category>Plant Diseases (General)</category>
+	</subject>
+	<subject>
+		<code>F831</code>
+		<category>Plant Diseases (Fungi)</category>
+	</subject>
+	<subject>
+		<code>F832</code>
+		<category>Plant Diseases (Bacterial)</category>
+	</subject>
+	<subject>
+		<code>F833</code>
+		<category>Plant Diseases (Viral)</category>
+	</subject>
+	<subject>
+		<code>F840</code>
+		<category>Plant Diseases (Physiological)</category>
+	</subject>
+	<subject>
+		<code>F841</code>
+		<category>Miscellaneous Plant Disorders and Injuries</category>
+	</subject>
+	<subject>
+		<code>F850</code>
+		<category>Protection of Plant Products (General)</category>
+	</subject>
+	<subject>
+		<code>F851</code>
+		<category>Protection of Plant Products (Insects and Other Arthropods)</category>
+	</subject>
+	<subject>
+		<code>F900</code>
+		<category>Weeds and Other Noxious Plants</category>
+	</subject>
+	<subject>
+		<code>H000</code>
+		<category>Pesticides (General)</category>
+	</subject>
+	<subject>
+		<code>J000</code>
+		<category>Soil Sciences</category>
+	</subject>
+	<subject>
+		<code>J100</code>
+		<category>Soil Biology</category>
+	</subject>
+	<subject>
+		<code>J200</code>
+		<category>Soil Chemistry and Physics</category>
+	</subject>
+	<subject>
+		<code>J300</code>
+		<category>Soil Classification and Genesis</category>
+	</subject>
+	<subject>
+		<code>J400</code>
+		<category>Soil Surveying and Mapping</category>
+	</subject>
+	<subject>
+		<code>J500</code>
+		<category>Soil Fertility, Fertilizers, and Manures</category>
+	</subject>
+	<subject>
+		<code>J600</code>
+		<category>Soil Resources and Management</category>
+	</subject>
+	<subject>
+		<code>J700</code>
+		<category>Soil Cultivation and Cropping Systems</category>
+	</subject>
+	<subject>
+		<code>J710</code>
+		<category>Alternative Farming Systems</category>
+	</subject>
+	<subject>
+		<code>J800</code>
+		<category>Soil Conservation</category>
+	</subject>
+	<subject>
+		<code>K000</code>
+		<category>Forestry</category>
+	</subject>
+	<subject>
+		<code>K001</code>
+		<category>Forestry Related</category>
+	</subject>
+	<subject>
+		<code>K100</code>
+		<category>Forestry Production (General)</category>
+	</subject>
+	<subject>
+		<code>K110</code>
+		<category>Forestry Production (Natural Regeneration)</category>
+	</subject>
+	<subject>
+		<code>K120</code>
+		<category>Forestry Production (Artificial Regeneration)</category>
+	</subject>
+	<subject>
+		<code>K130</code>
+		<category>Forestry Production (Harvesting and Engineering)</category>
+	</subject>
+	<subject>
+		<code>K200</code>
+		<category>Forest Management</category>
+	</subject>
+	<subject>
+		<code>K250</code>
+		<category>Forest Mensuration and Description</category>
+	</subject>
+	<subject>
+		<code>K500</code>
+		<category>Forest Products (General)</category>
+	</subject>
+	<subject>
+		<code>K510</code>
+		<category>Forest Products (Wood)</category>
+	</subject>
+	<subject>
+		<code>K520</code>
+		<category>Forest Products (Composite and Reconstituted Wood)</category>
+	</subject>
+	<subject>
+		<code>K530</code>
+		<category>Forest Products (Pulp and Paper)</category>
+	</subject>
+	<subject>
+		<code>K540</code>
+		<category>Forest Products (Chemicals)</category>
+	</subject>
+	<subject>
+		<code>K590</code>
+		<category>Forest Products (Miscellaneous)</category>
+	</subject>
+	<subject>
+		<code>K800</code>
+		<category>Forest Injuries and Protection</category>
+	</subject>
+	<subject>
+		<code>K810</code>
+		<category>Forest Fire Management</category>
+	</subject>
+	<subject>
+		<code>L000</code>
+		<category>Animal Science</category>
+	</subject>
+	<subject>
+		<code>L001</code>
+		<category>Entomology Related</category>
+	</subject>
+	<subject>
+		<code>L002</code>
+		<category>Apiculture Related</category>
+	</subject>
+	<subject>
+		<code>L003</code>
+		<category>Sericulture Related</category>
+	</subject>
+	<subject>
+		<code>L100</code>
+		<category>Animal Production</category>
+	</subject>
+	<subject>
+		<code>L110</code>
+		<category>Laboratory and Experimental Animals</category>
+	</subject>
+	<subject>
+		<code>L200</code>
+		<category>Animal Breeding and Genetics</category>
+	</subject>
+	<subject>
+		<code>L210</code>
+		<category>Animal Reproduction</category>
+	</subject>
+	<subject>
+		<code>L300</code>
+		<category>Animal Ecology and Behavior</category>
+	</subject>
+	<subject>
+		<code>L400</code>
+		<category>Animal Structure</category>
+	</subject>
+	<subject>
+		<code>L500</code>
+		<category>Animal Nutrition</category>
+	</subject>
+	<subject>
+		<code>L600</code>
+		<category>Animal Physiology and Biochemistry</category>
+	</subject>
+	<subject>
+		<code>L700</code>
+		<category>Animal Taxonomy and Geography</category>
+	</subject>
+	<subject>
+		<code>L800</code>
+		<category>Veterinary Science</category>
+	</subject>
+	<subject>
+		<code>L810</code>
+		<category>Veterinary Pharmacology, Toxicology, and Immunology</category>
+	</subject>
+	<subject>
+		<code>L820</code>
+		<category>Pests of Animals (General)</category>
+	</subject>
+	<subject>
+		<code>L821</code>
+		<category>Pests of Animals (Insects and Other Arthropods)</category>
+	</subject>
+	<subject>
+		<code>L822</code>
+		<category>Pests of Animals (Helminths)</category>
+	</subject>
+	<subject>
+		<code>L823</code>
+		<category>Pests of Animals (Protozoa)</category>
+	</subject>
+	<subject>
+		<code>L830</code>
+		<category>Animal Diseases (General)</category>
+	</subject>
+	<subject>
+		<code>L831</code>
+		<category>Animal Diseases (Fungal)</category>
+	</subject>
+	<subject>
+		<code>L832</code>
+		<category>Animal Diseases (Bacterial)</category>
+	</subject>
+	<subject>
+		<code>L833</code>
+		<category>Animal Diseases (Viral)</category>
+	</subject>
+	<subject>
+		<code>L840</code>
+		<category>Animal Diseases (Physiological)</category>
+	</subject>
+	<subject>
+		<code>L841</code>
+		<category>Animal Disorders and Injuries</category>
+	</subject>
+	<subject>
+		<code>L850</code>
+		<category>Protection of Animal Products (General)</category>
+	</subject>
+	<subject>
+		<code>L851</code>
+		<category>Protection of Animal Products (Insects and Other Arthropods)</category>
+	</subject>
+	<subject>
+		<code>M000</code>
+		<category>Aquatic Sciences</category>
+	</subject>
+	<subject>
+		<code>M001</code>
+		<category>Aquatic Sciences Related</category>
+	</subject>
+	<subject>
+		<code>M110</code>
+		<category>Fisheries</category>
+	</subject>
+	<subject>
+		<code>M120</code>
+		<category>Aquaculture (Animals)</category>
+	</subject>
+	<subject>
+		<code>M130</code>
+		<category>Aquaculture (Plants)</category>
+	</subject>
+	<subject>
+		<code>M210</code>
+		<category>Fisheries Management</category>
+	</subject>
+	<subject>
+		<code>M220</code>
+		<category>Aquaculture Management</category>
+	</subject>
+	<subject>
+		<code>M300</code>
+		<category>Aquatic Biology and Ecology (General)</category>
+	</subject>
+	<subject>
+		<code>M310</code>
+		<category>Aquatic Biology and Ecology (Animals)</category>
+	</subject>
+	<subject>
+		<code>M320</code>
+		<category>Aquatic Biology and Ecology (Plants)</category>
+	</subject>
+	<subject>
+		<code>M400</code>
+		<category>Oceanography</category>
+	</subject>
+	<subject>
+		<code>M500</code>
+		<category>Limnology</category>
+	</subject>
+	<subject>
+		<code>N000</code>
+		<category>Agricultural Engineering and Safety</category>
+	</subject>
+	<subject>
+		<code>N100</code>
+		<category>Farm Structures</category>
+	</subject>
+	<subject>
+		<code>N200</code>
+		<category>Farm and Structural Equipment</category>
+	</subject>
+	<subject>
+		<code>P000</code>
+		<category>Natural Resources</category>
+	</subject>
+	<subject>
+		<code>P010</code>
+		<category>Invasive Species</category>
+	</subject>
+	<subject>
+		<code>P050</code>
+		<category>Conservation and Wildlife</category>
+	</subject>
+	<subject>
+		<code>P100</code>
+		<category>Energy Resources (General)</category>
+	</subject>
+	<subject>
+		<code>P110</code>
+		<category>Conservation and Use of Energy</category>
+	</subject>
+	<subject>
+		<code>P120</code>
+		<category>Biomass Energy Sources</category>
+	</subject>
+	<subject>
+		<code>P130</code>
+		<category>Non-biomass Sources of Energy</category>
+	</subject>
+	<subject>
+		<code>P140</code>
+		<category>Consequences of Energy Production and Use</category>
+	</subject>
+	<subject>
+		<code>P200</code>
+		<category>Water Resources and Management</category>
+	</subject>
+	<subject>
+		<code>P210</code>
+		<category>Irrigation and Drainage</category>
+	</subject>
+	<subject>
+		<code>P300</code>
+		<category>Land Resources</category>
+	</subject>
+	<subject>
+		<code>Q000</code>
+		<category>Food Science and Food Products</category>
+	</subject>
+	<subject>
+		<code>Q001</code>
+		<category>Food Science and Food Products - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q002</code>
+		<category>Food Science and Food Products - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q003</code>
+		<category>Food Science and Food Products - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q004</code>
+		<category>Food Science and Food Products - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q005</code>
+		<category>Food Science and Food Products - Horticultural Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q006</code>
+		<category>Food Science and Food Products - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>Q100</code>
+		<category>Food Processing (General)</category>
+	</subject>
+	<subject>
+		<code>Q101</code>
+		<category>Food Processing (General) - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q102</code>
+		<category>Food Processing (General) - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q103</code>
+		<category>Food Processing (General) - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q104</code>
+		<category>Food Processing (General) - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q105</code>
+		<category>Food Processing (General) - Horticultural Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q106</code>
+		<category>Food Processing (General) - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>Q110</code>
+		<category>Food Storage</category>
+	</subject>
+	<subject>
+		<code>Q111</code>
+		<category>Food Storage - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q112</code>
+		<category>Food Storage - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q113</code>
+		<category>Food Storage - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q114</code>
+		<category>Food Storage - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q115</code>
+		<category>Food Storage - Horticultural Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q116</code>
+		<category>Food Storage - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>Q120</code>
+		<category>Microbiology of Food Processing</category>
+	</subject>
+	<subject>
+		<code>Q121</code>
+		<category>Microbiology of Food Processing - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q122</code>
+		<category>Microbiology of Food Processing - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q123</code>
+		<category>Microbiology of Food Processing - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q124</code>
+		<category>Microbiology of Food Processing - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q125</code>
+		<category>Microbiology of Food Processing - Horticultural Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q126</code>
+		<category>Microbiology of Food Processing - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>Q200</code>
+		<category>Food Contamination and Toxicology</category>
+	</subject>
+	<subject>
+		<code>Q201</code>
+		<category>Food Contamination and Toxicology - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q202</code>
+		<category>Food Contamination and Toxicology - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q203</code>
+		<category>Food Contamination and Toxicology - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q204</code>
+		<category>Food Contamination and Toxicology - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q205</code>
+		<category>Food Contamination and Toxicology - Horticultural Products</category>
+	</subject>
+	<subject>
+		<code>Q206</code>
+		<category>Food Contamination and Toxicology - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>Q300</code>
+		<category>Food Packaging (General)</category>
+	</subject>
+	<subject>
+		<code>Q301</code>
+		<category>Food Packaging (General) - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q302</code>
+		<category>Food Packaging (General) - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q303</code>
+		<category>Food Packaging (General) - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q304</code>
+		<category>Food Packaging (General) - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q305</code>
+		<category>Food Packaging (General) - Horticultural Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q306</code>
+		<category>Food Packaging (General) - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>Q400</code>
+		<category>Food Additives (General)</category>
+	</subject>
+	<subject>
+		<code>Q401</code>
+		<category>Food Additives (General) - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q402</code>
+		<category>Food Additives (General) - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q403</code>
+		<category>Food Additives (General) - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q404</code>
+		<category>Food Additives (General) - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q405</code>
+		<category>Food Additives (General) - Horticultural Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q406</code>
+		<category>Food Additives (General) - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>Q500</code>
+		<category>Food Composition and Quality</category>
+	</subject>
+	<subject>
+		<code>Q501</code>
+		<category>Food Composition and Quality - Dairy Products</category>
+	</subject>
+	<subject>
+		<code>Q502</code>
+		<category>Food Composition and Quality - Livestock Products</category>
+	</subject>
+	<subject>
+		<code>Q503</code>
+		<category>Food Composition and Quality - Poultry Products</category>
+	</subject>
+	<subject>
+		<code>Q504</code>
+		<category>Food Composition and Quality - Field Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q505</code>
+		<category>Food Composition and Quality - Horticultural Crop Products</category>
+	</subject>
+	<subject>
+		<code>Q506</code>
+		<category>Food Composition and Quality - Fish and Aquatic Products</category>
+	</subject>
+	<subject>
+		<code>R000</code>
+		<category>Feed Products</category>
+	</subject>
+	<subject>
+		<code>R100</code>
+		<category>Feed Processing and Storage</category>
+	</subject>
+	<subject>
+		<code>R110</code>
+		<category>Microbiology of Feed Processing</category>
+	</subject>
+	<subject>
+		<code>R200</code>
+		<category>Feed Contamination and Toxicology</category>
+	</subject>
+	<subject>
+		<code>R300</code>
+		<category>Feed Composition and Quality</category>
+	</subject>
+	<subject>
+		<code>S000</code>
+		<category>Agricultural Products (Non-food General)</category>
+	</subject>
+	<subject>
+		<code>S100</code>
+		<category>Agricultural Products (Non-food Animal)</category>
+	</subject>
+	<subject>
+		<code>S200</code>
+		<category>Agricultural Products (Non-food Plant)</category>
+	</subject>
+	<subject>
+		<code>T000</code>
+		<category>Human Nutrition</category>
+	</subject>
+	<subject>
+		<code>T100</code>
+		<category>Nutrition and Health Education</category>
+	</subject>
+	<subject>
+		<code>T120</code>
+		<category>Food Service and Management</category>
+	</subject>
+	<subject>
+		<code>T200</code>
+		<category>Physiology of Human Nutrition</category>
+	</subject>
+	<subject>
+		<code>T300</code>
+		<category>Diet and Diet-Related Diseases</category>
+	</subject>
+	<subject>
+		<code>U000</code>
+		<category>Home Economics and Human Ecology</category>
+	</subject>
+	<subject>
+		<code>U100</code>
+		<category>Housing, Home Furnishings, and Surroundings</category>
+	</subject>
+	<subject>
+		<code>U200</code>
+		<category>Household Textiles and Clothing</category>
+	</subject>
+	<subject>
+		<code>U300</code>
+		<category>Family Economics and Management</category>
+	</subject>
+	<subject>
+		<code>U400</code>
+		<category>Family Relationships and Individual Development</category>
+	</subject>
+	<subject>
+		<code>U500</code>
+		<category>Elementary, Secondary, and Higher Education in Home Economics</category>
+	</subject>
+	<subject>
+		<code>U600</code>
+		<category>Home Food and Meal Preparation</category>
+	</subject>
+	<subject>
+		<code>V000</code>
+		<category>Human Parasitology</category>
+	</subject>
+	<subject>
+		<code>V820</code>
+		<category>Parasites of Humans (General)</category>
+	</subject>
+	<subject>
+		<code>V821</code>
+		<category>Parasites of Humans (Insects and Other Arthropods)</category>
+	</subject>
+	<subject>
+		<code>V822</code>
+		<category>Parasites of Humans (Helminths)</category>
+	</subject>
+	<subject>
+		<code>V823</code>
+		<category>Parasites of Humans (Protozoa)</category>
+	</subject>
+	<subject>
+		<code>W000</code>
+		<category>Pollution</category>
+	</subject>
+	<subject>
+		<code>X000</code>
+		<category>Auxiliary Disciplines</category>
+	</subject>
+	<subject>
+		<code>X100</code>
+		<category>Mathematics and Statistics</category>
+	</subject>
+	<subject>
+		<code>X150</code>
+		<category>Bioinformatics, Computational Biology, Biometrics, Biostatistics, Biomathematics
+		</category>
+	</subject>
+	<subject>
+		<code>X200</code>
+		<category>Computer and Library Sciences</category>
+	</subject>
+	<subject>
+		<code>X250</code>
+		<category>Library and Information Science</category>
+	</subject>
+	<subject>
+		<code>X300</code>
+		<category>Life Sciences</category>
+	</subject>
+	<subject>
+		<code>X320</code>
+		<category>General Genetics, Genetic Engineering, Biotechnology, and Genomics</category>
+	</subject>
+	<subject>
+		<code>X330</code>
+		<category>Ecology and Environment</category>
+	</subject>
+	<subject>
+		<code>X340</code>
+		<category>Molecular Biology, Biochemistry, and Biophysics</category>
+	</subject>
+	<subject>
+		<code>X350</code>
+		<category>Microbiology, Bacteriology, and Virology</category>
+	</subject>
+	<subject>
+		<code>X380</code>
+		<category>Human Medicine, Health, and Safety</category>
+	</subject>
+	<subject>
+		<code>X385</code>
+		<category>Public Health and Epidemiology</category>
+	</subject>
+	<subject>
+		<code>X387</code>
+		<category>Occupational and Industrial Safety and Hygiene</category>
+	</subject>
+	<subject>
+		<code>X400</code>
+		<category>Physical Sciences</category>
+	</subject>
+	<subject>
+		<code>X500</code>
+		<category>Chemistry</category>
+	</subject>
+	<subject>
+		<code>X600</code>
+		<category>Technology</category>
+	</subject>
+	<subject>
+		<code>X620</code>
+		<category>Photography, Remote Sensing, GIS, and Geospatial</category>
+	</subject>
+	<subject>
+		<code>X650</code>
+		<category>Technology Transfer</category>
+	</subject>
+	<subject>
+		<code>X700</code>
+		<category>Economics and Management</category>
+	</subject>
+	<subject>
+		<code>X750</code>
+		<category>Management and Decision Making</category>
+	</subject>
+	<subject>
+		<code>X800</code>
+		<category>Social Sciences, Humanities, and Education</category>
+	</subject>
+	<subject>
+		<code>X840</code>
+		<category>General Political Science</category>
+	</subject>
+</agricola>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <record>
+        <leader>12442cam a2200673 a 4500</leader>
+        <controlfield tag="001">9915512871007426</controlfield>
+        <controlfield tag="005">20221102170550.0</controlfield>
+        <controlfield tag="008">080916s2008 iau bf 001 0 eng </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a"> 2008024700</subfield>
+        </datafield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">CAT31018396</subfield>
+            <subfield code="2">DNAL</subfield>
+        </datafield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">101475749</subfield>
+            <subfield code="2">DNLM</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780813814872</subfield>
+            <subfield code="q">(alk. paper)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0813814871</subfield>
+            <subfield code="q">(alk. paper)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">1018396</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)231787172</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(DNAL)1018396-naldb-Voyager</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DNLM/DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">NLM</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">BAKER</subfield>
+            <subfield code="d">YDXCP</subfield>
+            <subfield code="d">C#P</subfield>
+            <subfield code="d">BWX</subfield>
+            <subfield code="d">CDX</subfield>
+            <subfield code="d">HEBIS</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OVY</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">GILDS</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">UKOBU</subfield>
+            <subfield code="d">AU@</subfield>
+            <subfield code="d">E@W</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">LVT</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">OCLCA</subfield>
+            <subfield code="d">ORE</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">AGL</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+        </datafield>
+        <datafield tag="049" ind1=" " ind2=" ">
+            <subfield code="a">AGLL</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SF951</subfield>
+            <subfield code="b">.B867 2008</subfield>
+        </datafield>
+        <datafield tag="070" ind1="0" ind2=" ">
+            <subfield code="a">SF951</subfield>
+            <subfield code="b">.B867 2008</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Blackwell's five-minute veterinary consult.</subfield>
+            <subfield code="p">Equine /</subfield>
+            <subfield code="c">[edited by] Jean-Pierre Lavoie, Kenneth William
+                Hinchcliff.</subfield>
+        </datafield>
+        <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">Five-minute veterinary consult.</subfield>
+            <subfield code="p">Equine</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Ames, Iowa :</subfield>
+            <subfield code="b">Wiley-Blackwell,</subfield>
+            <subfield code="c">2008.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxxvii, 874 pages ;</subfield>
+            <subfield code="c">29 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Five minute veterinary consult</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Machine derived contents note: $a$Contents -- Abdominal Distention in
+                the Adult Horse -- Abdominal Hernia in Adult Horses -- Abdominocentesis -- Abnormal
+                Estrus Intervals -- Abnormal Scrotal Enlargement -- Abnormal Testicular Size --
+                Abortion, Spontaneous, Infectious -- Abortion, Spontaneous, Noninfectious -- Acer
+                rubrum (Red Maple) Toxicosis -- Acidosis, Metabolic -- Acidosis, Respiratory --
+                Actinobacillosis -- Acute Abdominal Pain$en$Acute Colic in Adults -- Acute
+                Epiglottiditis -- Acute Hepatitis in Adult Horses (Theiler's Disease) -- Acute Renal
+                Failure (ARF) -- Acute Respiratory Distress Syndrome (ARDS) in Foals -- Adenovirus
+                -- Adrenal Insufficiency -- Aflatoxicosis -- African Horse Sickness --
+                Agalactia/Hypogalactia -- Aggression -- Alkaline Phosphatase (ALP) -- Alkalosis,
+                Metabolic -- Alkalosis, Respiratory -- Alopecia -- Amitraz Toxicosis -- Ammonia,
+                Hyperammonemia -- Amylase and Lipase -- Anaerobic Bacterial Infections --
+                Anaphylaxis -- Anemia -- Anemia, Heinz Body -- Anemia, Immune Mediated -- Anemia,
+                Iron Deficiency -- Anemia, Pure Red Cell Aplasia -- Anestrus -- Angular Limb
+                Deformity -- Anhidrosis -- Anorexia and Decreased Food Intake -- Anthrax --
+                Anticoagulant Rodenticide Toxicosis -- Anuria/Oliguria -- Aortic Regurgitation --
+                Aortic Root Rupture -- Arsenic Toxicosis -- Artificial Insemination -- Arytenoid
+                Chrondopathy -- Ascarid Infestation -- Aspartate Aminotransferase (AST) --
+                Aspiration Pneumonia -- Atheroma of the False Nostril -- Atopic Dermatitis -- Atrial
+                Fibrillation -- Atrial Septal Defect (ASD) -- Aural Plaques -- Azotemia and Uremia
+                -- Babesiosis -- Back Pain -- Bacteremia/Septicemia -- Bacterial
+                Dermatitis$en$Methicillin-Resistant Staphylococci -- Bacterial
+                Dermatitis$en$Superficial -- Bacterial Meningitis, Neonate --
+                Basisphenoid/Basioccipital Bone Fracture -- Bile Acids -- Bilirubin, High --
+                Blindness Associated With Trauma -- Blood Culture -- Blood Transfusion Reactions --
+                Blue-Green Algae -- Bordetella bronchiseptica -- Borna Disease -- Botulism, Adult --
+                Botulism, Neonate -- Bradyarrhythmias -- Broad Ligament Hematoma -- Brucellosis --
+                Bruxism -- Burdock Pappus Bristle Keratopathy -- Calcific Band Keratopathy --
+                Calcium, Hypercalcemia -- Calcium, Hypocalcemia -- Cantharidin Toxicosis --
+                Cardiotoxic Plants -- Castration, Henderson Castration Instrument -- Castration,
+                Routine -- Centaurea spp.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Toxicosis -- Cerebellar Abiotrophy -- Cervical Lesions -- Cervical
+                Vertebral Malformation -- Cestrum Diurnum (Day-Blooming Jessamine) Toxicosis --
+                Chloride, Hyperchloremia -- Chloride, Hypochloremia -- Cholelithiasis --
+                Chorioretinitis -- Chronic Progressive Lymphedema -- Chronic Renal Failure (CRF) --
+                Chronic Weight Loss -- Cleft Palate -- Clitoral Enlargement -- Clostridial Myositis
+                -- Clostridium difficile Enterocolitis -- Coagulation Defects, Acquired --
+                Coagulation Defects, Inherited -- Coccidiomycosis -- Coccidiosis -- Colic$en$
+                Chronic/Recurrent -- Colic in Foals -- Conception Failure -- Congenital Cardiac
+                Abnormalities -- Conium maculatum (Poison Hemlock) Toxicosis -- Conjunctival
+                Diseases -- Contagious Equine Metritis (CEM) -- Corneal Stromal Abscesses -- Corneal
+                Ulceration -- Corneal/Scleral Lacerations -- Corynebacterium pseudotuberculosis --
+                Cough -- Creatinine Kinase (CK) -- Cryptorchidism -- Cushing¿s Disease -- Cyanide
+                Toxicosis -- Cytology of Bronchoalveolar Lavage (BAL) Fluid -- Cytology of Tracheal
+                Aspiration (TA) Fluid -- Dacryocystitis -- Degenerative Myeloencephalophathy --
+                Delayed Uterine Involution -- Dermatomycoses, Subcutaneous -- Dermatomycoses,
+                Superficial -- Dermatophilosis -- Diaphragmatic Hernia -- Diarrhea, Neonatal --
+                Dicoumarol (Moldy Sweet Clover) Toxicvosis -- Diseases of the Nictitans -- Disorders
+                of Sexual Development -- Disorders of the Thyroid: Hypothyroidism- and
+                Hyperthyroidism -- Disseminated Intravascular Coagulation (DIC) -- Distal and
+                Proximal Interphalangeal Joint Disease -- Distal Tarsitis -- Dorsal Displacement of
+                the Soft Palate (DDSP) -- Dorsal Metacarpal Bone Disease -- Dourine --
+                Duodenitis-Proximal Jejunitis (Anterior Enteritis, Proximal Enteritis) -- Dynamic
+                Collapse of the Upper Airway -- Dystocia -- Early Embryonic Death (EED) -- Eastern
+                (EEE), Western (WEE), and Venezuelan (VEE) Encephalitides -- Eclampsia --
+                Ectoparasites -- Ehrlichiosis, Equine Granulocytic -- Embryo Transfer (ET) --
+                Endometrial Biopsy -- Endometritis -- Endotoxemia -- Enterolithiasis -- Eosinophilia
+                and Basophilia -- Eosinophilic Keratitis -- Epiglottic Entrapment -- Equine
+                Metabolic Syndrome (EMS)/Insulin Resistance (IR) -- Esophageal Obstruction (Choke)
+                -- Excessive Maternal Behavior/Foal Stealing -- Exercise-Associated Arrhythmias --
+                Exercise-Induced Pulmonary Hemorrhage (EIPH) -- Exertional Rhabdomyolysis Syndrome
+                -- Expiratory Dyspnea -- Exudative Optic Neuritis -- Eyelid Diseases -- Failure of
+                Transfer of Passive Immunity (FTPI) -- Fears and Phobias -- Fell Pony Syndrome --
+                Fescue Toxicosis -- Fetal Stress/Distress/Viability -- Fever -- Flexural Limb
+                Deformity -- Fluid Therapy, Neonate -- Fumonisins -- Fungal Pneumonia -- Fusaria --
+                Gamma-Glutamyltransferase (GGT) -- Gastric Dilation/Distention -- Gastric Neoplasia
+                -- Gastric Ulcers and Erosions -- Gastric Ulcers, Neonate -- Getah Virus Infection
+                -- Glanders -- Glaucoma -- Glucose -- Glucose Tolerance Test -- Glycogen Branching
+                Enzyme Deficiency (GBED) -- Goiter -- Granulocytic Anaplasmosis (see Ehrlichiosis,
+                Equine Granulocytic) -- Granulomatous Enteritis -- Grass Sickness -- Guttural Pouch
+                Empyema -- Guttural Pouch Mycosis -- Guttural Pouch Tympany -- Head Trauma -- Heaves
+                -- Hemangiosarcoma -- Hemorrhage, Acute -- Hemorrhage, Chronic -- Hemorrhagic Nasal
+                Discharge -- Hemospermia -- Hendra Virus -- Hepatic Abscess and Septic
+                Cholangiohepatitis -- Hepatic Encephalopathy -- Hereditary Equine Regional Dermal
+                Asthenia -- Hernias (Umbilical and Inguinal) -- Herpes Virus Myeloencephalopathy --
+                Herpesvirus- 3 -- Herpesvirus Types 1 and 4 -- High-Risk Pregnancy, Neonate --
+                High-Risk Pregnancy -- Hydrocephalus -- Hydrops$en$Allantois/Amnion -- Hyperkalemic
+                Periodic Paralysis -- Hyperlipidemia/Hyperlipemia -- Hyperthermia -- Hypoxemia --
+                Icterus (Prehepatic, Hepatic, and Posthepatic) -- Idiopathic Colitis -- Idiopathic
+                Systemic Granulomatous Disease (Sarcoidosis) -- Ileal Hypertrophy -- Ileus --
+                Immune-Mediated Keratitis -- Immunoglobulin Deficiencies -- Impaction -- Infectious
+                Anemia (EIA) -- Infectious Arthritis (Nonhematogenous) -- Infective Endocarditis --
+                Inflammatory Airway Disease (IAD) -- Influenza -- Insect Hypersensitivity --
+                Inspiratory Dyspnea -- Insulin Levels/Insulin Tolerance Test -- Internal Abdominal
+                Abscesses -- Intestinal Absorption Tests -- Intra-Abdominal Hemorrhage in Horses --
+                Intracarotid Injection -- Ionophore Toxicosis -- Iris Prolapse in the Horse -- Iron
+                Toxicosis -- Ischemic Optic Neuropathy -- Isocoma wrightii (Rayless Goldenrod)
+                Toxicosis -- Juglans nigra (Black Walnut) Toxicosis -- Junctional Epidermolysis
+                Bullosa (JEB) -- Laminitis -- Lantana camara (Lantana) Toxicosis -- Large Colon
+                Torsion -- Large Ovary Syndrome -- Large Strongyle Infestation -- Larval
+                Cyathostominois (see Small Strongyle Infestation) -- Laryngeal Hemiplegia --
+                Lavender Foal Syndrome -- Lawsonnia intracellularis Infections in Foals -- Lead (Pb)
+                Toxicosis -- Lens Opacities/Cataracts -- Leptospirosis -- Lethal White (Intestinal
+                Aganglionosis) -- Leukocytoclastic Pastern Vasculitis -- Leukoencephalomalacia --
+                Linear Keratosis and Linear Alopecia -- Locomotor Stereotypic Behaviors -- Lungworm
+                Infection -- Lyme Disease -- Lymphadenopathy -- Lymphocytic-Plasmacytic
+                Enterocolitis -- Lymphocytosis -- Lymphoid Hyperplasia (Pharyngitis) -- Lymphopenia
+                -- Lymphosarcoma -- Magnesium Disorders -- Malabsorption -- Malicious Intoxication
+                -- Mast Cell Tumor -- Mastitis -- Maternal Foal Rejection -- Meconium Retention --
+                Melanoma -- Melena and Hematochezia -- Mercury Toxicosis -- Metacarpo-
+                (Metatarso-)Phalangeal Joint Disease -- Metaldehyde Toxicosis -- Methemoglobinemia
+                -- Methylxanthine Toxicosis -- Mitral Regurgitation -- Monocytosis -- Motor Neuron
+                Disease -- Multiple Endocrine Neoplasia -- Multiple Myeloma -- Multisystemic
+                Eosinophilic Epitheliotropic Disease -- Myeloproliferative Diseases -- Myocardial
+                Disease -- Narcolepsy and Cataplexy -- Navicular Syndrome -- Neonatal
+                Isoerythrolysis -- Nerium oleander (Oleander) Toxicosis -- Neutropenia --
+                Neutrophilia -- Nitrate/Nitrite Toxicosis -- Nonulcerative Keratouveitis --
+                Nutrition in Foals -- Nutritional Secondary Hyperparathyroidism (NHP) -- Ocular
+                Examination -- Ocular Problems in the Neonate -- Ocular/Adnexal Squamous Cell
+                Carcinoma -- Omphalophlebitis -- Optic Nerve Atrophy -- Oral Neoplasia -- Oral
+                Sterotypic Behaviors -- Oral Ulcers -- Orbital Disease -- Organophosphate and
+                Carbamate Toxicosis -- Osmolality, Hyperosmolality -- Osteoarthritis, General --
+                Osteochondrosis -- Ovulation Failure -- Pancreatic Disease -- Pancytopenia --
+                Panicum coloratum (Kleingrass) Toxicosis -- Papillomatosis -- Paraphimosis --
+                Pastern Dermatitis -- Patent Ductus Arteriosus -- Patent Urachus -- Pemphigus
+                Foliaceus -- Penetrating Injuries to the Foot -- Penile Lacerations -- Penile
+                Paralysis -- Penile Vesicles, Erosions, and Tumors -- Pentachlorophenol (PCP)
+                Toxicosis -- Pericarditis -- Perinatal Asphyxia Syndrome -- Perineal
+                Lacerations/Recto-Vaginal-Vestibular Fistulas -- Periocular Sarcoid -- Periodontal
+                Disease -- Peritonitis -- Petechia, Ecchymoses, and Hematomas -- Pheochromocytoma --
+                Phimosis</subfield>
+        </datafield>
+        <datafield tag="520" ind1="8" ind2=" ">
+            <subfield code="a">This volume brings together easy, efficient access to reliable
+                information for the busy equine practitioner. This is a concise, comprehensive
+                resource for diagnosing and treating horses.</subfield>
+        </datafield>
+        <datafield tag="580" ind1=" " ind2=" ">
+            <subfield code="a">Revised edition of: 5-minute veterinary consult. Equine / Christopher
+                M. Brown. c2002.</subfield>
+        </datafield>
+        <datafield tag="591" ind1=" " ind2=" ">
+            <subfield code="b">NAL Reclamation</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Horses</subfield>
+            <subfield code="x">Diseases</subfield>
+            <subfield code="v">Handbooks, manuals, etc.</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="2">
+            <subfield code="a">Horse Diseases.</subfield>
+        </datafield>
+        <datafield tag="650" ind1="2" ind2="2">
+            <subfield code="a">Veterinary Medicine</subfield>
+            <subfield code="x">methods.</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="2">
+            <subfield code="a">Handbook.</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Handbooks and manuals.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01423877</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Handbooks and manuals.</subfield>
+            <subfield code="2">lcgft</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/genreForms/gf2014026109</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lavoie, Jean-Pierre,</subfield>
+            <subfield code="d">1957-</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/n2008182583</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hinchcliff, Kenneth W.</subfield>
+            <subfield code="q">(Kenneth William),</subfield>
+            <subfield code="d">1956-</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/no2002116813</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brown, Christopher M.</subfield>
+            <subfield code="q">(Christopher Miles).</subfield>
+            <subfield code="t">5-minute veterinary consult.</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Five minute veterinary consult</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2=" ">
+            <subfield code="a">nalcatalog</subfield>
+        </datafield>
+        <datafield tag="930" ind1=" " ind2=" ">
+            <subfield code="a">20120514</subfield>
+            <subfield code="b">20120604</subfield>
+            <subfield code="c">00000000</subfield>
+        </datafield>
+        <datafield tag="938" ind1=" " ind2=" ">
+            <subfield code="a">Baker &amp; Taylor</subfield>
+            <subfield code="b">BKTY</subfield>
+            <subfield code="c">149.99</subfield>
+            <subfield code="d">149.99</subfield>
+            <subfield code="i">0813814871</subfield>
+            <subfield code="n">0007876938</subfield>
+            <subfield code="s">active</subfield>
+        </datafield>
+        <datafield tag="938" ind1=" " ind2=" ">
+            <subfield code="a">Baker and Taylor</subfield>
+            <subfield code="b">BTCP</subfield>
+            <subfield code="n">BK0007876938</subfield>
+        </datafield>
+        <datafield tag="938" ind1=" " ind2=" ">
+            <subfield code="a">Coutts Information Services</subfield>
+            <subfield code="b">COUT</subfield>
+            <subfield code="n">8449033</subfield>
+            <subfield code="c">149.99 USD</subfield>
+        </datafield>
+        <datafield tag="938" ind1=" " ind2=" ">
+            <subfield code="a">YBP Library Services</subfield>
+            <subfield code="b">YANK</subfield>
+            <subfield code="n">2888560</subfield>
+        </datafield>
+        <datafield tag="938" ind1=" " ind2=" ">
+            <subfield code="a">Blackwell Book Service</subfield>
+            <subfield code="b">BBUS</subfield>
+            <subfield code="n">R2764959</subfield>
+            <subfield code="c">$149.99</subfield>
+        </datafield>
+        <datafield tag="939" ind1=" " ind2=" ">
+            <subfield code="a">20090211</subfield>
+            <subfield code="b">20090301</subfield>
+            <subfield code="c">00000000</subfield>
+        </datafield>
+        <datafield tag="945" ind1=" " ind2=" ">
+            <subfield code="a">Promptcat</subfield>
+            <subfield code="e">2009/02/09</subfield>
+        </datafield>
+        <datafield tag="946" ind1=" " ind2=" ">
+            <subfield code="a">Other US</subfield>
+        </datafield>
+        <datafield tag="958" ind1=" " ind2=" ">
+            <subfield code="b">r</subfield>
+            <subfield code="c">2009/02/11</subfield>
+            <subfield code="d">c</subfield>
+            <subfield code="e">aallen</subfield>
+        </datafield>
+        <datafield tag="959" ind1=" " ind2=" ">
+            <subfield code="c">2012/05/14</subfield>
+            <subfield code="e">ssouder</subfield>
+            <subfield code="g">other</subfield>
+        </datafield>
+        <datafield tag="994" ind1=" " ind2=" ">
+            <subfield code="a">92</subfield>
+            <subfield code="b">AGL</subfield>
+        </datafield>
+    </record>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.local.gov/marc/countries" xmlns:marccountry="http://www.local.gov/marc/countries">
+  <xs:element name="marcCountry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="marccountry:value"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="value">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="marccountry:code"/>
+        <xs:element ref="marccountry:country"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="code" type="xs:NMTOKEN"/>
+  <xs:element name="country" type="xs:string"/>
+</xs:schema>

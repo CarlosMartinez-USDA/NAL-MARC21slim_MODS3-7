@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+  targetNamespace="http://nal-subject-category-codes"
+  xmlns:nalsubcat="http://nal-subject-category-codes">
+  <xs:element name="agricola">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="nalsubcat:subject"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="subject">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nalsubcat:code"/>
+        <xs:element ref="nalsubcat:category"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="code" type="xs:NCName"/>
+  <xs:element name="category" type="xs:string"/>
+</xs:schema>

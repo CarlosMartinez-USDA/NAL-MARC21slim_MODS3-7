@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3">
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">handbook</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <publisher>Happy Hours Co.</publisher>
+         <dateIssued>[©1872]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1872</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF285.3.R6 R</classification>
+      <identifier type="control">9915427698807426</identifier>
+      <identifier type="oclc">15862816</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">miu</placeTerm>
+            <placeTerm type="text">Michigan</placeTerm>
+         </place>
+         <publisher>Agricultural College of Michigan</publisher>
+         <dateIssued>[1887]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1887</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">100 M58S no.25</classification>
+      <identifier type="control">9915429476407426</identifier>
+      <identifier type="oclc">23228197</identifier>
+      <extension>
+         <note type="publicationSource">State experiment station</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <publisher>Published by the author at the Office of Henry Fish &amp; Co.</publisher>
+         <dateIssued>1876</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1876</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 C67</classification>
+      <identifier type="control">9915432979407426</identifier>
+      <identifier type="oclc">1049506915</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>W.B. Saunders Co.</publisher>
+         <dateIssued>1916</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1916</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 H11 1916</classification>
+      <identifier type="control">9915437803207426</identifier>
+      <identifier type="oclc">500036629</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">uuuuuu</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">0001</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <identifier type="control">9915438094807426</identifier>
+      <identifier type="oclc">1289066122</identifier>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>W.B. Saunders</publisher>
+         <dateIssued>©1996</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF959.J64J385 1996</classification>
+      <identifier type="control">9915438477707426</identifier>
+      <identifier type="oclc">33047515</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">vtu</placeTerm>
+            <placeTerm type="text">Vermont</placeTerm>
+         </place>
+         <publisher>Trafalgar Square Pub.</publisher>
+         <dateIssued>2003</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .F75 2003</classification>
+      <identifier type="control">9915442164307426</identifier>
+      <identifier type="oclc">50676244</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <publisher>Mosby</publisher>
+         <dateIssued>©2003</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF768.2.H67 B58 2003</classification>
+      <identifier type="control">9915443877507426</identifier>
+      <identifier type="oclc">50511337</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">biography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">kyu</placeTerm>
+            <placeTerm type="text">Kentucky</placeTerm>
+         </place>
+         <publisher>University Press of Kentucky</publisher>
+         <dateIssued>©2007</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">PS3552.E75 Z96 2007</classification>
+      <identifier type="control">9915443896407426</identifier>
+      <identifier type="oclc">85162009</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Osmanbey Basimevi</publisher>
+         <dateIssued>1945</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1945</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">tur</languageTerm>
+         <languageTerm type="text">Turkish</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41 Er2</classification>
+      <identifier type="control">9915445550007426</identifier>
+      <identifier type="oclc">71030941</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <publisher>New York Academy of Sciences</publisher>
+         <dateIssued>1996</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">500 N484 v.775</classification>
+      <identifier type="control">9915446222107426</identifier>
+      <identifier type="oclc">34546011</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>M. Arnold</publisher>
+         <dateIssued>1829</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1829</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF285 .L39 1829</classification>
+      <identifier type="control">9915447752707426</identifier>
+      <identifier type="oclc">02145505</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF285.3.N38 1985</classification>
+      <identifier type="control">9915450851707426</identifier>
+      <identifier type="oclc">10696837</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>Porter &amp; Coates</publisher>
+         <dateIssued>©1871</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1871</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">microfilm</form>
+         <form authority="marccategory">microform</form>
+         <form authority="marcsmd">microfilm reel</form>
+      </physicalDescription>
+      <classification authority="nal">Film 1671</classification>
+      <identifier type="control">9915451960907426</identifier>
+      <identifier type="oclc">37453355</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>E.L. Carey and A. Hart</publisher>
+         <dateIssued>1830</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1830</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">microfilm</form>
+         <form authority="marccategory">microform</form>
+         <form authority="marcsmd">microfilm reel</form>
+      </physicalDescription>
+      <classification authority="nal">Film S-1943</classification>
+      <identifier type="control">9915451965207426</identifier>
+      <identifier type="oclc">39272096</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>G. Routledge and Sons</publisher>
+         <dateIssued>1880</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 W16H 1880</classification>
+      <identifier type="control">9915454145107426</identifier>
+      <identifier type="oclc">01037580</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>Porter &amp; Coates</publisher>
+         <dateIssued>1871</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1871</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .W36 1871</classification>
+      <identifier type="control">9915454305107426</identifier>
+      <identifier type="oclc">14063112</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>G. Routledge</publisher>
+         <dateIssued>1899</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1899</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 W16H</classification>
+      <identifier type="control">9915454333407426</identifier>
+      <identifier type="oclc">06182765</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">QP901.A33 v.350</classification>
+      <identifier type="control">9915455102507426</identifier>
+      <identifier type="oclc">29845531</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enkenkEngland</placeTerm>
+         </place>
+         <publisher>London Print. and Pub. Co.</publisher>
+         <dateIssued>[18--?]</dateIssued>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">1880</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">1899</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41 Sk22</classification>
+      <identifier type="control">9915458813407426</identifier>
+      <identifier type="oclc">15383528</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>Blackwell Science</publisher>
+         <dateIssued>2004</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF959.R47 B66 2004</classification>
+      <identifier type="control">9915458890407426</identifier>
+      <identifier type="oclc">54536814</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">vtu</placeTerm>
+            <placeTerm type="text">Vermont</placeTerm>
+         </place>
+         <publisher>Trafalgar Square Pub.</publisher>
+         <dateIssued>2004</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF959.R47 R27 2004</classification>
+      <identifier type="control">9915458898007426</identifier>
+      <identifier type="oclc">55645014</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <identifier type="control">9915467720007426</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <publisher>Saunders Elsevier</publisher>
+         <dateIssued>©2007</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">optical disc</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .E682 2007</classification>
+      <identifier type="control">9915470371207426</identifier>
+      <identifier type="oclc">84729971</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">moumouMissouri</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2016-20-16</dateIssued>
+         <copyrightDate encoding="marc">2016</copyrightDate>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF959.J64 J385 2016</classification>
+      <identifier type="control">9915473218607426</identifier>
+      <identifier type="oclc">907941327</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>Nottingham University Press</publisher>
+         <dateIssued>2005</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF285.5 .A39 2005</classification>
+      <identifier type="control">9915474040907426</identifier>
+      <identifier type="oclc">57691619</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+            <placeTerm type="text">District of Columbia</placeTerm>
+         </place>
+         <publisher>Govt. Print. Off.</publisher>
+         <dateIssued>1906</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41P73 1906</classification>
+      <identifier type="control">9915475957607426</identifier>
+      <identifier type="oclc">1012069936</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+            <placeTerm type="text">District of Columbia</placeTerm>
+         </place>
+         <publisher>Govt. Print. Off.</publisher>
+         <dateIssued>1903</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1903</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41 P73</classification>
+      <identifier type="control">9915476093907426</identifier>
+      <identifier type="oclc">06342711</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <publisher>Military pub. co.</publisher>
+         <dateIssued>1909</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1909</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41P73 1909</classification>
+      <identifier type="control">9915476132307426</identifier>
+      <identifier type="oclc">1289093432</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>W.B. Saunders Co.</publisher>
+         <dateIssued>1915</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1915</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">text</form>
+         <form authority="marcsmd">regular print</form>
+      </physicalDescription>
+      <classification authority="nal">42 H11</classification>
+      <identifier type="control">9915484657907426</identifier>
+      <identifier type="oclc">05003943</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>Centre for Tropical Veterinary Medicine</publisher>
+         <dateIssued>1991</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF170.D66 1991</classification>
+      <identifier type="control">9915486999807426</identifier>
+      <identifier type="oclc">24715118</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>J.A. Allen</publisher>
+         <dateIssued>[1974]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1974</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <identifier type="control">9915489887907426</identifier>
+      <identifier type="oclc">01343745</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <publisher>Marcel Dekker</publisher>
+         <dateIssued>©2005</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF61 .E55 2005</classification>
+      <identifier type="control">9915492910107426</identifier>
+      <identifier type="oclc">57033325</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">aca</placeTerm>
+         </place>
+         <publisher>ACIL Economics and Policy Pty.</publisher>
+         <dateIssued>[1995]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1995</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951.W53 1995</classification>
+      <identifier type="control">9915495039007426</identifier>
+      <identifier type="oclc">36864760</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <publisher>Interstate Publishers</publisher>
+         <dateIssued>1999</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF285.E53 1999</classification>
+      <identifier type="control">9915496108207426</identifier>
+      <identifier type="oclc">39287504</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <publisher>J.W. Franks &amp; Sons</publisher>
+         <dateIssued>1884</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41 D922</classification>
+      <identifier type="control">9915498070207426</identifier>
+      <identifier type="oclc">14979837</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enkenkEngland</placeTerm>
+         </place>
+         <publisher>Coward-McCann</publisher>
+         <dateIssued>[1956, ©1955]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1956-19-55</dateIssued>
+         <copyrightDate encoding="marc">1955</copyrightDate>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41 C64</classification>
+      <identifier type="control">9915498070507426</identifier>
+      <identifier type="oclc">03254510</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo>
+         <publisher>OIE</publisher>
+         <dateIssued>©1994</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF793.O54 1994</classification>
+      <identifier type="control">9915504091007426</identifier>
+      <identifier type="oclc">32324369</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>Frederick Warne and Co. and New York</publisher>
+         <dateIssued>1894</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1894</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 Ar5H</classification>
+      <identifier type="control">9915505552307426</identifier>
+      <identifier type="oclc">228740690</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>C. Arthur Pearson</publisher>
+         <dateIssued>1920</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1920</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 B28He</classification>
+      <identifier type="control">9915505674807426</identifier>
+      <identifier type="oclc">10398722</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <publisher>Austin &amp; Winfield Publishers</publisher>
+         <dateIssued>©2000</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">QL85 .S6 2000</classification>
+      <identifier type="control">9915507395107426</identifier>
+      <identifier type="oclc">44131805</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>W.B. Saunders Co.</publisher>
+         <dateIssued>©1999</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .V47 v. 15 no. 3</classification>
+      <identifier type="control">9915508652707426</identifier>
+      <identifier type="oclc">42940089</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>W.B. Saunders</publisher>
+         <dateIssued>©2002</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .V47 v. 18 no. 2</classification>
+      <identifier type="control">9915509781707426</identifier>
+      <identifier type="oclc">50732006</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">iau</placeTerm>
+            <placeTerm type="text">Iowa</placeTerm>
+         </place>
+         <publisher>Wiley-Blackwell</publisher>
+         <dateIssued>2008</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .B867 2008</classification>
+      <identifier type="control">9915512871007426</identifier>
+      <identifier type="oclc">231787172</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">cau</placeTerm>
+            <placeTerm type="text">California</placeTerm>
+         </place>
+         <publisher>United States Dept. of Agriculture, Forest Service [Forest Pest Management]</publisher>
+         <dateIssued>1987</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1987</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">aSB763.C2 R46 87-15</classification>
+      <identifier type="control">9915514012807426</identifier>
+      <identifier type="oclc">458311120</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mtu</placeTerm>
+            <placeTerm type="text">Montana</placeTerm>
+         </place>
+         <publisher>USDA Forest Service, Northern Region, Cooperative Forestry and Pest Management</publisher>
+         <dateIssued>[1982]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">aSD11 .U585 no. 82-18 1982</classification>
+      <identifier type="control">9915514472407426</identifier>
+      <identifier type="oclc">41859555</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">conference publication</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">miu</placeTerm>
+            <placeTerm type="text">Michigan</placeTerm>
+         </place>
+         <publisher>ASAE/Society for Engineering in Agricultural, Food, and Biological Systems</publisher>
+         <dateIssued>©2001</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF91 .L582 2001</classification>
+      <identifier type="control">9915515270807426</identifier>
+      <identifier type="oclc">48455834</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <identifier type="control">9915518129507426</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <publisher>Elsevier/Saunders</publisher>
+         <dateIssued>©2011</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF959.L25 R67 2011</classification>
+      <identifier type="control">9915523515707426</identifier>
+      <identifier type="oclc">658536645</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <publisher>Printed and sold by Samuel Sower. No. 190, Market-Street.</publisher>
+         <dateIssued>1803</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1803</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF285 .M372 1803</classification>
+      <identifier type="control">9915524572007426</identifier>
+      <identifier type="oclc">191262137</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>J.B. Lippincott &amp; Co.</publisher>
+         <dateIssued>1858</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1858</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 M38 1858</classification>
+      <identifier type="control">9915533206507426</identifier>
+      <identifier type="oclc">05209564</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>William MacKenzie, 69 Ludgate Hill, E.C.; Glasgow, and Edinburgh</publisher>
+         <dateIssued>[1874]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1874</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 M59M</classification>
+      <identifier type="control">9915533211107426</identifier>
+      <identifier type="oclc">02564339</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <publisher>Lippincott, Grambo &amp; Co.</publisher>
+         <dateIssued>1853</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1853</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 M38M 1853</classification>
+      <identifier type="control">9915533262107426</identifier>
+      <identifier type="oclc">16350407</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <publisher>A.C. McClurg &amp; Co.</publisher>
+         <dateIssued>1917</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1917</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 M552</classification>
+      <identifier type="control">9915533291007426</identifier>
+      <identifier type="oclc">00551157</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mtu</placeTerm>
+            <placeTerm type="text">Montana</placeTerm>
+         </place>
+         <publisher>Forest Insect &amp; Disease Management, USDA, Forest Service, Northern Region, State &amp; Private Forestry</publisher>
+         <dateIssued>1977</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1977</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">aSD11 .U585 no. 77-11 1977</classification>
+      <identifier type="control">9915536188007426</identifier>
+      <identifier type="oclc">05462592</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+            <placeTerm type="text">District of Columbia</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Agriculture</publisher>
+         <dateIssued>1991</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">1 Ag84Pro no.596</classification>
+      <identifier type="control">9915539837307426</identifier>
+      <identifier type="oclc">1289035096</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <publisher>Maryland Agricultural Experiment Station</publisher>
+         <dateIssued>1898</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1898</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">100 M36S no.53</classification>
+      <identifier type="control">9915544809407426</identifier>
+      <identifier type="oclc">23127878</identifier>
+      <extension>
+         <note type="publicationSource">State experiment station</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <publisher>[publisher not identified]</publisher>
+         <dateIssued>[1984?]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">TRANSL 32117</classification>
+      <identifier type="control">9915545057107426</identifier>
+      <identifier type="oclc">12797602</identifier>
+      <extension>
+         <note type="publicationSource">Translation</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <publisher>O. Judd Co.</publisher>
+         <dateIssued>1879</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41 D12M</classification>
+      <identifier type="control">9915549962407426</identifier>
+      <identifier type="oclc">15806638</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            <placeTerm type="text">Massachusetts</placeTerm>
+         </place>
+         <publisher>Published by John P. Jewett and Co. [and 2 others]</publisher>
+         <dateIssued>1855</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1855</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .D34 1855</classification>
+      <identifier type="control">9915549994707426</identifier>
+      <identifier type="oclc">17286606</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">flu</placeTerm>
+            <placeTerm type="text">Florida</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF951 .R243 2014</classification>
+      <identifier type="control">9915550767007426</identifier>
+      <identifier type="oclc">870890287</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>Gresham Pub. Co.</publisher>
+         <dateIssued>1906</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">42 Ax2H</classification>
+      <identifier type="control">9915552789507426</identifier>
+      <identifier type="oclc">16632626</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <publisher>Mosby Year Book</publisher>
+         <dateIssued>©1992</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1992</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">SF780.4.V46 1992</classification>
+      <identifier type="control">9915553025207426</identifier>
+      <identifier type="oclc">22309839</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Melleville</publisher>
+         <dateIssued>1825</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1825</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <classification authority="nal">41 G443</classification>
+      <identifier type="control">9915554783107426</identifier>
+      <identifier type="oclc">17461004</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

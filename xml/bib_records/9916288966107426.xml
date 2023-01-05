@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+    <leader>03510nab a2200613 u 4500</leader>
+    <controlfield tag="001">9916288966107426</controlfield>
+    <controlfield tag="005">20221118121758.0</controlfield>
+    <controlfield tag="008">981119e199804 mdu|||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+        <subfield code="a">IND21811969</subfield>
+        <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+        <subfield code="a">10.1093/ee/27.2.355</subfield>
+        <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+        <subfield code="a">agid:1408166-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">AGL</subfield>
+        <subfield code="b">eng</subfield>
+        <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+        <subfield code="a">McCravy, K.W.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+        <subfield code="a">Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in
+            relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and
+            location</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+        <subfield code="a">p. 355-359.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">2019-12-04</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+        <subfield code="a">Patterns of parasitism by Trichogramma spp. relative to density and
+            location of Nantucket pine tip moth, Rhyacionia frustrana (Comstock), eggs were examined
+            during 1994 in a 13-ha, 2-yr-old Pinus taeda L. plantation in northeastern Georgia. Egg
+            densities were adjusted by temporarily enclosing trees in fine mesh screen cages and
+            introducing different numbers of tip moths. After exposing eggs to naturally occurring
+            parasitoids, all shoots were removed, and eggs were counted and evaluated for parasitism.
+            Tip moth egg densities ranged from 203 to 2,579 per tree for the spring generation, and from
+            1 to 89 per tree for the summer generation. Tip moths deposited significantly greater
+            numbers of eggs on needles than shoots on high- versus low-egg-density trees. Overall
+            parasitism rates were 37.2 and 43.3% for spring- and summer-generation eggs, respectively.
+            Parasitism was density independent at the whole-tree level in both generations, but
+            spring-generation parasitism was strongly inversely density dependent in the top whorl.
+            Numbers of eggs per needle fascicle ranged from 1 to 15 for spring-generation trees. Actual
+            numbers of parasitized eggs per discovered fascicle (one on which parasitism occurred)
+            increased with egg density, but the percentage of parasitized eggs decreased. Egg density
+            had no effect on fascicle discovery. These factors produced an inversely density-dependent
+            relationship between egg parasitism and density at the fascicle level. Eggs located on
+            shoots suffered significantly greater parasitism rates than those on needles. Implications
+            of these results are discussed.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+        <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">parasitism</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">parasitoids</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Rhyacionia frustrana</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">ova</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">spatial distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">host-parasite relationships</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">conifer needles</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">seasonal variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Pinus taeda</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">density</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Trichogramma</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">shoots</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+        <subfield code="a">Georgia</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">parasites</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">host location</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">parasites of insect pests</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Berisford, C.W.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+        <subfield code="t">Environmental entomology.</subfield>
+        <subfield code="g">1998 Apr., v. 27, no. 2 p.355-359</subfield>
+        <subfield code="x">0046-225X</subfield>
+        <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">(Journal)jnl3243</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+        <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://dx.doi.org/10.1093/ee/27.2.355</subfield>
+        <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+        <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="a">Journal:jnl3243</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="f">Environ. entomol</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+        <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+        <subfield code="a">19990101</subfield>
+        <subfield code="b">19990111</subfield>
+        <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+        <subfield code="a">IND21811969</subfield>
+        <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="945" ind1=" " ind2=" ">
+        <subfield code="a">IND</subfield>
+        <subfield code="d">NZM</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+        <subfield code="a">Other US</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+        <subfield code="a">19990101 19990111 00000000</subfield>
+        <subfield code="b">IND NZM </subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+        <subfield code="a">agid:1408166</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+        <subfield code="a">2014-12-25</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+        <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+            (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+        <subfield code="a">3315514</subfield>
+    </datafield>
+</record>

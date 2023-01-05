@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3">
+   <mods version="3.4">
+      <titleInfo>
+         <title>Frequent, low-amplitude disturbances drive high tree turnover rates                 on a remote, cyclone-prone Polynesian island</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Edward L.</namePart>
+         <namePart type="family">Webb</namePart>
+         <displayForm>Webb, Edward L.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Joshua O.</namePart>
+         <namePart type="family">Seamon</namePart>
+         <displayForm>Seamon, Joshua O.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Siaifoi</namePart>
+         <namePart type="family">Fa'aumu</namePart>
+         <displayForm>Fa'aumu, Siaifoi</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+            <placeTerm type="text">District of Columbia</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1240-1252.</extent>
+      </physicalDescription>
+      <abstract>Aim How important are frequent, low-intensity disturbances to tree                 community dynamics of a cyclone-prone forest? We tested the following hypotheses                 concerning the ‘inter-cataclysm' period on a remote Polynesian island: (1) tree                 turnover would be high and recruitment rates would be significantly higher than                 mortality; (2) low-intensity disturbance would result in a marginal increase in tree                 mortality in the short term; (3) turnover would vary among species and would be                 associated with plant traits linked to differences in life history; and (4)                 mortality and recruitment events would be spatially non-random. Location Tutuila, a                 volcanic island in the Samoan Archipelago, Polynesia. Methods We censused the tree                 (stem diameter ≥ 10 cm) community in 3.9 ha of tropical forest three times over a                 10-year period, 1998-2008. We calculated annual mortality, recruitment and turnover                 rates for 36 tree species. We tested for non-random spatial patterns and predictors                 of mortality, and non-random spatial patterns of tree recruitment. A 2004 cyclone                 passing within 400 km allowed us to measure the effects of a non-cataclysmic                 disturbance on vital rates. Results Annual turnover was 2.8% and annual recruitment                 was 3.6%; these are some of the highest rates in the tropics, and likely to be a                 response to a cyclone that passed &lt; 50 km from Tutuila in 1991. Species turnover                 rates over 10 years were negatively correlated with wood specific gravity, and                 positively correlated with annual stem diameter increment. Mortality was spatially                 aggregated, and a function of site, species and an individual's growth rate.                 Recruitment was highest on ground with low slope. The low-magnitude cyclone                 disturbance in 2004 defoliated 29% of all trees, but killed only 1.8% of trees                 immediately and increased annual mortality over 5 years by 0.7%. Main conclusions                 The inter-cataclysm period on Tutuila is characterized by frequent, low-amplitude                 disturbances that promote high rates of tree recruitment and create a dynamic,                 non-equilibrium or disturbed island disequilibrium tree community. Species with low                 wood density and fast growth rates have enhanced opportunities for recruitment                 between cataclysms, but also higher probabilities of dying. Our results suggest that                 increases in the frequency of cyclone activity could shift relative abundances                 towards disturbance-specialist species and new forest turnover rates.</abstract>
+      <note>Includes References</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>correlation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>life history</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wood density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wood</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>specific gravity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject>
+         <topic>recruitment</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1111/j.1365-2699.2011.02505.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of biogeography</title>
+         </titleInfo>
+         <identifier type="issn">0305-0270</identifier>
+         <identifier type="local">Journal:jnl9765</identifier>
+         <part>
+            <detail type="volume">
+               <number>38</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>7</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>1240</start>
+               <end>1252</end>
+               <total>13</total>
+            </extent>
+            <text type="year">2011</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1365-2699.2011.02505.x</identifier>
+      <identifier type="control">9916289322707426</identifier>
+      <identifier type="agricola">IND44591654</identifier>
+      <extension>
+         <identifier type="local">agid:644025</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">110617</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118052810.0</recordChangeDate>
+         <recordIdentifier>9916289322707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

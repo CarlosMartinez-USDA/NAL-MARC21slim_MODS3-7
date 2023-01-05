@@ -1,0 +1,3860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3">
+   <mods version="3.4">/&gt;         <name type="personal" usage="primary">
+         <namePart type="given">Orville Ausustus</namePart>
+         <namePart type="family">Roorbach</namePart>
+         <displayForm>Roorbach, Orville Ausustus</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">New York</placeTerm>
+         </place>
+         <publisher>Happy Hours Co.</publisher>
+         <dateIssued>[©1872]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1872</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <subject>
+         <geographicCode authority="marcgac">n-us---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>United States</geographic>
+         <topic>Handbooks, manuals, etc</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>United States</geographic>
+         <genre>Handbooks, manuals, etc</genre>
+      </subject>
+      <subject authority="atg">
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Animal Production</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Veterinary Science</topic>
+      </subject>
+      <classification authority="nal">SF285.3.R6 R</classification>
+      <identifier type="control">9915427698807426</identifier>
+      <identifier type="lccn">05002644</identifier>
+      <identifier type="agricola">CAT87882125</identifier>
+      <identifier type="oclc">15862816</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">890421</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101144853.0</recordChangeDate>
+         <recordIdentifier>9915427698807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">E. A. A.</namePart>
+         <namePart type="family">Grange</namePart>
+         <displayForm>Grange, E. A. A.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">miu</placeTerm>
+            <placeTerm type="text">Michigan</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Lansing]</placeTerm>
+         </place>
+         <publisher>Agricultural College of Michigan</publisher>
+         <dateIssued>[1887]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1887</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">[by E.A.A. Grange].</note>
+      <classification authority="nal">100 M58S no.25</classification>
+      <identifier type="control">9915429476407426</identifier>
+      <identifier type="agricola">CAT91255221</identifier>
+      <identifier type="oclc">23228197</identifier>
+      <extension>
+         <note type="publicationSource">State experiment station</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">RQF</recordContentSource>
+         <recordCreationDate encoding="marc">910615</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101165537.0</recordChangeDate>
+         <recordIdentifier>9915429476407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Joseph Brine</namePart>
+         <namePart type="family">Coleman</namePart>
+         <displayForm>Coleman, Joseph Brine</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Chicago</placeTerm>
+         </place>
+         <publisher>Published by the author at the Office of Henry Fish &amp;                 Co.</publisher>
+         <dateIssued>1876</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1876</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by Joseph Brine Coleman.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Anatomy</topic>
+      </subject>
+      <classification authority="nal">42 C67</classification>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Fox, C.G. The Fairman Rogers Coll. on the horse and                 equitation,</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Pathological horse-shoeing</title>
+         </titleInfo>
+         <name>
+            <namePart>Coleman, Joseph Brine</namePart>
+         </name>
+         <identifier type="local">(OCoLC)920372405</identifier>
+      </relatedItem>
+      <identifier type="control">9915432979407426</identifier>
+      <identifier type="agricola">CAT10506584</identifier>
+      <identifier type="oclc">1049506915</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">PAU</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101190709.0</recordChangeDate>
+         <recordIdentifier>9915432979407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Frederick B.</namePart>
+         <namePart type="family">Hadley</namePart>
+         <displayForm>Hadley, Frederick B.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">globe</genre>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Place of publication not identified]</placeTerm>
+         </place>
+         <publisher>W.B. Saunders Co.</publisher>
+         <dateIssued>1916</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1916</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">Frederick B. Hadley.</note>
+      <classification authority="nal">42 H11 1916</classification>
+      <identifier type="control">9915437803207426</identifier>
+      <identifier type="agricola">CAT10683669</identifier>
+      <identifier type="agricola">010861350</identifier>
+      <identifier type="oclc">500036629</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">UKMGB</recordContentSource>
+         <recordCreationDate encoding="marc">910402</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101185327.0</recordChangeDate>
+         <recordIdentifier>9915437803207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">John Paul</namePart>
+         <namePart type="family">Rosborough</namePart>
+         <displayForm>Rosborough, John Paul</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">uuuuuu</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Urbana</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">0001</dateIssued>
+      </originInfo>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <identifier type="control">9915438094807426</identifier>
+      <identifier type="agricola">CAT70301614</identifier>
+      <identifier type="oclc">1289066122</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">701217</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101180546.0</recordChangeDate>
+         <recordIdentifier>9915438094807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">C. Wayne</namePart>
+         <namePart type="family">McIlwraith</namePart>
+         <displayForm>McIlwraith, C. Wayne</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Gayle W.</namePart>
+         <namePart type="family">Trotter</namePart>
+         <displayForm>Trotter, Gayle W.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <publisher>W.B. Saunders</publisher>
+         <dateIssued>©1996</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">[edited by] C. Wayne McIlwraith, Gayle W.                 Trotter.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <classification authority="lcc">SF959.J64 J385 1996</classification>
+      <classification authority="nal">SF959.J64J385 1996</classification>
+      <identifier type="isbn">0721651356</identifier>
+      <identifier type="isbn">9780721651354</identifier>
+      <identifier type="control">9915438477707426</identifier>
+      <identifier type="lccn">95020476</identifier>
+      <identifier type="agricola">CAT10820184</identifier>
+      <identifier type="agricola">9615295</identifier>
+      <identifier type="oclc">33047515</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">970114</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101180933.0</recordChangeDate>
+         <recordIdentifier>9915438477707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Rebecca L.</namePart>
+         <namePart type="family">Frankeny</namePart>
+         <displayForm>Frankeny, Rebecca L.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Steven</namePart>
+         <namePart type="family">Duren</namePart>
+         <displayForm>Duren, Steven</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">vtu</placeTerm>
+            <placeTerm type="text">Vermont</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">North Pomfret, Vt</placeTerm>
+         </place>
+         <publisher>Trafalgar Square Pub.</publisher>
+         <dateIssued>2003</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">Rebecca L. Frankeny ; contributing author, Steven Duren ;                 illustrations, Kathi Haworth ; foreword by Ron Scheuring.</note>
+      <note type="bibliography">Includes bibliographical references (page 149).</note>
+      <subject authority="lcsh">
+         <topic>Physiology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Health</topic>
+      </subject>
+      <classification authority="lcc">SF951 .F75 2003</classification>
+      <classification authority="nal">SF951 .F75 2003</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Miniature horses</title>
+         </titleInfo>
+         <name>
+            <namePart>Frankeny, Rebecca L</namePart>
+         </name>
+         <identifier type="local">(OCoLC)708190843</identifier>
+      </relatedItem>
+      <identifier type="isbn">157076235X</identifier>
+      <identifier type="isbn">9781570762352</identifier>
+      <identifier type="control">9915442164307426</identifier>
+      <identifier type="lccn">2002015351</identifier>
+      <identifier type="agricola">CAT11136854</identifier>
+      <identifier type="oclc">50676244</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">030813</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101215058.0</recordChangeDate>
+         <recordIdentifier>9915442164307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">Terry L.</namePart>
+         <namePart type="family">Blanchard</namePart>
+         <displayForm>Blanchard, Terry L.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Terry L.</namePart>
+         <namePart type="family">Blanchard</namePart>
+         <displayForm>Blanchard, Terry L.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">St. Louis</placeTerm>
+         </place>
+         <publisher>Mosby</publisher>
+         <dateIssued>©2003</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+         <edition>2nd ed.</edition>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">T.L. Blanchard [and others].</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Reproduction</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Breeding</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>physiology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>physiology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>therapy</topic>
+      </subject>
+      <classification authority="lcc">SF768.2.H67 M36 2003</classification>
+      <classification authority="nal">SF768.2.H67 B58 2003</classification>
+      <identifier type="isbn">0323017134</identifier>
+      <identifier type="isbn">9780323017138</identifier>
+      <identifier type="control">9915443877507426</identifier>
+      <identifier type="lccn">2002033674</identifier>
+      <identifier type="agricola">CAT11128744</identifier>
+      <identifier type="agricola">101153019</identifier>
+      <identifier type="oclc">50511337</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DNLM/DLC</recordContentSource>
+         <recordCreationDate encoding="marc">030124</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101230546.0</recordChangeDate>
+         <recordIdentifier>9915443877507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="date">1963-</namePart>
+         <namePart type="given">Jason</namePart>
+         <namePart type="family">Peters</namePart>
+         <displayForm>Peters, Jason</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">kyu</placeTerm>
+            <placeTerm type="text">Kentucky</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Lexington</placeTerm>
+         </place>
+         <publisher>University Press of Kentucky</publisher>
+         <dateIssued>©2007</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">edited by Jason Peters.</note>
+      <note type="bibliography">Includes bibliographical references (pages 329-334) and                 index.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart type="date">1934-</namePart>
+         </name>
+      </subject>
+      <subject authority="fast">
+         <name type="personal">
+            <namePart type="date">1934-</namePart>
+         </name>
+      </subject>
+      <subject authority="sears">
+         <name type="personal">
+            <namePart type="date">1934-</namePart>
+         </name>
+      </subject>
+      <classification authority="lcc">PS3552.E75 Z96 2007</classification>
+      <classification authority="nal">PS3552.E75 Z96 2007</classification>
+      <location>
+         <url usage="primary">http://www.loc.gov/catdir/toc/ecip0711/2007005962.html</url>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Wendell Berry</title>
+         </titleInfo>
+         <identifier type="local">(OCoLC)608524418</identifier>
+      </relatedItem>
+      <identifier type="isbn">9780813124421</identifier>
+      <identifier type="isbn">0813124425</identifier>
+      <identifier type="isbn">9780813192574</identifier>
+      <identifier type="isbn">0813192579</identifier>
+      <identifier type="isbn" invalid="marcPrefix-yes">9780813172538</identifier>
+      <identifier type="isbn" invalid="marcPrefix-yes">0813172535</identifier>
+      <identifier type="isbn" invalid="marcPrefix-yes">9780813137650</identifier>
+      <identifier type="isbn" invalid="marcPrefix-yes">0813137659</identifier>
+      <identifier>99817228663</identifier>
+      <identifier type="control">9915443896407426</identifier>
+      <identifier type="lccn">2007005962</identifier>
+      <identifier type="agricola">CAT31021104</identifier>
+      <identifier type="oclc">85162009</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">070706</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101230553.0</recordChangeDate>
+         <recordIdentifier>9915443896407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Zeynelabidin</namePart>
+         <namePart type="family">Erdöl</namePart>
+         <displayForm>Erdöl, Zeynelabidin</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">globe</genre>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Istanbul</placeTerm>
+         </place>
+         <publisher>Osmanbey Basimevi</publisher>
+         <dateIssued>1945</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1945</dateIssued>
+      </originInfo>
+      <subject authority="agricola">
+         <topic>Animal Diseases (Viral)</topic>
+      </subject>
+      <classification authority="nal">41 Er2</classification>
+      <identifier type="control">9915445550007426</identifier>
+      <identifier type="agricola">CAT10721949</identifier>
+      <identifier type="oclc">71030941</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">941102</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102002737.0</recordChangeDate>
+         <recordIdentifier>9915445550007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">Paul R.</namePart>
+         <namePart type="family">Gross</namePart>
+         <displayForm>Gross, Paul R.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1943-</namePart>
+         <namePart type="given">N.</namePart>
+         <namePart type="family">Levitt</namePart>
+         <displayForm>Levitt, N.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Martin W.</namePart>
+         <namePart type="family">Lewis</namePart>
+         <displayForm>Lewis, Martin W.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">New York N.Y</placeTerm>
+         </place>
+         <publisher>New York Academy of Sciences</publisher>
+         <dateIssued>1996</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">edited by Paul R. Gross, Norman Levitt, and Martin W.                 Lewis.</note>
+      <note type="bibliography">Includes bibliographical references and indexes.</note>
+      <subject authority="lcsh">
+         <topic>Philosophy</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Social aspects</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <classification authority="lcc">Q175 .F58 1996</classification>
+      <classification authority="nal">500 N484 v.775</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Flight from science and reason</title>
+         </titleInfo>
+         <identifier type="local">(OCoLC)607766345</identifier>
+      </relatedItem>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Flight from science and reason</title>
+         </titleInfo>
+         <identifier type="local">(OCoLC)607809254</identifier>
+      </relatedItem>
+      <identifier type="isbn">1573310026</identifier>
+      <identifier type="isbn">9781573310024</identifier>
+      <identifier type="isbn">1573310034</identifier>
+      <identifier type="isbn">9781573310031</identifier>
+      <identifier type="control">9915446222107426</identifier>
+      <identifier type="lccn">96005689</identifier>
+      <identifier type="agricola">CAT10825528</identifier>
+      <identifier type="agricola">101692705</identifier>
+      <identifier type="agricola">BA27939395</identifier>
+      <identifier type="agricola">006347009</identifier>
+      <identifier type="oclc">34546011</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">970411</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102005825.0</recordChangeDate>
+         <recordIdentifier>9915446222107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">John</namePart>
+         <namePart type="family">Lawrence</namePart>
+         <displayForm>Lawrence, John</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>M. Arnold</publisher>
+         <dateIssued>1829</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1829</dateIssued>
+      </originInfo>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility" altRepGroup="00">by John Lawrence ...</note>
+      <classification authority="lcc">SF285 .L42</classification>
+      <classification authority="nal">SF285 .L39 1829</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horse in all his varieties and uses</title>
+         </titleInfo>
+         <name>
+            <namePart>Lawrence, John, 1753-1839</namePart>
+         </name>
+         <identifier type="local">(OCoLC)920372447</identifier>
+      </relatedItem>
+      <identifier type="control">9915447752707426</identifier>
+      <identifier type="lccn">agr06001580</identifier>
+      <identifier type="agricola">CAT10503599</identifier>
+      <identifier type="oclc">02145505</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">920703</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102021909.0</recordChangeDate>
+         <recordIdentifier>9915447752707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">James L.</namePart>
+         <namePart type="family">Naviaux</namePart>
+         <displayForm>Naviaux, James L.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
+         <edition>Second edition.</edition>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Philadelphia :Lea &amp; Febiger,1985</placeTerm>
+         </place>
+         <publisher>Lea &amp; Febiger</publisher>
+         <dateIssued>1985</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">James L. Naviaux.</note>
+      <note type="bibliography">Includes bibliographical references (pages 293-294) and                 index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF285.3 .N38 1985</classification>
+      <classification authority="nal">SF285.3.N38 1985</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horses in health and disease</title>
+         </titleInfo>
+         <name>
+            <namePart>Naviaux, James L</namePart>
+         </name>
+         <identifier type="local">(OCoLC)766247148</identifier>
+      </relatedItem>
+      <identifier type="isbn">081210935X</identifier>
+      <identifier type="isbn">9780812109351</identifier>
+      <identifier type="control">9915450851707426</identifier>
+      <identifier type="lccn">84007179</identifier>
+      <identifier type="agricola">CAT86860236</identifier>
+      <identifier type="agricola">8504802</identifier>
+      <identifier type="oclc">10696837</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">840326</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101215206.0</recordChangeDate>
+         <recordIdentifier>9915450851707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">J. H.</namePart>
+         <namePart type="family">Walsh</namePart>
+         <displayForm>Walsh, J. H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Robert</namePart>
+         <namePart type="family">McClure</namePart>
+         <displayForm>McClure, Robert</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1820-1889</namePart>
+         <namePart type="given">Ellwood</namePart>
+         <namePart type="family">Harvey</namePart>
+         <displayForm>Harvey, Ellwood</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <publisher>Porter &amp; Coates</publisher>
+         <dateIssued>©1871</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1871</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marccategory">microform</form>
+         <form authority="marcsmd">microfilm reel</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by J.H. Walsh ; with copious notes and additions by Robert                 McClure ; and an essay on the American trotting horse, and suggestions on the                 breeding and training of trotters by Ellwood Harvey ; illustrated with over eighty                 engravings.</note>
+      <note type="reproduction">Microfilm. University Park, Pa. : Pennsylvania State University, 1997. 1 microfilm reel ; 35 mm. (USAIN state and local literature preservation project.                 Pennsylvania) (Pennsylvania agricultural literature on                 microfilm).</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="nal">Film 1671</classification>
+      <identifier type="control">9915451960907426</identifier>
+      <identifier type="agricola">CAT10873564</identifier>
+      <identifier type="oclc">37453355</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">UPM</recordContentSource>
+         <recordCreationDate encoding="marc">990710</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101224549.0</recordChangeDate>
+         <recordIdentifier>9915451960907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal" usage="primary">
+         <namePart type="given">John</namePart>
+         <namePart type="family">Lawrence</namePart>
+         <displayForm>Lawrence, John</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <publisher>E.L. Carey and A. Hart</publisher>
+         <dateIssued>1830</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1830</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">microform</form>
+         <form authority="marcsmd">microfilm reel</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by John Lawrence.</note>
+      <note type="reproduction">Microfilm. University Park, Pa. : Pennsylvania State University, 1997. 1 microfilm reel ; 35 mm. (USAIN state and local literature preservation project.                 Pennsylvania) (Pennsylvania agricultural literature on                 microfilm).</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="nal">Film S-1943</classification>
+      <identifier type="control">9915451965207426</identifier>
+      <identifier type="agricola">CAT10872923</identifier>
+      <identifier type="oclc">39272096</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">UPM</recordContentSource>
+         <recordCreationDate encoding="marc">990626</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101224552.0</recordChangeDate>
+         <recordIdentifier>9915451965207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">J. H.</namePart>
+         <namePart type="family">Walsh</namePart>
+         <displayForm>Walsh, J. H.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">catalog</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">New York</placeTerm>
+         </place>
+         <publisher>G. Routledge and Sons</publisher>
+         <dateIssued>1880</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">By J.H. Walsh (Stonehenge) With one hundred and seventy                 illustrations by Harrison, Weir, Zwecker, and others.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF285 .W23 1880</classification>
+      <classification authority="nal">42 W16H 1880</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horse, in the stable and the field</title>
+         </titleInfo>
+         <name>
+            <namePart>Walsh, J</namePart>
+         </name>
+         <identifier type="local">(OCoLC)608658960</identifier>
+      </relatedItem>
+      <identifier type="control">9915454145107426</identifier>
+      <identifier type="lccn">34038798</identifier>
+      <identifier type="agricola">CAT10502169</identifier>
+      <identifier type="oclc">01037580</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">CPL</recordContentSource>
+         <recordCreationDate encoding="marc">920619</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102003410.0</recordChangeDate>
+         <recordIdentifier>9915454145107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         /&gt;         <name type="personal" usage="primary">
+         <namePart type="given">J. H.</namePart>
+         <namePart type="family">Walsh</namePart>
+         <displayForm>Walsh, J. H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1820-1889</namePart>
+         <namePart type="given">Ellwood</namePart>
+         <namePart type="family">Harvey</namePart>
+         <displayForm>Harvey, Ellwood</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1841-1926</namePart>
+         <namePart type="given">John</namePart>
+         <namePart type="family">Elderkin</namePart>
+         <displayForm>Elderkin, John</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <publisher>Porter &amp; Coates</publisher>
+         <dateIssued>1871</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1871</dateIssued>
+         <edition>11th rev. ed.</edition>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by J.H. Walsh ("Stonehenge") ; with An essay on the                 American trotting horse, and suggestions on the breeding and training of trotters by                 Ellwood Harvey, and the turf and trotting horse of America by John Elderkin. Illus ;                 with eighty engravings.</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Health</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Training</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Breeding</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="fast">
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Animal Production</topic>
+      </subject>
+      <classification authority="nal">SF951 .W36 1871</classification>
+      <relatedItem type="constituent">
+         <titleInfo>
+            <title>Essay on the American trotting horse, and suggestions on the                 breeding and training of trotters</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="constituent">
+         <titleInfo>
+            <title>Turf and trotting horse of America</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horse, in the stable and the field</title>
+         </titleInfo>
+         <name>
+            <namePart>Walsh, J</namePart>
+         </name>
+         <identifier type="local">(OCoLC)1011135018</identifier>
+      </relatedItem>
+      <identifier type="control">9915454305107426</identifier>
+      <identifier type="agricola">CAT10508801</identifier>
+      <identifier type="oclc">14063112</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">SUR</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102003609.0</recordChangeDate>
+         <recordIdentifier>9915454305107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">J. H.</namePart>
+         <namePart type="family">Walsh</namePart>
+         <displayForm>Walsh, J. H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1852-</namePart>
+         <namePart type="given">Harold</namePart>
+         <namePart type="family">Leeney</namePart>
+         <displayForm>Leeney, Harold</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>G. Routledge</publisher>
+         <dateIssued>1899</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1899</dateIssued>
+         <edition>15th ed.</edition>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by J.H. Walsh (Stonehenge) ; rev. by Harold Leeney ; with 213                 ill. by Harrison Weir, Zwecker, and others.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF285 .W23 1899</classification>
+      <classification authority="nal">42 W16H</classification>
+      <identifier type="control">9915454333407426</identifier>
+      <identifier type="agricola">CAT10506331</identifier>
+      <identifier type="oclc">06182765</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">IXA</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102003617.0</recordChangeDate>
+         <recordIdentifier>9915454333407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">David A.</namePart>
+         <namePart type="family">Sullivan</namePart>
+         <displayForm>Sullivan, David A.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">New York :Plenum Press,©1994</placeTerm>
+         </place>
+         <publisher>Plenum Press</publisher>
+         <dateIssued>©1994</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">edited by David A. Sullivan ; associate editors, B. Britt                 Bomberg, Michele M. Cripps ; assistant editors, Darlene A. Dartt [and                 others].</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Physiology</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="mesh">
+         <topic>diagnosis</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>therapy</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>physiology</topic>
+      </subject>
+      <classification authority="lcc">QP188.T4 L33 1994</classification>
+      <classification authority="nal">QP901.A33 v.350</classification>
+      <identifier type="isbn">0306446766</identifier>
+      <identifier type="isbn">9780306446764</identifier>
+      <identifier type="control">9915455102507426</identifier>
+      <identifier type="lccn">94002222</identifier>
+      <identifier type="agricola">CAT10664801</identifier>
+      <identifier type="agricola">9419706</identifier>
+      <identifier type="agricola">007069499</identifier>
+      <identifier type="oclc">29845531</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">DNLM/DLC</recordContentSource>
+         <recordCreationDate encoding="marc">940126</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102013107.0</recordChangeDate>
+         <recordIdentifier>9915455102507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">George</namePart>
+         <namePart type="family">Skeavington</namePart>
+         <displayForm>Skeavington, George</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">John</namePart>
+         <namePart type="family">Sherer</namePart>
+         <displayForm>Sherer, John</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enkenkEngland</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>London Print. and Pub. Co.</publisher>
+         <dateIssued>[18--?]</dateIssued>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">1880</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">1899</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by George Skeavington and John Sherer.</note>
+      <classification authority="lcc">SF285 .S5</classification>
+      <classification authority="nal">41 Sk22</classification>
+      <identifier type="control">9915458813407426</identifier>
+      <identifier type="agricola">CAT10509450</identifier>
+      <identifier type="oclc">15383528</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">NJR</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101213619.0</recordChangeDate>
+         <recordIdentifier>9915458813407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Bonnie</namePart>
+         <namePart type="family">Rush</namePart>
+         <displayForm>Rush, Bonnie</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Tim S.</namePart>
+         <namePart type="family">Mair</namePart>
+         <displayForm>Mair, Tim S.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Oxford, UK</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Malden, MA</placeTerm>
+         </place>
+         <publisher>Blackwell Science</publisher>
+         <dateIssued>2004</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+         <edition>1st ed.</edition>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">Bonnie Rush and Tim Mair.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <classification authority="lcc">SF959.R47 .B66 2004</classification>
+      <classification authority="nal">SF959.R47 B66 2004</classification>
+      <identifier type="isbn">0632052627</identifier>
+      <identifier type="isbn">9780632052622</identifier>
+      <identifier type="control">9915458890407426</identifier>
+      <identifier type="lccn">2004004234</identifier>
+      <identifier type="agricola">CAT30932253</identifier>
+      <identifier type="agricola">101232091</identifier>
+      <identifier type="agricola">012270788</identifier>
+      <identifier type="oclc">54536814</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">040223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101212939.0</recordChangeDate>
+         <recordIdentifier>9915458890407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal" usage="primary">
+         <namePart type="given">David W.</namePart>
+         <namePart type="family">Ramey</namePart>
+         <displayForm>Ramey, David W.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">vtu</placeTerm>
+            <placeTerm type="text">Vermont</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">North Pomfret, Vt</placeTerm>
+         </place>
+         <publisher>Trafalgar Square Pub.</publisher>
+         <dateIssued>2004</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">David W. Ramey.</note>
+      <note type="bibliography">Includes bibliographical references (pages 88-89) and                 index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF959.R47 R27 2004</classification>
+      <classification authority="nal">SF959.R47 R27 2004</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Concise guide to respiratory disease of the                 horse</title>
+         </titleInfo>
+         <name>
+            <namePart>Ramey, David W</namePart>
+         </name>
+         <identifier type="local">(OCoLC)708188855</identifier>
+      </relatedItem>
+      <identifier type="isbn">1570762945</identifier>
+      <identifier type="isbn">9781570762949</identifier>
+      <identifier type="control">9915458898007426</identifier>
+      <identifier type="lccn">2004013153</identifier>
+      <identifier type="agricola">CAT30932480</identifier>
+      <identifier type="oclc">55645014</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">040603</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101212939.0</recordChangeDate>
+         <recordIdentifier>9915458898007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal" usage="primary">
+         <namePart type="given">S.H.</namePart>
+         <namePart type="family">Dubreuil</namePart>
+         <displayForm>Dubreuil, S.H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">S.</namePart>
+         <namePart type="family">Tunnock</namePart>
+         <displayForm>Tunnock, S.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">O.J.</namePart>
+         <namePart type="family">Dooling</namePart>
+         <displayForm>Dooling, O.J.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">globe</genre>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
+      </originInfo>
+      <note type="bibliography">Includes references.</note>
+      <subject authority="atg">
+         <geographic>Montana</geographic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Pests of Plants (Insects and Other Arthropods)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Diseases (Fungi)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forestry Related</topic>
+      </subject>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Report - USDA Forest Service, Northern Region, State and Private                 Forestry</title>
+         </titleInfo>
+         <titleInfo type="abbreviated">
+            <title>Rep U S Dep Agric For Serv North Reg State Priv                 For</title>
+         </titleInfo>
+         <part>
+            <detail type="volume">
+               <number> (82-18)</number>
+               <caption>v.</caption>
+            </detail>
+            <extent unit="pages">
+               <start> (82-18)</start>
+               <end> (82-18)</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <identifier type="control">9915467720007426</identifier>
+      <identifier type="agricola">IND83042946</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">830514</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101220852.0</recordChangeDate>
+         <recordIdentifier>9915467720007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal">
+         <namePart type="given">Debra C.</namePart>
+         <namePart type="family">Sellon</namePart>
+         <displayForm>Sellon, Debra C.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Maureen T.</namePart>
+         <namePart type="family">Long</namePart>
+         <displayForm>Long, Maureen T.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">St. Louis, Mo</placeTerm>
+         </place>
+         <publisher>Saunders Elsevier</publisher>
+         <dateIssued>©2007</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">optical disc</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">[edited by] Debra C. Sellon, Maureen T. Long.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Infections</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <classification authority="lcc">SF951 .E557 2007</classification>
+      <classification authority="nal">SF951 .E682 2007</classification>
+      <identifier type="isbn">9781416024064</identifier>
+      <identifier type="isbn">1416024069</identifier>
+      <identifier type="isbn">9781437710618</identifier>
+      <identifier type="isbn">1437710611</identifier>
+      <identifier type="control">9915470371207426</identifier>
+      <identifier type="lccn">2007275421</identifier>
+      <identifier type="agricola">CAT30974628</identifier>
+      <identifier type="agricola">000041254950</identifier>
+      <identifier type="agricola">101298326</identifier>
+      <identifier type="oclc">84729971</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">NLM</recordContentSource>
+         <recordCreationDate encoding="marc">070131</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102002353.0</recordChangeDate>
+         <recordIdentifier>9915470371207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">C. Wayne</namePart>
+         <namePart type="family">McIlwraith</namePart>
+         <displayForm>McIlwraith, C. Wayne</displayForm>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">David D.</namePart>
+         <namePart type="family">Frisbie</namePart>
+         <displayForm>Frisbie, David D.</displayForm>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christopher E.</namePart>
+         <namePart type="family">Kawcak</namePart>
+         <displayForm>Kawcak, Christopher E.</displayForm>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="date">1957-</namePart>
+         <namePart type="given">René van</namePart>
+         <namePart type="family">Weeren</namePart>
+         <displayForm>Weeren, René van</displayForm>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">moumouMissouri</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2016-20-16</dateIssued>
+         <copyrightDate encoding="marc">2016</copyrightDate>
+         <edition>Second edition.</edition>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">St. Louis, Missouri :Elsevier,[2016]</placeTerm>
+         </place>
+         <publisher>Elsevier</publisher>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">edited by C. Wayne McIlwraith, BVSc, PhD, Dr med vet (h.c.                 Vienna), DSc (Purdue), DSc (h.c. Massey), Laurea Dr (h.c. Turin), D vet med (h.c.                 London), FRCVS, Diplomate ACVS, ECVS, &amp; ACVSMR, University Distinguished                 Professor, Barbara Cox Anthony University Chair in Orthopaedics, Director                 Orthopaedic Research Center, Gail Holmes Equine Orthopaedic Research Center, College                 of Veterinary Medicine and Biomedical Sciences, School of Biomedical Engineering,                 Colorado State University, Fort Collins, Colorado, David D. Frisbie, DVM, PhD,                 Diplomate ACVS &amp; ACVSMR, Professor, Gail Holmes Equine Orthopaedic Research                 Center, College of Veterinary Medicine and Biomedical Sciences, School of Biomedical                 Engineering, Colorado State University, Fort Collins, Colorado, Christopher E.                 Kawcak, Professor, DVN, PhD, Diplomate ACVS, &amp; ACVSMR, Professor, Iron Rose                 Ranch University Chair in Musculoskeletal Research, Gail Holmes Equine Orthopaedic                 Research Center, College of Veterinary Medicine and Biomedical Sciences, School of                 Biomedical Engineering, Director of Equine Clinical Services, Colorado State                 University, Fort Collins, Colorado, P. Rene Van Weeren, DVM, PhD, Diplomate ECVS,                 Professor of Equine Musculoskeletal Biology, Department of Equine Sciences, Faculty                 of Veterinary Medicine, Utrecht University, Utrecht, the                 Netherlands.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <classification authority="lcc">SF959.J64 J385 2016</classification>
+      <classification authority="nal">SF959.J64 J385 2016</classification>
+      <identifier type="isbn">9781455759699</identifier>
+      <identifier type="isbn">1455759694</identifier>
+      <identifier type="control">9915473218607426</identifier>
+      <identifier type="lccn">2015015062</identifier>
+      <identifier type="agricola">CAT31344538</identifier>
+      <identifier type="agricola">101656449</identifier>
+      <identifier type="oclc">907941327</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">DNLM/DLC</recordContentSource>
+         <recordCreationDate encoding="marc">150417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101200126.0</recordChangeDate>
+         <recordIdentifier>9915473218607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">Joe D.</namePart>
+         <namePart type="family">Pagan</namePart>
+         <displayForm>Pagan, Joe D.</displayForm>
+      </name>
+      <name type="corporate">
+         <namePart>Kentucky Equine Research</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Nottingham</placeTerm>
+         </place>
+         <publisher>Nottingham University Press</publisher>
+         <dateIssued>2005</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">edited by Joe D. Pagan.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Feeding and feeds</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Nutrition</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <classification authority="lcc">SF285.5 .A38 2005</classification>
+      <classification authority="nal">SF285.5 .A39 2005</classification>
+      <identifier type="isbn">1904761283</identifier>
+      <identifier type="isbn">9781904761280</identifier>
+      <identifier type="control">9915474040907426</identifier>
+      <identifier type="agricola">CAT30948788</identifier>
+      <identifier type="agricola">013113031</identifier>
+      <identifier type="oclc">57691619</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">UKM</recordContentSource>
+         <recordCreationDate encoding="marc">050208</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102031305.0</recordChangeDate>
+         <recordIdentifier>9915474040907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="corporate">
+         <namePart>Mounted Service School (U.S.)</namePart>
+      </name>
+      <name type="personal">
+         <namePart type="given">Alexander</namePart>
+         <namePart type="family">Plummer</namePart>
+         <displayForm>Plummer, Alexander</displayForm>
+         <role>
+            <roleTerm type="text">compiler</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Richard H.</namePart>
+         <namePart type="family">Power</namePart>
+         <displayForm>Power, Richard H.</displayForm>
+         <role>
+            <roleTerm type="text">compiler</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+            <placeTerm type="text">District of Columbia</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Washington</placeTerm>
+         </place>
+         <publisher>Govt. Print. Off.</publisher>
+         <dateIssued>1906</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by the Training School instructors. School of application for                 cavalry and field artillery, Fort Riley, Kansas.</note>
+      <note type="bibliography">"Authorities consulted": page 4.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF961 .U6 1906</classification>
+      <classification authority="nal">41P73 1906</classification>
+      <identifier type="control">9915475957607426</identifier>
+      <identifier type="lccn">06025581</identifier>
+      <identifier type="agricola">CAT10712480</identifier>
+      <identifier type="oclc">1012069936</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">NJR</recordContentSource>
+         <recordCreationDate encoding="marc">900401</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102051210.0</recordChangeDate>
+         <recordIdentifier>9915475957607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="corporate">
+         <namePart>School of Application for Cavalry and Field Artillery (Fort                 Riley, Kan.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+            <placeTerm type="text">District of Columbia</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Washington</placeTerm>
+         </place>
+         <publisher>Govt. Print. Off.</publisher>
+         <dateIssued>1903</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1903</dateIssued>
+      </originInfo>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility" altRepGroup="00">compiled by Alexander Plummer and Richard H. Power ; for the                 instruction of farriers and horseshoers at the School of Application for Cavalry and                 Field Artillery, Fort Riley, Kansas.</note>
+      <note type="bibliography">"Authorities consulted": p.5.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF951 .U6 1903</classification>
+      <classification authority="nal">41 P73</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Army horse in accident and disease</title>
+         </titleInfo>
+         <name>
+            <namePart>School of Application for Cavalry and Field Artillery (Fort                 Riley, Kan</namePart>
+         </name>
+         <identifier type="local">(OCoLC)621558238</identifier>
+      </relatedItem>
+      <identifier type="control">9915476093907426</identifier>
+      <identifier type="agricola">CAT10712481</identifier>
+      <identifier type="oclc">06342711</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">USU</recordContentSource>
+         <recordCreationDate encoding="marc">900401</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102050646.0</recordChangeDate>
+         <recordIdentifier>9915476093907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="corporate">
+         <namePart>Mounted Service School (Fort Riley, Kan.)</namePart>
+      </name>
+      <name type="personal">
+         <namePart type="given">Alexander</namePart>
+         <namePart type="family">Plummer</namePart>
+         <displayForm>Plummer, Alexander</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Charles H.</namePart>
+         <namePart type="family">Jewell</namePart>
+         <displayForm>Jewell, Charles H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1879-</namePart>
+         <namePart type="given">Robert Melville</namePart>
+         <namePart type="family">Danford</namePart>
+         <displayForm>Danford, Robert Melville</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">New York</placeTerm>
+         </place>
+         <publisher>Military pub. co.</publisher>
+         <dateIssued>1909</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1909</dateIssued>
+      </originInfo>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility" altRepGroup="00">by the training school instructors. Mounted service school, Fort                 Riley, Kansas.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="nal">41P73 1909</classification>
+      <identifier type="control">9915476132307426</identifier>
+      <identifier type="agricola">CAT10712479</identifier>
+      <identifier type="oclc">1289093432</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">900401</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102050806.0</recordChangeDate>
+         <recordIdentifier>9915476132307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Frederick Brown</namePart>
+         <namePart type="family">Hadley</namePart>
+         <displayForm>Hadley, Frederick Brown</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>W.B. Saunders Co.</publisher>
+         <dateIssued>1915</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1915</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marccategory">text</form>
+         <form authority="marcsmd">regular print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by Frederick B. Hadley.</note>
+      <note xmlns:xlink="http://www.w3.org/1999/xlink"
+            type="action"
+            xlink:href="https://www.hathitrust.org/shared_print_program">committed to retain 20170930 20421231 HathiTrust https://www.hathitrust.org/shared_print_program PU</note>
+      <subject authority="lcsh">
+         <topic>Anatomy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF951 .H2</classification>
+      <classification authority="nal">42 H11</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horse in health and disease</title>
+         </titleInfo>
+         <identifier type="local">(OCoLC)761268347</identifier>
+      </relatedItem>
+      <identifier type="control">9915484657907426</identifier>
+      <identifier type="lccn">15017773</identifier>
+      <identifier type="agricola">CAT10505627</identifier>
+      <identifier type="agricola">CAT10683669</identifier>
+      <identifier type="oclc">05003943</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102051336.0</recordChangeDate>
+         <recordIdentifier>9915484657907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">D.</namePart>
+         <namePart type="family">Fielding</namePart>
+         <displayForm>Fielding, D.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">R. A.</namePart>
+         <namePart type="family">Pearson</namePart>
+         <displayForm>Pearson, R. A.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <publisher>Centre for Tropical Veterinary Medicine</publisher>
+         <dateIssued>1991</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+      </originInfo>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility" altRepGroup="00">edited by D. Fielding, R.A. Peasrson.</note>
+      <subject>
+         <geographicCode authority="marcgac">w------</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Tropics</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Tropics</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Tropics</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Tropics</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="fast">
+         <geographic>Tropics</geographic>
+      </subject>
+      <classification authority="lcc">SF170 .D66 1991</classification>
+      <classification authority="nal">SF170.D66 1991</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Donkeys mules and horses in tropical agricultural                 development</title>
+         </titleInfo>
+         <identifier type="local">(OCoLC)690421093</identifier>
+      </relatedItem>
+      <identifier type="isbn">0907146066</identifier>
+      <identifier type="isbn">9780907146063</identifier>
+      <identifier type="control">9915486999807426</identifier>
+      <identifier type="agricola">CAT92978385</identifier>
+      <identifier type="oclc">24715118</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">UKM</recordContentSource>
+         <recordCreationDate encoding="marc">920929</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102074044.0</recordChangeDate>
+         <recordIdentifier>9915486999807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">William Stephen</namePart>
+         <namePart type="family">Codrington</namePart>
+         <displayForm>Codrington, William Stephen</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>J.A. Allen</publisher>
+         <dateIssued>[1974]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1974</dateIssued>
+         <edition>[6th ed. rev.].</edition>
+      </originInfo>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF955 .C6 1974</classification>
+      <identifier type="isbn">0851312071</identifier>
+      <identifier type="isbn">9780851312071</identifier>
+      <identifier type="control">9915489887907426</identifier>
+      <identifier type="agricola">CAT75658194</identifier>
+      <identifier type="oclc">01343745</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">750801</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102120338.0</recordChangeDate>
+         <recordIdentifier>9915489887907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal">
+         <namePart type="date">1930-</namePart>
+         <namePart type="given">Wilson G.</namePart>
+         <namePart type="family">Pond</namePart>
+         <displayForm>Pond, Wilson G.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Alan W.</namePart>
+         <namePart type="family">Bell</namePart>
+         <displayForm>Bell, Alan W.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">New York, NY</placeTerm>
+         </place>
+         <publisher>Marcel Dekker</publisher>
+         <dateIssued>©2005</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">edited by Wilson G. Pond, Alan W. Bell.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <genre>Encyclopedias</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Encyclopedias</genre>
+      </subject>
+      <classification authority="lcc">SF61 .E496 2005</classification>
+      <classification authority="nal">SF61 .E55 2005</classification>
+      <identifier type="isbn">0824754964</identifier>
+      <identifier type="isbn">9780824754969</identifier>
+      <identifier type="isbn">0824754956</identifier>
+      <identifier type="isbn">9780824754952</identifier>
+      <identifier type="isbn">0824747968</identifier>
+      <identifier type="isbn">9780824747961</identifier>
+      <identifier type="control">9915492910107426</identifier>
+      <identifier type="lccn">2005297469</identifier>
+      <identifier type="agricola">CAT30942031</identifier>
+      <identifier type="oclc">57033325</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">MFP</recordContentSource>
+         <recordCreationDate encoding="marc">041123</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102045256.0</recordChangeDate>
+         <recordIdentifier>9915492910107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         /&gt;         /&gt;         <name type="personal" usage="primary">
+         <namePart type="given">George R.</namePart>
+         <namePart type="family">Wilson</namePart>
+         <displayForm>Wilson, George R.</displayForm>
+      </name>
+      <name type="corporate">
+         <namePart>Rural Industries Research and Development                 Corporation</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">aca</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Canberra, A.C.T</placeTerm>
+         </place>
+         <publisher>ACIL Economics and Policy Pty.</publisher>
+         <dateIssued>[1995]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1995</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">prepared by George R. Wilson.</note>
+      <subject>
+         <geographicCode authority="marcgac">u-at---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <geographic>Australia</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Infections</topic>
+         <geographic>Australia</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Australia</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="fast">
+         <geographic>Australia</geographic>
+      </subject>
+      <classification authority="nal">SF951.W53 1995</classification>
+      <identifier type="control">9915495039007426</identifier>
+      <identifier type="agricola">CAT10827255</identifier>
+      <identifier type="oclc">36864760</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">970512</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102070922.0</recordChangeDate>
+         <recordIdentifier>9915495039007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">M. Eugene</namePart>
+         <namePart type="family">Ensminger</namePart>
+         <displayForm>Ensminger, M. Eugene</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Danville, Ill</placeTerm>
+         </place>
+         <publisher>Interstate Publishers</publisher>
+         <dateIssued>1999</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+         <edition>7th ed.</edition>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by M.E. Ensminger.</note>
+      <classification authority="lcc">SF285 .E53 1999</classification>
+      <classification authority="nal">SF285.E53 1999</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horses and horsemanship</title>
+         </titleInfo>
+         <name>
+            <namePart>Ensminger, M</namePart>
+         </name>
+         <identifier type="local">(OCoLC)767576040</identifier>
+      </relatedItem>
+      <identifier type="isbn">0813431158</identifier>
+      <identifier type="isbn">9780813431154</identifier>
+      <identifier type="control">9915496108207426</identifier>
+      <identifier type="lccn">96079329</identifier>
+      <identifier type="agricola">CAT10856333</identifier>
+      <identifier type="oclc">39287504</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">981021</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102083650.0</recordChangeDate>
+         <recordIdentifier>9915496108207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">John C.</namePart>
+         <namePart type="family">Dunnington</namePart>
+         <displayForm>Dunnington, John C.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Peoria, Ill</placeTerm>
+         </place>
+         <publisher>J.W. Franks &amp; Sons</publisher>
+         <dateIssued>1884</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">By John C. Dunnington &amp; Son, Washington,                 Ill.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="nal">41 D922</classification>
+      <identifier type="control">9915498070207426</identifier>
+      <identifier type="agricola">CAT10509313</identifier>
+      <identifier type="oclc">14979837</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">JFK</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102113029.0</recordChangeDate>
+         <recordIdentifier>9915498070207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">William Stephen</namePart>
+         <namePart type="family">Codrington</namePart>
+         <displayForm>Codrington, William Stephen</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enkenkEngland</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>Coward-McCann</publisher>
+         <dateIssued>[1956, ©1955]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1956-19-55</dateIssued>
+         <copyrightDate encoding="marc">1955</copyrightDate>
+         <edition>[1st American ed.].</edition>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF955</classification>
+      <classification authority="nal">41 C64</classification>
+      <identifier type="control">9915498070507426</identifier>
+      <identifier type="lccn">56003482</identifier>
+      <identifier type="agricola">CAT10504537</identifier>
+      <identifier type="oclc">03254510</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102113029.0</recordChangeDate>
+         <recordIdentifier>9915498070507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="corporate">
+         <namePart>International Office of Epizootics</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Botswana Vaccine Institute</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">frb</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Paris, France</placeTerm>
+         </place>
+         <publisher>OIE</publisher>
+         <dateIssued>©1994</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">OIE Scientific Conference on the control of foot and mouth                 disease, African horse sickness and contagious bovine pleuropneumonia, Gaborone                 (Botswana), 20-23 April 1994.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">f------</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Africa</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Africa</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Africa</geographic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="mesh">
+         <topic>congresses</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>congresses</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+         <topic>congresses</topic>
+      </subject>
+      <subject authority="fast">
+         <geographic>Africa</geographic>
+      </subject>
+      <classification authority="lcc">SF793 .O44 1994</classification>
+      <classification authority="nal">SF793.O54 1994</classification>
+      <identifier type="isbn">9290443480</identifier>
+      <identifier type="isbn">9789290443483</identifier>
+      <identifier type="control">9915504091007426</identifier>
+      <identifier type="agricola">CAT10697505</identifier>
+      <identifier type="oclc">32324369</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">MNP</recordContentSource>
+         <recordCreationDate encoding="marc">950127</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102072245.0</recordChangeDate>
+         <recordIdentifier>9915504091007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">George</namePart>
+         <namePart type="family">Armatage</namePart>
+         <displayForm>Armatage, George</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Cynthia</namePart>
+         <namePart type="family">Lasker</namePart>
+         <displayForm>Lasker, Cynthia</displayForm>
+         <role>
+            <roleTerm type="text">donor</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Ballantyne, Hanson and Co</namePart>
+         <role>
+            <roleTerm type="text">printer</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Frederick Warne (Firm)</namePart>
+         <role>
+            <roleTerm type="text">publisher</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>Frederick Warne and Co. and New York</publisher>
+         <dateIssued>1894</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1894</dateIssued>
+         <edition>Revised and enlarged.</edition>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by George Armatage, M.R.C.V.S. formerly lecturer in the Albert                 and Glasgow Veterinary Colleges author of "The horse doctor," "The                 cattle doctor," etc. With full-page and other illustrations.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <topic>Treatment</topic>
+      </subject>
+      <subject>
+         <hierarchicalGeographic>
+            <country>England</country>
+            <city>London</city>
+         </hierarchicalGeographic>
+      </subject>
+      <subject>
+         <hierarchicalGeographic>
+            <country>United States</country>
+            <state>New York</state>
+            <city>New York</city>
+         </hierarchicalGeographic>
+      </subject>
+      <classification authority="lcc">SF285 .A69 1894</classification>
+      <classification authority="nal">42 Ar5H</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horse</title>
+         </titleInfo>
+         <name>
+            <namePart>Armatage, George</namePart>
+         </name>
+         <identifier type="local">(OCoLC)613209420</identifier>
+      </relatedItem>
+      <identifier type="control">9915505552307426</identifier>
+      <identifier type="agricola">CAT10507244</identifier>
+      <identifier type="oclc">228740690</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>dcrb</descriptionStandard>
+         <recordContentSource authority="marcorg">HUV</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102093602.0</recordChangeDate>
+         <recordIdentifier>9915505552307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Frank Townend</namePart>
+         <namePart type="family">Barton</namePart>
+         <displayForm>Barton, Frank Townend</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>C. Arthur Pearson</publisher>
+         <dateIssued>1920</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1920</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by Frank T. Barton.</note>
+      <classification authority="nal">42 B28He</classification>
+      <identifier type="control">9915505674807426</identifier>
+      <identifier type="agricola">CAT10507751</identifier>
+      <identifier type="oclc">10398722</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">UIU</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102093914.0</recordChangeDate>
+         <recordIdentifier>9915505674807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Orland A.</namePart>
+         <namePart type="family">Soave</namePart>
+         <displayForm>Soave, Orland A.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Lanham</placeTerm>
+         </place>
+         <publisher>Austin &amp; Winfield Publishers</publisher>
+         <dateIssued>©2000</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+         <edition>2nd ed.</edition>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">Orland Soave.</note>
+      <note type="bibliography">Includes bibliographical references (pages 217-233) and                 index.</note>
+      <classification authority="lcc">QL85 .S6 2000</classification>
+      <classification authority="nal">QL85 .S6 2000</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Animal/human bond</title>
+         </titleInfo>
+         <name>
+            <namePart>Soave, Orland A</namePart>
+         </name>
+         <identifier type="local">(OCoLC)669384921</identifier>
+      </relatedItem>
+      <identifier type="isbn">1572921544</identifier>
+      <identifier type="isbn">9781572921542</identifier>
+      <identifier type="isbn">1572921536</identifier>
+      <identifier type="isbn">9781572921535</identifier>
+      <identifier type="control">9915507395107426</identifier>
+      <identifier type="lccn">00042010</identifier>
+      <identifier type="agricola">CAT11083042</identifier>
+      <identifier type="oclc">44131805</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">000928</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102114456.0</recordChangeDate>
+         <recordIdentifier>9915507395107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">Ted</namePart>
+         <namePart type="family">Whittem</namePart>
+         <displayForm>Whittem, Ted</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Dawn Merton</namePart>
+         <namePart type="family">Boothe</namePart>
+         <displayForm>Boothe, Dawn Merton</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <publisher>W.B. Saunders Co.</publisher>
+         <dateIssued>©1999</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">Ted Whittem, guest editor.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <topic>Treatment</topic>
+      </subject>
+      <classification authority="lcc">SF601 .V58234</classification>
+      <classification authority="nal">SF951 .V47 v. 15 no. 3</classification>
+      <identifier type="control">9915508652707426</identifier>
+      <identifier type="agricola">CAT11062964</identifier>
+      <identifier type="oclc">42940089</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">OSU</recordContentSource>
+         <recordCreationDate encoding="marc">000212</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102134702.0</recordChangeDate>
+         <recordIdentifier>9915508652707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">Nat T.</namePart>
+         <namePart type="family">Messer</namePart>
+         <displayForm>Messer, Nat T.</displayForm>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Philip J.</namePart>
+         <namePart type="family">Johnson</namePart>
+         <displayForm>Johnson, Philip J.</displayForm>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia, Pa</placeTerm>
+         </place>
+         <publisher>W.B. Saunders</publisher>
+         <dateIssued>©2002</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">Nat T. Messer IV and Philip J. Johnson, guest                 editors.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <note type="additional physical form">Also issued online.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF951 .V43 v.18, no.2</classification>
+      <classification authority="nal">SF951 .V47 v. 18 no. 2</classification>
+      <identifier type="control">9915509781707426</identifier>
+      <identifier type="agricola">CAT11125818</identifier>
+      <identifier type="oclc">50732006</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">IPL</recordContentSource>
+         <recordCreationDate encoding="marc">021030</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102145744.0</recordChangeDate>
+         <recordIdentifier>9915509781707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal">
+         <namePart type="date">1957-</namePart>
+         <namePart type="given">Jean-Pierre</namePart>
+         <namePart type="family">Lavoie</namePart>
+         <displayForm>Lavoie, Jean-Pierre</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1956-</namePart>
+         <namePart type="given">Kenneth W.</namePart>
+         <namePart type="family">Hinchcliff</namePart>
+         <displayForm>Hinchcliff, Kenneth W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christopher M.</namePart>
+         <namePart type="family">Brown</namePart>
+         <displayForm>Brown, Christopher M.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">iau</placeTerm>
+            <placeTerm type="text">Iowa</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Ames, Iowa</placeTerm>
+         </place>
+         <publisher>Wiley-Blackwell</publisher>
+         <dateIssued>2008</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+         <edition>2nd ed.</edition>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">[edited by] Jean-Pierre Lavoie, Kenneth William                 Hinchcliff.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <note>Revised Edition of: 5-minute veterinary consult. equine /                 christopher m. brown. c2002.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <genre>Handbooks, manuals, etc</genre>
+      </subject>
+      <subject authority="mesh">
+         <topic>methods</topic>
+      </subject>
+      <classification authority="lcc">SF951 .B867 2008</classification>
+      <classification authority="nal">SF951 .B867 2008</classification>
+      <identifier type="isbn">9780813814872</identifier>
+      <identifier type="isbn">0813814871</identifier>
+      <identifier type="control">9915512871007426</identifier>
+      <identifier type="lccn">2008024700</identifier>
+      <identifier type="agricola">CAT31018396</identifier>
+      <identifier type="agricola">101475749</identifier>
+      <identifier type="oclc">231787172</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DNLM/DLC</recordContentSource>
+         <recordCreationDate encoding="marc">080916</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102170550.0</recordChangeDate>
+         <recordIdentifier>9915512871007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">John L.</namePart>
+         <namePart type="family">Neisess</namePart>
+         <displayForm>Neisess, John L.</displayForm>
+      </name>
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Forest Pest Management.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">cau</placeTerm>
+            <placeTerm type="text">California</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">San Francisco, Calif.]</placeTerm>
+         </place>
+         <publisher>United States Dept. of Agriculture, Forest Service [Forest Pest                 Management]</publisher>
+         <dateIssued>1987</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1987</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">[John Neisess].</note>
+      <note type="bibliography">Includes bibliographical references (leaf 6).</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us-ca</geographicCode>
+         <geographicCode authority="marcgac">n-us-or</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Klamath National Forest (Calif. and Or.)</geographic>
+      </subject>
+      <subject authority="fast">
+         <geographic>United States</geographic>
+         <geographic>Klamath National Forest</geographic>
+      </subject>
+      <classification authority="nal">aSB763.C2 R46 87-15</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">https://nfsl.contentdm.oclc.org/digital/collection/p17053coll2/id/110558/rec/1</url>
+      </location>
+      <identifier type="control">9915514012807426</identifier>
+      <identifier type="agricola">CAT31442512</identifier>
+      <identifier type="oclc">458311120</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">MIN</recordContentSource>
+         <recordCreationDate encoding="marc">091022</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102182050.0</recordChangeDate>
+         <recordIdentifier>9915514012807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Suzanne Hagle</namePart>
+         <namePart type="family">Dubreuil</namePart>
+         <displayForm>Dubreuil, Suzanne Hagle</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Scott</namePart>
+         <namePart type="family">Tunnock</namePart>
+         <displayForm>Tunnock, Scott</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Oscar J.</namePart>
+         <namePart type="family">Dooling</namePart>
+         <displayForm>Dooling, Oscar J.</displayForm>
+      </name>
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Forest Service.</namePart>
+         <namePart>Northern Region.</namePart>
+         <namePart>Cooperative Forestry &amp; Pest Management.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mtu</placeTerm>
+            <placeTerm type="text">Montana</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Missoula, Mont.]</placeTerm>
+         </place>
+         <publisher>USDA Forest Service, Northern Region, Cooperative Forestry and                 Pest Management</publisher>
+         <dateIssued>[1982]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by S.H. Dubreuil, S. Tunnock, O.J. Dooling.</note>
+      <note type="bibliography">Includes bibliographical references (pages                 8-10).</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us-mt</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Montana</geographic>
+         <geographic>Flathead National Forest</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Montana</geographic>
+         <geographic>Flathead National Forest</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases and pests</topic>
+         <geographic>Montana</geographic>
+         <geographic>Flathead National Forest</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Montana</geographic>
+      </subject>
+      <subject authority="fast">
+         <geographic>Montana</geographic>
+         <geographic>Flathead National Forest</geographic>
+      </subject>
+      <classification authority="lcc">SB945.B3 D82 1982</classification>
+      <classification authority="nal">aSD11 .U585 no. 82-18 1982</classification>
+      <identifier type="control">9915514472407426</identifier>
+      <identifier type="agricola">CAT31125213</identifier>
+      <identifier type="oclc">41859555</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">MtU</recordContentSource>
+         <recordCreationDate encoding="marc">971014</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102182146.0</recordChangeDate>
+         <recordIdentifier>9915514472407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">Richard R.</namePart>
+         <namePart type="family">Stowell</namePart>
+         <displayForm>Stowell, Richard R.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Ray</namePart>
+         <namePart type="family">Bucklin</namePart>
+         <displayForm>Bucklin, Ray</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1957-</namePart>
+         <namePart type="given">Robert William</namePart>
+         <namePart type="family">Bottcher</namePart>
+         <displayForm>Bottcher, Robert William</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">miu</placeTerm>
+            <placeTerm type="text">Michigan</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">St Joseph, MI</placeTerm>
+         </place>
+         <publisher>ASAE/Society for Engineering in Agricultural, Food, and                 Biological Systems</publisher>
+         <dateIssued>©2001</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">edited by Richard R. Stowell, Ray Bucklin, Robert W.                 Bottcher.</note>
+      <note type="additional physical form">Also available on the Internet.</note>
+      <subject authority="lcsh">
+         <topic>Housing</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Ecology</topic>
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Congresses</genre>
+      </subject>
+      <classification authority="lcc">SF91 .L582 2001</classification>
+      <classification authority="nal">SF91 .L582 2001</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">https://elibrary.asabe.org/conference.asp?confid=iles2001</url>
+      </location>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Livestock Environment VI</title>
+         </titleInfo>
+         <identifier type="local">(OCoLC)904219278</identifier>
+      </relatedItem>
+      <identifier type="isbn">1892769212</identifier>
+      <identifier type="isbn">9781892769213</identifier>
+      <identifier type="control">9915515270807426</identifier>
+      <identifier type="lccn">2001090005</identifier>
+      <identifier type="agricola">CAT11120589</identifier>
+      <identifier type="oclc">48455834</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">020711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102190650.0</recordChangeDate>
+         <recordIdentifier>9915515270807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">N.</namePart>
+         <namePart type="family">Rossi</namePart>
+         <displayForm>Rossi, N.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">S.A.W.</namePart>
+         <namePart type="family">Rossi</namePart>
+         <displayForm>Rossi, S.A.W.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">0000</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language objectPart="summary or subtitle">
+         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+      </language>
+      <targetAudience authority="marctarget">adolescent</targetAudience>
+      <note>Paper Presented at the 6th international colloquium for the                 optimization of plant nutrition, montpellier, september 2-8, 1984.</note>
+      <note type="bibliography">Includes references.</note>
+      <note type="language">Summary in French.</note>
+      <subject authority="atg">
+         <geographic>Italy</geographic>
+      </subject>
+      <subject>
+         <topic>leaf analysis</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Miscellaneous Plant Disorders and Injuries</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Physiology and Biochemistry</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Pollution</topic>
+      </subject>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>ACTES = proceedings ; Montpellier, 2-8 Sept.                 1984</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="control">9915518129507426</identifier>
+      <identifier type="agricola">IND87069816</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">871014</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102143106.0</recordChangeDate>
+         <recordIdentifier>9915518129507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal">
+         <namePart type="given">Mike W.</namePart>
+         <namePart type="family">Ross</namePart>
+         <displayForm>Ross, Mike W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Sue J.</namePart>
+         <namePart type="family">Dyson</namePart>
+         <displayForm>Dyson, Sue J.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">St. Louis, Mo</placeTerm>
+         </place>
+         <publisher>Elsevier/Saunders</publisher>
+         <dateIssued>©2011</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+         <edition>2nd ed.</edition>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">[edited by] Mike W. Ross, Sue J. Dyson.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="mesh">
+         <topic>injuries</topic>
+      </subject>
+      <classification authority="lcc">SF959.L25 R67 2011</classification>
+      <classification authority="nal">SF959.L25 R67 2011</classification>
+      <identifier type="isbn">9781416060697</identifier>
+      <identifier type="isbn">1416060693</identifier>
+      <identifier type="control">9915523515707426</identifier>
+      <identifier type="lccn">2010035776</identifier>
+      <identifier type="agricola">CAT31077383</identifier>
+      <identifier type="agricola">101538780</identifier>
+      <identifier type="agricola">015623980</identifier>
+      <identifier type="oclc">658536645</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DNLM/DLC</recordContentSource>
+         <recordCreationDate encoding="marc">100820</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102185122.0</recordChangeDate>
+         <recordIdentifier>9915523515707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal" usage="primary">
+         <namePart type="given">Gervase</namePart>
+         <namePart type="family">Markham</namePart>
+         <displayForm>Markham, Gervase</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1704-1763</namePart>
+         <namePart type="given">G.</namePart>
+         <namePart type="family">Jefferies</namePart>
+         <displayForm>Jefferies, G.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">John</namePart>
+         <namePart type="family">Millis</namePart>
+         <displayForm>Millis, John</displayForm>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="date">1767-1820</namePart>
+         <namePart type="given">Samuel</namePart>
+         <namePart type="family">Sower</namePart>
+         <displayForm>Sower, Samuel</displayForm>
+         <role>
+            <roleTerm type="text">printer</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Baltimore</placeTerm>
+         </place>
+         <publisher>Printed and sold by Samuel Sower. No. 190,                 Market-Street.</publisher>
+         <dateIssued>1803</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1803</dateIssued>
+      </originInfo>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility" altRepGroup="00">by J. Markham, G. Jeffries, and experienced                 Indians.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <topic>Treatment</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject>
+         <hierarchicalGeographic>
+            <country>United States</country>
+            <state>Maryland</state>
+            <city>Baltimore</city>
+         </hierarchicalGeographic>
+      </subject>
+      <classification authority="nal">SF285 .M372 1803</classification>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Shaw &amp; Shoemaker</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Austin, R.B. Early Amer. medical imprints,</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="control">9915524572007426</identifier>
+      <identifier type="agricola">CAT31095534</identifier>
+      <identifier type="oclc">191262137</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>dcrb</descriptionStandard>
+         <recordContentSource authority="marcorg">AQM</recordContentSource>
+         <recordCreationDate encoding="marc">820528</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102122859.0</recordChangeDate>
+         <recordIdentifier>9915524572007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Richard</namePart>
+         <namePart type="family">Mason</namePart>
+         <displayForm>Mason, Richard</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1802-1882</namePart>
+         <namePart type="given">Samuel Wyllys</namePart>
+         <namePart type="family">Pomeroy</namePart>
+         <displayForm>Pomeroy, Samuel Wyllys</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1788-1851</namePart>
+         <namePart type="given">John S.</namePart>
+         <namePart type="family">Skinner</namePart>
+         <displayForm>Skinner, John S.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <publisher>J.B. Lippincott &amp; Co.</publisher>
+         <dateIssued>1858</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1858</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">By Richard Mason ... To which is added, a prize essay on mules;                 an appendix, containing recipes for diseases of horses, oxen, cows, calves, sheep,                 dogs, swine, etc., etc., with annals of the turf, American stud-book, rules for                 training, racing, etc. With a supplement: comprising an essay on domestic animals,                 especially the horse; with remarks on treatment and breeding; together with trotting                 and racing tables, showing the best time on record, at one, two, three, and four                 mile heats; pedigrees of winning horses, since 1839; and of the most celebrated                 stallions and mares; with useful calving and lambing tables, &amp;c., &amp;c. By                 J.S. Skinner ...</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Animal Production</topic>
+      </subject>
+      <classification authority="lcc">SF951 .M4 1860</classification>
+      <classification authority="nal">42 M38 1858</classification>
+      <identifier type="control">9915533206507426</identifier>
+      <identifier type="lccn">34038775</identifier>
+      <identifier type="agricola">CAT10505779</identifier>
+      <identifier type="oclc">05209564</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">IXA</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102134703.0</recordChangeDate>
+         <recordIdentifier>9915533206507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">W. J.</namePart>
+         <namePart type="family">Miles</namePart>
+         <displayForm>Miles, W. J.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1830-1871</namePart>
+         <namePart type="given">Benjamin</namePart>
+         <namePart type="family">Herring</namePart>
+         <displayForm>Herring, Benjamin</displayForm>
+         <role>
+            <roleTerm type="text">illustrator</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">William</namePart>
+         <namePart type="family">Mackenzie</namePart>
+         <displayForm>Mackenzie, William</displayForm>
+         <role>
+            <roleTerm type="text">publisher</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">James Irvine</namePart>
+         <namePart type="family">Lupton</namePart>
+         <displayForm>Lupton, James Irvine</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>William MacKenzie, 69 Ludgate Hill, E.C.; Glasgow, and                 Edinburgh</publisher>
+         <dateIssued>[1874]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1874</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by W.J. Milles, M.R.C.V.S.L. ; with numerous illustrations and a                 series of anatomical plates, engraved from original drawings from nature, by                 Benjamin Herring, Esq. ; to which is added an essay on the diseases and management                 of cattle, sheep, and pigs, by J.I. Lupton, M.R.C.V.S.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-uk---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Great Britain</geographic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Great Britain</geographic>
+         <topic>Anatomy</topic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <geographic>Great Britain</geographic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Great Britain</geographic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Great Britain</geographic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <geographic>Great Britain</geographic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <geographic>Great Britain</geographic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <geographic>Great Britain</geographic>
+         <temporal>19th century</temporal>
+      </subject>
+      <subject authority="fast">
+         <geographic>Great Britain</geographic>
+      </subject>
+      <subject>
+         <hierarchicalGeographic>
+            <country>Great Britain</country>
+            <state>England</state>
+            <city>London</city>
+         </hierarchicalGeographic>
+      </subject>
+      <classification authority="lcc">SF285 .M540 1874</classification>
+      <classification authority="nal">42 M59M</classification>
+      <identifier type="control">9915533211107426</identifier>
+      <identifier type="agricola">CAT10503902</identifier>
+      <identifier type="oclc">02564339</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>dcrmb</descriptionStandard>
+         <recordContentSource authority="marcorg">GUA</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102134708.0</recordChangeDate>
+         <recordIdentifier>9915533211107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">/&gt;         <name type="personal" usage="primary">
+         <namePart type="given">Richard</namePart>
+         <namePart type="family">Mason</namePart>
+         <displayForm>Mason, Richard</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1802-1882</namePart>
+         <namePart type="given">Samuel Wyllys</namePart>
+         <namePart type="family">Pomeroy</namePart>
+         <displayForm>Pomeroy, Samuel Wyllys</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="date">1788-1851</namePart>
+         <namePart type="given">John S.</namePart>
+         <namePart type="family">Skinner</namePart>
+         <displayForm>Skinner, John S.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+            <placeTerm type="text">Pennsylvania</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Philadelphia</placeTerm>
+         </place>
+         <publisher>Lippincott, Grambo &amp; Co.</publisher>
+         <dateIssued>1853</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1853</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">By Richard Mason ... To which is added, a prize essay on mules;                 an appendix, containing recipes for diseases of horses, oxen, cows, calves, sheep,                 dogs, swine, etc., etc., with annals of the turf, American stud-book, rules for                 training, racing, etc. With a supplement: comprising an essay on domestic animals,                 especially the horse; with remarks on treatment and breeding; together with trotting                 and racing tables, showing the best time on record, at one, two, three, and four                 mile heats; pedigrees of winning horses, since 1839; and of the most celebrated                 stallions and mares; with useful calving and lambing tables, &amp;c., &amp;c. By                 J.S. Skinner ...</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="lcc">SF951 .M4 1853</classification>
+      <classification authority="nal">42 M38M 1853</classification>
+      <identifier type="control">9915533262107426</identifier>
+      <identifier type="agricola">CAT10509742</identifier>
+      <identifier type="oclc">16350407</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">GUA</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102133912.0</recordChangeDate>
+         <recordIdentifier>9915533262107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Henry Childs</namePart>
+         <namePart type="family">Merwin</namePart>
+         <displayForm>Merwin, Henry Childs</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+            <placeTerm type="text">Illinois</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Chicago</placeTerm>
+         </place>
+         <publisher>A.C. McClurg &amp; Co.</publisher>
+         <dateIssued>1917</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1917</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by Henry Childs Merwin.</note>
+      <note type="bibliography">Includes bibliographical references (pages                 271-274).</note>
+      <classification authority="lcc">SF285 .M53</classification>
+      <classification authority="nal">42 M552</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Horse</title>
+         </titleInfo>
+         <name>
+            <namePart>Merwin, Henry Childs, 1853-1929</namePart>
+         </name>
+         <identifier type="local">(OCoLC)653077137</identifier>
+      </relatedItem>
+      <identifier type="control">9915533291007426</identifier>
+      <identifier type="lccn">17014155</identifier>
+      <identifier type="agricola">CAT10501563</identifier>
+      <identifier type="agricola">002468039</identifier>
+      <identifier type="oclc">00551157</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">920619</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102133842.0</recordChangeDate>
+         <recordIdentifier>9915533291007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Dennis R.</namePart>
+         <namePart type="family">Hamel</namePart>
+         <displayForm>Hamel, Dennis R.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Robert D.</namePart>
+         <namePart type="family">Oakes</namePart>
+         <displayForm>Oakes, Robert D.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">R.</namePart>
+         <namePart type="family">Hothem</namePart>
+         <displayForm>Hothem, R.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mtu</placeTerm>
+            <placeTerm type="text">Montana</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Missoula, MT</placeTerm>
+         </place>
+         <publisher>Forest Insect &amp; Disease Management, USDA, Forest Service,                 Northern Region, State &amp; Private Forestry</publisher>
+         <dateIssued>1977</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1977</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by D.R. Hamel, R.D. Oakes, R. Hothem.</note>
+      <note type="bibliography">Includes bibliographical references (page 6).</note>
+      <note type="additional physical form">Also available online.</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us-mt</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases and pests</topic>
+         <geographic>Montana</geographic>
+         <geographic>Flathead National Forest</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Flathead National Forest (Mont.)</geographic>
+      </subject>
+      <subject authority="fast">
+         <geographic>Montana</geographic>
+         <geographic>Flathead National Forest</geographic>
+      </subject>
+      <classification authority="nal">aSD11 .U585 no. 77-11 1977</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://hdl.handle.net/1957/3471</url>
+      </location>
+      <identifier type="control">9915536188007426</identifier>
+      <identifier type="agricola">CAT31124910</identifier>
+      <identifier type="oclc">05462592</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">COF</recordContentSource>
+         <recordCreationDate encoding="marc">791003</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102160242.0</recordChangeDate>
+         <recordIdentifier>9915536188007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>Department of Agriculture.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+            <placeTerm type="text">District of Columbia</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Washington, D.C.]</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Agriculture</publisher>
+         <dateIssued>1991</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+      </originInfo>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <subject authority="agricola">
+         <topic>Animal Production</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Animal Diseases (Viral)</topic>
+      </subject>
+      <classification authority="nal">1 Ag84Pro no.596</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">https://archive.org/details/CAT31108477</url>
+      </location>
+      <identifier type="control">9915539837307426</identifier>
+      <identifier type="agricola">CAT31108477</identifier>
+      <identifier type="oclc">1289035096</identifier>
+      <extension>
+         <note type="publicationSource">USDA</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">920626</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102190142.0</recordChangeDate>
+         <recordIdentifier>9915539837307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">S. S.</namePart>
+         <namePart type="family">Buckley</namePart>
+         <displayForm>Buckley, S. S.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">College Park</placeTerm>
+         </place>
+         <publisher>Maryland Agricultural Experiment Station</publisher>
+         <dateIssued>1898</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1898</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">[by Samuel S. Buckley].</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us-md</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <geographic>Maryland</geographic>
+      </subject>
+      <subject authority="fast">
+         <geographic>Maryland</geographic>
+      </subject>
+      <classification authority="nal">100 M36S no.53</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Special investigation of the so-called "new" horse                 disease in Maryland</title>
+         </titleInfo>
+         <name>
+            <namePart>Buckley, S</namePart>
+         </name>
+         <identifier type="local">(OCoLC)768073884</identifier>
+      </relatedItem>
+      <identifier type="control">9915544809407426</identifier>
+      <identifier type="agricola">CAT91254754</identifier>
+      <identifier type="oclc">23127878</identifier>
+      <extension>
+         <note type="publicationSource">State experiment station</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">RQF</recordContentSource>
+         <recordCreationDate encoding="marc">910604</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102205102.0</recordChangeDate>
+         <recordIdentifier>9915544809407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Y.</namePart>
+         <namePart type="family">Maurice</namePart>
+         <displayForm>Maurice, Y.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Place of publication not identified]</placeTerm>
+         </place>
+         <publisher>[publisher not identified]</publisher>
+         <dateIssued>[1984?]</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language objectPart="translation">
+         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+      </language>
+      <note type="statement of responsibility" altRepGroup="00">by Maurice, Y. and A. Provost.</note>
+      <note type="bibliography">Includes bibliographical references (leaves                 10-12).</note>
+      <classification authority="nal">TRANSL 32117</classification>
+      <identifier type="control">9915545057107426</identifier>
+      <identifier type="agricola">CAT85828844</identifier>
+      <identifier type="oclc">12797602</identifier>
+      <extension>
+         <note type="publicationSource">Translation</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">851115</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102210514.0</recordChangeDate>
+         <recordIdentifier>9915545057107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">George H.</namePart>
+         <namePart type="family">Dadd</namePart>
+         <displayForm>Dadd, George H.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">catalog</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+            <placeTerm type="text">New York (State)</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">New York</placeTerm>
+         </place>
+         <publisher>O. Judd Co.</publisher>
+         <dateIssued>1879</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">By George H. Dadd ...</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="nal">41 D12M</classification>
+      <identifier type="control">9915549962407426</identifier>
+      <identifier type="lccn">agr06000881</identifier>
+      <identifier type="agricola">CAT10509625</identifier>
+      <identifier type="oclc">15806638</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">Library, U.S. Dept. of Agriculture</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102193741.0</recordChangeDate>
+         <recordIdentifier>9915549962407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">George H.</namePart>
+         <namePart type="family">Dadd</namePart>
+         <displayForm>Dadd, George H.</displayForm>
+      </name>
+      <name type="corporate">
+         <namePart>John P. Jewett and Company (Boston, Mass.)</namePart>
+         <role>
+            <roleTerm type="text">publisher</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            <placeTerm type="text">Massachusetts</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Boston</placeTerm>
+         </place>
+         <publisher>Published by John P. Jewett and Co. [and 2                 others]</publisher>
+         <dateIssued>1855</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1855</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">by George H. Dadd.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <topic>Treatment</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+         <topic>Diagnosis</topic>
+      </subject>
+      <subject authority="lcsh">
+         <genre>Formulae, receipts, prescriptions</genre>
+      </subject>
+      <classification authority="lcc">SF951 .D12</classification>
+      <classification authority="nal">SF951 .D34 1855</classification>
+      <identifier type="control">9915549994707426</identifier>
+      <identifier type="agricola">CAT10512331</identifier>
+      <identifier type="oclc">17286606</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">RQI</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102193834.0</recordChangeDate>
+         <recordIdentifier>9915549994707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">Pieter H. L.</namePart>
+         <namePart type="family">Ramzan</namePart>
+         <displayForm>Ramzan, Pieter H. L.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">flu</placeTerm>
+            <placeTerm type="text">Florida</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+      </originInfo>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Boca Raton :CRC Press/Taylor &amp; Francis,2014</placeTerm>
+         </place>
+         <publisher>CRC Press/Taylor &amp; Francis</publisher>
+         <dateIssued>2014</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">Pieter H.L. Ramzan, BVSc(Sydney), MRCVS, Rossdales Veterinary                 Practice, Beaufort Cottage Stables, Newmarket, Suffolk, UK.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>methods</topic>
+      </subject>
+      <classification authority="lcc">SF951 .R243 2014</classification>
+      <classification authority="nal">SF951 .R243 2014</classification>
+      <identifier type="isbn">9781482221916</identifier>
+      <identifier type="isbn">1482221918</identifier>
+      <identifier type="isbn" invalid="marcPrefix-yes">9781482221923 (PDF ebook)</identifier>
+      <identifier type="control">9915550767007426</identifier>
+      <identifier type="lccn">2014006005</identifier>
+      <identifier type="agricola">CAT31314856</identifier>
+      <identifier type="agricola">101625772</identifier>
+      <identifier type="agricola">016857896</identifier>
+      <identifier type="oclc">870890287</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">DNLM/DLC</recordContentSource>
+         <recordCreationDate encoding="marc">140212</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102195322.0</recordChangeDate>
+         <recordIdentifier>9915550767007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">J. Wortley</namePart>
+         <namePart type="family">Axe</namePart>
+         <displayForm>Axe, J. Wortley</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            <placeTerm type="text">England</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>Gresham Pub. Co.</publisher>
+         <dateIssued>1906</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">edited by J. Wortley Axe.</note>
+      <classification authority="lcc">SF285 A96</classification>
+      <classification authority="nal">42 Ax2H</classification>
+      <identifier type="control">9915552789507426</identifier>
+      <identifier type="agricola">CAT10509988</identifier>
+      <identifier type="oclc">16632626</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">NLW</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102204555.0</recordChangeDate>
+         <recordIdentifier>9915552789507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mou</placeTerm>
+            <placeTerm type="text">Missouri</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">St. Louis</placeTerm>
+         </place>
+         <publisher>Mosby Year Book</publisher>
+         <dateIssued>©1992</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1992</dateIssued>
+      </originInfo>
+      <note type="statement of responsibility" altRepGroup="00">edited by Anthony E. Castro, Werner P.                 Heuschele.</note>
+      <note type="bibliography">Includes bibliographical references and index.</note>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>veterinary</topic>
+      </subject>
+      <classification authority="lcc">SF780.4 .V46 1992</classification>
+      <classification authority="nal">SF780.4.V46 1992</classification>
+      <relatedItem type="otherFormat" displayLabel="Online version:">
+         <titleInfo>
+            <title>Veterinary diagnostic virology</title>
+         </titleInfo>
+         <identifier type="local">(OCoLC)604350721</identifier>
+      </relatedItem>
+      <identifier type="isbn">0801663962</identifier>
+      <identifier type="isbn">9780801663963</identifier>
+      <identifier type="isbn">0683014773</identifier>
+      <identifier type="isbn">9780683014778</identifier>
+      <identifier type="control">9915553025207426</identifier>
+      <identifier type="lccn">90012964</identifier>
+      <identifier type="agricola">CAT92985073</identifier>
+      <identifier type="agricola">9012033</identifier>
+      <identifier type="agricola">080-16639</identifier>
+      <identifier type="oclc">22309839</identifier>
+      <extension>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DNLM/DLC</recordContentSource>
+         <recordCreationDate encoding="marc">920414</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102205531.0</recordChangeDate>
+         <recordIdentifier>9915553025207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <name type="personal" usage="primary">
+         <namePart type="given">J.</namePart>
+         <namePart type="family">Girard</namePart>
+         <displayForm>Girard, J.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">globe</genre>
+      <genre authority="marcgt">dictionary</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Leon</placeTerm>
+         </place>
+         <publisher>Melleville</publisher>
+         <dateIssued>1825</dateIssued>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1825</dateIssued>
+      </originInfo>
+      <subject authority="lcsh">
+         <topic>Diseases</topic>
+      </subject>
+      <classification authority="nal">41 G443</classification>
+      <identifier type="control">9915554783107426</identifier>
+      <identifier type="agricola">CAT10513151</identifier>
+      <identifier type="oclc">17461004</identifier>
+      <extension>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">RQI</recordContentSource>
+         <recordCreationDate encoding="marc">920620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221102213530.0</recordChangeDate>
+         <recordIdentifier>9915554783107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using marcPrefixedNAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

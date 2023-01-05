@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <extension>
+      <note type="saleTape">19990101 19990111 00000000</note>
+      <note type="indexer">IND NZM </note>
+      <note type="publicationSource">Other US</note>
+      <identifier type="local">agid:1408166</identifier>
+   </extension>
+   <recordInfo>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+   </recordInfo>
+</mods>

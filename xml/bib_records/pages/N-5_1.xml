@@ -1,0 +1,3099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7492094</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:529785</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:549625</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4471477</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7894889</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7058252</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7483549</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5731207</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5731208</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7547192</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1634318</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:472304</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20080821 20080905 00000000</note>
+         <note type="indexer">IND 2CT 2008/08/05</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2054320</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20061120 20061202 00000000</note>
+         <note type="indexer">IND NZM 2006/11/20</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:692499</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5479021</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5479033</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6497290</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6497305</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5714156</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20010801 20010808 00000000</note>
+         <note type="indexer">IND CTR </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3141947</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5955379</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5955334</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6830322</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20090429 20090508 00000000</note>
+         <note type="indexer">IND LYN 2009/04/24</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:753104</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:412924</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:609184</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:609177</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:609191</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:327958</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5828237</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6001731</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7178286</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7178288</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5446435</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20020630 20020705 00000000</note>
+         <note type="indexer">IND CTR </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1407065</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5939913</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:507674</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5431789</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20050410 20050501 00000000</note>
+         <note type="indexer">IND NZM 2004/10/07</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:674916</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7802460</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7802463</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20091201 20091204 00000000</note>
+         <note type="indexer">IND GAY 2009/12/01</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:36191</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7789633</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7556420</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20080507 20080606 00000000</note>
+         <note type="indexer">IND RHF 2008/05/06</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:726289</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20080620 20080704 00000000</note>
+         <note type="indexer">IND NZM 2008/06/20</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:726214</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:106515</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100122 20100205 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2227739</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20111218 20120106 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2227723</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100303 20100403 00000000</note>
+         <note type="indexer">IND LYN 2010/01/22</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:2227560</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:545955</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100821 20100903 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2273235</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1259415</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20090710 20090801 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2220626</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:482904</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6382354</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6382353</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5680766</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:182728</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:626211</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20060916 20061003 00000000</note>
+         <note type="indexer">IND LYN 2006/09/16</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2588985</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6206388</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:498147</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1644038</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:498167</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7728280</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6763150</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20050922 00000000 00000000</note>
+         <note type="indexer">IND RHF 2005/09/21</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3063641</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5818215</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6819605</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1151238</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:299010</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:301305</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6383312</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6456268</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7238391</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7238340</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7739906</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7029384</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7029359</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7029725</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:456706</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7771399</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4793984</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4793941</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5231954</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7402169</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20080718 20080801 00000000</note>
+         <note type="indexer">IND MKS 2007/01/25</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:696541</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1358246</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1358240</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100619 20100703 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2256536</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7108873</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5819088</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20091016 20091106 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2205209</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19970801 19970807 00000000</note>
+         <note type="indexer">IND MKS </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2914934</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19970801 19970807 00000000</note>
+         <note type="indexer">IND MKS </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2914939</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19970801 19970807 00000000</note>
+         <note type="indexer">IND MKS </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2914919</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7072009</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20120115 20120203 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2312153</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7942552</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5718060</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7032170</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20110112 20110205 00000000</note>
+         <note type="indexer">IND 2CT 2010/12/01</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:790830</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19940504 19940511 00000000</note>
+         <note type="indexer">IND NNL </note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:1444513</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5900958</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5900955</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20101207 20110101 00000000</note>
+         <note type="indexer">IND 2CT 2010/10/27</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:787283</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7359646</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7359670</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:245125</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:569348</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5699135</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5699130</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5699197</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5379787</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5455904</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:812965</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20051214 20060102 00000000</note>
+         <note type="indexer">IND 2CT 2005/11/25</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:678193</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:603301</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:393970</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:603306</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7259725</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7472295</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:438362</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1307089</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7765286</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19991003 19991007 00000000</note>
+         <note type="indexer">IND JYB </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1406639</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19991003 19991007 00000000</note>
+         <note type="indexer">IND JYB </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1406618</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7125250</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:298378</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19981102 19981110 00000000</note>
+         <note type="indexer">IND CTR </note>
+         <note type="publicationSource">USDA</note>
+         <identifier type="local">agid:5088712</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7281719</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7281634</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7596577</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7596584</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7305448</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7305485</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5393862</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1229686</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1229628</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:426530</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5495978</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:354202</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20060118 20060202 00000000</note>
+         <note type="indexer">IND 2CT 2005/12/15</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3013574</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20060118 20060202 00000000</note>
+         <note type="indexer">IND 2CT 2005/12/15</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3013573</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:815303</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:481931</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5272814</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7885737</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5730099</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7666813</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5754540</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:815460</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4802699</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5944177</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6355101</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3002502</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20070416 20070502 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3002210</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20080124 20080202 00000000</note>
+         <note type="indexer">IND RHF 2008/01/24</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:718287</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:3426170</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:2064436</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:838461</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:838508</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:838523</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5660398</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7669276</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6740103</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19970106 19970110 00000000</note>
+         <note type="indexer">IND THW </note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:3050298</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20011202 20011206 00000000</note>
+         <note type="indexer">IND CTR </note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:668398</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20010929 20011005 00000000</note>
+         <note type="indexer">IND CTR </note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:668199</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:405649</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6217602</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6217775</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7346535</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20060910 20061003 00000000</note>
+         <note type="indexer">IND NZM 2006/09/07</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:688330</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6491255</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1126676</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5143277</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1126579</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6914688</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:367442</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20071125 20071210 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3025341</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20011101 20011108 00000000</note>
+         <note type="indexer">IND NZM </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3000257</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7800206</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1358566</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:226233</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5449634</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20060831 20060906 00000000</note>
+         <note type="indexer">IND 2CT 2006/08/16</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2025357</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:273142</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1228589</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19980902 19980908 00000000</note>
+         <note type="indexer">IND JYB </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3040823</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19980902 19980908 00000000</note>
+         <note type="indexer">IND JYB </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3040818</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7629962</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:825904</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:2547137</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7784572</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19990131 19990208 00000000</note>
+         <note type="indexer">IND CMS </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2551381</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20070722 20070802 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:4392667</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4392644</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081103 20081206 00000000</note>
+         <note type="indexer">IND LYN 2008/10/31</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:724341</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081028 20081101 00000000</note>
+         <note type="indexer">IND LYN 2008/10/27</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:724377</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081209 20090206 00000000</note>
+         <note type="indexer">IND LYN 2008/12/06</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1455183</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20090302 00000000 00000000</note>
+         <note type="indexer">IND 2CT 2009/01/29</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1455050</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4660095</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081028 20081101 00000000</note>
+         <note type="indexer">IND LYN 2008/10/28</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:724412</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081028 20081101 00000000</note>
+         <note type="indexer">IND LYN 2008/10/28</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:724409</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081029 20081101 00000000</note>
+         <note type="indexer">IND LYN 2008/10/28</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:724405</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:556371</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1313851</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:428738</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:499255</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6666719</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:422358</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:842352</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6751558</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6820484</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6132702</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6979796</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4660106</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:652995</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1127447</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7340496</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:572628</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7410031</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6049535</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5873528</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6603698</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6547461</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100322 20100403 00000000</note>
+         <note type="indexer">IND GAY 2010/03/22</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:776661</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100322 20100403 00000000</note>
+         <note type="indexer">IND GAY 2010/03/22</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:776681</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100322 20100403 00000000</note>
+         <note type="indexer">IND GAY 2010/03/22</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:776687</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100322 20100403 00000000</note>
+         <note type="indexer">IND GAY 2010/03/22</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:776686</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6557818</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:2202344</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7434694</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7006788</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6122141</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6122117</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5403641</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7683366</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7683258</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:585745</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6479046</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20061201 20070102 00000000</note>
+         <note type="indexer">IND RSC 2006/12/01</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:686082</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:511204</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7000098</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19941208 19941215 00000000</note>
+         <note type="indexer">IND RAE </note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:2831773</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1116921</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1116889</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5248079</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6486652</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6486672</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7523025</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1329471</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20050901 00000000 00000000</note>
+         <note type="indexer">IND NZM 2005/01/28</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:676270</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20050901 00000000 00000000</note>
+         <note type="indexer">IND NZM 2005/01/27</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:676258</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4085367</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6700624</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5182721</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6700675</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19970106 19970110 00000000</note>
+         <note type="indexer">IND CMS </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:3740089</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7114290</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7549252</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6714195</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7694701</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:345209</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:345229</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20090421 20090508 00000000</note>
+         <note type="indexer">IND LYN 2009/04/21</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:752804</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5478719</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6840009</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5478660</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6819582</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6813419</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:2857296</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7695676</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:563184</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5518604</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:532447</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5521466</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6997161</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1496480</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5690517</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1217046</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1230789</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7594111</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:534065</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7323435</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5559119</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19970703 19970710 00000000</note>
+         <note type="indexer">IND RHF </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2813436</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1225354</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:1225317</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:584854</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:442707</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:540662</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7809193</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:414956</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6751855</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:602705</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5202997</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:573423</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7809130</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5912963</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6158416</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:723414</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20111120 20111202 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2238032</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7528035</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20090623 20090703 00000000</note>
+         <note type="indexer">IND LYN 2009/06/23</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:757402</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5236932</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5236912</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:876592</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4786361</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:441249</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:3502631</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7716454</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:417186</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081202 00000000 00000000</note>
+         <note type="indexer">IND LYN 2008/12/01</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:731472</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:449249</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:1589997</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1632671</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:861935</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7816654</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7816642</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20100416 20100501 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2265015</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:451668</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:450552</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20110518 20110603 00000000</note>
+         <note type="indexer">IND LYN 2009/05/01</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:753352</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20090501 20090508 00000000</note>
+         <note type="indexer">IND LYN 2009/05/01</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:753354</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19980801 19980807 00000000</note>
+         <note type="indexer">IND RHF </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2821426</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20061214 20070102 00000000</note>
+         <note type="indexer">IND NZM 2006/12/14</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:695563</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:753211</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081118 20081206 00000000</note>
+         <note type="indexer">IND LYN 2008/11/18</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:741059</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081119 20081206 00000000</note>
+         <note type="indexer">IND LYN 2008/11/18</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:741065</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081120 20081206 00000000</note>
+         <note type="indexer">IND LYN 2008/11/18</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:741066</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20081120 20081206 00000000</note>
+         <note type="indexer">IND LYN 2008/11/18</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:741070</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4400229</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20071028 20071102 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:4400212</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7540850</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:647256</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20110621 20110701 00000000</note>
+         <note type="indexer">IND LYN 2008/12/23</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:743129</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7089847</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7540838</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7089954</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:6377435</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7029146</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20060227 20060302 00000000</note>
+         <note type="indexer">IND RHF 2006/02/27</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2651042</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:1656652</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:4400957</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:527500</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">20090918 20091106 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2201798</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19990301 19990308 00000000</note>
+         <note type="indexer">IND MKS </note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2915032</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7591340</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:5689391</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <note type="saleTape">19980502 19980508 00000000</note>
+         <note type="indexer">IND JYB </note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:3079775</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:610098</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7777861</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7257298</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+   <mods version="3.4">
+      <extension>
+         <identifier type="local">agid:7257167</identifier>
+      </extension>
+      <recordInfo>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

@@ -31,6 +31,8 @@
 	┌ ━ ━ ━ ━ ━ ┐ 
 	│ MODS 3.7 │  
 	└ ━ ━ ━ ━ ━ ┘
+	Revision 1.167 - Custom function f:lookupMARCCountry($marcCode) returns the country/state name. 20230106 cm3
+	Revision 1.166 - Filters 008 field for 2 or 3 letter country/state codes. 20230106 cm3
 	Revision 1.165 - remnamed displayForm template, added mSpecialSubfieldSelect from 1.164 as variable, parsed it as output. 20230106 cm3
 	Revision 1.164 - removed mSpecialSubfieldSelect template. 20230106 cm3
 	Revision 1.163 - createNoteFrom974 removed from extension; the "agid" is a local identifier. 20220105 cm3
@@ -3425,7 +3427,7 @@
                     select="string(tokenize(base-uri(document('')), '/')[last()])" as="xs:string"/>
                 <xsl:variable name="date" select="replace(string(current-date()),'(\d{4}/-\d{2}/-\d{2})(.*)', '$1')"/>
                 <xsl:value-of
-                    select="normalize-space(concat('Converted from MARCXML to MODS version 3.7 using', ' ', $transform, ' ', '(NAL-MARC21slim2MODS3-7.xsl (Revision 1.165) 20230106 cm3),'))"
+                    select="normalize-space(concat('Converted from MARCXML to MODS version 3.7 using', ' ', $transform, ' ', '(NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3),'))"
                 />
                 <xsl:value-of
                     select="normalize-space(concat('Transformed on:', $date))"
@@ -3581,13 +3583,11 @@
         </xsl:if>
     </xsl:template>
 
-    <!--xd:doc>
-		<xd:desc> @depreciated see 1.121 </xd:desc>
+    <!--<xd:doc id="relatedPart" scope="component">
+        <xd:desc> @depreciated see 1.121 </xd:desc>
+        <xd:desc>relatedPart</xd:desc>
 	</xd:doc>
-	<xd:doc id="relatedPart" scope="component">
-		<xd:desc>relatedPart</xd:desc>
-	</xd:doc>-->
-    <!--<xsl:template name="relatedPart" match="../marc:subfield[@code = 'g']" mode="relatedItem">
+    <xsl:template name="relatedPart" match="marc:subfield[@code = 'g']" mode="relatedItem">
 		<xsl:if test="@tag = 773">
 			<xsl:for-each select="marc:subfield[@code = 'g']">
 				<part>
@@ -3614,7 +3614,7 @@
 								</detail>
 							</xsl:if>
 							<xsl:choose>
-								<!-- extent (pages) -->
+								<!-\- extent (pages)-\-> 
 								<xsl:when test="matches(regex-group(2), '\d+\-\d+')">
 									<extent unit="pages">
 										<start>
@@ -3639,7 +3639,7 @@
 									</extent>
 								</xsl:when>
 								<xsl:otherwise>
-									<!-- extent (page total) -->
+									<!-\- extent (page total) -\->
 									<xsl:if test="ends-with(regex-group(2), '-')">
 										<extent unit="pages">
 											<xsl:variable name="clean-regex-group-2"
@@ -7957,6 +7957,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                     select="marc:datafield[@tag = 260]/marc:subfield[@code = 'c']"/>
             </xsl:call-template>
         </xsl:variable>
+        <!--1.166 -->
         <xsl:variable name="originInfoShared">
             <!-- MARC Country Codes -->
             <xsl:variable name="marcCountryCode">
@@ -7972,18 +7973,18 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                             select="normalize-space(substring(translate(replace($controlField008, '(\d+[a-z]\d+)(\D{2,4})', '$2'), '0123456789|', ' '), 1, 3))"/>
                         <xsl:if test="matches($marcPublicationCode, '\D{3,4}')">
                             <place>
-                                <xsl:comment>test 2</xsl:comment>
+                                <!--<xsl:comment>test 2</xsl:comment>-->
                                 <!-- marccountry code -->
                                 <placeTerm>
                                     <xsl:attribute name="type">code</xsl:attribute>
                                     <xsl:attribute name="authority">marccountry</xsl:attribute>
                                     <xsl:value-of select="$marcPublicationCode"/>
                                 </placeTerm>
-                                <!-- decodes MARC Country Codes -->
+                                <!--1.167 -->
                                 <placeTerm>
                                     <xsl:attribute name="type">text</xsl:attribute>
                                     <xsl:value-of
-                                        select="f:convertMARCCountry($marcPublicationCode)"/>
+                                        select="f:lookupMARCCountry($marcPublicationCode)"/>
                                 </placeTerm>
                             </place>
                         </xsl:if>
@@ -7993,7 +7994,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                             select="normalize-space(substring($controlField008, 16, 3))"/>
                         <xsl:if test="translate($MARCpublicationCode, '|', '')">
                             <place>
-                                <xsl:comment>test 3</xsl:comment>
+                            <!--<xsl:comment>test 3</xsl:comment>-->
                                 <placeTerm>
                                     <xsl:attribute name="type">code</xsl:attribute>
                                     <xsl:attribute name="authority">marccountry</xsl:attribute>
@@ -8019,14 +8020,14 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                             <!-- decodes MARC Country Codes -->
                             <placeTerm>
                                 <xsl:attribute name="type">text</xsl:attribute>
-                                <xsl:value-of select="f:convertMARCCountry($marcCountryCode)"/>
+                                <xsl:value-of select="f:lookupMARCCountry($marcCountryCode)"/>
                             </placeTerm>
                         </place>
                     </xsl:when>
                     <xsl:otherwise/>
                 </xsl:choose>
             </xsl:if>
-
+            
             <xsl:variable name="controlField008-7-10"
                 select="normalize-space(substring($controlField008, 8, 4))"/>
             <xsl:variable name="controlField008-11-14"
@@ -8086,14 +8087,14 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                     </copyrightDate>
                 </xsl:if>
             </xsl:if>
-            <xsl:for-each select="marc:leader">
-
+            <xsl:for-each select="leader">
+                
                 <!-- 1.120 - @260$ -->
                 <!-- 1.158 -->
                 <xsl:if test="
-                        $marcLeader7 = 'a' or $marcLeader7 = 'c' or $marcLeader7 = 'd' or $marcLeader7 = 'm' or $marcLeader7 = 'b'
-                        or ($marcLeader7 = 'm' and ($marcLeader19 = 'a' or $marcLeader19 = 'b' or $marcLeader19 = 'c'))
-                        or ($marcLeader7 = 'm' and ($marcLeader19 = ' ')) or $marcLeader7 = 'm' and ($marcLeader19 = '#') or $marcLeader7 = 'i' or $marcLeader7 = 's'">
+                    $marcLeader7 = 'a' or $marcLeader7 = 'c' or $marcLeader7 = 'd' or $marcLeader7 = 'm' or $marcLeader7 = 'b'
+                    or ($marcLeader7 = 'm' and ($marcLeader19 = 'a' or $marcLeader19 = 'b' or $marcLeader19 = 'c'))
+                    or ($marcLeader7 = 'm' and ($marcLeader19 = ' ')) or $marcLeader7 = 'm' and ($marcLeader19 = '#') or $marcLeader7 = 'i' or $marcLeader7 = 's'">
                     <issuance>
                         <xsl:choose>
                             <xsl:when
@@ -8116,7 +8117,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                 </xsl:if>
             </xsl:for-each>
             <xsl:if test="$typeOf008 = 'SE'">
-                <xsl:for-each select="marc:controlfield[@tag = 008]">
+                <xsl:for-each select="controlfield[@tag = 008]">
                     <xsl:variable name="controlField008-18"
                         select="substring($controlField008, 19, 1)"/>
                     <xsl:variable name="frequency">

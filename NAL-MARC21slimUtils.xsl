@@ -395,12 +395,12 @@
 
 <xd:doc scope="component">
 	<xd:desc>
-		<xd:p><xd:b>Function: </xd:b>f:convertMARCCountry</xd:p>		
-		<xd:p><xd:b>Usage: </xd:b>f:convertMARCCountry([$MARCPublication](variable))</xd:p>
+		<xd:p><xd:b>Function: </xd:b>f:lookupMARCCountry</xd:p>		
+		<xd:p><xd:b>Usage: </xd:b>f:lookupMARCCountry([$MARCPublication](variable))</xd:p>
 	</xd:desc>
 	<xd:param name="marccode">MARC two or three-letter country code derived from the 008 control field.</xd:param>
 </xd:doc>
-<xsl:function name="f:convertMARCCountry" as="xs:string">
+<xsl:function name="f:lookupMARCCountry" as="xs:string">
 	<xsl:param name="marccode" as="xs:string"/>	
     <xsl:variable name="MARCcode">
 		<xsl:variable name="nodes">

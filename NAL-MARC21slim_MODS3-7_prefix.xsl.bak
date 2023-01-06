@@ -2761,7 +2761,7 @@
                                             </text>
                                             <text type="month">
                                                 <xsl:value-of
-                                                  select="substring-after(regex-group(1), ' ')"/>
+                                                  select="substring(substring-after(regex-group(1), ' '),"/>
                                             </text>
                                         </xsl:matching-substring>
                                     </xsl:analyze-string>

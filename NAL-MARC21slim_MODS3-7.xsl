@@ -2702,7 +2702,7 @@
                                                   select="number(replace(regex-group(2), '(.*)(p.)(\d+)(\-)(\d+)', '$5'))"/>
                                                   <total>
                                                   <xsl:value-of
-                                                  select="f:calculateTotalPgs($firstPage, $lastPage)"
+                                                  select="translate(f:calculateTotalPgs($firstPage, $lastPage),'-','')"
                                                   />
                                                   </total>
                                                   </extent>
@@ -2715,7 +2715,7 @@
                                                   select="substring-before(substring-after(regex-group(2), 'p.'), '-')"/>
                                                   <total>
                                                   <xsl:value-of
-                                                  select="translate($clean-regex-group-2, 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz', '')"
+                                                  select="translate($clean-regex-group-2, 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|', '')"
                                                   />
                                                   </total>
                                                   </extent>

@@ -20440,4 +20440,7 @@
          <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim_MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3),Transformed on:2023-01-06-05:00</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCat
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

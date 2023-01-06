@@ -27,8 +27,7 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">1998-04</dateIssued>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         <languageTerm type="text">English</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 355-359.</extent>

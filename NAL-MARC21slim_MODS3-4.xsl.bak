@@ -11,14 +11,13 @@
     
     <!-- includes -->
     
-    <xsl:include href="NAL-MARC21slimUtils.xsl"/>
-    <xsl:include href="commons/functions.xsl"/>
-    <xsl:include href="commons/params.xsl"/>
+    <xsl:include href="../NAL-MARC21slimUtils.xsl"/>
+    <xsl:include href="../commons/functions.xsl"/>
+    <xsl:include href="../commons/params.xsl"/>
     
     <!-- outputs -->
-    
-    <xsl:output encoding="UTF-8" indent="yes" method="xml" name="saxon"
-        saxon:next-in-chain="fix_characters.xsl"/>
+    <xsl:output ></xsl:output>
+    <xsl:output encoding="UTF-8" indent="yes" method="xml" name="saxon" saxon:next-in-chain="../fix_characters.xsl"/>
     
     <!-- whitespace control -->
     <xsl:strip-space elements="*"/>

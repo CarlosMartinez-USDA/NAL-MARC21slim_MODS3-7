@@ -44,8 +44,8 @@
 
 	<xsl:variable name="hex">0123456789ABCDEF</xsl:variable>
 
-
-	<xd:doc>
+	<!--datafield-->
+	<xd:doc id="datafield" scope="component">
 		<xd:desc/>
 		<xd:param name="tag"/>
 		<xd:param name="ind1"/>
@@ -55,10 +55,10 @@
 	<xsl:template name="datafield">
 		<xsl:param name="tag"/>
 		<xsl:param name="ind1">
-			<xsl:text> </xsl:text>
+			 <xsl:text>&#160;</xsl:text>
 		</xsl:param>
 		<xsl:param name="ind2">
-			<xsl:text> </xsl:text>
+			 <xsl:text>&#160;</xsl:text>
 		</xsl:param>
 		<xsl:param name="subfields"/>
 		<xsl:element name="datafield">
@@ -75,7 +75,39 @@
 		</xsl:element>
 	</xsl:template>
 
-	<xd:doc>
+<!--marc:datafield-->
+	<xd:doc id="marc:datafield" scope="component">
+		<xd:desc/>
+		<xd:param name="tag"/>
+		<xd:param name="ind1"/>
+		<xd:param name="ind2"/>
+		<xd:param name="subfields"/>
+	</xd:doc>
+	<xsl:template name="marc:datafield">
+		<xsl:param name="tag"/>
+		<xsl:param name="ind1">
+			 <xsl:text>&#160;</xsl:text>
+		</xsl:param>
+		<xsl:param name="ind2">
+			 <xsl:text>&#160;</xsl:text>
+		</xsl:param>
+		<xsl:param name="subfields"/>
+		<xsl:element name="marc:datafield">
+			<xsl:attribute name="tag">
+				<xsl:value-of select="$tag"/>
+			</xsl:attribute>
+			<xsl:attribute name="ind1">
+				<xsl:value-of select="$ind1"/>
+			</xsl:attribute>
+			<xsl:attribute name="ind2">
+				<xsl:value-of select="$ind2"/>
+			</xsl:attribute>
+			<xsl:copy-of select="$subfields"/>
+		</xsl:element>
+	</xsl:template>
+	
+	<!-- subfieldSelect-->
+	<xd:doc id="subfieldSelect" scope="component">
 		<xd:desc/>
 		<xd:param name="codes"/>
 		<xd:param name="delimeter"/>
@@ -83,7 +115,7 @@
 	<xsl:template name="subfieldSelect">
 		<xsl:param name="codes">abcdefghijklmnopqrstuvwxyz</xsl:param>
 		<xsl:param name="delimeter">
-			<xsl:text> </xsl:text>
+			 <xsl:text>&#160;</xsl:text>
 		</xsl:param>
 		<xsl:variable name="str">
 			<xsl:for-each select="subfield">
@@ -96,7 +128,29 @@
 		<xsl:value-of select="substring($str,1,string-length($str)-string-length($delimeter))"/>
 	</xsl:template>
 
-	<xd:doc>
+	<!-- mSubfieldSelect: prefixed marc elements-->
+	<xd:doc id="mSubfieldSelect" scope="component">
+		<xd:desc/>
+		<xd:param name="codes"/>
+		<xd:param name="delimeter"/>
+	</xd:doc>
+	<xsl:template name="mSubfieldSelect">
+		<xsl:param name="codes">abcdefghijklmnopqrstuvwxyz</xsl:param>
+		<xsl:param name="delimeter">
+			 <xsl:text>&#160;</xsl:text>
+		</xsl:param>
+		<xsl:variable name="str">
+			<xsl:for-each select="marc:subfield">
+				<xsl:if test="contains($codes, @code)">
+					<xsl:value-of select="text()"/>
+					<xsl:value-of select="$delimeter"/>
+				</xsl:if>
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:value-of select="substring($str,1,string-length($str)-string-length($delimeter))"/>
+	</xsl:template>
+	
+	<xd:doc id="buildSpaces" scope="component">
 		<xd:desc/>
 		<xd:param name="spaces"/>
 		<xd:param name="char"/>
@@ -104,7 +158,7 @@
 	<xsl:template name="buildSpaces">
 		<xsl:param name="spaces"/>
 		<xsl:param name="char">
-			<xsl:text> </xsl:text>
+			 <xsl:text>&#160;</xsl:text>
 		</xsl:param>
 		<xsl:if test="$spaces>0">
 			<xsl:value-of select="$char"/>
@@ -115,7 +169,7 @@
 		</xsl:if>
 	</xsl:template>
 
-	<xd:doc>
+	<xd:doc id="chopPunctuation" scope="component">
 		<xd:desc/>
 		<xd:param name="chopString"/>
 		<xd:param name="punctuation"/>
@@ -141,7 +195,8 @@
 		</xsl:choose>
 	</xsl:template>
 
-	<xd:doc>
+
+	<xd:doc id="chopPunctuationFront" scope="component">
 		<xd:desc/>
 		<xd:param name="chopString"/>
 	</xd:doc>
@@ -163,7 +218,7 @@
 		</xsl:choose>
 	</xsl:template>
 
-	<xd:doc>
+	<xd:doc id="chopPunctuationBack" scope="component">
 		<xd:desc/>
 		<xd:param name="chopString"/>
 		<xd:param name="punctuation"/>
@@ -190,7 +245,7 @@
 	</xsl:template>
 
 	
-	<xd:doc>
+	<xd:doc id="url-encode" scope="component">
 		<xd:desc> nate added 12/14/2007 for lccn.loc.gov: url encode ampersand, etc. </xd:desc>
 		<xd:param name="str"/>
 	</xd:doc>

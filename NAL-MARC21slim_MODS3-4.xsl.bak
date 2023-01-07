@@ -16,7 +16,7 @@
     <xsl:include href="commons/params.xsl"/>
     
     <!-- outputs -->
-    <xsl:output encoding="UTF-8" indent="yes" method="xml" name="original" saxon:next-in-chain="fix_characters.xsl"/>
+    <xsl:output name="original" saxon:next-in-chain="../fix_characters.xsl"/>
 <!--    <xsl:output encoding="UTF-8" indent="yes" method="xml" name="saxon" saxon:next-in-chain="../fix_characters.xsl"/>-->
     
     <!-- whitespace control -->

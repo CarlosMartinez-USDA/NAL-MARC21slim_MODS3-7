@@ -1,2 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record><leader>03537nab a2200721 u 4500</leader><controlfield tag="001">9916240388407426</controlfield><controlfield tag="005">20221117223015.0</controlfield><controlfield tag="008">040804e200406 xx |||||o|||||||||||eng||</controlfield><datafield tag="016" ind1="7" ind2=" "><subfield code="a">IND43637071</subfield><subfield code="2">DNAL</subfield></datafield><datafield tag="024" ind1="7" ind2=" "><subfield code="a">10.1603/0046-225X-33.3.727</subfield><subfield code="2">doi</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">agid:674916-01nal_inst</subfield></datafield><datafield tag="040" ind1=" " ind2=" "><subfield code="a">AGL</subfield><subfield code="b">eng</subfield><subfield code="c">AGL</subfield></datafield><datafield tag="072" ind1=" " ind2="0"><subfield code="a">L300</subfield></datafield><datafield tag="072" ind1=" " ind2="0"><subfield code="a">L002</subfield></datafield><datafield tag="100" ind1="1" ind2=" "><subfield code="a">Baum, K.A.</subfield></datafield><datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pollen selection by feral honey bee (Hymenoptera: Apidae) colonies in a coastal prairie landscape</subfield></datafield><datafield tag="300" ind1=" " ind2=" "><subfield code="a">p. 727-239.</subfield></datafield><datafield tag="500" ind1=" " ind2=" "><subfield code="a">Includes references</subfield></datafield><datafield tag="500" ind1=" " ind2=" "><subfield code="a">2019-12-06</subfield></datafield><datafield tag="520" ind1=" " ind2=" "><subfield code="a">The collection of pollen by honey bees (Apis mellifera L.) provides valuable pollination services for many plants and the protein necessary for brood and young worker development. We collected and identified pollen gathered by feral honey bee colonies living in tree cavities in a coastal prairie landscape over the duration of 1 yr. Specific objectives included evaluating overlap in pollen use between colonies throughout the year, examining the influence of the spatial locations of the colonies on overlap in pollen use, and describing general pollen collection patterns. The feral colonies collected a wide variety of pollen types. Anemophilous (wind pollinated) pollen types were important in the fall, but entomophilous (insect pollinated) pollen types were important for the remainder of the year. Herbaceous plants and shrubs provided pollen during the spring and early summer, trees in mid- to late summer, and herbaceous plants in the fall. The pollen sources used by the feral colonies also tended to be good nectar sources. Overlap in pollen use between colonies varied throughout the year. Pollen overlap was correlated with distance for some sampling periods and not others, probably because of the way colonies select resources and the flowering phenology in the study area.</subfield></datafield><datafield tag="593" ind1=" " ind2=" "><subfield code="a">PubAg article</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">food plants</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">Apis mellifera</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">spatial distribution</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">tree cavities</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">prairies</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">honey bees</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">pollen</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">nectar plants</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">seasonal variation</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">foraging</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">habitats</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">pollinating insects</subfield></datafield><datafield tag="650" ind1=" " ind2="3"><subfield code="a">honey bee colonies</subfield></datafield><datafield tag="651" ind1=" " ind2="3"><subfield code="a">Texas</subfield></datafield><datafield tag="653" ind1=" " ind2="0"><subfield code="a">feral colonies</subfield></datafield><datafield tag="653" ind1=" " ind2="0"><subfield code="a">foraging overlap</subfield></datafield><datafield tag="653" ind1=" " ind2="0"><subfield code="a">pollen plants</subfield></datafield><datafield tag="653" ind1=" " ind2="0"><subfield code="a">insect ecology</subfield></datafield><datafield tag="700" ind1="1" ind2=" "><subfield code="a">Rubink, W.L.</subfield></datafield><datafield tag="700" ind1="1" ind2=" "><subfield code="a">Coulson, R.N.</subfield></datafield><datafield tag="700" ind1="1" ind2=" "><subfield code="a">Bryant, V.M. Jr.</subfield></datafield><datafield tag="773" ind1="0" ind2=" "><subfield code="t">Environmental entomology.</subfield><subfield code="g">2004 June, v. 33, no. 3 p.727-1239</subfield><subfield code="d">Entomological Society of America.</subfield><subfield code="x">0046-225X</subfield><subfield code="7">nnas</subfield></datafield><datafield tag="787" ind1="1" ind2=" "><subfield code="o">islandora_article_repository</subfield></datafield><datafield tag="787" ind1="1" ind2=" "><subfield code="o">product_pubag</subfield></datafield><datafield tag="787" ind1="1" ind2=" "><subfield code="o">(Journal)jnl3243</subfield></datafield><datafield tag="852" ind1=" " ind2=" "><subfield code="a">DNAL</subfield></datafield><datafield tag="856" ind1="4" ind2="0"><subfield code="u">http://www.entsoc.org/pubs/periodicals/ee/index.htm</subfield><subfield code="3">electronic resource</subfield></datafield><datafield tag="856" ind1="4" ind2="0"><subfield code="u">http://dx.doi.org/10.1603/0046-225X-33.3.727</subfield><subfield code="3">Available from publisher's Web site</subfield></datafield><datafield tag="912" ind1=" " ind2=" "><subfield code="a">Article</subfield></datafield><datafield tag="914" ind1=" " ind2=" "><subfield code="a">Journal:jnl3243</subfield><subfield code="b">0046-225X</subfield><subfield code="c">33</subfield><subfield code="d">3</subfield><subfield code="e">727</subfield></datafield><datafield tag="914" ind1=" " ind2=" "><subfield code="f">Environmental entomology</subfield></datafield><datafield tag="917" ind1=" " ind2=" "><subfield code="a">issued</subfield></datafield><datafield tag="930" ind1=" " ind2=" "><subfield code="a">20050410</subfield><subfield code="b">20050501</subfield><subfield code="c">00000000</subfield></datafield><datafield tag="935" ind1=" " ind2=" "><subfield code="a">IND43637071</subfield><subfield code="9">ExL</subfield></datafield><datafield tag="945" ind1=" " ind2=" "><subfield code="a">IND</subfield><subfield code="d">NZM</subfield><subfield code="e">2004/10/07</subfield></datafield><datafield tag="946" ind1=" " ind2=" "><subfield code="a">Other US</subfield></datafield><datafield tag="949" ind1=" " ind2=" "><subfield code="a">2014-07-17</subfield></datafield><datafield tag="952" ind1=" " ind2=" "><subfield code="a">20050410 20050501 00000000</subfield><subfield code="b">IND NZM 2004/10/07</subfield></datafield><datafield tag="974" ind1=" " ind2=" "><subfield code="a">agid:674916</subfield></datafield><datafield tag="984" ind1=" " ind2=" "><subfield code="a">2015-11-24</subfield></datafield><datafield tag="985" ind1=" " ind2=" "><subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl (Revision 1.95 2014/04/23)</subfield></datafield><datafield tag="986" ind1=" " ind2=" "><subfield code="a">3637071</subfield></datafield></record>
+<record>
+    <leader>03537nab a2200721 u 4500</leader>
+    <controlfield tag="001">9916240388407426</controlfield>
+    <controlfield tag="005">20221117223015.0</controlfield>
+    <controlfield tag="008">040804e200406 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+        <subfield code="a">IND43637071</subfield>
+        <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+        <subfield code="a">10.1603/0046-225X-33.3.727</subfield>
+        <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+        <subfield code="a">agid:674916-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">AGL</subfield>
+        <subfield code="b">eng</subfield>
+        <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+        <subfield code="a">L300</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+        <subfield code="a">L002</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+        <subfield code="a">Baum, K.A.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+        <subfield code="a">Pollen selection by feral honey bee (Hymenoptera: Apidae) colonies in a
+            coastal prairie landscape</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+        <subfield code="a">p. 727-239.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">Includes references</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">2019-12-06</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+        <subfield code="a">The collection of pollen by honey bees (Apis mellifera L.) provides
+            valuable pollination services for many plants and the protein necessary for brood and
+            young worker development. We collected and identified pollen gathered by feral honey bee
+            colonies living in tree cavities in a coastal prairie landscape over the duration of 1
+            yr. Specific objectives included evaluating overlap in pollen use between colonies
+            throughout the year, examining the influence of the spatial locations of the colonies on
+            overlap in pollen use, and describing general pollen collection patterns. The feral
+            colonies collected a wide variety of pollen types. Anemophilous (wind pollinated) pollen
+            types were important in the fall, but entomophilous (insect pollinated) pollen types
+            were important for the remainder of the year. Herbaceous plants and shrubs provided
+            pollen during the spring and early summer, trees in mid- to late summer, and herbaceous
+            plants in the fall. The pollen sources used by the feral colonies also tended to be good
+            nectar sources. Overlap in pollen use between colonies varied throughout the year.
+            Pollen overlap was correlated with distance for some sampling periods and not others,
+            probably because of the way colonies select resources and the flowering phenology in the
+            study area.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+        <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">food plants</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Apis mellifera</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">spatial distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">tree cavities</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">prairies</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">honey bees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">pollen</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">nectar plants</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">seasonal variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">foraging</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">habitats</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">pollinating insects</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">honey bee colonies</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+        <subfield code="a">Texas</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">feral colonies</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">foraging overlap</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">pollen plants</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">insect ecology</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Rubink, W.L.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Coulson, R.N.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Bryant, V.M. Jr.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+        <subfield code="t">Environmental entomology.</subfield>
+        <subfield code="g">2004 June, v. 33, no. 3 p.727-239</subfield>
+        <subfield code="d">Entomological Society of America.</subfield>
+        <subfield code="x">0046-225X</subfield>
+        <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">(Journal)jnl3243</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+        <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://www.entsoc.org/pubs/periodicals/ee/index.htm</subfield>
+        <subfield code="3">electronic resource</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://dx.doi.org/10.1603/0046-225X-33.3.727</subfield>
+        <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+        <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="a">Journal:jnl3243</subfield>
+        <subfield code="b">0046-225X</subfield>
+        <subfield code="c">33</subfield>
+        <subfield code="d">3</subfield>
+        <subfield code="e">727</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="f">Environmental entomology</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+        <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+        <subfield code="a">20050410</subfield>
+        <subfield code="b">20050501</subfield>
+        <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+        <subfield code="a">IND43637071</subfield>
+        <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="945" ind1=" " ind2=" ">
+        <subfield code="a">IND</subfield>
+        <subfield code="d">NZM</subfield>
+        <subfield code="e">2004/10/07</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+        <subfield code="a">Other US</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+        <subfield code="a">2014-07-17</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+        <subfield code="a">20050410 20050501 00000000</subfield>
+        <subfield code="b">IND NZM 2004/10/07</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+        <subfield code="a">agid:674916</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+        <subfield code="a">2015-11-24</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+        <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+            (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+        <subfield code="a">3637071</subfield>
+    </datafield>
+</record>

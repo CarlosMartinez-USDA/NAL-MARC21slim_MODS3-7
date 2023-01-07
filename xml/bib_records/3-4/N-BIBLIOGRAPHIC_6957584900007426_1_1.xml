@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods version="3.7">
+      <titleInfo>
+         <title>Teaming with bacteria</title>
+         <subTitle>the organic gardener's guide to endophytic bacteria and the rhizophagy cycle</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Organic gardener's guide to endophytic bacteria and the rhizophagy cycle</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Jeff</namePart>
+         <namePart type="family">Lowenfels</namePart>
+         <displayForm>Lowenfels, Jeff</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">legal article</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="0">Handbooks and manuals.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">oru</placeTerm>
+            <placeTerm type="text">Oregon</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Portland, Oregon :</placeTerm>
+         </place>
+         <publisher>Timber Press,</publisher>
+         <dateIssued>2022.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>pages cm</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">"Thanks to research conducted over the last few decades, we know that many (and probably all) plants get a significant portion of their nutrients by attracting endophytic bacteria. Gardeners and small-scale growers need to know about endophytic bacteria and the rhizophagy cycle because they have profound implications for how they raise plants. Knowing about them will help readers increase their plant's health and productivity"--</abstract>
+      <tableOfContents displayLabel="Contents">Botany for students of endophytes -- Biochemistry for students of endophytes -- Bacterial review -- Endophytic bacteria -- The rhizophagy cycle -- Growing with endophytic bacteria -- The endophytic future.</tableOfContents>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility">Jeff Lowenfels</note>
+      <note>Includes index.</note>
+      <note type="additional physical form">Also available online.</note>
+      <subject authority="lcsh">
+         <topic>Organic gardening</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Endophytes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Plant-microbe relationships</topic>
+      </subject>
+      <classification authority="lcc">QR351</classification>
+      <classification authority="nal">QR351 .L687 2022</classification>
+      <relatedItem type="otherFormat"
+                   otherType="Online version:"
+                   displayLabel="Online version:">
+         <titleInfo>
+            <title>Teaming with bacteria</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Portland, Oregon : Timber Press, 2022</publisher>
+         </originInfo>9781643261690<identifier type="local">(DLC) 2021052484</identifier>
+         <recordInfo>
+            <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim_MODS3-7-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-07</recordOrigin>
+         </recordInfo>
+      </relatedItem>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Spatial patterns of tree-growth anomalies in the United States and southeastern Canada</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">D.</namePart>
+         <namePart type="family">Meko</namePart>
+         <displayForm>Meko, D.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">E.R.</namePart>
+         <namePart type="family">Cook</namePart>
+         <displayForm>Cook, E.R.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">D.W.</namePart>
+         <namePart type="family">Stahle</namePart>
+         <displayForm>Stahle, D.W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">C.W.</namePart>
+         <namePart type="family">Stockton</namePart>
+         <displayForm>Stockton, C.W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">M.K.</namePart>
+         <namePart type="family">Hughes</namePart>
+         <displayForm>Hughes, M.K.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="7">article</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            <placeTerm type="text">Massachusetts</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1993</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1773-1786.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">A network of 248 tree-ring chronologies in the conterminous United States is assembled and analyzed by rotated principal components analysis (RPCA) to delineate "regions" of common tree-growth variation during the period 1705-1979. Spatial continuity of the tree-ring data is summarized by variogram analysis, and tree-ring data are gridded before RPCA to reduce effects of site clustering. Principal component drought information is evaluated by comparing PC scores and primary pattern coefficients with Palmer Drought Severity Index (PDSI) data from instrumental records. High PC pattern coefficients group geographically into regions coinciding roughly with nine drought regions delineated by RPCA of PDSI by other researchers. The drought signal as measured by the correlation between tree-ring PC scores and July PDSI, 1929-79, is strongest in the South and the interior West (r &gt; 0.7), and weakest in the Northeast and Pacific Northwest (r &lt; 0.16). A count of years with large negative PC scores in multiple regions marks the 1950s as the extreme in widespread drought across the southern United States to 1705. Tree-growth regions are sensitive to whether tree-ring data are gridded before RPCA. Principal components on ungridded tree-ring data tend to center on dense clusters of sites. The importance of site density is most noticeable in the RPCA results for the southeast, where the gridded data yield a PC centered on a group of climate-sensitive but widely spaced bald cypress chronologies. Cross-validation indicates that gridding of tree-ring anomalies over different species for drought reconstruction is more appropriate in the semiarid southwest than in cooler, moister regions--especially the northeast and the Pacific Northwest. Our results endorse the large-scale chronology network as a long-term proxy for the spatial and temporal patterns of past drought across the United States.</abstract>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>abnormal development</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>growth rings</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Canada</geographic>
+      </subject>
+      <subject>
+         <topic>species</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1175/1520-0442(1993)006&lt;1773:SPOTGA&gt;2.0.CO;2</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of climate</title>
+         </titleInfo>
+         <identifier type="issn">0894-8755</identifier>
+         <identifier type="issn">0894-8755</identifier>
+         <recordInfo>
+            <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim_MODS3-7-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-07</recordOrigin>
+         </recordInfo>
+      </relatedItem>
+      <relatedItem>
+         <identifier>islandora_article_repository</identifier>
+         <recordInfo>
+            <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim_MODS3-7-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-07</recordOrigin>
+         </recordInfo>
+      </relatedItem>
+      <relatedItem>
+         <identifier>21248</identifier>
+         <recordInfo>
+            <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim_MODS3-7-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-07</recordOrigin>
+         </recordInfo>
+      </relatedItem>
+      <relatedItem type="local">
+         <recordInfo>
+            <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim_MODS3-7-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-07</recordOrigin>
+         </recordInfo>
+      </relatedItem>
+   </mods>
+</modsCollection>

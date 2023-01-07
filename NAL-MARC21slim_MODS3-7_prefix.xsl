@@ -31,6 +31,7 @@
 	┌ ━ ━ ━ ━ ━ ┐ 
 	│ MODS 3.7 │  
 	└ ━ ━ ━ ━ ━ ┘
+	Revision 1.168 - reused relatedIdentifierLocal template below <titleInfo type="host"> in relatedTitle76X-78X" 20230106
 	Revision 1.167 - Custom function f:lookupMARCCountry($marcCode) returns the country/state name. 20230106 cm3
 	Revision 1.166 - Filters 008 field for 2 or 3 letter country/state codes. 20230106 cm3
 	Revision 1.165 - remnamed displayForm template, added mSpecialSubfieldSelect from 1.164 as variable, parsed it as output. 20230106 cm3
@@ -3427,7 +3428,7 @@
                     select="string(tokenize(base-uri(document('')), '/')[last()])" as="xs:string"/>
                 <xsl:variable name="date" select="replace(string(current-date()),'(\d{4}/-\d{2}/-\d{2})(.*)', '$1')"/>
                 <xsl:value-of
-                    select="normalize-space(concat('Converted from MARCXML to MODS version 3.7 using', ' ', $transform, ' ', '(NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3),'))"
+                    select="normalize-space(concat('Converted from MARCXML to MODS version 3.7 using', ' ', $transform, ' ', '(NAL-MARC21slim2MODS3-7.xsl (Revision 1.168) 20230106 cm3),'))"
                 />
                 <xsl:value-of
                     select="normalize-space(concat('Transformed on:', $date))"
@@ -4181,6 +4182,8 @@
                         </xsl:with-param>
                     </xsl:call-template>
                 </title>
+                <!--1.168-->
+                <xsl:call-template name="relatedIdentifierLocal"/>
                 <!-- 1.120 - @76X-78X$g -->
                 <xsl:if test="parent::*[@tag != 773] and ../marc:subfield[@code = 'g']">
                     <xsl:apply-templates select="../marc:subfield[@code = 'g']" mode="relatedItem"/>

@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<traceList>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="100" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="100" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="100" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã-', '-')&quot;)" entering="yes" line="101" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="101" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="101" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="101" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã´', '´')&quot;)" entering="yes" line="102" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="102" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="102" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="102" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¨', 'è')&quot;)" entering="yes" line="103" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="103" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="103" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="103" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ãº', 'ú')&quot;)" entering="yes" line="104" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="104" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="104" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="104" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¼', 'ü')&quot;)" entering="yes" line="105" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="105" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="105" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="105" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã ', 'à')&quot;)" entering="yes" line="106" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="106" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="106" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="106" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¯', 'ï')&quot;)" entering="yes" line="107" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="107" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="107" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="107" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¥', 'å')&quot;)" entering="yes" line="108" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="108" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="108" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="108" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¸', 'ø')&quot;)" entering="yes" line="109" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="109" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="109" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="109" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã', 'Ç')&quot;)" entering="yes" line="110" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="110" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="110" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="110" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä±', 'ı')&quot;)" entering="yes" line="114" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="114" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="114" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="114" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä', 'ć')&quot;)" entering="yes" line="115" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="115" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="115" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="115" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä', 'ą')&quot;)" entering="yes" line="116" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="116" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="116" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="116" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä', 'Đ')&quot;)" entering="yes" line="117" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="117" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="117" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="117" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä;', 'Đ')&quot;)" entering="yes" line="118" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="118" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="118" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="118" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä°', 'İ')&quot;)" entering="yes" line="119" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="119" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="119" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="119" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ł')&quot;)" entering="yes" line="122" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="122" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="122" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="122" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ņ')&quot;)" entering="yes" line="123" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="123" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="123" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="123" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ş')&quot;)" entering="yes" line="124" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="124" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="124" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="124" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'Ş')&quot;)" entering="yes" line="125" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="125" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="125" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="125" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å‘', 'ő')&quot;)" entering="yes" line="126" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="126" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="126" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="126" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ő')&quot;)" entering="yes" line="127" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="127" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="127" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="127" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å¡', 'š')&quot;)" entering="yes" line="128" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="128" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="128" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="128" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'œ')&quot;)" entering="yes" line="129" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="129" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="129" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="129" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã', '.')&quot;)" entering="yes" line="132" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="132" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="132" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="132" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î¼', 'μ')&quot;)" entering="yes" line="134" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="134" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="134" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="134" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î¨', 'Ψ')&quot;)" entering="yes" line="135" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="135" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="135" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="135" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î³', 'γ')&quot;)" entering="yes" line="136" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="136" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="136" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="136" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î²', 'β')&quot;)" entering="yes" line="137" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="137" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="137" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="137" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î±', 'α')&quot;)" entering="yes" line="138" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="138" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="138" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="138" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î´', 'δ')&quot;)" entering="yes" line="139" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="139" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="139" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="139" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î¸', 'θ')&quot;)" entering="yes" line="140" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="140" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="140" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="140" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î', 'Δ')&quot;)" entering="yes" line="141" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="141" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="141" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="141" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î»', 'λ')&quot;)" entering="yes" line="142" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="142" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="142" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="142" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î§', 'Χ')&quot;)" entering="yes" line="143" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="143" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="143" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="143" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Îµ', 'e')&quot;)" entering="yes" line="144" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="144" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="144" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="144" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Îµ', 'e')&quot;)" entering="yes" line="145" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="145" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="145" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="145" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î', '·')&quot;)" entering="yes" line="147" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="147" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="147" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="147" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î', '·')&quot;)" entering="yes" line="148" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="148" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="148" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="148" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Îº', 'κ')&quot;)" entering="yes" line="149" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="149" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="149" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="149" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ì', '`')&quot;)" entering="yes" line="151" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="151" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="151" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="151" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ï', 'χ')&quot;)" entering="yes" line="154" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="154" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="154" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="154" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'ï¬', 'fi')&quot;)" entering="yes" line="156" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="156" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="156" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="156" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'ï', '')&quot;)" entering="yes" line="157" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="157" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="157" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="157" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Âµ', 'µ')&quot;)" entering="yes" line="160" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="160" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="160" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="160" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â±', '±')&quot;)" entering="yes" line="161" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="161" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="161" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="161" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Âº', 'º')&quot;)" entering="yes" line="162" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="162" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="162" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="162" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â²', '²')&quot;)" entering="yes" line="163" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="163" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="163" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="163" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â£', '£')&quot;)" entering="yes" line="164" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="164" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="164" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="164" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â³', '³')&quot;)" entering="yes" line="165" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="165" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="165" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="165" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â½', '½')&quot;)" entering="yes" line="166" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="166" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="166" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="166" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â·', '·')&quot;)" entering="yes" line="167" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="167" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="167" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="167" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â¹', '¹')&quot;)" entering="yes" line="168" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="168" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="168" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="168" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â´', '´')&quot;)" entering="yes" line="169" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="169" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="169" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="169" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'É', 'α')&quot;)" entering="yes" line="171" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="171" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="171" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="171" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'É¸', 'φ')&quot;)" entering="yes" line="172" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="172" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="172" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="172" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ï', 'τ')&quot;)" entering="yes" line="174" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="174" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="174" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="174" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '
+', ' ')&quot;)" entering="yes" line="176" name="xsl:variable" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="176" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="176" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="176" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', ' ')&quot;)" entering="yes" line="177" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="177" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="177" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="177" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', '—')&quot;)" entering="yes" line="178" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="178" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="178" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="178" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', '≡')&quot;)" entering="yes" line="179" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="179" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="179" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="179" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', '═')&quot;)" entering="yes" line="180" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="yes" line="180" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="yes" line="180" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;fn:replace&quot;)" entering="no" line="180" name="function-call"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(select=&quot;$work&quot;)" entering="yes" line="181" name="xsl:value-of"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(select=&quot;$work&quot;)" entering="no" line="181" name="xsl:value-of"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="180" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', '═')&quot;)" entering="no" line="180" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="179" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', '≡')&quot;)" entering="no" line="179" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="178" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', '—')&quot;)" entering="no" line="178" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="177" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '', ' ')&quot;)" entering="no" line="177" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="176" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, '
+', ' ')&quot;)" entering="no" line="176" name="xsl:variable" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="174" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ï', 'τ')&quot;)" entering="no" line="174" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="172" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'É¸', 'φ')&quot;)" entering="no" line="172" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="171" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'É', 'α')&quot;)" entering="no" line="171" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="169" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â´', '´')&quot;)" entering="no" line="169" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="168" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â¹', '¹')&quot;)" entering="no" line="168" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="167" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â·', '·')&quot;)" entering="no" line="167" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="166" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â½', '½')&quot;)" entering="no" line="166" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="165" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â³', '³')&quot;)" entering="no" line="165" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="164" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â£', '£')&quot;)" entering="no" line="164" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="163" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â²', '²')&quot;)" entering="no" line="163" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="162" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Âº', 'º')&quot;)" entering="no" line="162" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="161" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â±', '±')&quot;)" entering="no" line="161" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="160" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Âµ', 'µ')&quot;)" entering="no" line="160" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="157" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'ï', '')&quot;)" entering="no" line="157" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="156" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'ï¬', 'fi')&quot;)" entering="no" line="156" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="154" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ï', 'χ')&quot;)" entering="no" line="154" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="151" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ì', '`')&quot;)" entering="no" line="151" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="149" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Îº', 'κ')&quot;)" entering="no" line="149" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="148" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î', '·')&quot;)" entering="no" line="148" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="147" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î', '·')&quot;)" entering="no" line="147" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="145" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Îµ', 'e')&quot;)" entering="no" line="145" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="144" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Îµ', 'e')&quot;)" entering="no" line="144" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="143" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î§', 'Χ')&quot;)" entering="no" line="143" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="142" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î»', 'λ')&quot;)" entering="no" line="142" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="141" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î', 'Δ')&quot;)" entering="no" line="141" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="140" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î¸', 'θ')&quot;)" entering="no" line="140" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="139" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î´', 'δ')&quot;)" entering="no" line="139" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="138" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î±', 'α')&quot;)" entering="no" line="138" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="137" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î²', 'β')&quot;)" entering="no" line="137" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="136" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î³', 'γ')&quot;)" entering="no" line="136" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="135" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î¨', 'Ψ')&quot;)" entering="no" line="135" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="134" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Î¼', 'μ')&quot;)" entering="no" line="134" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="132" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã', '.')&quot;)" entering="no" line="132" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="129" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'œ')&quot;)" entering="no" line="129" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="128" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å¡', 'š')&quot;)" entering="no" line="128" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="127" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ő')&quot;)" entering="no" line="127" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="126" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å‘', 'ő')&quot;)" entering="no" line="126" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="125" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'Ş')&quot;)" entering="no" line="125" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="124" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ş')&quot;)" entering="no" line="124" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="123" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ņ')&quot;)" entering="no" line="123" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="122" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Å', 'ł')&quot;)" entering="no" line="122" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="119" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä°', 'İ')&quot;)" entering="no" line="119" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="118" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä;', 'Đ')&quot;)" entering="no" line="118" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="117" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä', 'Đ')&quot;)" entering="no" line="117" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="116" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä', 'ą')&quot;)" entering="no" line="116" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="115" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä', 'ć')&quot;)" entering="no" line="115" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="114" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ä±', 'ı')&quot;)" entering="no" line="114" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="110" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã', 'Ç')&quot;)" entering="no" line="110" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="109" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¸', 'ø')&quot;)" entering="no" line="109" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="108" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¥', 'å')&quot;)" entering="no" line="108" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="107" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¯', 'ï')&quot;)" entering="no" line="107" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="106" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã ', 'à')&quot;)" entering="no" line="106" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="105" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¼', 'ü')&quot;)" entering="no" line="105" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="104" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ãº', 'ú')&quot;)" entering="no" line="104" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="103" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¨', 'è')&quot;)" entering="no" line="103" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="102" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã´', '´')&quot;)" entering="no" line="102" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="101" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã-', '-')&quot;)" entering="no" line="101" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="100" name="let"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã—', '—')&quot;)" entering="no" line="100" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="99" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã·', '÷')&quot;)" entering="no" line="99" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="98" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'ÃŸ', '.')&quot;)" entering="no" line="98" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="97" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã½', 'ý')&quot;)" entering="no" line="97" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="96" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã«', 'ë')&quot;)" entering="no" line="96" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="95" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¶', 'ö')&quot;)" entering="no" line="95" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="94" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¤', 'ä')&quot;)" entering="no" line="94" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="93" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¢', 'â')&quot;)" entering="no" line="93" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="92" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ãª', 'ê')&quot;)" entering="no" line="92" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="91" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã', 'É')&quot;)" entering="no" line="91" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="90" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã£', 'ã')&quot;)" entering="no" line="90" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="89" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã§', 'ç')&quot;)" entering="no" line="89" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="88" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã±', 'ñ')&quot;)" entering="no" line="88" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="87" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã­', 'í')&quot;)" entering="no" line="87" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="86" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã¡', 'á')&quot;)" entering="no" line="86" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="85" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã', '×')&quot;)" entering="no" line="85" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="84" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã³', 'ó')&quot;)" entering="no" line="84" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="83" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Ã©', 'é')&quot;)" entering="no" line="83" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="80" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â»', '»')&quot;)" entering="no" line="80" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="79" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â­', '­')&quot;)" entering="no" line="79" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="78" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â¬', '¬')&quot;)" entering="no" line="78" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="77" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â®', '®')&quot;)" entering="no" line="77" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="76" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'Â°', '°')&quot;)" entering="no" line="76" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="72" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '♂')&quot;)" entering="no" line="72" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="71" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '♀')&quot;)" entering="no" line="71" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="69" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â´', '⁴')&quot;)" entering="no" line="69" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="68" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â¶', '⁶')&quot;)" entering="no" line="68" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="67" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '₄')&quot;)" entering="no" line="67" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="66" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'âº', '+')&quot;)" entering="no" line="66" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="65" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '−')&quot;)" entering="no" line="65" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="64" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '₂')&quot;)" entering="no" line="64" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="63" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'âµ', '⁵')&quot;)" entering="no" line="63" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="62" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â¬', '€')&quot;)" entering="no" line="62" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="61" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '—')&quot;)" entering="no" line="61" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="60" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â»', '⁻')&quot;)" entering="no" line="60" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="59" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '₃')&quot;)" entering="no" line="59" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="58" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', 'V')&quot;)" entering="no" line="58" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="57" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', 'Δ')&quot;)" entering="no" line="57" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="55" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â†', 'Δ')&quot;)" entering="no" line="55" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="54" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '≈')&quot;)" entering="no" line="54" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="53" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â²', '′')&quot;)" entering="no" line="53" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="52" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â¢', '.')&quot;)" entering="no" line="52" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="51" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â¥', '≥')&quot;)" entering="no" line="51" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="50" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â„ƒ', '?')&quot;)" entering="no" line="50" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="49" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â€™', '’')&quot;)" entering="no" line="49" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="48" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â¤', '≤')&quot;)" entering="no" line="48" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="47" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '⌀')&quot;)" entering="no" line="47" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="46" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '∙')&quot;)" entering="no" line="46" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="45" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â¢', '™')&quot;)" entering="no" line="45" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="44" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '”')&quot;)" entering="no" line="44" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="43" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '“')&quot;)" entering="no" line="43" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="42" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '’')&quot;)" entering="no" line="42" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="41" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '‘')&quot;)" entering="no" line="41" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="40" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;fn:replace( $work, 'â', '–')&quot;)" entering="no" line="40" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;)" entering="no" line="38" name="let" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(name=&quot;work&quot;) (select=&quot;.&quot;)" entering="no" line="38" name="xsl:variable"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(match=&quot;text()&quot;) (priority=&quot;3&quot;)" entering="no" line="37" name="template"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(select=&quot;node()[normalize-space()]|@*[normalize-space()]&quot;)" entering="no" line="33" name="xsl:apply-templates"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace entering="no" line="32" name="xsl:copy" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(match=&quot;node()|@*&quot;)" entering="no" line="31" name="template"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(authority=&quot;iso639-2b&quot;) (type=&quot;code&quot;)" entering="no" line="3406" name="languageTerm"
+    resource="file:/C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\NAL-MARC21slim_MODS3-7\xml\bib_records\3-4\N-3_1.xml"/>
+  <trace attributes="(select=&quot;node()[normalize-space()]|@*[normalize-space()]&quot;)" entering="no" line="33" name="xsl:apply-templates"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace entering="no" line="32" name="xsl:copy" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(match=&quot;node()|@*&quot;)" entering="no" line="31" name="template"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace entering="no" line="3405" name="languageOfCataloging"
+    resource="file:/C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\NAL-MARC21slim_MODS3-7\xml\bib_records\3-4\N-3_1.xml"/>
+  <trace attributes="(select=&quot;node()[normalize-space()]|@*[normalize-space()]&quot;)" entering="no" line="33" name="xsl:apply-templates"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace entering="no" line="32" name="xsl:copy" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(match=&quot;node()|@*&quot;)" entering="no" line="31" name="template"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace entering="no" line="3354" name="recordInfo" resource="file:/C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\NAL-MARC21slim_MODS3-7\xml\bib_records\3-4\N-3_1.xml"/>
+  <trace attributes="(select=&quot;node()[normalize-space()]|@*[normalize-space()]&quot;)" entering="no" line="33" name="xsl:apply-templates"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace entering="no" line="32" name="xsl:copy" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(match=&quot;node()|@*&quot;)" entering="no" line="31" name="template"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(version=&quot;3.7&quot;)" entering="no" line="254" name="mods"
+    resource="file:/C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\NAL-MARC21slim_MODS3-7\xml\bib_records\3-4\N-3_1.xml"/>
+  <trace attributes="(select=&quot;node()[normalize-space()]|@*[normalize-space()]&quot;)" entering="no" line="33" name="xsl:apply-templates"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace entering="no" line="32" name="xsl:copy" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(match=&quot;node()|@*&quot;)" entering="no" line="31" name="template"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/fix_characters.xsl"/>
+  <trace attributes="(xsi:schemaLocation=&quot;http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd&quot;)" entering="no" line="252" name="modsCollection"
+    resource="file:/C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\NAL-MARC21slim_MODS3-7\xml\bib_records\3-4\N-3_1.xml"/>
+  <trace
+    attributes="(encoding=&quot;UTF-8&quot;) (version=&quot;1.0&quot;) (method=&quot;xml&quot;) (media-type=&quot;text/xml&quot;) (indent=&quot;yes&quot;) (format=&quot;saxon&quot;) (href=&quot;file:///{$workingDir}N-{replace($originalFilename,'(.*/)(.*)(\.xml)','$2')}_{position()}.xml&quot;)"
+    entering="no" line="248" name="xsl:result-document" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/NAL-MARC21slim_MODS3-7.xsl"/>
+  <trace attributes="(match=&quot;/&quot;)" entering="no" line="245" name="template"
+    resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/NAL-MARC21slim_MODS3-7.xsl"/>
+  <trace entering="no" line="1" name="#document" resource="file:/C:/Users/Carlos.Martinez/OneDrive - USDA/Desktop/NAL-MARC21slim_MODS3-7/xml/bib_records/3.xml"/>
+</traceList>

@@ -1,0 +1,30 @@
+Revision 1.171 - Custom function f:nameIdentifiers() gleans mods:nameIdentifers (e.g., orcID, viaf, id.loc.gov, etc.) from MARC 100 $1 and 700 $1. 202030110 cm3  
+Revision 1.170 - Added $controlField008-0-14 variable to get correct dates is "w3cdtf" format 20221123 cm3
+Revision 1.169 - Added $this variables to <title>, <subtitle>, <abstract>, <relatedItem><title> , etc. (any lenthy text field to resolve MODS Schema whitespace error. 20230108 cm3
+Revision 1.168 - Removed 778 from 76X-78X template, added 914 for local identifier, "agid:" number 20230108 cm3
+Revision 1.167 - Custom function f:decodeMARCCountry($marcCode) returns the country/state name
+Revision 1.166 - Filters 008 field for 2 or 3 letter country/state codes 
+Revision 1.165 - Remnamed displayForm template, added specialSubfieldSelect from 1.164 as variable, parsed it as output. 20230106 cm3
+Revision 1.164 - Removed specialSubfieldSelect template. 20230106 cm3
+Revision 1.163 - "agid:" mapped from createNoteFrom974 into local identifier; removed from extension. 20220105 cm3
+Revision 1.162 - NAL control number mapped to local idenfifer. 20230105 cm3
+Revision 1.161 - NAL Agricola accession number (e.g.,CAT87882125). 20230105 cm3
+Revision 1.160 - NAL Classification number. 20230104 cm3
+Revision 1.159 - Added if test to prevent extra whitespace. 2022/12/23 cm3
+Revision 1.158 - Added conditional statement above issuance to focus on monographs, single part items and multipart monographs cm3 12/08/2022
+Revision 1.157 - Added condtional statement if agid:# is empty from 773, use 914 subfield a cm3 12/09/2022
+Revision 1.156 - Added condtional statement if ISSN is empty from 773, use 914 subfield b cm3 12/09/2022
+Revision 1.155 - Added custom function to map category code to subject. cm3 2022/12/08
+Revision 1.154 - Commented out conditional statements within issuance element for serials, contininuing resources, and integrating resources. cm3 2022/12/08
+Revision 1.153 - Used subtring-before function to get subfield b (ie., publisher) and subfield c (i.e., dateIssued). cm3 2022/12/08
+Revision 1.152 - Added conditional statement outside of issuance element to allow monographs, multipart monographs, and single items only. cm3 2022/12/08 
+Revision 1.151 - $controlField008-35-37replace, uses replace function and regex to capture 3 letter string. cm3 2022/12/05
+Revision 1.150 - Updated recordOrigin to reflect the XSLT filename Used in transform. cm3 2022/12/08
+Revision 1.149 - Added if tests to originInfo producer elements to avoid empty tag cm3 2022/11/10
+Revision 1.148 - Used analyze-string function 008 to pull out 2-3 letter text and apply custom marc country conversion function
+Revision 1.147 - Removed  prefix from XSLT to accomodate prefix-less elements from Alma 
+Revision 1.146 - Upgraded stylesheet to use XSLT 2.0 cm3 2022/10/05 
+Revision 1.145 - Fixed dateIssued to include year only date from the 008  JG 2014/12/16
+Revision 1.144 - Fixed dateIssued to include month and date from the 008  JG 2014/08/18
+Revision 1.143 - Added displayForm to 700 JG 2014/05/29
+Revision 1.141 - Added subject from 072, classification from 070, identifier from 024, identifier from 001, and notes from 910, 930, 945, 946, 974 LC 2014/04/23

@@ -14,7 +14,7 @@
         
         <xsl:template match="mods">
 <!--           <xsl:result-document method="xml" encoding="UTF-8" indent="yes" href="file:///{//*:workingDirectory}N-{replace(//*:originalFile, '(.*/)(.*)(\.xml)','$2')}_{position()}.xml">-->
-             <xsl:result-document method="xml" encoding="UTF-8" indent="yes" href="file:///{//replace(base-uri(),'(.*/)(.*)(\.xml|\.json)', '$1')}N-{//replace(base-uri(),'(.*/)(.*)(\.xml|\.json)', '$2')}_{position()}.xml">        
+<!--             <xsl:result-document method="xml" encoding="UTF-8" indent="yes" href="file:///{//replace(base-uri(),'(.*/)(.*)(\.xml|\.json)', '$1')}N-{//replace(base-uri(),'(.*/)(.*)(\.xml|\.json)', '$2')}_{position()}.xml">        -->
                 <mods version="3.4">
                     <xsl:namespace name="xlink">http://www.w3.org/1999/xlink</xsl:namespace>
                     <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
@@ -24,7 +24,7 @@
                     </xsl:for-each>
                 </mods>
                   
-            </xsl:result-document>
+            <!--</xsl:result-document>-->
         </xsl:template>
         
         

@@ -333,34 +333,35 @@
 	<xsl:variable name="nodes">
 		<xsl:copy-of select="document('commons/xml/nalSubjCat.xml')"/>
 	</xsl:variable>
-	<xsl:sequence
-		select="$nodes/nalsubcat:agricola/nalsubcat:subject[nalsubcat:code = $code]/nalsubcat:category"
-	/>
+	<xsl:sequence select="$nodes/nalsubcat:agricola/nalsubcat:subject[nalsubcat:code = $code]/nalsubcat:category"/>
 </xsl:function>
 
 <xd:doc scope="component">
 	<xd:desc>
-		<xd:p><xd:b>Function: </xd:b>f:convertMARCCountry</xd:p>		
-		<xd:p><xd:b>Usage: </xd:b>f:convertMARCCountry([$MARCPublication](variable))</xd:p>
+		<xd:p><xd:b>Function: </xd:b>f:decodeMARCCountry</xd:p>		
+		<xd:p><xd:b>Usage: </xd:b>f:decodeMARCCountry($marcCountryCode)</xd:p>
+		<xd:p><xd:b>Purpose:</xd:b>Use an XML lookup file to match MARC Country Code</xd:p>
+		<xd:p><xd:b>Returns:</xd:b> the proper state or country name from the controlfield[@tag='008']</xd:p>
 	</xd:desc>
-	<xd:param name="marccode">MARC two or three-letter country code derived from the 008 control field.</xd:param>
+	<xd:b>variables &amp; parameters</xd:b>
+	<xd:variable name="marcCountryCode">variable declared from the stylesheet.</xd:variable>	
+	<xd:param name="marccode">marcCountry code variable passes the two or three letter valued to the $marcCode parameter</xd:param>
 </xd:doc>
-<xsl:function name="f:convertMARCCountry" as="xs:string">
-	<xsl:param name="marccode" as="xs:string"/>	
-    <xsl:variable name="MARCcode">
-		<xsl:variable name="nodes">
-			<xsl:copy-of select="document('commons/xml/marcCountry.xml')"/>
+	<xsl:function name="f:decodeMARCCountry" as="xs:string">
+		<xsl:param name="marccode" as="xs:string"/>	
+		<xsl:variable name="MARCcode">
+			<xsl:variable name="nodes">
+				<xsl:copy-of select="document('commons/xml/marcCountry.xml')"/>
+			</xsl:variable>
+			<xsl:choose>
+				<xsl:when test="$marccode=''"/>
+				<xsl:otherwise>
+					<xsl:value-of select="$nodes/marccountry:marcCountry/marccountry:value[marccountry:code = $marccode]/marccountry:country"/>
+				</xsl:otherwise>
+			</xsl:choose>
 		</xsl:variable>
-	<xsl:choose>
-     <xsl:when test="$marccode=''"/>
-	<xsl:otherwise>
-	    	<xsl:value-of select="$nodes/marccountry:marcCountry/marccountry:value[marccountry:code = $marccode]/marccountry:country"/>
-    </xsl:otherwise>
-		</xsl:choose>
-	</xsl:variable>
-	<xsl:sequence select="$MARCcode"/>	
-</xsl:function>
-
+		<xsl:sequence select="$MARCcode"/>	
+	</xsl:function>
 	<!-- f:isoTwo2Lang -->
 	<xd:doc scope="component">
 		<xd:desc>
@@ -484,5 +485,18 @@
 		<xsl:sequence select="tokenize($arg, $regex)[1]"/>
 	</xsl:function>
 	
-	
+		
+	<xd:doc>
+		<xd:desc/>
+		<xd:param name="arg"/>
+	</xd:doc>
+	<xsl:function name="f:nameIdentifier" as="xs:string">
+		<xsl:param name="arg" as="xs:string"/>		
+		<xsl:sequence select="if (matches($arg,'orcid.org|viaf.org|isni.org|[a-z]+') =true())
+								then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3')
+								else if (matches($arg,'id.loc.gov|id.nlm.nih.gov|agclass.nal.usda.gov|lod.nal.usda.gov|[a-z]\.[a-z]\.gov|[a-z]\.[a-z]\.org')= true()) 
+									then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3$4')
+								else $arg"/>
+	</xsl:function>
+
 </xsl:stylesheet>

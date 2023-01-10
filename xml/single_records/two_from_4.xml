@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <!-- first page -->
+  <record>
+    <leader>03510nab a2200613 u 4500</leader>
+    <controlfield tag="001">9916288966107426</controlfield>
+    <controlfield tag="005">20221118121758.0</controlfield>
+    <controlfield tag="008">981119e199804 mdu|||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND21811969</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1093/ee/27.2.355</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:1408166-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">McCravy, K.W.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in
+        relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and
+        location</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 355-359.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">2019-12-04</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Patterns of parasitism by Trichogramma spp. relative to density and
+        location of Nantucket pine tip moth, Rhyacionia frustrana (Comstock), eggs were examined
+        during 1994 in a 13-ha, 2-yr-old Pinus taeda L. plantation in northeastern Georgia. Egg
+        densities were adjusted by temporarily enclosing trees in fine mesh screen cages and
+        introducing different numbers of tip moths. After exposing eggs to naturally occurring
+        parasitoids, all shoots were removed, and eggs were counted and evaluated for parasitism.
+        Tip moth egg densities ranged from 203 to 2,579 per tree for the spring generation, and from
+        1 to 89 per tree for the summer generation. Tip moths deposited significantly greater
+        numbers of eggs on needles than shoots on high- versus low-egg-density trees. Overall
+        parasitism rates were 37.2 and 43.3% for spring- and summer-generation eggs, respectively.
+        Parasitism was density independent at the whole-tree level in both generations, but
+        spring-generation parasitism was strongly inversely density dependent in the top whorl.
+        Numbers of eggs per needle fascicle ranged from 1 to 15 for spring-generation trees. Actual
+        numbers of parasitized eggs per discovered fascicle (one on which parasitism occurred)
+        increased with egg density, but the percentage of parasitized eggs decreased. Egg density
+        had no effect on fascicle discovery. These factors produced an inversely density-dependent
+        relationship between egg parasitism and density at the fascicle level. Eggs located on
+        shoots suffered significantly greater parasitism rates than those on needles. Implications
+        of these results are discussed.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">parasitism</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">parasitoids</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Rhyacionia frustrana</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ova</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">spatial distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">host-parasite relationships</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">conifer needles</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seasonal variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Pinus taeda</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">density</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Trichogramma</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">shoots</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Georgia</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">parasites</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">host location</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">parasites of insect pests</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Berisford, C.W.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Environmental entomology.</subfield>
+      <subfield code="g">1998 Apr., v. 27, no. 2 p.355-359</subfield>
+      <subfield code="x">0046-225X</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl3243</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1093/ee/27.2.355</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl3243</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Environ. entomol</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+      <subfield code="a">19990101</subfield>
+      <subfield code="b">19990111</subfield>
+      <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND21811969</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="945" ind1=" " ind2=" ">
+      <subfield code="a">IND</subfield>
+      <subfield code="d">NZM</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+      <subfield code="a">Other US</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="a">19990101 19990111 00000000</subfield>
+      <subfield code="b">IND NZM </subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:1408166</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2014-12-25</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">3315514</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03697nab a2200769 u 4500</leader>
+    <controlfield tag="001">9916251293907426</controlfield>
+    <controlfield tag="005">20221118030600.0</controlfield>
+    <controlfield tag="008">080721e200807 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND44081024</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1139/X08-026</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:733151-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+      <subfield code="a">K110</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+      <subfield code="a">J200</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+      <subfield code="a">F820</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+      <subfield code="a">F300</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Hahn, K.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Natural regeneration in a beech-dominated forest managed by close-to-nature
+        principles --- a gap cutting based experiment</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 1716-1729.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes references</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Summary in French.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">2019-12-06</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">European beech (Fagus sylvatica L.) is increasingly managed by
+        close-to-nature principles, mimicking the gap dynamics of seminatural forests. The prime aim
+        of this study was to analyse natural regeneration reliability under favourable conditions in
+        newly formed gaps. A total of 12 gaps were created by felling three canopy trees for each
+        gap: six gaps in each of the two winters 1996-1997 and 1997-1998. One-half of the gaps were
+        fenced against deer. We recorded advance regeneration density (1997), regeneration density
+        and height (1997-2002), relative light intensity (1997-2002), and volumetric soil moisture
+        content (1997-2002). We also studied the effect of year of establishment, fenced versus
+        unfenced, and position within gap on regeneration. Three or 4 years after gap formation,
+        most gaps had nearly closed. Response of European beech, European ash (Fraxinus excelsior L.
+        ), and sycamore maple (Acer pseudoplatanus L.) regeneration to gap formation was limited,
+        and few seedlings were added to the advance regeneration pool during the study period. Other
+        factors, such as relative light intensity, soil moisture, fencing, year of establishment,
+        and position within gaps, all had rather low effects. Thus, the presence of advance
+        regeneration appeared to be a key factor in explaining regeneration patterns in artificially
+        created gaps.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">spatial distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">light intensity</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">height</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">natural regeneration</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest stands</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Fraxinus excelsior</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">browsing</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">soil water content</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">plant establishment</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">sustainable forestry</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Acer pseudoplatanus</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">stand density</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">canopy gaps</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Fagus sylvatica</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fences</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree growth</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">stand management</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">deer</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Denmark</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">advance regeneration</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">forest regeneration</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Madsen, P.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Canadian journal of forest research =.</subfield>
+      <subfield code="g">2008 July, v. 38, no. 7 p.1716-1729</subfield>
+      <subfield code="d">National Research Council of Canada</subfield>
+      <subfield code="x">0045-5067</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl2003</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1139/X08-026</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl2003</subfield>
+      <subfield code="b">0045-5067</subfield>
+      <subfield code="c">38</subfield>
+      <subfield code="d">7</subfield>
+      <subfield code="e">1716</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Canadian journal of forest research =</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+      <subfield code="a">20080822</subfield>
+      <subfield code="b">20080905</subfield>
+      <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND44081024</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="945" ind1=" " ind2=" ">
+      <subfield code="a">IND</subfield>
+      <subfield code="d">LYN</subfield>
+      <subfield code="e">2008/08/20</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+      <subfield code="a">Non-US</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2014-07-17</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="a">20080822 20080905 00000000</subfield>
+      <subfield code="b">IND LYN 2008/08/20</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:733151</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2014-07-24</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">4081024</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03965nab a2200577 u 4500</leader>
+    <controlfield tag="001">9916251294907426</controlfield>
+    <controlfield tag="005">20221118030501.0</controlfield>
+    <controlfield tag="008">120727e201110 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND44764070</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/j.1365-2311.2011.01306.x</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:458808-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">SANTINI, GIACOMO</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Evolutionary Biology âLeo Pardiâ, University of Florence,
+        Firenze, Italy CESPRO, University of Florence, Prato, Italy Marine Biology and Ecology
+        Research Centre, University of Plymouth, Plymouth, U.K.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Spatial patterns of the ant Crematogaster scutellaris in a model
+        ecosystem</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 625-634.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">1. The spatial arrangement of individuals and populations may have deep
+        influences on all the biotic interactions within a community. 2. The spatial distribution of
+        nests of the ant Crematogaster scutellaris Olivier was analysed in an olive orchard in
+        central Italy. As this species nests inside tree trunks, the regular structure of this
+        simplified ecosystem may help to reduce the confounding effect of habitat heterogeneity on
+        the spatial distribution of nests. In total, 531 trees were mapped and their shape (size and
+        structure of the trunk) recorded. The presence of C. scutellaris nests in each tree was
+        assessed in springâsummer and autumn 2006 and 2007. 3. The number of occupied trees
+        changed in time, from a maximum of 129 (summer 2006) to a minimum of 60 (autumn 2007).
+        Occupancy of tree was related to its shape, with larger trees being more frequently and more
+        steadily occupied than smaller ones. 4. Nests were spatially aggregated, forming
+        wellâdefined clusters, but aggregation was not explained by a corresponding clumping of
+        larger trees. Nests belonging to the same cluster were usually not aggressive to each other,
+        whereas aggression was more common between nests belonging to different clusters. The
+        dynamic nature of the system coupled with the clustered distribution of nests, is consistent
+        with a hypothesis of seasonal polydomy, and suggest that whereas some trees are steadily
+        occupied (core) others are opportunistically colonised when new resources are discovered
+        (satellites). 5. Clusters size distribution was shown to follow a truncated powerâlaw, a
+        finding consistent with the idea that clusters are selfâorganised structures dependent on
+        local interactions. These results suggest that spatial selfâorganisation in ant colonies
+        may in principle be more common than previously thought, although the mechanisms generating
+        these patterns still need to be clarified.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Crematogaster</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">aggression</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ant nests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">autumn</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ecosystems</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitats</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">satellites</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">summer</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree trunk</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Italy</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">RAMSAY, PAUL M.</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">TUCCI, LORENZO</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">OTTONETTI, LORENZO</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">FRIZZI, FILIPPO</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Ecological entomology.</subfield>
+      <subfield code="g">2011 Oct., v. 36, no. 5 p.625-634</subfield>
+      <subfield code="d">Blackwell Publishing Ltd</subfield>
+      <subfield code="x">0307-6946</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl7132</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/j.1365-2311.2011.01306.x</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl7132</subfield>
+      <subfield code="c">36</subfield>
+      <subfield code="d">5</subfield>
+      <subfield code="e">625</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Ecological entomology</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">John Wiley &amp; Sons, Inc</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND44764070</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2014-01-31</subfield>
+    </datafield>
+    <datafield tag="951" ind1=" " ind2=" ">
+      <subfield code="a">2012-07-27</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">03076946_2011_36_5.xml</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:419 annotated on 2014-01-13T16:30:56Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:419 reviewed on 2014-01-29T16:00:03Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:419 reviewed on 2014-01-31T11:00:03Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:458808</subfield>
+    </datafield>
+  </record>
+</collection>

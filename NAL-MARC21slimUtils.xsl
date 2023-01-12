@@ -484,19 +484,27 @@
 		<xsl:param name="regex" as="xs:string"/>
 		<xsl:sequence select="tokenize($arg, $regex)[1]"/>
 	</xsl:function>
-	
-		
+
 	<xd:doc>
-		<xd:desc/>
+		<xd:desc>
+			<xd:p><xd:b>Function: </xd:b>f:nameIdentifier</xd:p>
+			<xd:p><xd:b>Usage: </xd:b>f:nameIdentifier(XPath)</xd:p>
+			<xd:p><xd:b>Purpose: </xd:b>The f:nameIdentifier takes the xpath provided as $arg.
+				First fn:matches($arg, $regex) tests the $arg. If $arg matches the $regex, then  
+				fn:replace($arg, $regex, $flag),</xd:p> 
+			<xd:p><xd:b>Returns: </xd:b> Removes the first and last substrings, leaving
+				the org name.</xd:p> 
+	    	<xd:p><xd:b>Parameters</xd:b></xd:p>
+		</xd:desc>
 		<xd:param name="arg"/>
 	</xd:doc>
 	<xsl:function name="f:nameIdentifier" as="xs:string">
 		<xsl:param name="arg" as="xs:string"/>		
-		<xsl:sequence select="if (matches($arg,'orcid.org|viaf.org|isni.org|[a-z]+') =true())
-								then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3')
-								else if (matches($arg,'id.loc.gov|id.nlm.nih.gov|agclass.nal.usda.gov|lod.nal.usda.gov|[a-z]\.[a-z]\.gov|[a-z]\.[a-z]\.org')= true()) 
-									then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3$4')
-								else $arg"/>
+		<xsl:value-of select="if (matches($arg,'orcid|viaf|isni|[a-z]+') =true())
+							  then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3')
+							  else if (matches($arg,'id.loc.gov|id.nlm.nih.gov|agclass.nal.usda.gov|lod.nal.usda.gov|[a-z]\.[a-z]\.gov|[a-z]\.[a-z]\.org')= true()) 
+							  then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3$4')
+							  else $arg"/>
 	</xsl:function>
-
+	
 </xsl:stylesheet>

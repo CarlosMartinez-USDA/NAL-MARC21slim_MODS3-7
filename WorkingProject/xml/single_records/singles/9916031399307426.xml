@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+    <leader>04424nab a2200673 u 4500</leader>
+    <controlfield tag="001">9916031399307426</controlfield>
+    <controlfield tag="005">20221120114555.0</controlfield>
+    <controlfield tag="008">200821e20200815xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+        <subfield code="a">IND607078344</subfield>
+        <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+        <subfield code="a">10.3390/f11080888</subfield>
+        <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+        <subfield code="a">agid:7078344-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">AGL</subfield>
+        <subfield code="b">eng</subfield>
+        <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+        <subfield code="a">Rossman, Allison K.</subfield>
+        <subfield code="e">author</subfield>
+        <subfield code="u">School of Environmental and Forest Sciences, College of the Environment,
+            University of Washington, Seattle, WA 98195, USA</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+        <subfield code="a">Long-Term Effects of Fuels Treatments, Overstory Structure, and Wildfire on
+            Tree Regeneration in Dry Forests of Central Washington</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+        <subfield code="a">Resource is Open Access</subfield>
+        <subfield code="f">Unrestricted online access</subfield>
+        <subfield code="2">star</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+        <subfield code="a">MDPI AG License Information</subfield>
+        <subfield code="f">Unrestricted online access</subfield>
+        <subfield code="2">star</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+        <subfield code="a">The long-term effectiveness of dry-forest fuels treatments (restoration
+            thinning and prescribed burning) depends, in part, on the pace at which trees regenerate and
+            recruit into the overstory. Knowledge of the factors that shape post-treatment regeneration
+            and growth is limited by the short timeframes and simple disturbance histories of past
+            research. Here, we present results of a 15-year fuels-reduction experiment in central
+            Washington, including responses to planned and unplanned disturbances. We explore the
+            changing patterns of Douglas-fir regeneration in 72 permanent plots (0.1 ha) varying in
+            overstory abundance (a function of density and basal area) and disturbance history—the
+            latter including thinning, prescribed burning, and/or wildfire. Plots were measured before
+            treatment (2000/2001), soon afterwards (2004/2005), and more than a decade later (2015).
+            Thinning combined with burning enhanced sapling recruitment (ingrowth) into the overstory,
+            although rates of ingrowth were consistently low and greatly exceeded by mortality.
+            Relationships between seedling frequency (proportion of quadrats within a plot) and
+            overstory abundance shifted from weakly negative before treatment to positive after
+            thinning, to neutral in the longer term. However, these relationships were overshadowed by
+            more recent, higher-severity prescribed fire and wildfire that stimulated seedling
+            establishment while killing advanced regeneration and overstory trees. Our results highlight
+            the dependence of regeneration responses on the history of, and time since, fuels treatment
+            and subsequent disturbance. Managers must be aware of this spatial and temporal complexity
+            and plan for future disturbances that are inevitable but unpredictable in timing and
+            severity.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+        <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+        <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+        <subfield code="c">Joint Fire Science Program</subfield>
+        <subfield code="d">https://doi.org/10.13039/100015231</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+        <subfield code="c">Northwest Scientific Association</subfield>
+        <subfield code="d">https://doi.org/10.13039/100009829</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+        <subfield code="c">Pacific Northwest Research Station</subfield>
+        <subfield code="d">https://doi.org/10.13039/100013393</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+        <subfield code="c">Sigma Xi</subfield>
+        <subfield code="d">https://doi.org/10.13039/100011084</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Pseudotsuga menziesii</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">advanced regeneration</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">dry forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">fuels (fire ecology)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">long term effects</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">mortality</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">overstory</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">plant establishment</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">prescribed burning</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">seedlings</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">wildfires</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+        <subfield code="a">Washington (state)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Bakker, Jonathan D.</subfield>
+        <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Peterson, David W.</subfield>
+        <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Halpern, Charles B.</subfield>
+        <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+        <subfield code="t">Forests.</subfield>
+        <subfield code="g">2020 Aug. 15, v. 11, no. 8</subfield>
+        <subfield code="d">Multidisciplinary Digital Publishing Institute</subfield>
+        <subfield code="w">Journal:2257</subfield>
+        <subfield code="x">1999-4907</subfield>
+        <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">(Journal)2257</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://dx.doi.org/10.3390/f11080888</subfield>
+        <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+        <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="a">Journal:2257</subfield>
+        <subfield code="b">1999-4907</subfield>
+        <subfield code="c">11</subfield>
+        <subfield code="d">8</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="f">Forests</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+        <subfield code="a">Batch:2595</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+        <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+        <subfield code="a">Multidisciplinary Digital Publishing Institute</subfield>
+        <subfield code="e">provider</subfield>
+        <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+        <subfield code="a">IND607078344</subfield>
+        <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+        <subfield code="a">2020-10-30</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+        <subfield code="a"
+            >/data/metadata/incoming/mdpinstitute/forests-v11-i08-20200821.xml</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+        <subfield code="a"
+            >file:/data/metadata/staging/mdpinstitute/forests-v11-i08-20200821.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+        <subfield code="a">/data/metadata/staging/mdpinstitute/</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+        <subfield code="a">Batch:2595 reviewed on 2020-10-30T16:00:06Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+        <subfield code="a">agid:7078344</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+        <subfield code="a">2020-08-21</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+        <subfield code="a">2020-10-30</subfield>
+    </datafield>
+</record>

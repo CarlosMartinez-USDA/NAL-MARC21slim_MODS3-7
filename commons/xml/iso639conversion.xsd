@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://isolanguages" xmlns:isolang="http://isolanguages">
+  <xs:element name="iso_languages">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="isolang:iso_language"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="iso_language">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="isolang:iso_639-1"/>
+        <xs:element ref="isolang:iso_639-2"/>
+        <xs:element ref="isolang:language"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="iso_639-1" type="xs:string"/>
+  <xs:element name="iso_639-2" type="xs:string"/>
+  <xs:element name="language" type="xs:string"/>
+</xs:schema>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods version="3.7">
+      <titleInfo>
+         <title>Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and location</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">K.w.</namePart>
+         <namePart type="family">Mccravy</namePart>
+         <displayForm>Mccravy, K.w.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">C.w.</namePart>
+         <namePart type="family">Berisford</namePart>
+         <displayForm>Berisford, C.w.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1998-04</dateIssued>
+         <dateIssued encoding="marc">1998</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 355-359.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Patterns of parasitism by Trichogramma spp. relative to density and location of Nantucket pine tip moth, Rhyacionia frustrana (Comstock), eggs were examined during 1994 in a 13-ha, 2-yr-old Pinus taeda L. plantation in northeastern Georgia. Egg densities were adjusted by temporarily enclosing trees in fine mesh screen cages and introducing different numbers of tip moths. After exposing eggs to naturally occurring parasitoids, all shoots were removed, and eggs were counted and evaluated for parasitism. Tip moth egg densities ranged from 203 to 2,579 per tree for the spring generation, and from 1 to 89 per tree for the summer generation. Tip moths deposited significantly greater numbers of eggs on needles than shoots on high- versus low-egg-density trees. Overall parasitism rates were 37.2 and 43.3% for spring- and summer-generation eggs, respectively. Parasitism was density independent at the whole-tree level in both generations, but spring-generation parasitism was strongly inversely density dependent in the top whorl. Numbers of eggs per needle fascicle ranged from 1 to 15 for spring-generation trees. Actual numbers of parasitized eggs per discovered fascicle (one on which parasitism occurred) increased with egg density, but the percentage of parasitized eggs decreased. Egg density had no effect on fascicle discovery. These factors produced an inversely density-dependent relationship between egg parasitism and density at the fascicle level. Eggs located on shoots suffered significantly greater parasitism rates than those on needles. Implications of these results are discussed.</abstract>
+      <note>2019-12-04</note>
+      <subject authority="atg">
+         <topic>parasitism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>parasitoids</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Rhyacionia frustrana</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ova</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>host-parasite relationships</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>conifer needles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seasonal variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus taeda</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Trichogramma</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>shoots</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Georgia</geographic>
+      </subject>
+      <subject>
+         <topic>parasites</topic>
+      </subject>
+      <subject>
+         <topic>host location</topic>
+      </subject>
+      <subject>
+         <topic>parasites of insect pests</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1093/ee/27.2.355</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Environmental entomology</title>
+         </titleInfo>
+         <identifier type="issn">0046-225X</identifier>
+         <part>
+            <detail type="volume">
+               <number>27</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>2</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>355</start>
+               <end>359</end>
+               <total>5</total>
+            </extent>
+            <text type="year">1998</text>
+            <text type="month">Apr</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1093/ee/27.2.355</identifier>
+      <identifier type="control">9916288966107426</identifier>
+      <identifier type="agricola">IND21811969</identifier>
+      <identifier type="local">agid:1408166</identifier>
+      <extension>
+         <note type="saleTape">19990101 19990111 00000000</note>
+         <note type="indexer">IND NZM </note>
+         <note type="publicationSource">Other US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">981119</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118121758.0</recordChangeDate>
+         <recordIdentifier>9916288966107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-09</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Natural regeneration in a beech-dominated forest managed by close-to-nature principles --- a gap cutting based experiment</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">K.</namePart>
+         <namePart type="family">Hahn</namePart>
+         <displayForm>Hahn, K.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">P.</namePart>
+         <namePart type="family">Madsen</namePart>
+         <displayForm>Madsen, P.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008-07</dateIssued>
+         <dateIssued encoding="marc">2008</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1716-1729.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">European beech (Fagus sylvatica L.) is increasingly managed by close-to-nature principles, mimicking the gap dynamics of seminatural forests. The prime aim of this study was to analyse natural regeneration reliability under favourable conditions in newly formed gaps. A total of 12 gaps were created by felling three canopy trees for each gap: six gaps in each of the two winters 1996-1997 and 1997-1998. One-half of the gaps were fenced against deer. We recorded advance regeneration density (1997), regeneration density and height (1997-2002), relative light intensity (1997-2002), and volumetric soil moisture content (1997-2002). We also studied the effect of year of establishment, fenced versus unfenced, and position within gap on regeneration. Three or 4 years after gap formation, most gaps had nearly closed. Response of European beech, European ash (Fraxinus excelsior L. ), and sycamore maple (Acer pseudoplatanus L.) regeneration to gap formation was limited, and few seedlings were added to the advance regeneration pool during the study period. Other factors, such as relative light intensity, soil moisture, fencing, year of establishment, and position within gaps, all had rather low effects. Thus, the presence of advance regeneration appeared to be a key factor in explaining regeneration patterns in artificially created gaps.</abstract>
+      <note>Includes references</note>
+      <note>Summary in French.</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>light intensity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>height</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>natural regeneration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Fraxinus excelsior</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>browsing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil water content</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant establishment</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>sustainable forestry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Acer pseudoplatanus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy gaps</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Fagus sylvatica</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fences</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>deer</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Denmark</geographic>
+      </subject>
+      <subject>
+         <topic>advance regeneration</topic>
+      </subject>
+      <subject>
+         <topic>forest regeneration</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forestry Production (Natural Regeneration)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Soil Chemistry and Physics</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Pests of Plants (Animals)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1139/X08-026</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Canadian journal of forest research =</title>
+         </titleInfo>
+         <identifier type="issn">0045-5067</identifier>
+         <part>
+            <detail type="volume">
+               <number>38</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>7</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>1716</start>
+               <end>1729</end>
+               <total>14</total>
+            </extent>
+            <text type="year">2008</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1139/X08-026</identifier>
+      <identifier type="control">9916251293907426</identifier>
+      <identifier type="agricola">IND44081024</identifier>
+      <identifier type="local">agid:733151</identifier>
+      <extension>
+         <note type="saleTape">20080822 20080905 00000000</note>
+         <note type="indexer">IND LYN 2008/08/20</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">080721</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118030600.0</recordChangeDate>
+         <recordIdentifier>9916251293907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-09</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Spatial patterns of the ant Crematogaster scutellaris in a model ecosystem</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Giacomo</namePart>
+         <namePart type="family">Santini</namePart>
+         <displayForm>Santini, Giacomo</displayForm>
+         <affiliation>Department of Evolutionary Biology ‘Leo Pardi’, University of Florence, Firenze, Italy CESPRO, University of Florence, Prato, Italy Marine Biology and Ecology Research Centre, University of Plymouth, Plymouth, U.K.</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Paul M.</namePart>
+         <namePart type="family">Ramsay</namePart>
+         <displayForm>Ramsay, Paul m.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Lorenzo</namePart>
+         <namePart type="family">Tucci</namePart>
+         <displayForm>Tucci, Lorenzo</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Lorenzo</namePart>
+         <namePart type="family">Ottonetti</namePart>
+         <displayForm>Ottonetti, Lorenzo</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Filippo</namePart>
+         <namePart type="family">Frizzi</namePart>
+         <displayForm>Frizzi, Filippo</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2011-10</dateIssued>
+         <dateIssued encoding="marc">2011</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 625-634.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">1. The spatial arrangement of individuals and populations may have deep influences on all the biotic interactions within a community. 2. The spatial distribution of nests of the ant Crematogaster scutellaris Olivier was analysed in an olive orchard in central Italy. As this species nests inside tree trunks, the regular structure of this simplified ecosystem may help to reduce the confounding effect of habitat heterogeneity on the spatial distribution of nests. In total, 531 trees were mapped and their shape (size and structure of the trunk) recorded. The presence of C. scutellaris nests in each tree was assessed in spring–summer and autumn 2006 and 2007. 3. The number of occupied trees changed in time, from a maximum of 129 (summer 2006) to a minimum of 60 (autumn 2007). Occupancy of tree was related to its shape, with larger trees being more frequently and more steadily occupied than smaller ones. 4. Nests were spatially aggregated, forming wellâ&#x80;&#x90;defined clusters, but aggregation was not explained by a corresponding clumping of larger trees. Nests belonging to the same cluster were usually not aggressive to each other, whereas aggression was more common between nests belonging to different clusters. The dynamic nature of the system coupled with the clustered distribution of nests, is consistent with a hypothesis of seasonal polydomy, and suggest that whereas some trees are steadily occupied (core) others are opportunistically colonised when new resources are discovered (satellites). 5. Clusters size distribution was shown to follow a truncated powerâ&#x80;&#x90;law, a finding consistent with the idea that clusters are selfâ&#x80;&#x90;organised structures dependent on local interactions. These results suggest that spatial selfâ&#x80;&#x90;organisation in ant colonies may in principle be more common than previously thought, although the mechanisms generating these patterns still need to be clarified.</abstract>
+      <subject authority="atg">
+         <topic>Crematogaster</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>aggression</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ant nests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>autumn</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>satellites</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>summer</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree trunk</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Italy</geographic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">http://dx.doi.org/10.1111/j.1365-2311.2011.01306.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological entomology</title>
+         </titleInfo>
+         <identifier type="issn">0307-6946</identifier>
+         <part>
+            <detail type="volume">
+               <number>36</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>5</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>625</start>
+               <end>634</end>
+               <total>10</total>
+            </extent>
+            <text type="year">2011</text>
+            <text type="month">Oct</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1365-2311.2011.01306.x</identifier>
+      <identifier type="control">9916251294907426</identifier>
+      <identifier type="agricola">IND44764070</identifier>
+      <identifier type="local">agid:458808</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">120727</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118030501.0</recordChangeDate>
+         <recordIdentifier>9916251294907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-09</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

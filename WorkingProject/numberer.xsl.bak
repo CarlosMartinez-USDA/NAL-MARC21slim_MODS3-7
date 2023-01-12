@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:f="http://functions"
+    xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="xs" version="2.0">
+    <xsl:output version="1.0" encoding="UTF-8" method="xml"/>
+    <xsl:include href="NAL-MARC21slimUtils.xsl"/>
+    <xsl:template match="/">
+        <xsl:param name="unprexfixed" select="descendant-or-self::node()"/>
+    
+            <xsl:for-each select="collection/record">
+                
+                <xsl:copy>
+                    <xsl:copy-of
+                        select="f:change-element-ns-deep($unprexfixed, 'http://www.loc.gov/MARC21/slim', 'marc')"/>
+                    <xsl:value-of select="concat('Record: ', position())"/>
+                    <xsl:text>&#10;</xsl:text>
+                </xsl:copy>
+                
+            </xsl:for-each>
+        
+    </xsl:template>
+
+    <xsl:template match="node() | @*">
+        <xsl:copy-of select="node() | @*"/>
+    </xsl:template>
+    <!--  
+    <xsl:template match="collection/record">
+        <xsl:param name="i" select="collection/record[position()]"/>        
+          <xsl:copy>       
+            
+        </xsl:copy> 
+     </xsl:template>-->
+</xsl:stylesheet>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  This corpus consists of over 4,466 records. The original file was
+      manageable to work with, largely because the hardware and CPU were
+      not able to open the file, let alone transfrom it. 
+      Pairing down this document into smaller parts proved to be slow and
+      time consuming. 
+      Nonethelesss, here are all 4,466 records partitione dparts proved to 
+      then broken unit numbers within each group, then sectioned
+      and finally partitioned to the record level to be labeled with a record number
+ ====================================================== 
+    Heirchical Relationship For a Corpus of Records  
+ ====================================================== 
+    ┌ ━ ━ ━ ━ ┐ 
+	│  Unit  │  (1 of 2) 
+	└ ━ ━ ━ ━ ━ > ━ ━ ━ ━ ┐ 
+          	│  Group  │  (1 of 5)    
+          	└ ━ ━ ━ ━ ━ ━ > ━ ━ ━ ━ ━ ━ ┐ 
+                        	│ Section   │ ( 1 of ?)
+                        	└ ━ ━ ━ ━ ━ ━ > ━ ━ ┐ 
+                                   	│ Part │
+                        	           └ ━ ━  ┘
+
+Once divided into smaller more manageable sections 
+this file will be run through the numberer.xsl, giving the total -->

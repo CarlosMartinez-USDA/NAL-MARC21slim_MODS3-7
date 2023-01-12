@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+   <leader>04309nab a2200625 u 4500</leader>
+   <controlfield tag="001">9915610429607426</controlfield>
+   <controlfield tag="005">20221118220848.0</controlfield>
+   <controlfield tag="008">220905e202209 xx |||||o|||||||||||eng||</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND607785912</subfield>
+      <subfield code="2">DNAL</subfield>
+   </datafield>
+   <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.ecoinf.2022.101695</subfield>
+      <subfield code="2">doi</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:7785912-01nal_inst</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cho, Nanghyun</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Environmental Science, Kangwon National University,
+                Chuncheon 200-701, Republic of Korea</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Recent field findings and modeling on non-structural carbohydrates
+                (NSCs): How to synthesize?</subfield>
+   </datafield>
+   <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">With growing interest in tree decline and die-back events due to
+                increased climate variability, ecophysiological roles and dynamics of non-structural
+                carbohydrates (NSCs) have drawn wide attention recently. Accordingly, a lot of field
+                data have been collected, but these achievements were not well incorporated in
+                process-based vegetation models yet, where NSCs ecophysiology was implicitly applied
+                or ignored. This review tried to fill the knowledge gap between recent developments
+                of empirical and modeling studies on NSCs ecophysiology. We summarized the
+                characteristics and dynamics of NSCs with their respective roles in tree physiology
+                and tree mortality recently found in field studies; examined how these findings have
+                been incorporated into vegetation models so far; then, provided alternative modeling
+                approaches of NSCs dynamics and allocation strategies. As result, we addressed five
+                key modeling issues in simulating spatial and temporal patterns of NSCs dynamics
+                across different scales as follows: (1) interconversion between dual NSCs pools
+                (i.e., rapid soluble sugar and slow starch pools), (2) incorporation of the
+                sink-limited growth allocation strategy, (3) hydraulic limitation of NSCs transports
+                between organs, (4) feedback mechanisms between tree NSCs and root symbionts, and
+                (5) large-scale simulations of NSCs dynamics. This review emphasizes the limitation
+                of traditional source-limited models to simulate die-back and recovery of various
+                tree biomes. The development of process-based vegetation models considering NSCs
+                ecophysiology explicitly will help to enhance our modeling capacity to understand
+                vegetation responses to climate change.</subfield>
+   </datafield>
+   <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+   </datafield>
+   <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">climate</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">climate change</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">dieback</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ecophysiology</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">starch</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">sugars</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">symbionts</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree mortality</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree physiology</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">vegetation</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Non-structural carbohydrates (NSCs)</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Field evidence</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Process-based model</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Carbon allocation</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Climate change</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Agossou, Casimir</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Environmental Science, Kangwon National University,
+                Chuncheon 200-701, Republic of Korea</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kim, Eunsook</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Forest Ecology and Climate Change Division, National Institute of
+                Forest Science, Seoul, Republic of Korea</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Lim, Jong-Hwan</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Forest Ecology and Climate Change Division, National Institute of
+                Forest Science, Seoul, Republic of Korea</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hwang, Taehee</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Geography, Indiana University Bloomington, Indiana,
+                USA</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kang, Sinkyu</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Environmental Science, Kangwon National University,
+                Chuncheon 200-701, Republic of Korea</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Ecological informatics.</subfield>
+      <subfield code="g">2022 Sept., v. 70 p.101695-</subfield>
+      <subfield code="d">Elsevier B.V.</subfield>
+      <subfield code="w">Journal:2190</subfield>
+      <subfield code="x">1574-9541</subfield>
+      <subfield code="7">nnas</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)2190</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1016/j.ecoinf.2022.101695</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+   </datafield>
+   <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:2190</subfield>
+      <subfield code="b">1574-9541</subfield>
+      <subfield code="e">101695</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Ecological informatics</subfield>
+   </datafield>
+   <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+   </datafield>
+   <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Elsevier Consyn</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+   </datafield>
+   <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND607785912</subfield>
+      <subfield code="9">ExL</subfield>
+   </datafield>
+   <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2022-05-29</subfield>
+   </datafield>
+   <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/consyn/121246409303567675-00002-HEAD-ONLY-REVISEDSUBJECTLIST.ZIP</subfield>
+   </datafield>
+   <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/consyn/S1574954122001455.xml</subfield>
+   </datafield>
+   <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/consyn/</subfield>
+   </datafield>
+   <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:7785912</subfield>
+   </datafield>
+   <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2022-09-05</subfield>
+   </datafield>
+   <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2022-09-05</subfield>
+   </datafield>
+</record>

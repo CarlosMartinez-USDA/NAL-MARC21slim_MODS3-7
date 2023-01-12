@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods version="3.7">
+      <titleInfo>
+         <title>Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and location</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">K.W.</namePart>
+         <namePart type="family">McCravy</namePart>
+         <displayForm>McCravy, K.W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">C.W.</namePart>
+         <namePart type="family">Berisford</namePart>
+         <displayForm>Berisford, C.W.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+            <placeTerm type="text">Maryland</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1998</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 355-359.</extent>
+      </physicalDescription>
+   </mods>
+</modsCollection>

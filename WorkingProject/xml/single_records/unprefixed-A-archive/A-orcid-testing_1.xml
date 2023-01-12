@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+   <leader>04589nab a2200649 u 4500</leader>
+   <controlfield tag="001">9915610355207426</controlfield>
+   <controlfield tag="005">20221118220436.0</controlfield>
+   <controlfield tag="008">220619s2022 xx |||||o|||||||||||eng||</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND607785982</subfield>
+      <subfield code="2">DNAL</subfield>
+   </datafield>
+   <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.fecs.2022.100048</subfield>
+      <subfield code="2">doi</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:7785982-01nal_inst</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Lian, Zhenghua</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Research Center of Forest Management Engineering of State Forestry
+                and Grassland Administration, Beijing Forestry University, Beijing, 100083,
+                China</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Structure complexity is the primary driver of functional diversity in
+                the temperate forests of northeastern China</subfield>
+   </datafield>
+   <datafield tag="506" ind1=" " ind2=" ">
+      <subfield code="a">Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)</subfield>
+      <subfield code="u">http://creativecommons.org/licenses/by-nc-nd/4.0/</subfield>
+      <subfield code="f">Unrestricted online access</subfield>
+      <subfield code="2">star</subfield>
+   </datafield>
+   <datafield tag="506" ind1=" " ind2=" ">
+      <subfield code="a">Resource is Open Access</subfield>
+      <subfield code="u">http://purl.org/eprint/accessRights/OpenAccess</subfield>
+      <subfield code="f">Unrestricted online access</subfield>
+      <subfield code="2">star</subfield>
+   </datafield>
+   <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Assessing functional diversity to identify its spatial patterns and
+                drivers is an important step towards understanding the adaptive capacity of
+                ecosystems to environmental change. However, until now, these mechanisms were poorly
+                understood in the temperate forests of northeastern China, which prevented the
+                development of new management methods aimed at increasing functional trait diversity
+                and thus ecological resilience. In this study, we mapped functional diversity
+                distributions using a Kriging Interpolation Method. A specific random forest model
+                approach was adopted to test the importance ranking of 18 variables in explaining
+                the spatial variation of functional diversity. Three piecewise structural equation
+                models (pSEMs) with forest types as random effects were constructed for testing the
+                direct effects of climate, and the indirect effects of stand structure on functional
+                diversity across the large study region. Specific causal relationships in each
+                forest type were also examined using 15 linear structural equation models. Although
+                environmental filtering by climate is important, stand structure explains most of
+                the functional variation of the forest ecosystems in northeastern China. Our study
+                thus only partially supports the stress-dominance hypothesis. Several abundant
+                species determine most of the functional diversity, which supports the mass ratio
+                hypothesis. Our results suggest that forest management aimed at increasing
+                structural complexity can contribute to increased functional diversity, especially
+                regarding the mixing of coniferous and broad-leaved tree species.</subfield>
+   </datafield>
+   <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+   </datafield>
+   <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">algorithms</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">broadleaved trees</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">climate</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ecological resilience</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">equations</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest management</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest types</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">functional diversity</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">kriging</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">stand structure</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Functional diversity distribution</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Forest types</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Forest management</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Random forest</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Stand structure attributes</subfield>
+   </datafield>
+   <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Structural equation modeling</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Wang, Juan</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Forest Ecology, School of Ecology and Nature
+                Conservation, Beijing Forestry University, Beijing, 100083, China</subfield>
+      <subfield code="1">https://orcid.org/0000-0001-9021-5985</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Fan, Chunyu</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Research Center of Forest Management Engineering of State Forestry
+                and Grassland Administration, Beijing Forestry University, Beijing, 100083,
+                China</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">von Gadow, Klaus</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Faculty of Forestry and Forest Ecology, Georg-August-University
+                Göttingen, Büsgenweg 5, D-37077, Göttingen, Germany</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Forest ecosystems.</subfield>
+      <subfield code="g">2022, v. 9 p.100048-</subfield>
+      <subfield code="d">Elsevier B.V.</subfield>
+      <subfield code="w">Journal:21605</subfield>
+      <subfield code="x">2197-5620</subfield>
+      <subfield code="7">nnas</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)21605</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1016/j.fecs.2022.100048</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+   </datafield>
+   <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:21605</subfield>
+      <subfield code="b">2197-5620</subfield>
+      <subfield code="e">100048</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Forest ecosystems</subfield>
+   </datafield>
+   <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:10255</subfield>
+   </datafield>
+   <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+   </datafield>
+   <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Elsevier Consyn</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+   </datafield>
+   <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND607785982</subfield>
+      <subfield code="9">ExL</subfield>
+   </datafield>
+   <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2022-05-29</subfield>
+   </datafield>
+   <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/consyn/142141150143324923-00002-HEAD-ONLY-REVISEDSUBJECTLIST.zip</subfield>
+   </datafield>
+   <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/consyn/S2197562022000483.xml</subfield>
+   </datafield>
+   <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/consyn/</subfield>
+   </datafield>
+   <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:7785982</subfield>
+   </datafield>
+   <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2022-06-19</subfield>
+   </datafield>
+   <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2022-06-19</subfield>
+   </datafield>
+</record>

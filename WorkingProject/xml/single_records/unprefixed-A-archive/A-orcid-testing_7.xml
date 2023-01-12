@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+   <leader>04531nab a2200625 u 4500</leader>
+   <controlfield tag="001">9915620021407426</controlfield>
+   <controlfield tag="005">20221118231846.0</controlfield>
+   <controlfield tag="008">190816e201906 xx |||||o|||||||||||eng||</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606452556</subfield>
+      <subfield code="2">DNAL</subfield>
+   </datafield>
+   <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1007/s10021-018-0297-2</subfield>
+      <subfield code="2">doi</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6452556-01nal_inst</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Kulha, Niko</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Forest Sciences, University of Helsinki, P.O. Box 27,
+                00014, Helsinki, Finland. niko.kulha@helsinki.fi</subfield>
+      <subfield code="1">https://orcid.org/0000-0002-1610-9938</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">At What Scales and Why Does Forest Structure Vary in Naturally
+                Dynamic Boreal Forests? An Analysis of Forest Landscapes on Two
+                Continents</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 709-724.</subfield>
+   </datafield>
+   <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Identifying the scales of variation in forest structures and the
+                underlying processes are fundamental for understanding forest dynamics. Here, we
+                studied these scale-dependencies in forest structure in naturally dynamic boreal
+                forests on two continents. We identified the spatial scales at which forest
+                structures varied, and analyzed how the scales of variation and the underlying
+                drivers differed among the regions and at particular scales. We studied three
+                2 km × 2 km landscapes in northeastern Finland and two in eastern Canada. We
+                estimated canopy cover in contiguous 0.1-ha cells from aerial photographs and used
+                scale-derivative analysis to identify characteristic scales of variation in the
+                canopy cover data. We analyzed the patterns of variation at these scales using
+                Bayesian scale space analysis. We identified structural variation at three spatial
+                scales in each landscape. Among landscapes, the largest scale of variation showed
+                the greatest variability (20.1–321.4 ha), related to topography, soil variability,
+                and long-term disturbance history. Superimposed on this large-scale variation,
+                forest structure varied at similar scales (1.3–2.8 ha) in all landscapes. This
+                variation correlated with recent disturbances, soil variability, and topographic
+                position. We also detected intense variation at the smallest scale analyzed (0.1 ha,
+                grain of our data), partly driven by recent disturbances. The distinct scales of
+                variation indicated hierarchical structure in the landscapes studied. Except for the
+                large-scale variation, these scales were remarkably similar among the landscapes.
+                This suggests that boreal forests may display characteristic scales of variation
+                that occur somewhat independent of the tree species characteristics or the
+                disturbance regime.</subfield>
+   </datafield>
+   <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+   </datafield>
+   <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+   </datafield>
+   <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">252629</subfield>
+      <subfield code="c">Suomen Akatemia</subfield>
+   </datafield>
+   <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">276022</subfield>
+      <subfield code="c">Suomen Akatemia</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Bayesian theory</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">aerial photography</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">boreal forests</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">canopy</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest dynamics</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">landscapes</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">soil heterogeneity</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">topography</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Canada</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Finland</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pasanen, Leena</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Research Unit of Mathematical Sciences, University of Oulu, P.O. Box
+                8000, 90014, Oulu, Finland</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Holmström, Lasse</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Research Unit of Mathematical Sciences, University of Oulu, P.O. Box
+                8000, 90014, Oulu, Finland</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">De Grandpré, Louis</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Canadian Forest Service, Laurentian Forestry Centre, P.O. Box 3800,
+                Sainte-Foy, Quebec, GIV 4C7, Canada</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kuuluvainen, Timo</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Forest Sciences, University of Helsinki, P.O. Box 27,
+                00014, Helsinki, Finland</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Aakala, Tuomas</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Forest Sciences, University of Helsinki, P.O. Box 27,
+                00014, Helsinki, Finland</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Ecosystems.</subfield>
+      <subfield code="g">2019 June, v. 22, no. 4 p.709-724</subfield>
+      <subfield code="d">Springer US</subfield>
+      <subfield code="w">Journal:jnl70038</subfield>
+      <subfield code="x">1432-9840</subfield>
+      <subfield code="7">nnas</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl70038</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1007/s10021-018-0297-2</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+   </datafield>
+   <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl70038</subfield>
+      <subfield code="b">1432-9840</subfield>
+      <subfield code="c">22</subfield>
+      <subfield code="d">4</subfield>
+      <subfield code="e">709</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Ecosystems</subfield>
+   </datafield>
+   <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2259</subfield>
+   </datafield>
+   <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+   </datafield>
+   <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Springer</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+   </datafield>
+   <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606452556</subfield>
+      <subfield code="9">ExL</subfield>
+   </datafield>
+   <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2019-08-16</subfield>
+   </datafield>
+   <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/springer/ftp_PUB_19-08-16_05-34-32.zip</subfield>
+   </datafield>
+   <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/springer/10021-22-4.xml</subfield>
+   </datafield>
+   <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/springer/</subfield>
+   </datafield>
+   <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6452556</subfield>
+   </datafield>
+   <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2019-08-16</subfield>
+   </datafield>
+   <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2019-08-16</subfield>
+   </datafield>
+</record>

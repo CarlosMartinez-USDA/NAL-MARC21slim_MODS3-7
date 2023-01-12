@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+    <collection>
+        <record>
+            <leader>00595nam a2200217Mi 4500</leader>
+            <controlfield tag="001">1289057530</controlfield>
+            <controlfield tag="005">20211217002858.2</controlfield>
+            <controlfield tag="008">950223c19441938mnu 000 0 eng d</controlfield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">AGL</subfield>
+                <subfield code="b">eng</subfield>
+                <subfield code="c">AGL</subfield>
+            </datafield>
+            <datafield tag="016" ind1="7" ind2=" ">
+                <subfield code="a">CAT10891909</subfield>
+                <subfield code="2">DNAL</subfield>
+            </datafield>
+            <datafield tag="070" ind1="0" ind2=" ">
+                <subfield code="a">96</subfield>
+                <subfield code="b">Ab3</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="0">
+                <subfield code="a">F110</subfield>
+            </datafield>
+            <datafield tag="049" ind1=" " ind2=" ">
+                <subfield code="a">AGLL</subfield>
+            </datafield>
+            <datafield tag="100" ind1="1" ind2=" ">
+                <subfield code="a">Abbott, Daisy Thomson.</subfield>
+            </datafield>
+            <datafield tag="245" ind1="1" ind2="4">
+                <subfield code="a">The northern garden week by week.</subfield>
+            </datafield>
+            <datafield tag="260" ind1=" " ind2=" ">
+                <subfield code="a">Minneapolis, MN :</subfield>
+                <subfield code="b">University of Minnesota Press,</subfield>
+                <subfield code="c">[1944, c1938]</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">93 p.</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="3">
+                <subfield code="a">plant cultural practices.</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="3">
+                <subfield code="a">horticulture.</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="3">
+                <subfield code="a">horticultural crops.</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="3">
+                <subfield code="a">crop production.</subfield>
+            </datafield>
+        </record>
+<record>
+    <leader>00569nam a2200193Mi 4500</leader>
+    <controlfield tag="001">1288984233</controlfield>
+    <controlfield tag="005">20211217002856.5</controlfield>
+    <controlfield tag="008">950315s1935 xx s000 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">AGL</subfield>
+        <subfield code="b">eng</subfield>
+        <subfield code="c">AGL</subfield>
+        <subfield code="d">AGL</subfield>
+    </datafield>
+    <datafield tag="016" ind1="7" ind2=" ">
+        <subfield code="a">CAT10904592</subfield>
+        <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="070" ind1="0" ind2=" ">
+        <subfield code="a">280.7</subfield>
+        <subfield code="b">W276</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+        <subfield code="a">X700</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+        <subfield code="a">AGLL</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+        <subfield code="a">Washington State Planning Council.</subfield>
+        <subfield code="b">Committee on New Industries.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+        <subfield code="a">Preliminary report on new industries for Washington State Planning
+            Council /</subfield>
+        <subfield code="c">Washington</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+        <subfield code="c">1935.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+        <subfield code="a">various paging</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">market analysis.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">economics.</subfield>
+    </datafield>
+</record>
+</collection>

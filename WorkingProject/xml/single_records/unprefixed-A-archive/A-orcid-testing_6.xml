@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+   <leader>04702nab a2200673 u 4500</leader>
+   <controlfield tag="001">9915614131907426</controlfield>
+   <controlfield tag="005">20221119002133.0</controlfield>
+   <controlfield tag="008">190314e201901 xx |||||o|||||||||||eng||</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606324237</subfield>
+      <subfield code="2">DNAL</subfield>
+   </datafield>
+   <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/jvs.12704</subfield>
+      <subfield code="2">doi</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6324237-01nal_inst</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Mertelmeyer, Linda</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Technical University of Munich, Munich, Germany</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Regeneration of Metrosideros polymorpha forests in Hawaii after
+                landscape‐level canopy dieback</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 146-155.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">JOURNAL ARTICLE</subfield>
+   </datafield>
+   <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">QUESTIONS: (a) Have Metrosideros polymorpha trees become
+                re‐established in Hawaiian forests previously impacted by canopy dieback in the
+                1970s? (b) Has canopy dieback expanded since the 1970s? (c) Can spatial patterns
+                from this dieback be correlated with habitat factors to model future dieback in this
+                area? STUDY SITE: An 83,603 ha study area on the eastern slopes of Mauna Loa and
+                Mauna Kea volcanoes on the island of Hawaii, USA. METHODS: We analyzed
+                very‐high‐resolution imagery to assess status of Metrosideros polymorpha forests
+                across the eastern side of the island of Hawaii. We generated 1,170 virtual
+                vegetation plots with a 100‐m radius; 541 plots in areas mapped in 1977 with trees
+                dead or mostly defoliated (dieback), and 629 plots in adjacent wet forest habitat,
+                previously mapped as non‐dieback condition. In each plot we estimated the frequency
+                of M. polymorpha trees that were dead or mostly defoliated, and the frequency of
+                trees with healthy crowns. These results were combined with habitat data to produce
+                a spatial model depicting probability of canopy dieback within the study area.
+                RESULTS: Seventy‐nine percent of plots mapped in 1977 in dieback condition recovered
+                their canopy and were now considered in non‐dieback condition. Ninety‐one percent of
+                plots in previous non‐dieback areas were found to still have a healthy M. polymorpha
+                canopy in 2015. A spatial model allowed us to identify areas within the study area
+                with high, medium, and low probability of experiencing this same type of canopy
+                dieback in the future. CONCLUSIONS: Most former dieback areas mapped within the
+                study area in 1977 now show recovery of the tree canopy through growth of new
+                cohorts of young M. polymorpha trees. This suggests these forest communities are
+                resilient to this type of canopy loss and tree death so long as other factors do not
+                disrupt the natural regeneration process.</subfield>
+   </datafield>
+   <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+   </datafield>
+   <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+   </datafield>
+   <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">U.S. Geological Survey, Pacific Island Ecosystems Research
+                Center</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Metrosideros polymorpha</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">canopy</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">dieback</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest communities</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitats</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">models</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">mountains</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">natural regeneration</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">probability</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">topographic slope</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree mortality</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">volcanoes</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Hawaii (island)</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Jacobi, James D.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Pacific Island Ecosystems Research Center, U.S. Geological Survey,
+                Hawaii National Park, Hawaii</subfield>
+      <subfield code="1">https://orcid.org/0000-0003-2313-7862</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Mueller‐Dombois, Dieter</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Botany, University of Hawaii at Manoa, Honolulu,
+                Hawaii</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Brinck, Kevin</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Hawaii Cooperative Studies Unit, University of Hawaii at Hilo, Hilo,
+                Hawaii</subfield>
+      <subfield code="1">https://orcid.org/0000-0001-7581-2482</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Boehmer, Hans Juergen</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Geography, Earth Science and Environment (SGESE),
+                University of the South Pacific (USP), Laucala Bay, Suva, Fiji Islands</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Journal of vegetation science.</subfield>
+      <subfield code="g">2019 Jan., v. 30, no. 1 p.146-155</subfield>
+      <subfield code="d">John Wiley &amp; Sons, Ltd</subfield>
+      <subfield code="w">Journal:jnl46820</subfield>
+      <subfield code="x">1100-9233</subfield>
+      <subfield code="7">nnas</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl46820</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/jvs.12704</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+   </datafield>
+   <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl46820</subfield>
+      <subfield code="b">1100-9233</subfield>
+      <subfield code="c">30</subfield>
+      <subfield code="d">1</subfield>
+      <subfield code="e">146</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Journal of vegetation science</subfield>
+   </datafield>
+   <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2190</subfield>
+   </datafield>
+   <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+   </datafield>
+   <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">John Wiley &amp; Sons, Inc</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+   </datafield>
+   <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606324237</subfield>
+      <subfield code="9">ExL</subfield>
+   </datafield>
+   <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2019-05-01</subfield>
+   </datafield>
+   <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/wiley/11009233_2019_30_1.xml</subfield>
+   </datafield>
+   <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/wiley/11009233_2019_30_1.xml</subfield>
+   </datafield>
+   <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/wiley/</subfield>
+   </datafield>
+   <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2190 reviewed on 2019-05-01T14:00:03Z</subfield>
+   </datafield>
+   <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6324237</subfield>
+   </datafield>
+   <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2019-03-14</subfield>
+   </datafield>
+   <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2019-05-01</subfield>
+   </datafield>
+</record>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+   <leader>04880nab a2200637 u 4500</leader>
+   <controlfield tag="001">9915614108807426</controlfield>
+   <controlfield tag="005">20221119001538.0</controlfield>
+   <controlfield tag="008">190314e201901 xx |||||o|||||||||||eng||</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606324226</subfield>
+      <subfield code="2">DNAL</subfield>
+   </datafield>
+   <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/jvs.12701</subfield>
+      <subfield code="2">doi</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6324226-01nal_inst</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Janssen, Philippe</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">National Research Institute of Science and Technology for Environment
+                and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM,
+                Saint‐Martin‐d'Hères, France</subfield>
+      <subfield code="1">https://orcid.org/0000-0003-3310-0078</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Beyond forest habitat qualities: Climate and tree characteristics as
+                the major drivers of epiphytic macrolichen assemblages in temperate
+                mountains</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 42-54.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">JOURNAL ARTICLE</subfield>
+   </datafield>
+   <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">QUESTIONS: How are epiphytic macrolichen assemblages shaped by forest
+                habitat quality as reflected by the availability of late‐developmental forest
+                attributes (i.e., stand maturity) and the temporal continuity of the wooded state
+                (i.e., forest continuity)? Are these two forest habitat features the main drivers of
+                lichen assemblages, and if so, at which spatial scale? STUDY SITE: Temperate
+                mountain forests in the French Northern Alps. METHODS: In our sampling design, we
+                defined treatments by crossing forest continuity (ancient vs recent) and stand
+                maturity (mature vs overmature), then quantified lichen response to the treatments
+                at the stand (n = 70) and tree scales (n = 420). We distinguished between total
+                macrolichen and Lobarion species alone. Finally, we assessed the influence of tree‐,
+                stand‐ and landscape‐scale variables, as well as climatic variables. RESULTS:
+                Neither total macrolichen nor Lobarion diversity and composition were influenced by
+                forest continuity, stand maturity or by stand‐ or landscape‐associated variables.
+                Instead, climatic variables, light availability at the stand scale and host tree
+                characteristics were the major drivers of lichen assemblages. In our mountain
+                forests, this clearly shows that macrolichen were more influenced by local abiotic
+                and biotic factors than by present or past human‐induced activities. CONCLUSIONS:
+                Overall, we show that assemblage patterns in forest ecosystems may be driven by
+                parameters that are not directly related to habitat quality. The influences of
+                forest continuity and stand maturity on diversity and composition thus appear to be
+                context‐dependent. In the ecological context of alpine forests, these findings
+                highlight the benefits of selective‐cutting practices and illustrate the importance
+                of structural heterogeneity, in terms of both improved accessibility to light and
+                tree diameter diversity. Finally, the importance of temperature in shaping
+                assemblage patterns suggests that global warming is probably the most significant
+                threat to macrolichen conservation in temperate mountain forests.</subfield>
+   </datafield>
+   <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+   </datafield>
+   <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+   </datafield>
+   <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">IRSTEA</subfield>
+   </datafield>
+   <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">Conseil Général de l'Isère</subfield>
+   </datafield>
+   <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">Bauges Natural Regional Park</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">biotic factors</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">climatic factors</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">epiphytes</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">global warming</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitats</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">lichens</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">montane forests</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">mountains</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">temperature</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree and stand measurements</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Alps region</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Fuhr, Marc</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">National Research Institute of Science and Technology for Environment
+                and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM,
+                Saint‐Martin‐d'Hères, France</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Bouget, Christophe</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">National Research Institute of Science and Technology for Environment
+                and Agriculture (IRSTEA), UR EFNO, Domaine des Barres, Nogent‐sur‐Vernisson,
+                France</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Journal of vegetation science.</subfield>
+      <subfield code="g">2019 Jan., v. 30, no. 1 p.42-54</subfield>
+      <subfield code="d">John Wiley &amp; Sons, Ltd</subfield>
+      <subfield code="w">Journal:jnl46820</subfield>
+      <subfield code="x">1100-9233</subfield>
+      <subfield code="7">nnas</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl46820</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/jvs.12701</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+   </datafield>
+   <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl46820</subfield>
+      <subfield code="b">1100-9233</subfield>
+      <subfield code="c">30</subfield>
+      <subfield code="d">1</subfield>
+      <subfield code="e">42</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Journal of vegetation science</subfield>
+   </datafield>
+   <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2190</subfield>
+   </datafield>
+   <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+   </datafield>
+   <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">John Wiley &amp; Sons, Inc</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+   </datafield>
+   <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606324226</subfield>
+      <subfield code="9">ExL</subfield>
+   </datafield>
+   <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2019-05-01</subfield>
+   </datafield>
+   <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/wiley/11009233_2019_30_1.xml</subfield>
+   </datafield>
+   <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/wiley/11009233_2019_30_1.xml</subfield>
+   </datafield>
+   <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/wiley/</subfield>
+   </datafield>
+   <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2190 reviewed on 2019-05-01T14:00:03Z</subfield>
+   </datafield>
+   <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6324226</subfield>
+   </datafield>
+   <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2019-03-14</subfield>
+   </datafield>
+   <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2019-05-01</subfield>
+   </datafield>
+</record>

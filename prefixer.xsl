@@ -10,29 +10,40 @@
     <!--saxon:next-in-chain="NAL-MARC21slim2MODS3-7v1.xsl"/>-->
 
     <xsl:include href="NAL-MARC21slimUtils.xsl"/>
+  
+    
     <xsl:template match="/">
-        <xsl:variable name="in-xml" select="descendant::node()" as="node()*"/>
-        <xsl:result-document method="xml" encoding="UTF-8" version="1.0" format="prefixed"
-            href="{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$1')}N-{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$2')}_{'prefixed'}_{position()}.xml">
-            <xsl:for-each select="*">
-                <marc:collection>
+        <xsl:variable name="in-xml" select="descendant::node()" as="node()*"/>    
+        
+        <xsl:for-each select="//collection">
+            <xsl:result-document method="xml" encoding="UTF-8" version="1.0" format="prefixed"
+                href="{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$1')}N-{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$2')}_{'non-prefixed'}_{position()}.xml">
+            <collection>
+                <xsl:copy-of select="."/>
+            </collection>
+       
+            </xsl:result-document>
+            <!--for unprefixed-->
+                <xsl:result-document method="xml" encoding="UTF-8" version="1.0" format="prefixed"
+                    href="{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$1')}N-{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$2')}_{'prefixed'}_{position()}.xml">                
+             <marc:collection>
                 <xsl:namespace name="marc">http://www.loc.gov/MARC21/slim</xsl:namespace>
                 <xsl:namespace name="xs">http://www.w3.org/2001/XMLSchema</xsl:namespace>
                 <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
-                <xsl:attribute name="xsi:schemaLocation" 
-                    select="normalize-space('http://www.loc.gov/MARC21/slim
-                    https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd')"/>
-               
-               
-                        <xsl:copy-of
-                            select="f:change-element-ns-deep($in-xml, 'http://www.loc.gov/MARC21/slim', 'marc')"
-                        />
-            
+                <xsl:attribute 
+                    name="xsi:schemaLocation" 
+                    select="normalize-space(
+                    'http://www.loc.gov/MARC21/slim
+                    https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd')
+                    "/>
+                 <xsl:copy-of select="f:change-element-ns-deep(
+                     $in-xml, 
+                     'http://www.loc.gov/MARC21/slim',
+                     'marc')
+                     "/>
                 </marc:collection>
-            </xsl:for-each>
             
             
-        </xsl:result-document>
     </xsl:template>
        
 

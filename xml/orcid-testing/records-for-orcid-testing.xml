@@ -354,7 +354,6 @@
         </datafield>
         <datafield tag="773" ind1="0" ind2=" ">
             <subfield code="t">Ecological informatics.</subfield>
-            <subfield code="g">2022 Sept., v. 70 p.101695-</subfield>
             <subfield code="d">Elsevier B.V.</subfield>
             <subfield code="w">Journal:2190</subfield>
             <subfield code="x">1574-9541</subfield>
@@ -1466,8 +1465,6 @@
             <subfield code="c">22</subfield>
             <subfield code="d">4</subfield>
             <subfield code="e">709</subfield>
-        </datafield>
-        <datafield tag="914" ind1=" " ind2=" ">
             <subfield code="f">Ecosystems</subfield>
         </datafield>
         <datafield tag="916" ind1=" " ind2=" ">

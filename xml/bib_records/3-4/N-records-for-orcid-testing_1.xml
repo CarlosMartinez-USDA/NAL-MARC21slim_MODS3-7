@@ -11,7 +11,6 @@
          <namePart type="given">Zhenghua</namePart>
          <namePart type="family">Lian</namePart>
          <displayForm>Lian, Zhenghua</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0001-9021-5985</nameIdentifier>
          <affiliation>Research Center of Forest Management Engineering of State Forestry and Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -21,7 +20,6 @@
          <namePart type="given">Juan</namePart>
          <namePart type="family">Wang</namePart>
          <displayForm>Wang, Juan</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0001-9021-5985</nameIdentifier>
          <affiliation>Department of Forest Ecology, School of Ecology and Nature Conservation, Beijing Forestry University, Beijing, 100083, China</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -31,7 +29,6 @@
          <namePart type="given">Chunyu</namePart>
          <namePart type="family">Fan</namePart>
          <displayForm>Fan, Chunyu</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0001-9021-5985</nameIdentifier>
          <affiliation>Research Center of Forest Management Engineering of State Forestry and Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -41,7 +38,6 @@
          <namePart type="given">Klaus</namePart>
          <namePart type="family">Von Gadow</namePart>
          <displayForm>Von Gadow, klaus</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0001-9021-5985</nameIdentifier>
          <affiliation>Faculty of Forestry and Forest Ecology, Georg-August-University Göttingen, Büsgenweg 5, D-37077, Göttingen, Germany</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -122,6 +118,14 @@
             </extent>
          </part>
       </relatedItem>
+      <relatedItem>
+         <originInfo>
+            <edition>2197-5620</edition>
+         </originInfo>
+         <name>
+            <namePart>Journal:21605</namePart>
+         </name>
+      </relatedItem>
       <identifier type="doi">10.1016/j.fecs.2022.100048</identifier>
       <identifier type="control">9915610355207426</identifier>
       <identifier type="agricola">IND607785982</identifier>
@@ -131,10 +135,7 @@
          <recordCreationDate encoding="marc">220619</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118220436.0</recordChangeDate>
          <recordIdentifier>9915610355207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-11</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -202,6 +203,7 @@
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">eng</languageTerm>
       </language>
       <abstract displayLabel="Summary">With growing interest in tree decline and die-back events due to increased climate variability, ecophysiological roles and dynamics of non-structural carbohydrates (NSCs) have drawn wide attention recently. Accordingly, a lot of field data have been collected, but these achievements were not well incorporated in process-based vegetation models yet, where NSCs ecophysiology was implicitly applied or ignored. This review tried to fill the knowledge gap between recent developments of empirical and modeling studies on NSCs ecophysiology. We summarized the characteristics and dynamics of NSCs with their respective roles in tree physiology and tree mortality recently found in field studies; examined how these findings have been incorporated into vegetation models so far; then, provided alternative modeling approaches of NSCs dynamics and allocation strategies. As result, we addressed five key modeling issues in simulating spatial and temporal patterns of NSCs dynamics across different scales as follows: (1) interconversion between dual NSCs pools (i.e., rapid soluble sugar and slow starch pools), (2) incorporation of the sink-limited growth allocation strategy, (3) hydraulic limitation of NSCs transports between organs, (4) feedback mechanisms between tree NSCs and root symbionts, and (5) large-scale simulations of NSCs dynamics. This review emphasizes the limitation of traditional source-limited models to simulate die-back and recovery of various tree biomes. The development of process-based vegetation models considering NSCs ecophysiology explicitly will help to enhance our modeling capacity to understand vegetation responses to climate change.</abstract>
       <subject authority="atg">
@@ -270,6 +272,14 @@
             <text type="month">Sept</text>
          </part>
       </relatedItem>
+      <relatedItem>
+         <originInfo>
+            <edition>1574-9541</edition>
+         </originInfo>
+         <name>
+            <namePart>Journal:2190</namePart>
+         </name>
+      </relatedItem>
       <identifier type="doi">10.1016/j.ecoinf.2022.101695</identifier>
       <identifier type="control">9915610429607426</identifier>
       <identifier type="agricola">IND607785912</identifier>
@@ -279,10 +289,7 @@
          <recordCreationDate encoding="marc">220905</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118220848.0</recordChangeDate>
          <recordIdentifier>9915610429607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-11</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -294,7 +301,6 @@
          <namePart type="given">Adrienne R.</namePart>
          <namePart type="family">Ernst</namePart>
          <displayForm>Ernst, Adrienne r.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Plant Biology and Conservation, Northwestern University, Evanston, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -304,7 +310,6 @@
          <namePart type="given">Rebecca S.</namePart>
          <namePart type="family">Barak</namePart>
          <displayForm>Barak, Rebecca s.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -314,7 +319,6 @@
          <namePart type="given">Andrew L.</namePart>
          <namePart type="family">Hipp</namePart>
          <displayForm>Hipp, Andrew l.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -324,7 +328,6 @@
          <namePart type="given">Andrea T.</namePart>
          <namePart type="family">Kramer</namePart>
          <displayForm>Kramer, Andrea t.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -334,7 +337,6 @@
          <namePart type="given">Hannah E.</namePart>
          <namePart type="family">Marx</namePart>
          <displayForm>Marx, Hannah e.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Deparment of Biology, University of New Mexico, Albuquerque, NM, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -344,7 +346,6 @@
          <namePart type="given">Daniel J.</namePart>
          <namePart type="family">Larkin</namePart>
          <displayForm>Larkin, Daniel j.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Department of Fisheries, Wildlife, and Conservation Biology, University of Minnesota, St. Paul, MN, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -357,6 +358,7 @@
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 443-456.</extent>
@@ -429,6 +431,14 @@
             <text type="month">Feb</text>
          </part>
       </relatedItem>
+      <relatedItem>
+         <originInfo>
+            <edition>0022-0477</edition>
+         </originInfo>
+         <name>
+            <namePart>Journal:jnl44660</namePart>
+         </name>
+      </relatedItem>
       <identifier type="doi">10.1111/1365-2745.13812</identifier>
       <identifier type="control">9915611022607426</identifier>
       <identifier type="agricola">IND607667053</identifier>
@@ -438,10 +448,7 @@
          <recordCreationDate encoding="marc">220211</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
          <recordIdentifier>9915611022607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-11</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -453,7 +460,6 @@
          <namePart type="given">Adrienne R.</namePart>
          <namePart type="family">Ernst</namePart>
          <displayForm>Ernst, Adrienne r.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Plant Biology and Conservation, Northwestern University, Evanston, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -463,7 +469,6 @@
          <namePart type="given">Rebecca S.</namePart>
          <namePart type="family">Barak</namePart>
          <displayForm>Barak, Rebecca s.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -473,7 +478,6 @@
          <namePart type="given">Andrew L.</namePart>
          <namePart type="family">Hipp</namePart>
          <displayForm>Hipp, Andrew l.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -483,7 +487,6 @@
          <namePart type="given">Andrea T.</namePart>
          <namePart type="family">Kramer</namePart>
          <displayForm>Kramer, Andrea t.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -493,7 +496,6 @@
          <namePart type="given">Hannah E.</namePart>
          <namePart type="family">Marx</namePart>
          <displayForm>Marx, Hannah e.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Deparment of Biology, University of New Mexico, Albuquerque, NM, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -503,7 +505,6 @@
          <namePart type="given">Daniel J.</namePart>
          <namePart type="family">Larkin</namePart>
          <displayForm>Larkin, Daniel j.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-8507-6869https://orcid.org/0000-0003-2908-2436https://orcid.org/0000-0002-1241-9904https://orcid.org/0000-0002-0956-0157https://orcid.org/0000-0002-3526-7878https://orcid.org/0000-0001-6378-0495</nameIdentifier>
          <affiliation>Department of Fisheries, Wildlife, and Conservation Biology, University of Minnesota, St. Paul, MN, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -516,6 +517,7 @@
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 443-456.</extent>
@@ -588,6 +590,14 @@
             <text type="month">Feb</text>
          </part>
       </relatedItem>
+      <relatedItem>
+         <originInfo>
+            <edition>0022-0477</edition>
+         </originInfo>
+         <name>
+            <namePart>Journal:jnl44660</namePart>
+         </name>
+      </relatedItem>
       <identifier type="doi">10.1111/1365-2745.13812</identifier>
       <identifier type="control">9915611022607426</identifier>
       <identifier type="agricola">IND607667053</identifier>
@@ -597,10 +607,7 @@
          <recordCreationDate encoding="marc">220211</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
          <recordIdentifier>9915611022607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-11</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -611,7 +618,6 @@
          <namePart type="given">Philippe</namePart>
          <namePart type="family">Janssen</namePart>
          <displayForm>Janssen, Philippe</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-3310-0078</nameIdentifier>
          <affiliation>National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM, Saint‐Martin‐d'Hères, France</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -621,7 +627,6 @@
          <namePart type="given">Marc</namePart>
          <namePart type="family">Fuhr</namePart>
          <displayForm>Fuhr, Marc</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-3310-0078</nameIdentifier>
          <affiliation>National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM, Saint‐Martin‐d'Hères, France</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -631,7 +636,6 @@
          <namePart type="given">Christophe</namePart>
          <namePart type="family">Bouget</namePart>
          <displayForm>Bouget, Christophe</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-3310-0078</nameIdentifier>
          <affiliation>National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), UR EFNO, Domaine des Barres, Nogent‐sur‐Vernisson, France</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -644,6 +648,7 @@
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 42-54.</extent>
@@ -713,6 +718,14 @@
             <text type="month">Jan</text>
          </part>
       </relatedItem>
+      <relatedItem>
+         <originInfo>
+            <edition>1100-9233</edition>
+         </originInfo>
+         <name>
+            <namePart>Journal:jnl46820</namePart>
+         </name>
+      </relatedItem>
       <identifier type="doi">10.1111/jvs.12701</identifier>
       <identifier type="control">9915614108807426</identifier>
       <identifier type="agricola">IND606324226</identifier>
@@ -722,10 +735,7 @@
          <recordCreationDate encoding="marc">190314</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119001538.0</recordChangeDate>
          <recordIdentifier>9915614108807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-11</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -736,7 +746,6 @@
          <namePart type="given">Linda</namePart>
          <namePart type="family">Mertelmeyer</namePart>
          <displayForm>Mertelmeyer, Linda</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-2313-7862https://orcid.org/0000-0001-7581-2482</nameIdentifier>
          <affiliation>Technical University of Munich, Munich, Germany</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -746,7 +755,6 @@
          <namePart type="given">James D.</namePart>
          <namePart type="family">Jacobi</namePart>
          <displayForm>Jacobi, James d.</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-2313-7862https://orcid.org/0000-0001-7581-2482</nameIdentifier>
          <affiliation>Pacific Island Ecosystems Research Center, U.S. Geological Survey, Hawaii National Park, Hawaii</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -756,7 +764,6 @@
          <namePart type="given">Dieter</namePart>
          <namePart type="family">Mueller‐dombois</namePart>
          <displayForm>Mueller‐dombois, Dieter</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-2313-7862https://orcid.org/0000-0001-7581-2482</nameIdentifier>
          <affiliation>Department of Botany, University of Hawaii at Manoa, Honolulu, Hawaii</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -766,7 +773,6 @@
          <namePart type="given">Kevin</namePart>
          <namePart type="family">Brinck</namePart>
          <displayForm>Brinck, Kevin</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-2313-7862https://orcid.org/0000-0001-7581-2482</nameIdentifier>
          <affiliation>Hawaii Cooperative Studies Unit, University of Hawaii at Hilo, Hilo, Hawaii</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -776,7 +782,6 @@
          <namePart type="given">Hans Juergen</namePart>
          <namePart type="family">Boehmer</namePart>
          <displayForm>Boehmer, Hans juergen</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0003-2313-7862https://orcid.org/0000-0001-7581-2482</nameIdentifier>
          <affiliation>School of Geography, Earth Science and Environment (SGESE), University of the South Pacific (USP), Laucala Bay, Suva, Fiji Islands</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -789,6 +794,7 @@
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 146-155.</extent>
@@ -867,6 +873,14 @@
             <text type="month">Jan</text>
          </part>
       </relatedItem>
+      <relatedItem>
+         <originInfo>
+            <edition>1100-9233</edition>
+         </originInfo>
+         <name>
+            <namePart>Journal:jnl46820</namePart>
+         </name>
+      </relatedItem>
       <identifier type="doi">10.1111/jvs.12704</identifier>
       <identifier type="control">9915614131907426</identifier>
       <identifier type="agricola">IND606324237</identifier>
@@ -876,10 +890,7 @@
          <recordCreationDate encoding="marc">190314</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119002133.0</recordChangeDate>
          <recordIdentifier>9915614131907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-11</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -890,7 +901,6 @@
          <namePart type="given">Niko</namePart>
          <namePart type="family">Kulha</namePart>
          <displayForm>Kulha, Niko</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-1610-9938</nameIdentifier>
          <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014, Helsinki, Finland. niko.kulha@helsinki.fi</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -900,7 +910,6 @@
          <namePart type="given">Leena</namePart>
          <namePart type="family">Pasanen</namePart>
          <displayForm>Pasanen, Leena</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-1610-9938</nameIdentifier>
          <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box 8000, 90014, Oulu, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -910,7 +919,6 @@
          <namePart type="given">Lasse</namePart>
          <namePart type="family">Holmström</namePart>
          <displayForm>Holmström, Lasse</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-1610-9938</nameIdentifier>
          <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box 8000, 90014, Oulu, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -920,7 +928,6 @@
          <namePart type="given">Louis</namePart>
          <namePart type="family">De Grandpré</namePart>
          <displayForm>De Grandpré, louis</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-1610-9938</nameIdentifier>
          <affiliation>Canadian Forest Service, Laurentian Forestry Centre, P.O. Box 3800, Sainte-Foy, Quebec, GIV 4C7, Canada</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -930,7 +937,6 @@
          <namePart type="given">Timo</namePart>
          <namePart type="family">Kuuluvainen</namePart>
          <displayForm>Kuuluvainen, Timo</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-1610-9938</nameIdentifier>
          <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014, Helsinki, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -940,7 +946,6 @@
          <namePart type="given">Tuomas</namePart>
          <namePart type="family">Aakala</namePart>
          <displayForm>Aakala, Tuomas</displayForm>
-         <nameIdentifier>https://orcid.org/0000-0002-1610-9938</nameIdentifier>
          <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014, Helsinki, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
@@ -953,6 +958,7 @@
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 709-724.</extent>
@@ -1018,6 +1024,14 @@
             <text type="month">June</text>
          </part>
       </relatedItem>
+      <relatedItem>
+         <originInfo>
+            <edition>1432-9840</edition>
+         </originInfo>
+         <name>
+            <namePart>Journal:jnl70038</namePart>
+         </name>
+      </relatedItem>
       <identifier type="doi">10.1007/s10021-018-0297-2</identifier>
       <identifier type="control">9915620021407426</identifier>
       <identifier type="agricola">IND606452556</identifier>
@@ -1027,10 +1041,7 @@
          <recordCreationDate encoding="marc">190816</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118231846.0</recordChangeDate>
          <recordIdentifier>9915620021407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-11</recordOrigin>
       </recordInfo>
    </mods>
 </modsCollection>

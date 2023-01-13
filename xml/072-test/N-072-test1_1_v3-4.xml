@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/mods/v3"
+            xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3">
+   <mods version="3.4">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>northern garden week by week</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Daisy Thomson</namePart>
+         <namePart type="family">Abbott</namePart>
+         <displayForm>Abbott, Daisy Thomson</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mnumnuMinnesota</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Minneapolis, MN</placeTerm>
+         </place>
+         <publisher>University of Minnesota Press</publisher>
+         <dateIssued>[1944, c1938]</dateIssued>
+         <dateIssued encoding="marc" point="start">1944</dateIssued>
+         <dateIssued encoding="marc" point="end">1938</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <physicalDescription>
+         <extent>93 p.</extent>
+      </physicalDescription>
+      <subject authority="atg">
+         <topic>plant cultural practices</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>horticulture</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>horticultural crops</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>crop production</topic>
+      </subject>
+      <classification authority="nal">96 Ab3</classification>
+      <identifier type="control">1289057530</identifier>
+      <identifier type="agricola">CAT10891909</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">950223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20211217002858.2</recordChangeDate>
+         <recordIdentifier>1289057530</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</collection>

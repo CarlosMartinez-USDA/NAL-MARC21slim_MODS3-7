@@ -1508,4 +1508,2383 @@
             <subfield code="a">2019-08-16</subfield>
         </datafield>
     </record>
+    <record>
+    <leader>04244nab a2200601 u 4500</leader>
+    <controlfield tag="001">9916332947707426</controlfield>
+    <controlfield tag="005">20221118141804.0</controlfield>
+    <controlfield tag="008">200207e202002 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606833214</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1007/s10841-019-00210-5</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6833214-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Pilskog, Hanne Eik</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">The Faculty of Environmental Sciences and Natural Resource Management,
+        Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway.
+        hanne.e.pilskog@hiof.no</subfield>
+      <subfield code="1">https://orcid.org/0000-0003-4781-7117</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Species composition of beetles grouped by host association in hollow oaks
+        reveals management-relevant patterns</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 65-86.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Veteran trees are keystone structures currently in decline worldwide. In
+        Europe, veteran oaks (Quercus spp.) are important habitat trees for wood-living beetles.
+        Still, we have limited knowledge of the drivers determining the composition of these
+        communities and the relevant spatial and temporal scales for these drivers. We collected
+        beetles from 32 hollow oaks in two regions in Southern Norway along a coast-inland gradient
+        paralleling historical onset of oak harvesting. We focused on species with different
+        host-association to oak and identified the relative importance of processes working on
+        different spatial scales, ranging from tree-scale to region-scale, as well as effects of the
+        coast-inland gradient. We found all the spatial scales to influence the species composition,
+        with a response to the coast-inland gradient and differences between the regions for all
+        beetle groups. The tree scale was the most important scale for species mainly associated
+        with oak, generalist species and the overall species composition—with bryophyte cover on the
+        stem, depth of bark crevices and amount of wood mould as the most important variables. The
+        close surroundings and forest variables on the landscape scale was most important for the
+        beetle species restricted to broadleaf trees. Our study confirmed established knowledge, but
+        also revealed new relationships between oak-associated beetles and relevant drivers on the
+        tree and regional scale. As important responses of species mainly associated with oak or
+        broadleaf trees were concealed when analyzing the total community, care should be taken not
+        to base management recommendations on such overall, general patterns.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Bryophyta</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Coleoptera</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Quercus</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">bark</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">broadleaved trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitats</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">harvesting</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">landscapes</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">species diversity</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">wood</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Norway</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Birkemoe, Tone</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">The Faculty of Environmental Sciences and Natural Resource Management,
+        Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Evju, Marianne</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Norwegian Institute for Nature Research, Gaustadalléen 21, 0349, Oslo,
+        Norway</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Sverdrup-Thygeson, Anne</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">The Faculty of Environmental Sciences and Natural Resource Management,
+        Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Journal of insect conservation.</subfield>
+      <subfield code="g">2020 Feb., v. 24, no. 1 p.65-86</subfield>
+      <subfield code="d">Springer International Publishing</subfield>
+      <subfield code="w">Journal:jnl3870062</subfield>
+      <subfield code="x">1366-638X</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl3870062</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1007/s10841-019-00210-5</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl3870062</subfield>
+      <subfield code="b">1366-638X</subfield>
+      <subfield code="c">24</subfield>
+      <subfield code="d">1</subfield>
+      <subfield code="e">65</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Journal of insect conservation</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2523</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Springer</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606833214</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2020-07-21</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/springer/ftp_PUB_20-02-06_06-03-53.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/springer/10841-24-1.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/springer/</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2523 reviewed on 2020-07-21T04:00:04Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6833214</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2020-02-07</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2020-07-21</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03731nab a2200637 u 4500</leader>
+    <controlfield tag="001">9916333031007426</controlfield>
+    <controlfield tag="005">20221118141737.0</controlfield>
+    <controlfield tag="008">200422e202002 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606833094</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1007/s10457-019-00375-7</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6833094-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Hombegowda, H. C.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Tropical Silviculture and Forest Ecology, Georg-August-Universität
+        Göttingen, Göttingen, Germany. hombegowdaars@gmail.com</subfield>
+      <subfield code="1">https://orcid.org/0000-0002-4706-3944</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Tree species and size influence soil water partitioning in coffee
+        agroforestry</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 137-149.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Complementary use of resources is considered a strong driver of enhanced
+        performance in mixed-species assemblages. In income-producing agroforestry systems,
+        economically valuable species will ideally benefit from resource partitioning. In
+        agroforests in southern India, we assessed soil water uptake depths of coffee and different
+        shade tree species at the end of the dry season, when water availability is regarded
+        critical. Water isotopes ratios (δD and δ¹⁸O) from soil and plant samples were analyzed and
+        an isotope mixing model was applied. Results suggest that coffee plants drew water mainly
+        from the top soil (56% from 0 to 20 cm), and to a lower extent from the subsoil. Jackfruit
+        trees had very similar uptake patterns, which suggest competition. Mango trees showed
+        reverse patterns of water uptake with soil depth, i.e. drew more than 75% from the subsoil,
+        which suggests spatial complementarity to coffee. Within and across shade tree species, soil
+        water uptake from the top soil increased with increasing diameter. We suggest that shade
+        tree species choice and diameter regulation are viable options in management for soil water
+        use complementarity.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">International Fellowship</subfield>
+      <subfield code="c">Indian Council of Agricultural Research</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Coffea arabica</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">agroforestry</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">dry season</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fruit trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">jackfruits</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">oxygen</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">soil depth</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">soil water</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">stable isotopes</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">statistical models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">subsoil</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">topsoil</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">water uptake</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">India</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Köhler, Michael</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Tropical Silviculture and Forest Ecology, Georg-August-Universität
+        Göttingen, Göttingen, Germany</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Röll, Alexander</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Tropical Silviculture and Forest Ecology, Georg-August-Universität
+        Göttingen, Göttingen, Germany</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hölscher, Dirk</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Tropical Silviculture and Forest Ecology, Georg-August-Universität
+        Göttingen, Göttingen, Germany</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Agroforestry systems.</subfield>
+      <subfield code="g">2020 Feb., v. 94, no. 1 p.137-149</subfield>
+      <subfield code="d">Springer Netherlands</subfield>
+      <subfield code="w">Journal:jnl34245</subfield>
+      <subfield code="x">0167-4366</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl34245</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1007/s10457-019-00375-7</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl34245</subfield>
+      <subfield code="b">0167-4366</subfield>
+      <subfield code="c">94</subfield>
+      <subfield code="d">1</subfield>
+      <subfield code="e">137</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Agroforestry systems</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2472</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Springer</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606833094</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2020-06-02</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/springer/ftp_PUB_20-04-22_05-29-11.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/springer/10457-94-1.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/springer/</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2472 reviewed on 2020-06-02T08:57:35Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6833094</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2020-04-22</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2020-06-02</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03923nab a2200649 u 4500</leader>
+    <controlfield tag="001">9916333389907426</controlfield>
+    <controlfield tag="005">20221118144628.0</controlfield>
+    <controlfield tag="008">151127e200707 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND43960830</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10113/9899</subfield>
+      <subfield code="2">hdl</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.2193/2006-295</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:9899-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">GREENBERG, CATHRYN H.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">United States Forest Service, Bent Creek Experimental Forest, 1577 Brevard
+        Road, Asheville, NC 28806, USA</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="2">
+      <subfield code="a">A Rapid Hard-Mast Index From Acorn Presence–– Absence Tallies</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 1654-1661.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">We used 21 years of acorn data from visual surveys of oak (Quercus spp.)
+        trees (n == 20,113) conducted in western North Carolina, USA, to develop predictive
+        equations for hard-mast indices (HMIs) based on the proportion of trees bearing acorns
+        (PBA). We calculated PBA using visual estimates of the percentage of oak crown with acorns
+        (PCA), assigning acorn presence if PCA ≥≥ 33.5%%. The proportion of trees bearing acorns and
+        average PCA were highly correlated, and PBA alone was a successful predictor of HMIs.
+        Precise estimates of PBA (therefore HMIs) at a 95%% confidence level required 139––385
+        sample trees for each oak subgroup or spatial scale of interest, and the sample size
+        required varied with the true PBA. Substituting this faster, simpler visual survey method
+        for others involving labor-intensive counts of twigs and acorns means that more trees can be
+        sampled (if needed) with less time and effort for improved PBA (therefore HMI) precision. We
+        offer a reliable method for predicting HMIs that are comparable to past HMI estimates for
+        states using the Whitehead (1969) method, thus providing continuity in tracking long-term
+        acorn production patterns. We also developed categories for subjectively ranking acorn crop
+        sizes based on the range of PBA observed during 21 years. We recommend that PBA be adopted
+        by resource management agencies as a standard, stand-alone index of acorn production to
+        ensure comparable data among years and across the eastern United States. A standardized
+        protocol for assigning acorn presence or absence must be used for consistent, comparable
+        regional use of PBA in predicting HMIs or by itself as an index of acorn
+        production.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="c">USDA submission</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seeds</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Quercus</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">prediction</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">equations</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree crown</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">spatial distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest management</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">surveys</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seed productivity</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">North Carolina</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">acorn crop</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">acorn crop prediction</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">hard-mast index</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">hard-mast survey</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">visual survey</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">WARBURTON, GORDON S.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">North Carolina Wildlife Resources Commission, 783 Deep Woods Drive, Marion,
+        NC 28752, USA</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">journal of wildlife management.</subfield>
+      <subfield code="g">2007 July, v. 71, no. 5 p.1654-1661</subfield>
+      <subfield code="d">The Wildlife Society</subfield>
+      <subfield code="x">0022-541X</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_pubag_with_text</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl46144</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://handle.nal.usda.gov/10113/9899</subfield>
+      <subfield code="3">Available in the National Agricultural Library PubAg search
+        system</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.2193%2F2006-295</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl46144</subfield>
+      <subfield code="b">0022-541X</subfield>
+      <subfield code="c">71</subfield>
+      <subfield code="d">5</subfield>
+      <subfield code="e">1654</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">journal of wildlife management</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">BioOne</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND43960830</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2014-07-17</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">WILDv71i5-04290120-175329.zip</subfield>
+    </datafield>
+    <datafield tag="961" ind1=" " ind2=" ">
+      <subfield code="a">USDA/FS</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:9899</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2015-11-27</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2015-11-27</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">3960830</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04511nab a2200649 u 4500</leader>
+    <controlfield tag="001">9916333390607426</controlfield>
+    <controlfield tag="005">20221118144602.0</controlfield>
+    <controlfield tag="008">151105e20130703xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND601262462</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1643/CE-12-051</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:1262462-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Belasen, Anat</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Natural Resources and Environment, 440 Church Street, University
+        of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to
+        AB.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Effect of Sub-Canopy on Habitat Selection in the Blue-spotted Salamander
+        (Ambystoma laterale-jeffersonianum unisexual complex)</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 254-261.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Elucidating the mechanisms that influence spatial distribution patterns is
+        vital to understanding how populations persist. We examined distribution in one of the most
+        common salamanders in southeastern Michigan, the Blue-spotted Salamander (Ambystoma
+        laterale-jeffersonianum unisexual complex). Three major tree species dominate the sub-canopy
+        in the study site and form monospecific patches, which may have an effect on the
+        distribution of terrestrial phases of local amphibian species. To examine this, we tested
+        whether adult salamanders are significantly associated negatively or positively with patches
+        of particular tree species. We then examined two potential causal factors: habitat quality,
+        using leaf litter macroinvertebrate biomass as a proxy, and behavioral site choice in the
+        Blue-spotted Salamander. We found that this species is positively associated with patches of
+        red maple and negatively associated with patches of black cherry. We also found that, when
+        presented with a choice, salamanders choose red maple leaf litter over black cherry leaf
+        litter. In the absence of differences in physical leaf litter characteristics between
+        patches of red maple and black cherry, we suggest that the Blue-spotted Salamander may be
+        utilizing chemical cues to select habitat. Our findings imply that salamander populations
+        may be affected not only by habitat loss, but also by changes in forest composition. These
+        results provide evidence for a more complex model than the traditional amphibian
+        metapopulation concept, where even fully forested habitat may form a matrix of optimal and
+        sub-optimal, or even intolerable, patches.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Acer rubrum</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Acer saccharum subsp. nigrum</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Ambystoma</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Prunus serotina</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">adults</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">biomass</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest habitats</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitat destruction</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitat preferences</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">macroinvertebrates</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">plant litter</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">salamanders and newts</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Michigan</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Burkett, Erin</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Natural Resources and Environment, 440 Church Street, University
+        of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to
+        AB.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Injaian, Allison</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Ecology and Evolutionary Biology, 830 North University
+        Avenue, University of Michigan, Ann Arbor, Michigan 48103</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Li, Kevin</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Natural Resources and Environment, 440 Church Street, University
+        of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to
+        AB.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Allen, David</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Biology, 276 Bicentennial Way, Middlebury College,
+        Middlebury, Vermont 05753</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Perfecto, Ivette</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Natural Resources and Environment, 440 Church Street, University
+        of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to
+        AB.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Copeia.</subfield>
+      <subfield code="g">2013 July 3, v. 2013, no. 2 p.254-261</subfield>
+      <subfield code="d">The American Society of Ichthyologists and Herpetologists</subfield>
+      <subfield code="x">0045-8511</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)19631</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1643%2FCE-12-051</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:19631</subfield>
+      <subfield code="b">0045-8511</subfield>
+      <subfield code="c">2013</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">254</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Copeia</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1367</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">BioOne</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND601262462</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2016-07-27</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">COPEv2013i2-07091120-312234.zip</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1367 reviewed on 2016-07-27T04:00:03Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:1262462</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2015-11-05</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2016-07-27</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>05921nab a2200613 u 4500</leader>
+    <controlfield tag="001">9916333794507426</controlfield>
+    <controlfield tag="005">20221118145057.0</controlfield>
+    <controlfield tag="008">090710e20090730xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND44230035</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.foreco.2009.01.005</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:759809-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+      <subfield code="a">F300</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+      <subfield code="a">L300</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+      <subfield code="a">K200</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Loyn, Richard H.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Designing old forest for the future: Old trees as habitat for birds in
+        forests of Mountain Ash Eucalyptus regnans</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 504-515.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes references</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Old trees are one of many habitat attributes associated with old forests.
+        They are known to be required by many wildlife species including cavity-dependent birds.
+        Forest managers need to select strategies for retaining and regrowing old trees to maintain
+        suitable numbers over time at appropriate configurations in the forest landscape. This paper
+        presents data from wet forests in south-eastern Australia to help elucidate the effects of
+        different strategies on forest birds as one element of biodiversity that needs to be
+        conserved in these forests. Bird abundance was assessed by standard area search at 117 sites
+        in forests of Mountain Ash Eucalyptus regnans in the Victorian Central Highlands, over the
+        course of two spring-summer breeding seasons from 1996 to 1998. The sites contained 60-year
+        regrowth from extensive wildfires in 1939, along with varying numbers of older trees that
+        had survived the fire. Some of the old trees were dead and at varying stages of decay.
+        Numbers of old trees were counted at each site and a range of other habitat measurements
+        taken. Birds were considered by species or guilds of species (feeding and nesting guilds).
+        Bird abundance data were regressed against numbers of old trees and other relevant habitat
+        data. Cavity-nesting birds were positively related to numbers of old trees, and especially
+        to those that remained alive. Bird species that nest in longitudinal cavities in small
+        branches (spouts) were rare at sites that lacked old trees, and were related strongly to
+        numbers of live old trees. Large cavity-nesters were related to numbers of live old trees or
+        all old trees. Treecreepers correlated less strongly, perhaps because they use cavities in
+        decaying snags and stumps as well as large old trees. Honeyeaters and Mistletoe birds were
+        also positively associated with numbers of live old trees, although they do not need
+        cavities. Total bird abundance was positively related to live, dead or all old trees.
+        Several other relationships were found. For example, shrub foragers were related positively
+        to abundance of tall shrubs but not low shrubs; wattle foragers were related positively to
+        abundance of wattles (especially Silver Wattles Acacia dealbata); and Eastern Spinebills
+        Acanthorhynchus tenuirostris were positively associated with abundance of Mountain Correa
+        Correa lawrenciana (the flowers of which provide a major source of nectar). Non-linear
+        relationships between bird abundance and densities of old trees were found for at least two
+        cavity-nesting bird species. The relationship was convex for Striated Pardalote Pardalotus
+        striatus (optimum density 5-12 live old trees/ha) and mildly concave for Crimson Rosella
+        Platycercus elegans. This suggests that the former would benefit from strategies to disperse
+        old trees among regrowth at suitable scales whereas the latter would benefit from strategies
+        to produce clumped distributions of old trees. However, Striated Pardalotes showed a strong
+        preference for live old trees, which cannot easily be kept alive among regrowth after
+        logging or fire, suggesting clumped retention may be more practical for that species too.
+        Three other species showed weak evidence of non-linear responses, but most species showed no
+        significant evidence of departure from linearity. No species or guild showed strong evidence
+        of a threshold level of old tree density (above ~1ha⁻¹) below which those birds would not
+        occur. Hence for most of the diurnal birds considered in this study, old trees appear to be
+        useful in proportion to the overall number of suitable old trees that can be retained and
+        regrown (rather than their spatial pattern), and especially the number that can be kept
+        alive. Clumped retention strategies give the best chance of keeping many retained trees
+        alive in retained patches. Otherwise, spacing patterns should be a secondary consideration,
+        except where they are known to be important for species such as owls and arboreal
+        mammals.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">old-growth forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">wildlife habitats</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">wild birds</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitat preferences</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree cavities</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest management</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree age</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">density</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">spatial distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest-wildlife relations</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Australia</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kennedy, Simon J.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Forest ecology and management.</subfield>
+      <subfield code="g">2009 July 30, v. 258, no. 4 p.504-515</subfield>
+      <subfield code="d">Elsevier Science</subfield>
+      <subfield code="x">0378-1127</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl9013</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1016/j.foreco.2009.01.005</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl9013</subfield>
+      <subfield code="b">0378-1127</subfield>
+      <subfield code="c">258</subfield>
+      <subfield code="d">4</subfield>
+      <subfield code="e">504</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Forest ecology and management</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+      <subfield code="a">20090718</subfield>
+      <subfield code="b">20090801</subfield>
+      <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND44230035</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="945" ind1=" " ind2=" ">
+      <subfield code="a">IND</subfield>
+      <subfield code="d">LYN</subfield>
+      <subfield code="e">2009/07/18</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+      <subfield code="a">Non-US</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2014-07-17</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="a">20090718 20090801 00000000</subfield>
+      <subfield code="b">IND LYN 2009/07/18</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:759809</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2014-07-25</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">4230035</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03275nab a2200565 u 4500</leader>
+    <controlfield tag="001">9916333814707426</controlfield>
+    <controlfield tag="005">20221118153247.0</controlfield>
+    <controlfield tag="008">180103e201705 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND605882598</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/icad.12218</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:5882598-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Fabritius, Henna</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Biosciences, University of Helsinki, Helsinki,
+        Finland</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Modelling habitat persistence and impacts of management on the habitats of
+        an endangered butterfly</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 200-210.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">JOURNAL ARTICLE</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">In dynamic landscapes, effective species conservation requires an
+        understanding of the spatial and temporal dynamics of species’ habitats. In this study,
+        vegetation data across differently aged sites, site management history data and expert
+        elicitation are used to estimate (i) expected habitat patch lifetimes and (ii) the impacts
+        of habitat management history on how habitat quality changes through time for an
+        early‐successional habitat specialist, the endangered false heath fritillary butterfly
+        (Melitaea diamina). Results demonstrate the accelerated temporal dynamics experienced by
+        false heath fritillary habitats, with the quality of false heath fritillary habitats peaking
+        2–3 years after management, and a median‐sized habitat patch initially without tree cover
+        predicted to become unsuitable 15 years after management due to overgrowth. As a co‐product
+        of habitat management patterns, habitat succession and land use changes, non‐conserved false
+        heath fritillary habitats had an expected lifetime of 13.1 years. This study demonstrates a
+        method that can be used to estimate habitat network dynamics for an early‐successional
+        habitat specialist economically in situations where the urgency of conservation challenges
+        favours fast decision‐making.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">butterflies</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">coproducts</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">decision making</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">expert opinion</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitat conservation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitats</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">land use change</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">landscapes</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">temporal variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">vegetation</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">McBride, Marissa</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Biosciences, University of Helsinki, Helsinki,
+        Finland</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Insect conservation and diversity.</subfield>
+      <subfield code="g">2017 May, v. 10, no. 3 p.200-210</subfield>
+      <subfield code="d">John Wiley &amp; Sons, Ltd</subfield>
+      <subfield code="w">Journal:J000000087</subfield>
+      <subfield code="x">1752-458X</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)J000000087</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/icad.12218</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:J000000087</subfield>
+      <subfield code="b">1752-458X</subfield>
+      <subfield code="c">10</subfield>
+      <subfield code="d">3</subfield>
+      <subfield code="e">200</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Insect conservation and diversity</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1910</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">John Wiley &amp; Sons, Inc</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND605882598</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2018-02-28</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">1752458X_2017_10_3.xml</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1910 reviewed on 2018-02-28T15:00:02Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:5882598</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2018-01-03</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2018-02-28</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04503nab a2200625 u 4500</leader>
+    <controlfield tag="001">9916333835407426</controlfield>
+    <controlfield tag="005">20221118153333.0</controlfield>
+    <controlfield tag="008">220222e20220315xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND607610741</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.scitotenv.2021.152586</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:7610741-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Inácio, Miguel</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Environmental Management Laboratory, Mykolas Romeris University, Vilnius,
+        Lithuania</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Mapping and assessment of future changes in the coastal and marine
+        ecosystem services supply in Lithuania</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Assessing and mapping ecosystem services (ES) became an integral part of
+        coastal and marine management practices. Hence, quantitative and validated approaches are
+        lacking, especially to address future conditions. The objective of this study is to apply
+        further existing and develop new methodological frameworks to quantitatively assess and map
+        the current and future supply of 3 ES in the coastal zone of Lithuania: coastal flood
+        protection, nutrient regulation, and maintenance of nursery conditions. For coastal flood ES
+        modelling, 2 time periods (1990 and 2018) and 4 scenarios (A0, A1 A2, A3 - based on future
+        socio-economic changes in Lithuania) were analysed. The coastal flood protection ES model
+        was validated (r² = 0.30) using tree cover density. The results showed spatial differences
+        among the analysed periods but no statistical differences. High supply areas are located in
+        the southern coastal area, while the central part displays a low supply. For nutrient
+        regulation and maintenance of nursery conditions, 7 time periods were analysed: a historical
+        period and 6 scenarios based on Representative Concentration Pathway 4.5 and 8.5 and 3
+        Shared Socioeconomic Pathways. The nutrient regulation ES model was validated (r² = 0.85)
+        using in situ nutrient. Statistical differences were observed for this ES, but a similar
+        spatial distribution of high and low supply areas. A decrease in the supply was observed
+        comparing the historical period and future scenarios. Maintenance of nursery conditions was
+        validated (r² = 0.72) based on the protection status of the coastal zone. Results show no
+        statistical differences and similar spatial patterns among the periods. Rocky and sandbank
+        areas show a high supply for this ES. Limitations of our work are mainly related to the
+        resolution of the utilised indicators. Nevertheless, the information obtained from our
+        models can support spatial planning and decision-making processes.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">coasts</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">decision making</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">environment</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">flood control</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">marine ecosystems</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">socioeconomics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Lithuania</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Human wellbeing</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Ecosystem modelling</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Climate change</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Coastal protection</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Baltic Sea</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Indicators</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Karnauskaitė, Donalda</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Environmental Management Laboratory, Mykolas Romeris University, Vilnius,
+        Lithuania</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Gomes, Eduardo</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Environmental Management Laboratory, Mykolas Romeris University, Vilnius,
+        Lithuania</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Barceló, Damià</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Institute of Environmental Assessment and Water Research (IDAEA-CSIC),
+        Barcelona, Catalonia, Spain</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pereira, Paulo</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Environmental Management Laboratory, Mykolas Romeris University, Vilnius,
+        Lithuania</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Science of the total environment.</subfield>
+      <subfield code="g">2022 Mar. 15, v. 812 p.152586-</subfield>
+      <subfield code="d">Elsevier B.V.</subfield>
+      <subfield code="w">Journal:jnl4455</subfield>
+      <subfield code="x">0048-9697</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl4455</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1016/j.scitotenv.2021.152586</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl4455</subfield>
+      <subfield code="b">0048-9697</subfield>
+      <subfield code="e">152586</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Science of the total environment</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:10220</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Elsevier Consyn</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND607610741</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-23</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/consyn/182104505254470091-00001-HEAD-ONLY-NEW
+        CONSYN ISSNS.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/consyn/S0048969721076646.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/consyn/</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:7610741</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-22</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-22</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04005nab a2200613 u 4500</leader>
+    <controlfield tag="001">9916333861107426</controlfield>
+    <controlfield tag="005">20221118152032.0</controlfield>
+    <controlfield tag="008">080613e200807 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND44067084</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/j.1365-2745.2008.01364.x</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:2052433-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Hampe, Arndt</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Spatio-temporal dynamics and local hotspots of initial recruitment in
+        vertebrate-dispersed trees</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 668-678.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">1. Initial recruitment, or the arrival and establishment of propagules, is
+        the most variable period in the life cycle of long-lived plants, and the extent to which
+        studies of initial recruitment can be used to predict patterns of regeneration remains
+        unresolved. 2. We investigated the spatio-temporal dynamics of initial recruitment across
+        five populations of three fleshy-fruited tree species from contrasting environments.
+        Among-year variation in total seedfall, dispersed seedfall and seedling distributions was
+        examined using analytical approaches that are new to the field and that explicitly
+        incorporate space and allow comparisons among studies. 3. Observed patterns ranged from
+        remarkable across-year consistency in seedfall distributions and strong spatial coupling
+        between seed and seedling stages to extensive variation and almost complete independence of
+        stages. Spatial distributions of frugivore-mediated seedfall were markedly more consistent
+        than those of the total seedfall in two of the five populations. Seedling distributions were
+        generally more variable among years than seedfall distributions. 4. All populations showed a
+        positive relationship between the long-term mean density of recruitment at a given microsite
+        and its year-to-year consistency. This relationship remained valid when considering only
+        microsites away from fruiting tree canopies (i.e. those receiving actually dispersed seeds),
+        and was virtually independent of their distance to the nearest fruiting tree. 5. Synthesis.
+        Our results point to the existence of some general rules behind the idiosyncratic
+        recruitment dynamics of perennial plant populations, which should help with projecting
+        spatial patterns of plant establishment in long-lived species. In particular, those
+        microsites that combine a great intensity with a high year-to-year consistency of
+        recruitment should represent potential regeneration 'hotspots' whose identification and
+        characterization can be of great use for the management and conservation of naturally
+        regenerating tree populations.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">analytical methods</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fruiting</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">perennials</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">plant establishment</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seedlings</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seeds</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Faramea occidentalis</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">frugivory</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">generalized least squares linear models</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">SADIE</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">seedling recruitment</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">spatial demography</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">García-Castaño, Juan L.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Schupp, Eugene W.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Jordano, Pedro</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Journal of ecology.</subfield>
+      <subfield code="g">2008 July, v. 96, no. 4 p.668-678</subfield>
+      <subfield code="d">Oxford, UK : Blackwell Publishing Ltd</subfield>
+      <subfield code="x">0022-0477</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl44660</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/j.1365-2745.2008.01364.x</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl44660</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Journal of ecology</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1247</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+      <subfield code="a">20080613</subfield>
+      <subfield code="b">20080704</subfield>
+      <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND44067084</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+      <subfield code="a">Non-US</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2016-03-29</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="a">20080613 20080704 00000000</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1247 reviewed on 2016-03-29T15:00:02Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:2052433</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2016-03-29</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">4067084</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04280nab a2200661 u 4500</leader>
+    <controlfield tag="001">9916334729407426</controlfield>
+    <controlfield tag="005">20221118155351.0</controlfield>
+    <controlfield tag="008">190419e20190401xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606375830</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.2478/botcro-2019-0005</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6375830-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Batalha, Marco Antonio</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Botany, Federal University of São Carlos, PO Box 676,
+        13565-905, São Carlos, Brazil</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Climatic drivers of dry grassland phylogenetic diversity in the Republic of
+        Macedonia</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 25-34.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Climatic gradients can be used to predict the extent to which climate
+        drives biodiversity and to which biodiversity may be affected by global climate changes.
+        Climate and evolutionary history are linked by the ecological adaptations of species and the
+        history of Earth’s climate. If so, phylogenetic diversity may be a good metric to estimate
+        biodiversity. We aimed to test whether the phylogenetic diversity of Macedonian dry
+        grasslands was related to climatic variables. We sampled 575 plots, identifying the species
+        and building a phylogenetic tree for them. We calculated two metrics of phylogenetic
+        diversity and regressed them against climatic variables. We also tested whether there were
+        nodes in the tree responsible for the main observed spatial patterns of phylogenetic
+        diversity. We found a strong signature of evolutionary history in species sorting across a
+        gradient driven by climate in Macedonian dry grasslands. First, the amount of evolutionary
+        history decreased towards drier and more seasonal climates, suggesting a phylogenetic niche
+        conservatism. Second, there was an air temperature filter and a temperature seasonality
+        filter, acting in opposite directions and leading to phylogenetic clustering. Third, there
+        were few nodes in the phylogenetic tree with high degrees of allopatry, associated with
+        clades that differed not only in their geographic distribution, but also in their climatic
+        preferences. Macedonian dry grassland communities developed over centuries of traditional
+        land use but are threatened nowadays by human activities. The use of phylogenetic approaches
+        may lead to more effective conservation policies and help us preserve this highly diverse
+        vegetation.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">air temperature</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">allopatry</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">biodiversity</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">climatic factors</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">geographical distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">grasslands</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">issues and policy</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">land use</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">phylogeny</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">phytogeography</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Republic of North Macedonia</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Balkans</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">climate</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">evolutionary history</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Macedonian flora</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">plant diversity</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Ćušterevska, Renata</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Institute of Biology, Faculty of Natural Sciences and Mathematics, Ss.
+        Cyril and Methodius University, Arhimedova 3, 1000, Skopje, Macedonia</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Matevski, Vlado</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Institute of Biology, Faculty of Natural Sciences and Mathematics, Ss.
+        Cyril and Methodius University, Arhimedova 3, 1000, Skopje, Macedonia</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Acta botanica Croatica.</subfield>
+      <subfield code="g">2019 Apr. 01, v. 78, no. 1 p.25-34</subfield>
+      <subfield code="d">Sciendo</subfield>
+      <subfield code="w">Journal:J000000039</subfield>
+      <subfield code="x">0365-0588</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)J000000039</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.2478/botcro-2019-0005</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:J000000039</subfield>
+      <subfield code="b">0365-0588</subfield>
+      <subfield code="c">78</subfield>
+      <subfield code="d">1</subfield>
+      <subfield code="e">25</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Acta botanica Croatica</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2200</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">De Gruyter Publishers</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606375830</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2019-10-16</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a"
+        >/data/metadata/incoming/degruyter/botcro.2018.78.issue-1-1555699221869.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/degruyter/botcro-2019-0005.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/degruyter/</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2200 reviewed on 2019-06-05T13:00:05Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2200 reviewed on 2019-10-16T15:00:03Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6375830</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2019-04-19</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2019-10-16</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04297nab a2200685 u 4500</leader>
+    <controlfield tag="001">9916335051007426</controlfield>
+    <controlfield tag="005">20221118162432.0</controlfield>
+    <controlfield tag="008">100806e201009 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND44409115</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/j.1466-8238.2010.00542.x</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:2312849-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Lafortezza, Raffaele</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Assessing the impacts of fragmentation on plant communities in New Zealand:
+        scaling from survey plots to landscapes</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 741-754.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Few studies have attempted to assess the overall impact of fragmentation at
+        the landscape scale. We quantify the impacts of fragmentation on plant diversity by
+        assessing patterns of community composition in relation to a range of fragmentation
+        measures. The investigation was undertaken in two regions of New Zealand - a relatively
+        unfragmented area of lowland rain forest in south Westland and a highly fragmented montane
+        forest on the eastern slopes of the Southern Alps. We calculated an index of community
+        similarity (Bray-Curtis) between forest plots we regarded as potentially affected by
+        fragmentation and control forest plots located deep inside continuous forest areas. Using a
+        multiple nonlinear regression technique that incorporates spatial autocorrelation effects,
+        we analysed plant community composition in relation to measures of fragmentation at the
+        patch and landscape levels. From the resulting regression equation, we predicted community
+        composition for every forest pixel on land-cover maps of the study areas and used these maps
+        to calculate a landscape-level estimate of compositional change, which we term 'BioFrag'.
+        BioFrag has a value of one if fragmentation has no detectable effect on communities within a
+        landscape, and tends towards zero if fragmentation has a strong effect. We detected a weak,
+        but significant, impact of fragmentation metrics operating at both the patch and landscape
+        levels. Observed values of BioFrag ranged from 0.68 to 0.90, suggesting that patterns of
+        fragmentation have medium to weak impacts on forest plant communities in New Zealand.
+        BioFrag values varied in meaningful ways among landscapes and between the ground-cover and
+        tree and shrub communities. BioFrag advances methods that describe spatial patterns of
+        forest cover by incorporating the exact spatial patterns of observed species responses to
+        fragmentation operating at multiple spatial scales. BioFrag can be applied to any landscape
+        and ecological community across the globe and represents a significant step towards
+        developing a biologically relevant, landscape-scale index of habitat
+        fragmentation.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">autocorrelation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">botanical composition</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">community structure</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">equations</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitat fragmentation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">land cover</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">landscapes</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">plant communities</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">rain forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">shrubs</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">surveys</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">topographic slope</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Alps region</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">New Zealand</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Biodiversity indicators</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">fragmentation</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">similarity index</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">spatial modelling</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Coomes, David A.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kapos, Valerie</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Ewers, Robert M.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Global ecology and biogeography.</subfield>
+      <subfield code="g">2010 Sept., v. 19, no. 5 p.741-754</subfield>
+      <subfield code="d">Oxford, UK : Blackwell Publishing Ltd</subfield>
+      <subfield code="x">1466-822X</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl3920180</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/j.1466-8238.2010.00542.x</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl3920180</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Global ecology and biogeography</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1242</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+      <subfield code="a">20100806</subfield>
+      <subfield code="b">20100903</subfield>
+      <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND44409115</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+      <subfield code="a">Non-US</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2016-03-11</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="a">20100806 20100903 00000000</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1242 reviewed on 2016-03-11T15:00:03Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:2312849</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2016-03-11</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">4409115</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03941nab a2200673 u 4500</leader>
+    <controlfield tag="001">9916335302907426</controlfield>
+    <controlfield tag="005">20221118163157.0</controlfield>
+    <controlfield tag="008">190403e20130815xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND500667174</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.foreco.2013.03.028</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:557239-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Porto, Miguel</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Centro de Biologia Ambiental, Departamento de Biologia Vegetal, Faculdade
+        de Ciências de Lisboa, Universidade de Lisboa, C2 Campo Grande, 1749-016 Lisboa,
+        Portugal</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Modelling fuel succession in Mediterranean cork oak forests along a 70-year
+        chronosequence</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 221-230.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Mechanical removal of understory vegetation is increasingly used in
+        Euro-Mediterranean forests to reduce fire hazard, but little is known about the long-term
+        patterns of fuel change after management. We used a 70-year post-management chronosequence
+        to investigate fuel succession in cork oak Quercus suber forests. Mean shrub height, crown
+        volume, total standing biomass, and biomass of leaves, and coarse and fine materials,
+        increased rapidly during the first 10years after management, but then converged slowly to a
+        plateau that was not reached within the chronosequence. A high vertical continuity of fuels
+        from the ground level to the tree canopy (0–2m) was reached in about 10–20years, but peak
+        understory cluttering occurred only at 50–70years. Fine materials accumulated primarily at
+        lower strata (&lt;1m) throughout the chronosequence, whereas leaves and coarse materials
+        accumulated first at lower strata, and then progressively occupied the upper strata
+        (&gt;1.5m). Results suggest that recurrent fuel management may promote highly flammable
+        pioneer shrublands, whereas lack of management promotes late-successional vegetation with
+        high risk of intense wildfires. Solving this conundrum requires careful planning of the
+        spatial and temporal distribution of treatments to reduce the risk of fire spread at the
+        landscape scale.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Quercus suber</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">biomass</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">canopy</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">chronosequences</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fire hazard</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fire spread</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forest fires</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">landscapes</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">leaves</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">planning</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">risk</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">shrublands</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">shrubs</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">understory</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Fuel succession</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Fuel management</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Quercus suber forests</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Fire risk</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Correia, Otília</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Centro de Biologia Ambiental, Departamento de Biologia Vegetal, Faculdade
+        de Ciências de Lisboa, Universidade de Lisboa, C2 Campo Grande, 1749-016 Lisboa,
+        Portugal</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Beja, Pedro</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">EDP Biodiversity Chair, CIBIO-Centro de Investigação em Biodiversidade e
+        Recursos Genéticos, Campus Agrário de Vairão, Universidade do Porto, 4485-601 Vairão,
+        Portugal</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Forest ecology and management.</subfield>
+      <subfield code="g">2013 Aug. 15, v. 302 p.221-230</subfield>
+      <subfield code="d">Elsevier B.V.</subfield>
+      <subfield code="w">Journal:jnl9013</subfield>
+      <subfield code="x">0378-1127</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl9013</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1016/j.foreco.2013.03.028</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl9013</subfield>
+      <subfield code="b">0378-1127</subfield>
+      <subfield code="c">302</subfield>
+      <subfield code="e">221</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Forest ecology and management</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Elsevier Consyn</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND500667174</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2019-04-03</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a"
+        >/data/metadata/incoming/consyn-backfiles/46-2-00064-HEAD-ONLY.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a"
+        >file:/data/metadata/staging/consyn-backfiles/S0378112713001758.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/consyn-backfiles/</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:557239</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2019-04-03</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2019-04-03</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04031nab a2200757 u 4500</leader>
+    <controlfield tag="001">9916335723207426</controlfield>
+    <controlfield tag="005">20221118165957.0</controlfield>
+    <controlfield tag="008">100326e201004 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND44345303</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">20298471</subfield>
+      <subfield code="2">pmid</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/j.1365-294X.2010.04579.x</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:2237084-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">McKinnon, G.E.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Recurrent nuclear DNA introgression accompanies chloroplast DNA exchange
+        between two eucalypt species</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 1367-1380.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Numerous studies within plant genera have found geographically structured
+        sharing of chloroplast (cp) DNA among sympatric species, consistent with introgressive
+        hybridization. Current research is aimed at understanding the extent, direction and
+        significance of nuclear (nr) DNA exchange that accompanies putative cpDNA exchange.
+        Eucalyptus is a complex tree genus for which cpDNA sharing has been established between
+        multiple species. Prior phylogeographic analysis has indicated cpDNA introgression into the
+        widespread forest species Eucalyptus globulus from its rare congener E. cordata. In this
+        study, we use AFLP markers to characterize corresponding nrDNA introgression, on both a
+        broad and fine spatial scale. Using 388 samples we examine (i) the fine-scale spatial
+        structure of cp and nrDNA introgression from E. cordata into E. globulus at a site in
+        natural forest and (ii) broad-scale patterns of AFLP marker introgression at six additional
+        mixed populations. We show that while E. globulus and E. cordata retain strongly
+        differentiated nuclear gene pools overall, leakage of nrDNA occurs at mixed populations,
+        with some AFLP markers being transferred to E. globulus recurrently at different sites. On
+        the fine scale, different AFLP fragments show varying distances of introgression into E.
+        globulus, while introgression of cpDNA is extensive. The frequency of E. cordata markers in
+        E. globulus is correlated with spatial proximity to E. cordata, but departs from
+        expectations based on AFLP marker frequency in E. cordata, indicating that selection may be
+        governing the persistence of introgressed fragments in E. globulus.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Eucalyptus globulus</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">amplified fragment length polymorphism</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">chloroplast DNA</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">chloroplasts</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">gene pool</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">introgression</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">nuclear genome</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">phylogeography</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">sympatry</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Amplified Fragment Length Polymorphism Analysis</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Cell Nucleus</subfield>
+      <subfield code="x">genetics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">DNA, Chloroplast</subfield>
+      <subfield code="x">genetics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">DNA, Plant</subfield>
+      <subfield code="x">genetics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Eucalyptus</subfield>
+      <subfield code="x">genetics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Evolution, Molecular</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Genetics, Population</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Hybridization, Genetic</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Models, Genetic</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Sequence Analysis, DNA</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Species Specificity</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Australia</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">AFLP</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">eucalypt genetics</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Smith, J.J.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Potts, B.M.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Molecular ecology.</subfield>
+      <subfield code="g">2010 Apr., v. 19, no. 7 p.1367-1380</subfield>
+      <subfield code="d">Oxford, UK : Blackwell Publishing Ltd</subfield>
+      <subfield code="x">0962-1083</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl48811</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/j.1365-294X.2010.04579.x</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl48811</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Molecular ecology</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1244</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+      <subfield code="a">20111120</subfield>
+      <subfield code="b">20111202</subfield>
+      <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND44345303</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+      <subfield code="a">Non-US</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2016-03-21</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="a">20111120 20111202 00000000</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1244 reviewed on 2016-03-21T13:00:05Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:2237084</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2016-03-21</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">4345303</subfield>
+    </datafield>
+  </record>
+ 
 </collection>

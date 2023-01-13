@@ -5,13 +5,13 @@
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3">
    <mods version="3.4">
       <titleInfo>
-         <title>Structure complexity is the primary driver of functional diversity in the         temperate forests of northeastern China</title>
+         <title>Structure complexity is the primary driver of functional diversity in the temperate forests of northeastern China</title>
       </titleInfo>
       <name type="personal" usage="primary">
          <namePart type="given">Zhenghua</namePart>
          <namePart type="family">Lian</namePart>
          <displayForm>Lian, Zhenghua</displayForm>
-         <affiliation>Research Center of Forest Management Engineering of State Forestry and         Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
+         <affiliation>Research Center of Forest Management Engineering of State Forestry                 and Grassland Administration, Beijing Forestry University, Beijing, 100083,                 China</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -20,7 +20,7 @@
          <namePart type="given">Juan</namePart>
          <namePart type="family">Wang</namePart>
          <displayForm>Wang, Juan</displayForm>
-         <affiliation>Department of Forest Ecology, School of Ecology and Nature Conservation,         Beijing Forestry University, Beijing, 100083, China</affiliation>
+         <affiliation>Department of Forest Ecology, School of Ecology and Nature                 Conservation, Beijing Forestry University, Beijing, 100083, China</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -29,7 +29,7 @@
          <namePart type="given">Chunyu</namePart>
          <namePart type="family">Fan</namePart>
          <displayForm>Fan, Chunyu</displayForm>
-         <affiliation>Research Center of Forest Management Engineering of State Forestry and         Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
+         <affiliation>Research Center of Forest Management Engineering of State Forestry                 and Grassland Administration, Beijing Forestry University, Beijing, 100083,                 China</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -38,7 +38,7 @@
          <namePart type="given">Klaus</namePart>
          <namePart type="family">von Gadow</namePart>
          <displayForm>von Gadow, Klaus</displayForm>
-         <affiliation>Faculty of Forestry and Forest Ecology, Georg-August-University Göttingen,         Büsgenweg 5, D-37077, Göttingen, Germany</affiliation>
+         <affiliation>Faculty of Forestry and Forest Ecology, Georg-August-University                 Göttingen, Büsgenweg 5, D-37077, Göttingen, Germany</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -129,7 +129,7 @@
          <recordCreationDate encoding="marc">220619</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118220436.0</recordChangeDate>
          <recordIdentifier>9915610355207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4_non-prefixed.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -137,13 +137,13 @@
    </mods>
    <mods version="3.4">
       <titleInfo>
-         <title>Recent field findings and modeling on non-structural carbohydrates (NSCs):         How to synthesize?</title>
+         <title>Recent field findings and modeling on non-structural carbohydrates (NSCs): How to synthesize?</title>
       </titleInfo>
       <name type="personal" usage="primary">
          <namePart type="given">Nanghyun</namePart>
          <namePart type="family">Cho</namePart>
          <displayForm>Cho, Nanghyun</displayForm>
-         <affiliation>Department of Environmental Science, Kangwon National University, Chuncheon         200-701, Republic of Korea</affiliation>
+         <affiliation>Department of Environmental Science, Kangwon National University,                 Chuncheon 200-701, Republic of Korea</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -152,7 +152,7 @@
          <namePart type="given">Casimir</namePart>
          <namePart type="family">Agossou</namePart>
          <displayForm>Agossou, Casimir</displayForm>
-         <affiliation>Department of Environmental Science, Kangwon National University, Chuncheon         200-701, Republic of Korea</affiliation>
+         <affiliation>Department of Environmental Science, Kangwon National University,                 Chuncheon 200-701, Republic of Korea</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -161,7 +161,7 @@
          <namePart type="given">Eunsook</namePart>
          <namePart type="family">Kim</namePart>
          <displayForm>Kim, Eunsook</displayForm>
-         <affiliation>Forest Ecology and Climate Change Division, National Institute of Forest         Science, Seoul, Republic of Korea</affiliation>
+         <affiliation>Forest Ecology and Climate Change Division, National Institute of                 Forest Science, Seoul, Republic of Korea</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -170,7 +170,7 @@
          <namePart type="given">Jong-Hwan</namePart>
          <namePart type="family">Lim</namePart>
          <displayForm>Lim, Jong-Hwan</displayForm>
-         <affiliation>Forest Ecology and Climate Change Division, National Institute of Forest         Science, Seoul, Republic of Korea</affiliation>
+         <affiliation>Forest Ecology and Climate Change Division, National Institute of                 Forest Science, Seoul, Republic of Korea</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -179,7 +179,7 @@
          <namePart type="given">Taehee</namePart>
          <namePart type="family">Hwang</namePart>
          <displayForm>Hwang, Taehee</displayForm>
-         <affiliation>Department of Geography, Indiana University Bloomington, Indiana,         USA</affiliation>
+         <affiliation>Department of Geography, Indiana University Bloomington, Indiana,                 USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -188,7 +188,7 @@
          <namePart type="given">Sinkyu</namePart>
          <namePart type="family">Kang</namePart>
          <displayForm>Kang, Sinkyu</displayForm>
-         <affiliation>Department of Environmental Science, Kangwon National University, Chuncheon         200-701, Republic of Korea</affiliation>
+         <affiliation>Department of Environmental Science, Kangwon National University,                 Chuncheon 200-701, Republic of Korea</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -254,17 +254,6 @@
          </titleInfo>
          <identifier type="issn">1574-9541</identifier>
          <identifier type="local">Journal:2190</identifier>
-         <part>
-            <detail type="volume">
-               <number>70</number>
-               <caption>v.</caption>
-            </detail>
-            <extent unit="pages">
-               <total>101695</total>
-            </extent>
-            <text type="year">2022</text>
-            <text type="month">Sept</text>
-         </part>
       </relatedItem>
       <identifier type="doi">10.1016/j.ecoinf.2022.101695</identifier>
       <identifier type="control">9915610429607426</identifier>
@@ -277,7 +266,7 @@
          <recordCreationDate encoding="marc">220905</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118220848.0</recordChangeDate>
          <recordIdentifier>9915610429607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4_non-prefixed.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -286,13 +275,13 @@
    <mods version="3.4">
       <titleInfo>
          <nonSort>The </nonSort>
-         <title>invasion paradox dissolves when using phylogenetic and temporal                 perspectives</title>
+         <title>invasion paradox dissolves when using phylogenetic and temporal perspectives</title>
       </titleInfo>
       <name type="personal" usage="primary">
          <namePart type="given">Adrienne R.</namePart>
          <namePart type="family">Ernst</namePart>
          <displayForm>Ernst, Adrienne R.</displayForm>
-         <affiliation>Plant Biology and Conservation, Northwestern University, Evanston, IL,                 USA</affiliation>
+         <affiliation>Plant Biology and Conservation, Northwestern University, Evanston,                 IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -310,7 +299,7 @@
          <namePart type="given">Andrew L.</namePart>
          <namePart type="family">Hipp</namePart>
          <displayForm>Hipp, Andrew L.</displayForm>
-         <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL, USA</affiliation>
+         <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL,                 USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -337,7 +326,7 @@
          <namePart type="given">Daniel J.</namePart>
          <namePart type="family">Larkin</namePart>
          <displayForm>Larkin, Daniel J.</displayForm>
-         <affiliation>Department of Fisheries, Wildlife, and Conservation Biology, University of                 Minnesota, St. Paul, MN, USA</affiliation>
+         <affiliation>Department of Fisheries, Wildlife, and Conservation Biology,                 University of Minnesota, St. Paul, MN, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -430,7 +419,7 @@
          <recordCreationDate encoding="marc">220211</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
          <recordIdentifier>9915611022607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4_non-prefixed.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -439,13 +428,13 @@
    <mods version="3.4">
       <titleInfo>
          <nonSort>The </nonSort>
-         <title>invasion paradox dissolves when using phylogenetic and temporal                 perspectives</title>
+         <title>invasion paradox dissolves when using phylogenetic and temporal perspectives</title>
       </titleInfo>
       <name type="personal" usage="primary">
          <namePart type="given">Adrienne R.</namePart>
          <namePart type="family">Ernst</namePart>
          <displayForm>Ernst, Adrienne R.</displayForm>
-         <affiliation>Plant Biology and Conservation, Northwestern University, Evanston, IL,                 USA</affiliation>
+         <affiliation>Plant Biology and Conservation, Northwestern University, Evanston,                 IL, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -463,7 +452,7 @@
          <namePart type="given">Andrew L.</namePart>
          <namePart type="family">Hipp</namePart>
          <displayForm>Hipp, Andrew L.</displayForm>
-         <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL, USA</affiliation>
+         <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL,                 USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -490,7 +479,7 @@
          <namePart type="given">Daniel J.</namePart>
          <namePart type="family">Larkin</namePart>
          <displayForm>Larkin, Daniel J.</displayForm>
-         <affiliation>Department of Fisheries, Wildlife, and Conservation Biology, University of                 Minnesota, St. Paul, MN, USA</affiliation>
+         <affiliation>Department of Fisheries, Wildlife, and Conservation Biology,                 University of Minnesota, St. Paul, MN, USA</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -583,7 +572,7 @@
          <recordCreationDate encoding="marc">220211</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
          <recordIdentifier>9915611022607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4_non-prefixed.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -591,13 +580,13 @@
    </mods>
    <mods version="3.4">
       <titleInfo>
-         <title>Beyond forest habitat qualities: Climate and tree characteristics as the                 major drivers of epiphytic macrolichen assemblages in temperate mountains</title>
+         <title>Beyond forest habitat qualities: Climate and tree characteristics as the major drivers of epiphytic macrolichen assemblages in temperate mountains</title>
       </titleInfo>
       <name type="personal" usage="primary">
          <namePart type="given">Philippe</namePart>
          <namePart type="family">Janssen</namePart>
          <displayForm>Janssen, Philippe</displayForm>
-         <affiliation>National Research Institute of Science and Technology for Environment and                 Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM, Saint‐Martin‐d'Hères,                 France</affiliation>
+         <affiliation>National Research Institute of Science and Technology for Environment                 and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM,                 Saint‐Martin‐d'Hères, France</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -606,7 +595,7 @@
          <namePart type="given">Marc</namePart>
          <namePart type="family">Fuhr</namePart>
          <displayForm>Fuhr, Marc</displayForm>
-         <affiliation>National Research Institute of Science and Technology for Environment and                 Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM, Saint‐Martin‐d'Hères,                 France</affiliation>
+         <affiliation>National Research Institute of Science and Technology for Environment                 and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM,                 Saint‐Martin‐d'Hères, France</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -615,7 +604,7 @@
          <namePart type="given">Christophe</namePart>
          <namePart type="family">Bouget</namePart>
          <displayForm>Bouget, Christophe</displayForm>
-         <affiliation>National Research Institute of Science and Technology for Environment and                 Agriculture (IRSTEA), UR EFNO, Domaine des Barres, Nogent‐sur‐Vernisson, France</affiliation>
+         <affiliation>National Research Institute of Science and Technology for Environment                 and Agriculture (IRSTEA), UR EFNO, Domaine des Barres, Nogent‐sur‐Vernisson,                 France</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -705,7 +694,7 @@
          <recordCreationDate encoding="marc">190314</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119001538.0</recordChangeDate>
          <recordIdentifier>9915614108807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4_non-prefixed.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -713,7 +702,7 @@
    </mods>
    <mods version="3.4">
       <titleInfo>
-         <title>Regeneration of Metrosideros polymorpha forests in Hawaii after                 landscape‐level canopy dieback</title>
+         <title>Regeneration of Metrosideros polymorpha forests in Hawaii after landscape‐level canopy dieback</title>
       </titleInfo>
       <name type="personal" usage="primary">
          <namePart type="given">Linda</namePart>
@@ -728,7 +717,7 @@
          <namePart type="given">James D.</namePart>
          <namePart type="family">Jacobi</namePart>
          <displayForm>Jacobi, James D.</displayForm>
-         <affiliation>Pacific Island Ecosystems Research Center, U.S. Geological Survey, Hawaii                 National Park, Hawaii</affiliation>
+         <affiliation>Pacific Island Ecosystems Research Center, U.S. Geological Survey,                 Hawaii National Park, Hawaii</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -755,7 +744,7 @@
          <namePart type="given">Hans Juergen</namePart>
          <namePart type="family">Boehmer</namePart>
          <displayForm>Boehmer, Hans Juergen</displayForm>
-         <affiliation>School of Geography, Earth Science and Environment (SGESE), University of                 the South Pacific (USP), Laucala Bay, Suva, Fiji Islands</affiliation>
+         <affiliation>School of Geography, Earth Science and Environment (SGESE),                 University of the South Pacific (USP), Laucala Bay, Suva, Fiji Islands</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -854,7 +843,7 @@
          <recordCreationDate encoding="marc">190314</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119002133.0</recordChangeDate>
          <recordIdentifier>9915614131907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4_non-prefixed.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -862,13 +851,13 @@
    </mods>
    <mods version="3.4">
       <titleInfo>
-         <title>At What Scales and Why Does Forest Structure Vary in Naturally Dynamic                 Boreal Forests? An Analysis of Forest Landscapes on Two Continents</title>
+         <title>At What Scales and Why Does Forest Structure Vary in Naturally Dynamic Boreal Forests? An Analysis of Forest Landscapes on Two Continents</title>
       </titleInfo>
       <name type="personal" usage="primary">
          <namePart type="given">Niko</namePart>
          <namePart type="family">Kulha</namePart>
          <displayForm>Kulha, Niko</displayForm>
-         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014,                 Helsinki, Finland. niko.kulha@helsinki.fi</affiliation>
+         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27,                 00014, Helsinki, Finland. niko.kulha@helsinki.fi</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -877,7 +866,7 @@
          <namePart type="given">Leena</namePart>
          <namePart type="family">Pasanen</namePart>
          <displayForm>Pasanen, Leena</displayForm>
-         <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box 8000,                 90014, Oulu, Finland</affiliation>
+         <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box                 8000, 90014, Oulu, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -886,7 +875,7 @@
          <namePart type="given">Lasse</namePart>
          <namePart type="family">Holmström</namePart>
          <displayForm>Holmström, Lasse</displayForm>
-         <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box 8000,                 90014, Oulu, Finland</affiliation>
+         <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box                 8000, 90014, Oulu, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -904,7 +893,7 @@
          <namePart type="given">Timo</namePart>
          <namePart type="family">Kuuluvainen</namePart>
          <displayForm>Kuuluvainen, Timo</displayForm>
-         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014,                 Helsinki, Finland</affiliation>
+         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27,                 00014, Helsinki, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -913,7 +902,7 @@
          <namePart type="given">Tuomas</namePart>
          <namePart type="family">Aakala</namePart>
          <displayForm>Aakala, Tuomas</displayForm>
-         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014,                 Helsinki, Finland</affiliation>
+         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27,                 00014, Helsinki, Finland</affiliation>
          <role>
             <roleTerm type="text">author</roleTerm>
          </role>
@@ -999,7 +988,7 @@
          <recordCreationDate encoding="marc">190816</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118231846.0</recordChangeDate>
          <recordIdentifier>9915620021407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim_MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4_non-prefixed.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>

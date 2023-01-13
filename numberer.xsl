@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs marc" version="2.0">
-    <xsl:output version="1.0" encoding="UTF-8" method="xml"/>
+
     <xsl:output version="1.0" encoding="UTF-8" method="xml" indent="yes"/>
    
     <xsl:template match="/">

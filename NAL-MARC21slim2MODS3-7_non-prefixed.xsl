@@ -3135,65 +3135,66 @@
     <!--1.165 -->
     <xd:doc id="personal_name" scope="component">
         <xd:desc>formerly named displayForm template</xd:desc>
+        <xd:param name="name"/>
     </xd:doc>
     <xsl:template name="personal_name">     
-        <xsl:variable name="name">
+        <xsl:param name="name">
             <xsl:call-template name="specialSubfieldSelect">
-                <xsl:with-param name="anyCodes">aq</xsl:with-param>
+                <xsl:with-param name="anyCodes">aq01</xsl:with-param>
                 <xsl:with-param name="axis">t</xsl:with-param>
                 <xsl:with-param name="beforeCodes">g</xsl:with-param>
             </xsl:call-template>
-        </xsl:variable>
-        <xsl:for-each select="$name">
+        </xsl:param>
+        <xsl:for-each select="subfield[@code = 'a']">
+            <!-- cm3 Revision 2.00 added namePart -->
             <namePart type="given">
                 <xsl:choose>
-                    <!-- initials only -->
-                    <xsl:when
-                        test="matches(substring-after($name, ','), '([A-Z]\.$|[A-Z]\.[A-Z]\.$)')">
-                        <xsl:value-of
-                            select="f:proper-case(normalize-space(substring-after($name, ',')))"/>
+                    <!-- when given name contains initials -->
+                    <xsl:when test="matches(substring-after($name, ','), '([A-Z]\.$|[A-Z]\.[A-Z]\.$)')">
+                        <xsl:value-of select="normalize-space(substring-after($name, ','))"/>
                     </xsl:when>
-                    <!-- first name-->
+                    <!-- when it does not-->
                     <xsl:otherwise>
                         <xsl:value-of
-                            select="f:proper-case(normalize-space(replace(substring-after($name, ','), '(\s)(.*)(,|\.)', '$2')))"
+                            select="normalize-space(replace(substring-after($name, ','), '(\s)(.*)(,|\.)', '$2'))"
                         />
                     </xsl:otherwise>
                 </xsl:choose>
             </namePart>
-
+            
             <namePart type="family">
-                <xsl:value-of select="f:proper-case(substring-before(normalize-space($name), ','))"
-                />
+                <xsl:value-of select="substring-before(normalize-space($name), ',')"/>
             </namePart>
             <displayForm>
                 <xsl:choose>
-                    <!--last_name, initals only-->
-                    <xsl:when test="matches(substring-after(., ','), '([A-Z]\.$|[A-Z]\.[A-Z]\.$)')">
-                        <xsl:value-of select="f:proper-case($name)"/>
+                    <!--same as above, leaves period at end of inititals only-->
+                    <xsl:when test="matches(substring-after($name, ','), '([A-Z]\.$|[A-Z]\.[A-Z]\.$)')">
+                        <xsl:value-of select="."/>
                     </xsl:when>
-                    <!-- last_name, first_name -->
                     <xsl:otherwise>
-                        <xsl:value-of select="replace(f:proper-case($name), '(.*,.*)(,|\.)', '$1')"
-                        />
+                        <xsl:value-of select="replace($name, '(.*,.*)(,|\.)', '$1')"/>
                     </xsl:otherwise>
                 </xsl:choose>
             </displayForm>
-            <!--orcID, viaf, lcnaf, etc. -->
         </xsl:for-each>
-        <xsl:for-each select="../datafield[@tag='100' or @tag='700']/subfield[@code='1']">
+        
+            <!--orcID, viaf, lcnaf, etc. -->
+  
+        <xsl:if test="../datafield[@tag='100' or @tag='700']">
+            <xsl:for-each select="../subfield[@code='1']">
             <nameIdentifier>
                 <xsl:choose>
-                    <xsl:when test="matches(../subfield[@code='1'],'orcid|viaf|isni|[a-z0-9]+') = true()">
+                    <xsl:when test="matches(../subfield[@code='1'],'orcid|viaf|isni|[a-z0-9]+')">
                         <xsl:attribute name="type" select="replace(string(../subfield[@code = '1']),'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3')"/>
                     </xsl:when>
-                    <xsl:when test="matches(../subfield[@code='1'],'id.loc.gov|id.nlm.nih.gov|lod.nal.usda.gov|agclass.nal.usda.gov|[a-z]+')=true()">
+                    <xsl:when test="matches(../subfield[@code='1'],'id.loc.gov|id.nlm.nih.gov|lod.nal.usda.gov|agclass.nal.usda.gov|[a-z]+')">
                         <xsl:attribute name="type" select="replace(string(../subfield[@code = '1']),'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3$4')"/>
                     </xsl:when>
                 </xsl:choose>
                 <xsl:value-of select="../subfield[@code = '1']"/>
             </nameIdentifier>
-        </xsl:for-each>                
+        </xsl:for-each>
+        </xsl:if>
     </xsl:template>
    
     <!--<xd:doc>
@@ -3563,7 +3564,7 @@
         <xd:desc> 1.120 - @76X-78X$z </xd:desc>
     </xd:doc>
     <xsl:template match="subfield[@code = 'w']" mode="relatedItem">
-        <identifier type="issn">
+        <identifier type="local">
             <!-- 1.121 -->
             <xsl:call-template name="xxs880"/>
             <xsl:apply-templates/>
@@ -7059,7 +7060,6 @@ select="subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select="."/&gt
                             <xsl:when
                                 test="@ind2 = 1 and count(ancestor::record//datafield[@tag = '856'][@ind2 = 0]) = 0 and count(preceding-sibling::datafield[@tag = '856'][@ind2 = 1]) = 0"
                                 >true</xsl:when>
-
                             <xsl:when
                                 test="@ind2 != 1 and @ind2 != 0 and @ind2 != 2 and count(ancestor::record//datafield[@tag = '856' and @ind2 = 0]) = 0 and count(ancestor::record//datafield[@tag = '856' and @ind2 = 1]) = 0 and count(preceding-sibling::datafield[@tag = '856'][@ind2]) = 0"
                                 >true</xsl:when>
@@ -7089,6 +7089,7 @@ select="subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select="."/&gt
             </location>
         </xsl:if>
     </xsl:template>
+    
     <xd:doc id="createAccessConditionFrom506" scope="component">
         <xd:desc> accessCondition 506 540 1.87 20130829</xd:desc>
     </xd:doc>
@@ -7189,16 +7190,12 @@ select="subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select="."/&gt
                     <xsl:otherwise/>
                 </xsl:choose>
             </xsl:when>
-            <xsl:when test="
-                    self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '100')]
-                    | self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '110')]
-                    | self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '111')]"/>
-            <xsl:when
-                test="self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '700')][not(subfield[@code = 't'])]"/>
-            <xsl:when
-                test="self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '710')][not(subfield[@code = 't'])]"/>
-            <xsl:when
-                test="self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '711')][not(subfield[@code = 't'])]"/>
+            <xsl:when test="self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '100')]
+                          | self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '110')]
+                          | self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '111')]"/>
+            <xsl:when test="self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '700')][not(subfield[@code = 't'])]"/>
+            <xsl:when test="self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '710')][not(subfield[@code = 't'])]"/>
+            <xsl:when test="self::datafield[@tag = '880'][starts-with(subfield[@code = '6'], '711')][not(subfield[@code = 't'])]"/>
             <xsl:otherwise>
                 <xsl:attribute name="nameTitleGroup">
                     <xsl:value-of
@@ -7683,17 +7680,16 @@ select="subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select="."/&gt
         <xd:desc> Form element generated from 130, 240, 242, 245, 246,730 and 256 datafields
         </xd:desc>
     </xd:doc>
-    <xsl:template match="
-            datafield[@tag = '130']/subfield[@code = 'h']
-            | datafield[@tag = '240']/subfield[@code = 'h'] | datafield[@tag = '242']/subfield[@code = 'h']
-            | datafield[@tag = '245']/subfield[@code = 'h'] | datafield[@tag = '246']/subfield[@code = 'h']
-            | datafield[@tag = '730']/subfield[@code = 'h'] | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '130')]/subfield[@code = 'h']
-            | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '240')]/subfield[@code = 'h']
-            | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '242')]/subfield[@code = 'h']
-            | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '245')]/subfield[@code = 'h']
-            | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '246')]/subfield[@code = 'h']
-            | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '730')]/subfield[@code = 'h']"
-        mode="physDesc">
+     <xsl:template match="datafield[@tag = '130']/subfield[@code = 'h'] | datafield[@tag = '240']/subfield[@code = 'h'] 
+                        | datafield[@tag = '242']/subfield[@code = 'h'] | datafield[@tag = '245']/subfield[@code = 'h'] 
+                        | datafield[@tag = '246']/subfield[@code = 'h'] | datafield[@tag = '730']/subfield[@code = 'h']
+                        | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '130')]/subfield[@code = 'h']
+                        | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '240')]/subfield[@code = 'h']
+                        | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '242')]/subfield[@code = 'h']
+                        | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '245')]/subfield[@code = 'h']
+                        | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '246')]/subfield[@code = 'h']
+                        | datafield[@tag = '880'][starts-with(subfield[@code = '6'], '730')]/subfield[@code = 'h']"
+                         mode="physDesc">
         <form authority="gmd">
             <xsl:variable name="str">
                 <xsl:call-template name="chopPunctuation">

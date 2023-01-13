@@ -1,0 +1,2640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods version="3.7">
+      <titleInfo>
+         <title>Structure complexity is the primary driver of functional diversity in the temperate forests of northeastern China</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Zhenghua</namePart>
+         <namePart type="family">Lian</namePart>
+         <displayForm>Lian, Zhenghua</displayForm>
+         <affiliation>Research Center of Forest Management Engineering of State Forestry and Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Juan</namePart>
+         <namePart type="family">Wang</namePart>
+         <displayForm>Wang, Juan https://orcidorg/0000-0001-9021-5985</displayForm>
+         <affiliation>Department of Forest Ecology, School of Ecology and Nature Conservation, Beijing Forestry University, Beijing, 100083, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Chunyu</namePart>
+         <namePart type="family">Fan</namePart>
+         <displayForm>Fan, Chunyu</displayForm>
+         <affiliation>Research Center of Forest Management Engineering of State Forestry and Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Klaus</namePart>
+         <namePart type="family">von Gadow</namePart>
+         <displayForm>von Gadow, Klaus</displayForm>
+         <affiliation>Faculty of Forestry and Forest Ecology, Georg-August-University Göttingen, Büsgenweg 5, D-37077, Göttingen, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+         <dateIssued encoding="marc">2022</dateIssued>
+      </originInfo>
+      <abstract displayLabel="Summary">Assessing functional diversity to identify its spatial patterns and drivers is an important step towards understanding the adaptive capacity of ecosystems to environmental change. However, until now, these mechanisms were poorly understood in the temperate forests of northeastern China, which prevented the development of new management methods aimed at increasing functional trait diversity and thus ecological resilience. In this study, we mapped functional diversity distributions using a Kriging Interpolation Method. A specific random forest model approach was adopted to test the importance ranking of 18 variables in explaining the spatial variation of functional diversity. Three piecewise structural equation models (pSEMs) with forest types as random effects were constructed for testing the direct effects of climate, and the indirect effects of stand structure on functional diversity across the large study region. Specific causal relationships in each forest type were also examined using 15 linear structural equation models. Although environmental filtering by climate is important, stand structure explains most of the functional variation of the forest ecosystems in northeastern China. Our study thus only partially supports the stress-dominance hypothesis. Several abundant species determine most of the functional diversity, which supports the mass ratio hypothesis. Our results suggest that forest management aimed at increasing structural complexity can contribute to increased functional diversity, especially regarding the mixing of coniferous and broad-leaved tree species.</abstract>
+      <accessCondition type="restriction on access">Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)</accessCondition>
+      <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+      <subject authority="atg">
+         <topic>algorithms</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>broadleaved trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecological resilience</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>equations</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest types</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>functional diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>kriging</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand structure</topic>
+      </subject>
+      <subject>
+         <topic>Functional diversity distribution</topic>
+      </subject>
+      <subject>
+         <topic>Forest types</topic>
+      </subject>
+      <subject>
+         <topic>Forest management</topic>
+      </subject>
+      <subject>
+         <topic>Random forest</topic>
+      </subject>
+      <subject>
+         <topic>Stand structure attributes</topic>
+      </subject>
+      <subject>
+         <topic>Structural equation modeling</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.fecs.2022.100048</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecosystems</title>
+         </titleInfo>
+         <identifier type="issn">2197-5620</identifier>
+         <identifier type="local">Journal:21605</identifier>
+         <part>
+            <detail type="volume">
+               <number> v. 9 p.100048-</number>
+               <caption>v.</caption>
+            </detail>
+            <extent unit="pages">
+               <total>100048</total>
+            </extent>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.fecs.2022.100048</identifier>
+      <identifier type="control">9915610355207426</identifier>
+      <identifier type="agricola">IND607785982</identifier>
+      <identifier type="local">agid:7785982</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220619</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118220436.0</recordChangeDate>
+         <recordIdentifier>9915610355207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Recent field findings and modeling on non-structural carbohydrates (NSCs): How to synthesize?</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Nanghyun</namePart>
+         <namePart type="family">Cho</namePart>
+         <displayForm>Cho, Nanghyun</displayForm>
+         <affiliation>Department of Environmental Science, Kangwon National University, Chuncheon 200-701, Republic of Korea</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Casimir</namePart>
+         <namePart type="family">Agossou</namePart>
+         <displayForm>Agossou, Casimir</displayForm>
+         <affiliation>Department of Environmental Science, Kangwon National University, Chuncheon 200-701, Republic of Korea</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Eunsook</namePart>
+         <namePart type="family">Kim</namePart>
+         <displayForm>Kim, Eunsook</displayForm>
+         <affiliation>Forest Ecology and Climate Change Division, National Institute of Forest Science, Seoul, Republic of Korea</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jong-Hwan</namePart>
+         <namePart type="family">Lim</namePart>
+         <displayForm>Lim, Jong-Hwan</displayForm>
+         <affiliation>Forest Ecology and Climate Change Division, National Institute of Forest Science, Seoul, Republic of Korea</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Taehee</namePart>
+         <namePart type="family">Hwang</namePart>
+         <displayForm>Hwang, Taehee</displayForm>
+         <affiliation>Department of Geography, Indiana University Bloomington, Indiana, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Sinkyu</namePart>
+         <namePart type="family">Kang</namePart>
+         <displayForm>Kang, Sinkyu</displayForm>
+         <affiliation>Department of Environmental Science, Kangwon National University, Chuncheon 200-701, Republic of Korea</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2022-09</dateIssued>
+         <dateIssued encoding="marc">2022</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <abstract displayLabel="Summary">With growing interest in tree decline and die-back events due to increased climate variability, ecophysiological roles and dynamics of non-structural carbohydrates (NSCs) have drawn wide attention recently. Accordingly, a lot of field data have been collected, but these achievements were not well incorporated in process-based vegetation models yet, where NSCs ecophysiology was implicitly applied or ignored. This review tried to fill the knowledge gap between recent developments of empirical and modeling studies on NSCs ecophysiology. We summarized the characteristics and dynamics of NSCs with their respective roles in tree physiology and tree mortality recently found in field studies; examined how these findings have been incorporated into vegetation models so far; then, provided alternative modeling approaches of NSCs dynamics and allocation strategies. As result, we addressed five key modeling issues in simulating spatial and temporal patterns of NSCs dynamics across different scales as follows: (1) interconversion between dual NSCs pools (i.e., rapid soluble sugar and slow starch pools), (2) incorporation of the sink-limited growth allocation strategy, (3) hydraulic limitation of NSCs transports between organs, (4) feedback mechanisms between tree NSCs and root symbionts, and (5) large-scale simulations of NSCs dynamics. This review emphasizes the limitation of traditional source-limited models to simulate die-back and recovery of various tree biomes. The development of process-based vegetation models considering NSCs ecophysiology explicitly will help to enhance our modeling capacity to understand vegetation responses to climate change.</abstract>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dieback</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecophysiology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>starch</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>sugars</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>symbionts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree physiology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>vegetation</topic>
+      </subject>
+      <subject>
+         <topic>Non-structural carbohydrates (NSCs)</topic>
+      </subject>
+      <subject>
+         <topic>Field evidence</topic>
+      </subject>
+      <subject>
+         <topic>Process-based model</topic>
+      </subject>
+      <subject>
+         <topic>Carbon allocation</topic>
+      </subject>
+      <subject>
+         <topic>Climate change</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.ecoinf.2022.101695</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological informatics</title>
+         </titleInfo>
+         <identifier type="issn">1574-9541</identifier>
+         <identifier type="local">Journal:2190</identifier>
+         <part>
+            <detail type="volume">
+               <number>70</number>
+               <caption>v.</caption>
+            </detail>
+            <extent unit="pages">
+               <total>101695</total>
+            </extent>
+            <text type="year">2022</text>
+            <text type="month">Sept</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.ecoinf.2022.101695</identifier>
+      <identifier type="control">9915610429607426</identifier>
+      <identifier type="agricola">IND607785912</identifier>
+      <identifier type="local">agid:7785912</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220905</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118220848.0</recordChangeDate>
+         <recordIdentifier>9915610429607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>invasion paradox dissolves when using phylogenetic and temporal perspectives</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Adrienne R.</namePart>
+         <namePart type="family">Ernst</namePart>
+         <displayForm>Ernst, Adrienne R. https://orcidorg/0000-0002-8507-6869</displayForm>
+         <affiliation>Plant Biology and Conservation, Northwestern University, Evanston, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Rebecca S.</namePart>
+         <namePart type="family">Barak</namePart>
+         <displayForm>Barak, Rebecca S. https://orcidorg/0000-0003-2908-2436</displayForm>
+         <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Andrew L.</namePart>
+         <namePart type="family">Hipp</namePart>
+         <displayForm>Hipp, Andrew L. https://orcidorg/0000-0002-1241-9904</displayForm>
+         <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Andrea T.</namePart>
+         <namePart type="family">Kramer</namePart>
+         <displayForm>Kramer, Andrea T. https://orcidorg/0000-0002-0956-0157</displayForm>
+         <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Hannah E.</namePart>
+         <namePart type="family">Marx</namePart>
+         <displayForm>Marx, Hannah E. https://orcidorg/0000-0002-3526-7878</displayForm>
+         <affiliation>Deparment of Biology, University of New Mexico, Albuquerque, NM, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Daniel J.</namePart>
+         <namePart type="family">Larkin</namePart>
+         <displayForm>Larkin, Daniel J. https://orcidorg/0000-0001-6378-0495</displayForm>
+         <affiliation>Department of Fisheries, Wildlife, and Conservation Biology, University of Minnesota, St. Paul, MN, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+         <dateIssued encoding="marc">2022</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 443-456.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">The prediction that higher biodiversity leads to denser niche packing and thus higher community resistance to invasion has long been studied, with species richness as the predominant measure of diversity. However, few studies have explored how phylogenetic and functional diversity, which should represent niche space more faithfully than taxonomic diversity, influence community invasibility, especially across longer time frames and over larger spatial extents. We used a 15‐year, 150‐site grassland dataset to assess relationships between invasive plant abundance and phylogenetic, functional and taxonomic diversity of recipient native plant communities. We analysed the dataset both pooled across all surveys and longitudinally, leveraging time‐series data to compare observed patterns in invasion with those predicted by two community assembly processes: biotic resistance and competitive exclusion. We expected more phylogenetically and functionally diverse communities to exhibit greater resistance to invasion. With the pooled dataset, we found support for the long‐standing observation that communities with more native species have lower abundance of invasive species, and a more novel finding that more phylogenetically diverse communities had higher abundance of invasive species. We found no influence of aggregate (multivariate) functional diversity on invasion, but assemblages with taller plants, lower variability in plant height and lower seed mass were less invaded. Viewed longitudinally, the phylogenetic diversity relationship was reversed: the most phylogenetically diverse communities were most resistant to invasion. This apparent discrepancy suggests invasion dynamics are influenced by both site attributes and biotic resistance and emphasizes the value in studying invasion across time. Synthesis. Our results provide insight into the nuances of the diversity–invasibility relationship: invasion dynamics differed for different dimensions of diversity and depending on whether the relationship was evaluated longitudinally. Our findings highlight the limitations of using single time‐point ‘snapshots’ of community composition to infer invasion mechanisms.</abstract>
+      <note>Journal article</note>
+      <subject authority="atg">
+         <topic>community structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>competitive exclusion</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>data collection</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>functional diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>grasslands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>indigenous species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>invasive species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeny</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant height</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed weight</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species richness</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>time series analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1111/1365-2745.13812</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>journal of ecology</title>
+         </titleInfo>
+         <identifier type="issn">0022-0477</identifier>
+         <identifier type="local">Journal:jnl44660</identifier>
+         <part>
+            <detail type="volume">
+               <number>110</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>2</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>443</start>
+               <end>456</end>
+               <total>14</total>
+            </extent>
+            <text type="year">2022</text>
+            <text type="month">Feb</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/1365-2745.13812</identifier>
+      <identifier type="control">9915611022607426</identifier>
+      <identifier type="agricola">IND607667053</identifier>
+      <identifier type="local">agid:7667053</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220211</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
+         <recordIdentifier>9915611022607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>invasion paradox dissolves when using phylogenetic and temporal perspectives</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Adrienne R.</namePart>
+         <namePart type="family">Ernst</namePart>
+         <displayForm>Ernst, Adrienne R. https://orcidorg/0000-0002-8507-6869</displayForm>
+         <affiliation>Plant Biology and Conservation, Northwestern University, Evanston, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Rebecca S.</namePart>
+         <namePart type="family">Barak</namePart>
+         <displayForm>Barak, Rebecca S. https://orcidorg/0000-0003-2908-2436</displayForm>
+         <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Andrew L.</namePart>
+         <namePart type="family">Hipp</namePart>
+         <displayForm>Hipp, Andrew L. https://orcidorg/0000-0002-1241-9904</displayForm>
+         <affiliation>Center for Tree Science, The Morton Arboretum, Lisle, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Andrea T.</namePart>
+         <namePart type="family">Kramer</namePart>
+         <displayForm>Kramer, Andrea T. https://orcidorg/0000-0002-0956-0157</displayForm>
+         <affiliation>Negaunee Institute for Plant Conservation Science and Action, Chicago Botanic Garden, Glencoe, IL, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Hannah E.</namePart>
+         <namePart type="family">Marx</namePart>
+         <displayForm>Marx, Hannah E. https://orcidorg/0000-0002-3526-7878</displayForm>
+         <affiliation>Deparment of Biology, University of New Mexico, Albuquerque, NM, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Daniel J.</namePart>
+         <namePart type="family">Larkin</namePart>
+         <displayForm>Larkin, Daniel J. https://orcidorg/0000-0001-6378-0495</displayForm>
+         <affiliation>Department of Fisheries, Wildlife, and Conservation Biology, University of Minnesota, St. Paul, MN, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2022-02</dateIssued>
+         <dateIssued encoding="marc">2022</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 443-456.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">The prediction that higher biodiversity leads to denser niche packing and thus higher community resistance to invasion has long been studied, with species richness as the predominant measure of diversity. However, few studies have explored how phylogenetic and functional diversity, which should represent niche space more faithfully than taxonomic diversity, influence community invasibility, especially across longer time frames and over larger spatial extents. We used a 15‐year, 150‐site grassland dataset to assess relationships between invasive plant abundance and phylogenetic, functional and taxonomic diversity of recipient native plant communities. We analysed the dataset both pooled across all surveys and longitudinally, leveraging time‐series data to compare observed patterns in invasion with those predicted by two community assembly processes: biotic resistance and competitive exclusion. We expected more phylogenetically and functionally diverse communities to exhibit greater resistance to invasion. With the pooled dataset, we found support for the long‐standing observation that communities with more native species have lower abundance of invasive species, and a more novel finding that more phylogenetically diverse communities had higher abundance of invasive species. We found no influence of aggregate (multivariate) functional diversity on invasion, but assemblages with taller plants, lower variability in plant height and lower seed mass were less invaded. Viewed longitudinally, the phylogenetic diversity relationship was reversed: the most phylogenetically diverse communities were most resistant to invasion. This apparent discrepancy suggests invasion dynamics are influenced by both site attributes and biotic resistance and emphasizes the value in studying invasion across time. Synthesis. Our results provide insight into the nuances of the diversity–invasibility relationship: invasion dynamics differed for different dimensions of diversity and depending on whether the relationship was evaluated longitudinally. Our findings highlight the limitations of using single time‐point ‘snapshots’ of community composition to infer invasion mechanisms.</abstract>
+      <note>Journal article</note>
+      <subject authority="atg">
+         <topic>community structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>competitive exclusion</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>data collection</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>functional diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>grasslands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>indigenous species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>invasive species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeny</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant height</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed weight</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species richness</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>time series analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1111/1365-2745.13812</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>journal of ecology</title>
+         </titleInfo>
+         <identifier type="issn">0022-0477</identifier>
+         <identifier type="local">Journal:jnl44660</identifier>
+         <part>
+            <detail type="volume">
+               <number>110</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>2</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>443</start>
+               <end>456</end>
+               <total>14</total>
+            </extent>
+            <text type="year">2022</text>
+            <text type="month">Feb</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/1365-2745.13812</identifier>
+      <identifier type="control">9915611022607426</identifier>
+      <identifier type="agricola">IND607667053</identifier>
+      <identifier type="local">agid:7667053</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220211</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
+         <recordIdentifier>9915611022607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Beyond forest habitat qualities: Climate and tree characteristics as the major drivers of epiphytic macrolichen assemblages in temperate mountains</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Philippe</namePart>
+         <namePart type="family">Janssen</namePart>
+         <displayForm>Janssen, Philippe https://orcidorg/0000-0003-3310-0078</displayForm>
+         <affiliation>National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM, Saint‐Martin‐d'Hères, France</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Marc</namePart>
+         <namePart type="family">Fuhr</namePart>
+         <displayForm>Fuhr, Marc</displayForm>
+         <affiliation>National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), Université Grenoble‐Alpes, UR LESSEM, Saint‐Martin‐d'Hères, France</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christophe</namePart>
+         <namePart type="family">Bouget</namePart>
+         <displayForm>Bouget, Christophe</displayForm>
+         <affiliation>National Research Institute of Science and Technology for Environment and Agriculture (IRSTEA), UR EFNO, Domaine des Barres, Nogent‐sur‐Vernisson, France</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2019-01</dateIssued>
+         <dateIssued encoding="marc">2019</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 42-54.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">QUESTIONS: How are epiphytic macrolichen assemblages shaped by forest habitat quality as reflected by the availability of late‐developmental forest attributes (i.e., stand maturity) and the temporal continuity of the wooded state (i.e., forest continuity)? Are these two forest habitat features the main drivers of lichen assemblages, and if so, at which spatial scale? STUDY SITE: Temperate mountain forests in the French Northern Alps. METHODS: In our sampling design, we defined treatments by crossing forest continuity (ancient vs recent) and stand maturity (mature vs overmature), then quantified lichen response to the treatments at the stand (n = 70) and tree scales (n = 420). We distinguished between total macrolichen and Lobarion species alone. Finally, we assessed the influence of tree‐, stand‐ and landscape‐scale variables, as well as climatic variables. RESULTS: Neither total macrolichen nor Lobarion diversity and composition were influenced by forest continuity, stand maturity or by stand‐ or landscape‐associated variables. Instead, climatic variables, light availability at the stand scale and host tree characteristics were the major drivers of lichen assemblages. In our mountain forests, this clearly shows that macrolichen were more influenced by local abiotic and biotic factors than by present or past human‐induced activities. CONCLUSIONS: Overall, we show that assemblage patterns in forest ecosystems may be driven by parameters that are not directly related to habitat quality. The influences of forest continuity and stand maturity on diversity and composition thus appear to be context‐dependent. In the ecological context of alpine forests, these findings highlight the benefits of selective‐cutting practices and illustrate the importance of structural heterogeneity, in terms of both improved accessibility to light and tree diameter diversity. Finally, the importance of temperature in shaping assemblage patterns suggests that global warming is probably the most significant threat to macrolichen conservation in temperate mountain forests.</abstract>
+      <note>Journal article</note>
+      <subject authority="atg">
+         <topic>biotic factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climatic factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>epiphytes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>global warming</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>lichens</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>montane forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mountains</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Alps region</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1111/jvs.12701</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of vegetation science</title>
+         </titleInfo>
+         <identifier type="issn">1100-9233</identifier>
+         <identifier type="local">Journal:jnl46820</identifier>
+         <part>
+            <detail type="volume">
+               <number>30</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>42</start>
+               <end>54</end>
+               <total>13</total>
+            </extent>
+            <text type="year">2019</text>
+            <text type="month">Jan</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/jvs.12701</identifier>
+      <identifier type="control">9915614108807426</identifier>
+      <identifier type="agricola">IND606324226</identifier>
+      <identifier type="local">agid:6324226</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190314</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221119001538.0</recordChangeDate>
+         <recordIdentifier>9915614108807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Regeneration of Metrosideros polymorpha forests in Hawaii after landscape‐level canopy dieback</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Linda</namePart>
+         <namePart type="family">Mertelmeyer</namePart>
+         <displayForm>Mertelmeyer, Linda</displayForm>
+         <affiliation>Technical University of Munich, Munich, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">James D.</namePart>
+         <namePart type="family">Jacobi</namePart>
+         <displayForm>Jacobi, James D. https://orcidorg/0000-0003-2313-7862</displayForm>
+         <affiliation>Pacific Island Ecosystems Research Center, U.S. Geological Survey, Hawaii National Park, Hawaii</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Dieter</namePart>
+         <namePart type="family">Mueller‐Dombois</namePart>
+         <displayForm>Mueller‐Dombois, Dieter</displayForm>
+         <affiliation>Department of Botany, University of Hawaii at Manoa, Honolulu, Hawaii</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Kevin</namePart>
+         <namePart type="family">Brinck</namePart>
+         <displayForm>Brinck, Kevin https://orcidorg/0000-0001-7581-2482</displayForm>
+         <affiliation>Hawaii Cooperative Studies Unit, University of Hawaii at Hilo, Hilo, Hawaii</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Hans Juergen</namePart>
+         <namePart type="family">Boehmer</namePart>
+         <displayForm>Boehmer, Hans Juergen</displayForm>
+         <affiliation>School of Geography, Earth Science and Environment (SGESE), University of the South Pacific (USP), Laucala Bay, Suva, Fiji Islands</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2019-01</dateIssued>
+         <dateIssued encoding="marc">2019</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 146-155.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">QUESTIONS: (a) Have Metrosideros polymorpha trees become re‐established in Hawaiian forests previously impacted by canopy dieback in the 1970s? (b) Has canopy dieback expanded since the 1970s? (c) Can spatial patterns from this dieback be correlated with habitat factors to model future dieback in this area? STUDY SITE: An 83,603 ha study area on the eastern slopes of Mauna Loa and Mauna Kea volcanoes on the island of Hawaii, USA. METHODS: We analyzed very‐high‐resolution imagery to assess status of Metrosideros polymorpha forests across the eastern side of the island of Hawaii. We generated 1,170 virtual vegetation plots with a 100‐m radius; 541 plots in areas mapped in 1977 with trees dead or mostly defoliated (dieback), and 629 plots in adjacent wet forest habitat, previously mapped as non‐dieback condition. In each plot we estimated the frequency of M. polymorpha trees that were dead or mostly defoliated, and the frequency of trees with healthy crowns. These results were combined with habitat data to produce a spatial model depicting probability of canopy dieback within the study area. RESULTS: Seventy‐nine percent of plots mapped in 1977 in dieback condition recovered their canopy and were now considered in non‐dieback condition. Ninety‐one percent of plots in previous non‐dieback areas were found to still have a healthy M. polymorpha canopy in 2015. A spatial model allowed us to identify areas within the study area with high, medium, and low probability of experiencing this same type of canopy dieback in the future. CONCLUSIONS: Most former dieback areas mapped within the study area in 1977 now show recovery of the tree canopy through growth of new cohorts of young M. polymorpha trees. This suggests these forest communities are resilient to this type of canopy loss and tree death so long as other factors do not disrupt the natural regeneration process.</abstract>
+      <note>Journal article</note>
+      <subject authority="atg">
+         <topic>Metrosideros polymorpha</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dieback</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest communities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mountains</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>natural regeneration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>probability</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topographic slope</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>volcanoes</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Hawaii (island)</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1111/jvs.12704</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of vegetation science</title>
+         </titleInfo>
+         <identifier type="issn">1100-9233</identifier>
+         <identifier type="local">Journal:jnl46820</identifier>
+         <part>
+            <detail type="volume">
+               <number>30</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>146</start>
+               <end>155</end>
+               <total>10</total>
+            </extent>
+            <text type="year">2019</text>
+            <text type="month">Jan</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/jvs.12704</identifier>
+      <identifier type="control">9915614131907426</identifier>
+      <identifier type="agricola">IND606324237</identifier>
+      <identifier type="local">agid:6324237</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190314</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221119002133.0</recordChangeDate>
+         <recordIdentifier>9915614131907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>At What Scales and Why Does Forest Structure Vary in Naturally Dynamic Boreal Forests? An Analysis of Forest Landscapes on Two Continents</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Niko</namePart>
+         <namePart type="family">Kulha</namePart>
+         <displayForm>Kulha, Niko https://orcidorg/0000-0002-1610-9938</displayForm>
+         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014, Helsinki, Finland. niko.kulha@helsinki.fi</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Leena</namePart>
+         <namePart type="family">Pasanen</namePart>
+         <displayForm>Pasanen, Leena</displayForm>
+         <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box 8000, 90014, Oulu, Finland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Lasse</namePart>
+         <namePart type="family">Holmström</namePart>
+         <displayForm>Holmström, Lasse</displayForm>
+         <affiliation>Research Unit of Mathematical Sciences, University of Oulu, P.O. Box 8000, 90014, Oulu, Finland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Louis</namePart>
+         <namePart type="family">De Grandpré</namePart>
+         <displayForm>De Grandpré, Louis</displayForm>
+         <affiliation>Canadian Forest Service, Laurentian Forestry Centre, P.O. Box 3800, Sainte-Foy, Quebec, GIV 4C7, Canada</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Timo</namePart>
+         <namePart type="family">Kuuluvainen</namePart>
+         <displayForm>Kuuluvainen, Timo</displayForm>
+         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014, Helsinki, Finland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Tuomas</namePart>
+         <namePart type="family">Aakala</namePart>
+         <displayForm>Aakala, Tuomas</displayForm>
+         <affiliation>Department of Forest Sciences, University of Helsinki, P.O. Box 27, 00014, Helsinki, Finland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2019-06</dateIssued>
+         <dateIssued encoding="marc">2019</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 709-724.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Identifying the scales of variation in forest structures and the underlying processes are fundamental for understanding forest dynamics. Here, we studied these scale-dependencies in forest structure in naturally dynamic boreal forests on two continents. We identified the spatial scales at which forest structures varied, and analyzed how the scales of variation and the underlying drivers differed among the regions and at particular scales. We studied three 2 km × 2 km landscapes in northeastern Finland and two in eastern Canada. We estimated canopy cover in contiguous 0.1-ha cells from aerial photographs and used scale-derivative analysis to identify characteristic scales of variation in the canopy cover data. We analyzed the patterns of variation at these scales using Bayesian scale space analysis. We identified structural variation at three spatial scales in each landscape. Among landscapes, the largest scale of variation showed the greatest variability (20.1–321.4 ha), related to topography, soil variability, and long-term disturbance history. Superimposed on this large-scale variation, forest structure varied at similar scales (1.3–2.8 ha) in all landscapes. This variation correlated with recent disturbances, soil variability, and topographic position. We also detected intense variation at the smallest scale analyzed (0.1 ha, grain of our data), partly driven by recent disturbances. The distinct scales of variation indicated hierarchical structure in the landscapes studied. Except for the large-scale variation, these scales were remarkably similar among the landscapes. This suggests that boreal forests may display characteristic scales of variation that occur somewhat independent of the tree species characteristics or the disturbance regime.</abstract>
+      <subject authority="atg">
+         <topic>Bayesian theory</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>aerial photography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>boreal forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest dynamics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil heterogeneity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Canada</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Finland</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s10021-018-0297-2</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecosystems</title>
+         </titleInfo>
+         <identifier type="issn">1432-9840</identifier>
+         <identifier type="local">Journal:jnl70038</identifier>
+         <part>
+            <detail type="volume">
+               <number>22</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>4</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>709</start>
+               <end>724</end>
+               <total>16</total>
+            </extent>
+            <text type="year">2019</text>
+            <text type="month">June</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10021-018-0297-2</identifier>
+      <identifier type="control">9915620021407426</identifier>
+      <identifier type="agricola">IND606452556</identifier>
+      <identifier type="local">agid:6452556</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190816</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118231846.0</recordChangeDate>
+         <recordIdentifier>9915620021407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Species composition of beetles grouped by host association in hollow oaks reveals management-relevant patterns</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Hanne Eik</namePart>
+         <namePart type="family">Pilskog</namePart>
+         <displayForm>Pilskog, Hanne Eik https://orcidorg/0000-0003-4781-7117</displayForm>
+         <affiliation>The Faculty of Environmental Sciences and Natural Resource Management, Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway. hanne.e.pilskog@hiof.no</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Tone</namePart>
+         <namePart type="family">Birkemoe</namePart>
+         <displayForm>Birkemoe, Tone</displayForm>
+         <affiliation>The Faculty of Environmental Sciences and Natural Resource Management, Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Marianne</namePart>
+         <namePart type="family">Evju</namePart>
+         <displayForm>Evju, Marianne</displayForm>
+         <affiliation>Norwegian Institute for Nature Research, Gaustadalléen 21, 0349, Oslo, Norway</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Anne</namePart>
+         <namePart type="family">Sverdrup-Thygeson</namePart>
+         <displayForm>Sverdrup-Thygeson, Anne</displayForm>
+         <affiliation>The Faculty of Environmental Sciences and Natural Resource Management, Norwegian University of Life Sciences, P.O. Box 5003, 1432, Aas, Norway</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02</dateIssued>
+         <dateIssued encoding="marc">2020</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 65-86.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Veteran trees are keystone structures currently in decline worldwide. In Europe, veteran oaks (Quercus spp.) are important habitat trees for wood-living beetles. Still, we have limited knowledge of the drivers determining the composition of these communities and the relevant spatial and temporal scales for these drivers. We collected beetles from 32 hollow oaks in two regions in Southern Norway along a coast-inland gradient paralleling historical onset of oak harvesting. We focused on species with different host-association to oak and identified the relative importance of processes working on different spatial scales, ranging from tree-scale to region-scale, as well as effects of the coast-inland gradient. We found all the spatial scales to influence the species composition, with a response to the coast-inland gradient and differences between the regions for all beetle groups. The tree scale was the most important scale for species mainly associated with oak, generalist species and the overall species composition—with bryophyte cover on the stem, depth of bark crevices and amount of wood mould as the most important variables. The close surroundings and forest variables on the landscape scale was most important for the beetle species restricted to broadleaf trees. Our study confirmed established knowledge, but also revealed new relationships between oak-associated beetles and relevant drivers on the tree and regional scale. As important responses of species mainly associated with oak or broadleaf trees were concealed when analyzing the total community, care should be taken not to base management recommendations on such overall, general patterns.</abstract>
+      <subject authority="atg">
+         <topic>Bryophyta</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Coleoptera</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Quercus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>bark</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>broadleaved trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>harvesting</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wood</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Norway</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s10841-019-00210-5</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of insect conservation</title>
+         </titleInfo>
+         <identifier type="issn">1366-638X</identifier>
+         <identifier type="local">Journal:jnl3870062</identifier>
+         <part>
+            <detail type="volume">
+               <number>24</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>65</start>
+               <end>86</end>
+               <total>22</total>
+            </extent>
+            <text type="year">2020</text>
+            <text type="month">Feb</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10841-019-00210-5</identifier>
+      <identifier type="control">9916332947707426</identifier>
+      <identifier type="agricola">IND606833214</identifier>
+      <identifier type="local">agid:6833214</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">200207</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118141804.0</recordChangeDate>
+         <recordIdentifier>9916332947707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Tree species and size influence soil water partitioning in coffee agroforestry</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">H. C.</namePart>
+         <namePart type="family">Hombegowda</namePart>
+         <displayForm>Hombegowda, H. C. https://orcidorg/0000-0002-4706-3944</displayForm>
+         <affiliation>Tropical Silviculture and Forest Ecology, Georg-August-Universität Göttingen, Göttingen, Germany. hombegowdaars@gmail.com</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Michael</namePart>
+         <namePart type="family">Köhler</namePart>
+         <displayForm>Köhler, Michael</displayForm>
+         <affiliation>Tropical Silviculture and Forest Ecology, Georg-August-Universität Göttingen, Göttingen, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Alexander</namePart>
+         <namePart type="family">Röll</namePart>
+         <displayForm>Röll, Alexander</displayForm>
+         <affiliation>Tropical Silviculture and Forest Ecology, Georg-August-Universität Göttingen, Göttingen, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Dirk</namePart>
+         <namePart type="family">Hölscher</namePart>
+         <displayForm>Hölscher, Dirk</displayForm>
+         <affiliation>Tropical Silviculture and Forest Ecology, Georg-August-Universität Göttingen, Göttingen, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02</dateIssued>
+         <dateIssued encoding="marc">2020</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 137-149.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Complementary use of resources is considered a strong driver of enhanced performance in mixed-species assemblages. In income-producing agroforestry systems, economically valuable species will ideally benefit from resource partitioning. In agroforests in southern India, we assessed soil water uptake depths of coffee and different shade tree species at the end of the dry season, when water availability is regarded critical. Water isotopes ratios (δD and δ¹⁸O) from soil and plant samples were analyzed and an isotope mixing model was applied. Results suggest that coffee plants drew water mainly from the top soil (56% from 0 to 20 cm), and to a lower extent from the subsoil. Jackfruit trees had very similar uptake patterns, which suggest competition. Mango trees showed reverse patterns of water uptake with soil depth, i.e. drew more than 75% from the subsoil, which suggests spatial complementarity to coffee. Within and across shade tree species, soil water uptake from the top soil increased with increasing diameter. We suggest that shade tree species choice and diameter regulation are viable options in management for soil water use complementarity.</abstract>
+      <subject authority="atg">
+         <topic>Coffea arabica</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>agroforestry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dry season</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruit trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>jackfruits</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>oxygen</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil depth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil water</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stable isotopes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>statistical models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>subsoil</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topsoil</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>water uptake</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>India</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s10457-019-00375-7</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Agroforestry systems</title>
+         </titleInfo>
+         <identifier type="issn">0167-4366</identifier>
+         <identifier type="local">Journal:jnl34245</identifier>
+         <part>
+            <detail type="volume">
+               <number>94</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>137</start>
+               <end>149</end>
+               <total>13</total>
+            </extent>
+            <text type="year">2020</text>
+            <text type="month">Feb</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10457-019-00375-7</identifier>
+      <identifier type="control">9916333031007426</identifier>
+      <identifier type="agricola">IND606833094</identifier>
+      <identifier type="local">agid:6833094</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">200422</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118141737.0</recordChangeDate>
+         <recordIdentifier>9916333031007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>Rapid Hard-Mast Index From Acorn Presence–– Absence Tallies</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">CATHRYN H.</namePart>
+         <namePart type="family">GREENBERG</namePart>
+         <displayForm>GREENBERG, CATHRYN H.</displayForm>
+         <affiliation>United States Forest Service, Bent Creek Experimental Forest, 1577 Brevard Road, Asheville, NC 28806, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">GORDON S.</namePart>
+         <namePart type="family">WARBURTON</namePart>
+         <displayForm>WARBURTON, GORDON S.</displayForm>
+         <affiliation>North Carolina Wildlife Resources Commission, 783 Deep Woods Drive, Marion, NC 28752, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2007-07</dateIssued>
+         <dateIssued encoding="marc">2007</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1654-1661.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">We used 21 years of acorn data from visual surveys of oak (Quercus spp.) trees (n == 20,113) conducted in western North Carolina, USA, to develop predictive equations for hard-mast indices (HMIs) based on the proportion of trees bearing acorns (PBA). We calculated PBA using visual estimates of the percentage of oak crown with acorns (PCA), assigning acorn presence if PCA ≥≥ 33.5%%. The proportion of trees bearing acorns and average PCA were highly correlated, and PBA alone was a successful predictor of HMIs. Precise estimates of PBA (therefore HMIs) at a 95%% confidence level required 139––385 sample trees for each oak subgroup or spatial scale of interest, and the sample size required varied with the true PBA. Substituting this faster, simpler visual survey method for others involving labor-intensive counts of twigs and acorns means that more trees can be sampled (if needed) with less time and effort for improved PBA (therefore HMI) precision. We offer a reliable method for predicting HMIs that are comparable to past HMI estimates for states using the Whitehead (1969) method, thus providing continuity in tracking long-term acorn production patterns. We also developed categories for subjectively ranking acorn crop sizes based on the range of PBA observed during 21 years. We recommend that PBA be adopted by resource management agencies as a standard, stand-alone index of acorn production to ensure comparable data among years and across the eastern United States. A standardized protocol for assigning acorn presence or absence must be used for consistent, comparable regional use of PBA in predicting HMIs or by itself as an index of acorn production.</abstract>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Quercus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>equations</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree crown</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surveys</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed productivity</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>North Carolina</geographic>
+      </subject>
+      <subject>
+         <topic>acorn crop</topic>
+      </subject>
+      <subject>
+         <topic>acorn crop prediction</topic>
+      </subject>
+      <subject>
+         <topic>hard-mast index</topic>
+      </subject>
+      <subject>
+         <topic>hard-mast survey</topic>
+      </subject>
+      <subject>
+         <topic>visual survey</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available in the National Agricultural Library PubAg search&#xA;        system"
+              usage="primary display">https://handle.nal.usda.gov/10113/9899</url>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's site">http://dx.doi.org/10.2193%2F2006-295</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>journal of wildlife management</title>
+         </titleInfo>
+         <identifier type="issn">0022-541X</identifier>
+         <part>
+            <detail type="volume">
+               <number>71</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>5</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>1654</start>
+               <end>1661</end>
+               <total>8</total>
+            </extent>
+            <text type="year">2007</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="hdl">10113/9899</identifier>
+      <identifier type="doi">10.2193/2006-295</identifier>
+      <identifier type="control">9916333389907426</identifier>
+      <identifier type="agricola">IND43960830</identifier>
+      <identifier type="local">agid:9899</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151127</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118144628.0</recordChangeDate>
+         <recordIdentifier>9916333389907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Effect of Sub-Canopy on Habitat Selection in the Blue-spotted Salamander (Ambystoma laterale-jeffersonianum unisexual complex)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Anat</namePart>
+         <namePart type="family">Belasen</namePart>
+         <displayForm>Belasen, Anat</displayForm>
+         <affiliation>School of Natural Resources and Environment, 440 Church Street, University of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to AB.</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Erin</namePart>
+         <namePart type="family">Burkett</namePart>
+         <displayForm>Burkett, Erin</displayForm>
+         <affiliation>School of Natural Resources and Environment, 440 Church Street, University of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to AB.</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Allison</namePart>
+         <namePart type="family">Injaian</namePart>
+         <displayForm>Injaian, Allison</displayForm>
+         <affiliation>Department of Ecology and Evolutionary Biology, 830 North University Avenue, University of Michigan, Ann Arbor, Michigan 48103</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Kevin</namePart>
+         <namePart type="family">Li</namePart>
+         <displayForm>Li, Kevin</displayForm>
+         <affiliation>School of Natural Resources and Environment, 440 Church Street, University of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to AB.</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">David</namePart>
+         <namePart type="family">Allen</namePart>
+         <displayForm>Allen, David</displayForm>
+         <affiliation>Department of Biology, 276 Bicentennial Way, Middlebury College, Middlebury, Vermont 05753</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Ivette</namePart>
+         <namePart type="family">Perfecto</namePart>
+         <displayForm>Perfecto, Ivette</displayForm>
+         <affiliation>School of Natural Resources and Environment, 440 Church Street, University of Michigan, Ann Arbor, Michigan 48103; E-mail: (AB). Send reprint requests to AB.</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2013-07-03</dateIssued>
+         <dateIssued encoding="marc">2013</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 254-261.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Elucidating the mechanisms that influence spatial distribution patterns is vital to understanding how populations persist. We examined distribution in one of the most common salamanders in southeastern Michigan, the Blue-spotted Salamander (Ambystoma laterale-jeffersonianum unisexual complex). Three major tree species dominate the sub-canopy in the study site and form monospecific patches, which may have an effect on the distribution of terrestrial phases of local amphibian species. To examine this, we tested whether adult salamanders are significantly associated negatively or positively with patches of particular tree species. We then examined two potential causal factors: habitat quality, using leaf litter macroinvertebrate biomass as a proxy, and behavioral site choice in the Blue-spotted Salamander. We found that this species is positively associated with patches of red maple and negatively associated with patches of black cherry. We also found that, when presented with a choice, salamanders choose red maple leaf litter over black cherry leaf litter. In the absence of differences in physical leaf litter characteristics between patches of red maple and black cherry, we suggest that the Blue-spotted Salamander may be utilizing chemical cues to select habitat. Our findings imply that salamander populations may be affected not only by habitat loss, but also by changes in forest composition. These results provide evidence for a more complex model than the traditional amphibian metapopulation concept, where even fully forested habitat may form a matrix of optimal and sub-optimal, or even intolerable, patches.</abstract>
+      <subject authority="atg">
+         <topic>Acer rubrum</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Acer saccharum subsp. nigrum</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Ambystoma</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Prunus serotina</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>adults</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>biomass</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat destruction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat preferences</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>macroinvertebrates</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant litter</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>salamanders and newts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Michigan</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1643%2FCE-12-051</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Copeia</title>
+         </titleInfo>
+         <identifier type="issn">0045-8511</identifier>
+         <part>
+            <detail type="volume">
+               <number>2013</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>2</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>254</start>
+               <end>261</end>
+               <total>8</total>
+            </extent>
+            <text type="year">2013</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1643/CE-12-051</identifier>
+      <identifier type="control">9916333390607426</identifier>
+      <identifier type="agricola">IND601262462</identifier>
+      <identifier type="local">agid:1262462</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118144602.0</recordChangeDate>
+         <recordIdentifier>9916333390607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Designing old forest for the future: Old trees as habitat for birds in forests of Mountain Ash Eucalyptus regnans</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Richard H.</namePart>
+         <namePart type="family">Loyn</namePart>
+         <displayForm>Loyn, Richard H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Simon J.</namePart>
+         <namePart type="family">Kennedy</namePart>
+         <displayForm>Kennedy, Simon J.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-30</dateIssued>
+         <dateIssued encoding="marc">2009</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 504-515.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Old trees are one of many habitat attributes associated with old forests. They are known to be required by many wildlife species including cavity-dependent birds. Forest managers need to select strategies for retaining and regrowing old trees to maintain suitable numbers over time at appropriate configurations in the forest landscape. This paper presents data from wet forests in south-eastern Australia to help elucidate the effects of different strategies on forest birds as one element of biodiversity that needs to be conserved in these forests. Bird abundance was assessed by standard area search at 117 sites in forests of Mountain Ash Eucalyptus regnans in the Victorian Central Highlands, over the course of two spring-summer breeding seasons from 1996 to 1998. The sites contained 60-year regrowth from extensive wildfires in 1939, along with varying numbers of older trees that had survived the fire. Some of the old trees were dead and at varying stages of decay. Numbers of old trees were counted at each site and a range of other habitat measurements taken. Birds were considered by species or guilds of species (feeding and nesting guilds). Bird abundance data were regressed against numbers of old trees and other relevant habitat data. Cavity-nesting birds were positively related to numbers of old trees, and especially to those that remained alive. Bird species that nest in longitudinal cavities in small branches (spouts) were rare at sites that lacked old trees, and were related strongly to numbers of live old trees. Large cavity-nesters were related to numbers of live old trees or all old trees. Treecreepers correlated less strongly, perhaps because they use cavities in decaying snags and stumps as well as large old trees. Honeyeaters and Mistletoe birds were also positively associated with numbers of live old trees, although they do not need cavities. Total bird abundance was positively related to live, dead or all old trees. Several other relationships were found. For example, shrub foragers were related positively to abundance of tall shrubs but not low shrubs; wattle foragers were related positively to abundance of wattles (especially Silver Wattles Acacia dealbata); and Eastern Spinebills Acanthorhynchus tenuirostris were positively associated with abundance of Mountain Correa Correa lawrenciana (the flowers of which provide a major source of nectar). Non-linear relationships between bird abundance and densities of old trees were found for at least two cavity-nesting bird species. The relationship was convex for Striated Pardalote Pardalotus striatus (optimum density 5-12 live old trees/ha) and mildly concave for Crimson Rosella Platycercus elegans. This suggests that the former would benefit from strategies to disperse old trees among regrowth at suitable scales whereas the latter would benefit from strategies to produce clumped distributions of old trees. However, Striated Pardalotes showed a strong preference for live old trees, which cannot easily be kept alive among regrowth after logging or fire, suggesting clumped retention may be more practical for that species too. Three other species showed weak evidence of non-linear responses, but most species showed no significant evidence of departure from linearity. No species or guild showed strong evidence of a threshold level of old tree density (above ~1ha⁻¹) below which those birds would not occur. Hence for most of the diurnal birds considered in this study, old trees appear to be useful in proportion to the overall number of suitable old trees that can be retained and regrown (rather than their spatial pattern), and especially the number that can be kept alive. Clumped retention strategies give the best chance of keeping many retained trees alive in retained patches. Otherwise, spacing patterns should be a secondary consideration, except where they are known to be important for species such as owls and arboreal mammals.</abstract>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>old-growth forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wildlife habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wild birds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat preferences</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree cavities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree age</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest-wildlife relations</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Australia</geographic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Animal Ecology and Behavior</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forest Management</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1016/j.foreco.2009.01.005</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <part>
+            <detail type="volume">
+               <number>258</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>4</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>504</start>
+               <end>515</end>
+               <total>12</total>
+            </extent>
+            <text type="year">2009</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2009.01.005</identifier>
+      <identifier type="control">9916333794507426</identifier>
+      <identifier type="agricola">IND44230035</identifier>
+      <identifier type="local">agid:759809</identifier>
+      <extension>
+         <note type="saleTape">20090718 20090801 00000000</note>
+         <note type="indexer">IND LYN 2009/07/18</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">090710</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118145057.0</recordChangeDate>
+         <recordIdentifier>9916333794507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Modelling habitat persistence and impacts of management on the habitats of an endangered butterfly</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Henna</namePart>
+         <namePart type="family">Fabritius</namePart>
+         <displayForm>Fabritius, Henna</displayForm>
+         <affiliation>Department of Biosciences, University of Helsinki, Helsinki, Finland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Marissa</namePart>
+         <namePart type="family">McBride</namePart>
+         <displayForm>McBride, Marissa</displayForm>
+         <affiliation>Department of Biosciences, University of Helsinki, Helsinki, Finland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2017-05</dateIssued>
+         <dateIssued encoding="marc">2017</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 200-210.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">In dynamic landscapes, effective species conservation requires an understanding of the spatial and temporal dynamics of species’ habitats. In this study, vegetation data across differently aged sites, site management history data and expert elicitation are used to estimate (i) expected habitat patch lifetimes and (ii) the impacts of habitat management history on how habitat quality changes through time for an early‐successional habitat specialist, the endangered false heath fritillary butterfly (Melitaea diamina). Results demonstrate the accelerated temporal dynamics experienced by false heath fritillary habitats, with the quality of false heath fritillary habitats peaking 2–3 years after management, and a median‐sized habitat patch initially without tree cover predicted to become unsuitable 15 years after management due to overgrowth. As a co‐product of habitat management patterns, habitat succession and land use changes, non‐conserved false heath fritillary habitats had an expected lifetime of 13.1 years. This study demonstrates a method that can be used to estimate habitat network dynamics for an early‐successional habitat specialist economically in situations where the urgency of conservation challenges favours fast decision‐making.</abstract>
+      <note>Journal article</note>
+      <subject authority="atg">
+         <topic>butterflies</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coproducts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision making</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>expert opinion</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat conservation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temporal variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>vegetation</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1111/icad.12218</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Insect conservation and diversity</title>
+         </titleInfo>
+         <identifier type="issn">1752-458X</identifier>
+         <identifier type="local">Journal:J000000087</identifier>
+         <part>
+            <detail type="volume">
+               <number>10</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>3</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>200</start>
+               <end>210</end>
+               <total>11</total>
+            </extent>
+            <text type="year">2017</text>
+            <text type="month">May</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/icad.12218</identifier>
+      <identifier type="control">9916333814707426</identifier>
+      <identifier type="agricola">IND605882598</identifier>
+      <identifier type="local">agid:5882598</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">180103</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118153247.0</recordChangeDate>
+         <recordIdentifier>9916333814707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Mapping and assessment of future changes in the coastal and marine ecosystem services supply in Lithuania</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Miguel</namePart>
+         <namePart type="family">Inácio</namePart>
+         <displayForm>Inácio, Miguel</displayForm>
+         <affiliation>Environmental Management Laboratory, Mykolas Romeris University, Vilnius, Lithuania</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Donalda</namePart>
+         <namePart type="family">Karnauskaitė</namePart>
+         <displayForm>Karnauskaitė, Donalda</displayForm>
+         <affiliation>Environmental Management Laboratory, Mykolas Romeris University, Vilnius, Lithuania</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Eduardo</namePart>
+         <namePart type="family">Gomes</namePart>
+         <displayForm>Gomes, Eduardo</displayForm>
+         <affiliation>Environmental Management Laboratory, Mykolas Romeris University, Vilnius, Lithuania</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Damià</namePart>
+         <namePart type="family">Barceló</namePart>
+         <displayForm>Barceló, Damià</displayForm>
+         <affiliation>Institute of Environmental Assessment and Water Research (IDAEA-CSIC), Barcelona, Catalonia, Spain</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Paulo</namePart>
+         <namePart type="family">Pereira</namePart>
+         <displayForm>Pereira, Paulo</displayForm>
+         <affiliation>Environmental Management Laboratory, Mykolas Romeris University, Vilnius, Lithuania</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-15</dateIssued>
+         <dateIssued encoding="marc">2022</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <abstract displayLabel="Summary">Assessing and mapping ecosystem services (ES) became an integral part of coastal and marine management practices. Hence, quantitative and validated approaches are lacking, especially to address future conditions. The objective of this study is to apply further existing and develop new methodological frameworks to quantitatively assess and map the current and future supply of 3 ES in the coastal zone of Lithuania: coastal flood protection, nutrient regulation, and maintenance of nursery conditions. For coastal flood ES modelling, 2 time periods (1990 and 2018) and 4 scenarios (A0, A1 A2, A3 - based on future socio-economic changes in Lithuania) were analysed. The coastal flood protection ES model was validated (r² = 0.30) using tree cover density. The results showed spatial differences among the analysed periods but no statistical differences. High supply areas are located in the southern coastal area, while the central part displays a low supply. For nutrient regulation and maintenance of nursery conditions, 7 time periods were analysed: a historical period and 6 scenarios based on Representative Concentration Pathway 4.5 and 8.5 and 3 Shared Socioeconomic Pathways. The nutrient regulation ES model was validated (r² = 0.85) using in situ nutrient. Statistical differences were observed for this ES, but a similar spatial distribution of high and low supply areas. A decrease in the supply was observed comparing the historical period and future scenarios. Maintenance of nursery conditions was validated (r² = 0.72) based on the protection status of the coastal zone. Results show no statistical differences and similar spatial patterns among the periods. Rocky and sandbank areas show a high supply for this ES. Limitations of our work are mainly related to the resolution of the utilised indicators. Nevertheless, the information obtained from our models can support spatial planning and decision-making processes.</abstract>
+      <subject authority="atg">
+         <topic>coasts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision making</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environment</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>flood control</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>marine ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>socioeconomics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Lithuania</geographic>
+      </subject>
+      <subject>
+         <topic>Human wellbeing</topic>
+      </subject>
+      <subject>
+         <topic>Ecosystem modelling</topic>
+      </subject>
+      <subject>
+         <topic>Climate change</topic>
+      </subject>
+      <subject>
+         <topic>Coastal protection</topic>
+      </subject>
+      <subject>
+         <topic>Baltic Sea</topic>
+      </subject>
+      <subject>
+         <topic>Indicators</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.scitotenv.2021.152586</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Science of the total environment</title>
+         </titleInfo>
+         <identifier type="issn">0048-9697</identifier>
+         <identifier type="local">Journal:jnl4455</identifier>
+         <part>
+            <detail type="volume">
+               <number>812</number>
+               <caption>v.</caption>
+            </detail>
+            <extent unit="pages">
+               <total>152586</total>
+            </extent>
+            <text type="year">2022</text>
+            <text type="month">Mar</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.scitotenv.2021.152586</identifier>
+      <identifier type="control">9916333835407426</identifier>
+      <identifier type="agricola">IND607610741</identifier>
+      <identifier type="local">agid:7610741</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220222</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118153333.0</recordChangeDate>
+         <recordIdentifier>9916333835407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Spatio-temporal dynamics and local hotspots of initial recruitment in vertebrate-dispersed trees</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Arndt</namePart>
+         <namePart type="family">Hampe</namePart>
+         <displayForm>Hampe, Arndt</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Juan L.</namePart>
+         <namePart type="family">García-Castaño</namePart>
+         <displayForm>García-Castaño, Juan L.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Eugene W.</namePart>
+         <namePart type="family">Schupp</namePart>
+         <displayForm>Schupp, Eugene W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Pedro</namePart>
+         <namePart type="family">Jordano</namePart>
+         <displayForm>Jordano, Pedro</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008-07</dateIssued>
+         <dateIssued encoding="marc">2008</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 668-678.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">1. Initial recruitment, or the arrival and establishment of propagules, is the most variable period in the life cycle of long-lived plants, and the extent to which studies of initial recruitment can be used to predict patterns of regeneration remains unresolved. 2. We investigated the spatio-temporal dynamics of initial recruitment across five populations of three fleshy-fruited tree species from contrasting environments. Among-year variation in total seedfall, dispersed seedfall and seedling distributions was examined using analytical approaches that are new to the field and that explicitly incorporate space and allow comparisons among studies. 3. Observed patterns ranged from remarkable across-year consistency in seedfall distributions and strong spatial coupling between seed and seedling stages to extensive variation and almost complete independence of stages. Spatial distributions of frugivore-mediated seedfall were markedly more consistent than those of the total seedfall in two of the five populations. Seedling distributions were generally more variable among years than seedfall distributions. 4. All populations showed a positive relationship between the long-term mean density of recruitment at a given microsite and its year-to-year consistency. This relationship remained valid when considering only microsites away from fruiting tree canopies (i.e. those receiving actually dispersed seeds), and was virtually independent of their distance to the nearest fruiting tree. 5. Synthesis. Our results point to the existence of some general rules behind the idiosyncratic recruitment dynamics of perennial plant populations, which should help with projecting spatial patterns of plant establishment in long-lived species. In particular, those microsites that combine a great intensity with a high year-to-year consistency of recruitment should represent potential regeneration 'hotspots' whose identification and characterization can be of great use for the management and conservation of naturally regenerating tree populations.</abstract>
+      <subject authority="atg">
+         <topic>analytical methods</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruiting</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>perennials</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant establishment</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seedlings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject>
+         <topic>Faramea occidentalis</topic>
+      </subject>
+      <subject>
+         <topic>frugivory</topic>
+      </subject>
+      <subject>
+         <topic>generalized least squares linear models</topic>
+      </subject>
+      <subject>
+         <topic>SADIE</topic>
+      </subject>
+      <subject>
+         <topic>seedling recruitment</topic>
+      </subject>
+      <subject>
+         <topic>spatial demography</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1111/j.1365-2745.2008.01364.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of ecology</title>
+         </titleInfo>
+         <identifier type="issn">0022-0477</identifier>
+         <part>
+            <detail type="volume">
+               <number>96</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>4</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>668</start>
+               <end>678</end>
+               <total>11</total>
+            </extent>
+            <text type="year">2008</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1365-2745.2008.01364.x</identifier>
+      <identifier type="control">9916333861107426</identifier>
+      <identifier type="agricola">IND44067084</identifier>
+      <identifier type="local">agid:2052433</identifier>
+      <extension>
+         <note type="saleTape">20080613 20080704 00000000</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">080613</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118152032.0</recordChangeDate>
+         <recordIdentifier>9916333861107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Climatic drivers of dry grassland phylogenetic diversity in the Republic of Macedonia</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Marco Antonio</namePart>
+         <namePart type="family">Batalha</namePart>
+         <displayForm>Batalha, Marco Antonio</displayForm>
+         <affiliation>Department of Botany, Federal University of São Carlos, PO Box 676, 13565-905, São Carlos, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Renata</namePart>
+         <namePart type="family">Ćušterevska</namePart>
+         <displayForm>Ćušterevska, Renata</displayForm>
+         <affiliation>Institute of Biology, Faculty of Natural Sciences and Mathematics, Ss. Cyril and Methodius University, Arhimedova 3, 1000, Skopje, Macedonia</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Vlado</namePart>
+         <namePart type="family">Matevski</namePart>
+         <displayForm>Matevski, Vlado</displayForm>
+         <affiliation>Institute of Biology, Faculty of Natural Sciences and Mathematics, Ss. Cyril and Methodius University, Arhimedova 3, 1000, Skopje, Macedonia</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-01</dateIssued>
+         <dateIssued encoding="marc">2019</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 25-34.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Climatic gradients can be used to predict the extent to which climate drives biodiversity and to which biodiversity may be affected by global climate changes. Climate and evolutionary history are linked by the ecological adaptations of species and the history of Earth’s climate. If so, phylogenetic diversity may be a good metric to estimate biodiversity. We aimed to test whether the phylogenetic diversity of Macedonian dry grasslands was related to climatic variables. We sampled 575 plots, identifying the species and building a phylogenetic tree for them. We calculated two metrics of phylogenetic diversity and regressed them against climatic variables. We also tested whether there were nodes in the tree responsible for the main observed spatial patterns of phylogenetic diversity. We found a strong signature of evolutionary history in species sorting across a gradient driven by climate in Macedonian dry grasslands. First, the amount of evolutionary history decreased towards drier and more seasonal climates, suggesting a phylogenetic niche conservatism. Second, there was an air temperature filter and a temperature seasonality filter, acting in opposite directions and leading to phylogenetic clustering. Third, there were few nodes in the phylogenetic tree with high degrees of allopatry, associated with clades that differed not only in their geographic distribution, but also in their climatic preferences. Macedonian dry grassland communities developed over centuries of traditional land use but are threatened nowadays by human activities. The use of phylogenetic approaches may lead to more effective conservation policies and help us preserve this highly diverse vegetation.</abstract>
+      <subject authority="atg">
+         <topic>air temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>allopatry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>biodiversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climatic factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geographical distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>grasslands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>issues and policy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeny</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phytogeography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Republic of North Macedonia</geographic>
+      </subject>
+      <subject>
+         <topic>Balkans</topic>
+      </subject>
+      <subject>
+         <topic>climate</topic>
+      </subject>
+      <subject>
+         <topic>evolutionary history</topic>
+      </subject>
+      <subject>
+         <topic>Macedonian flora</topic>
+      </subject>
+      <subject>
+         <topic>plant diversity</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.2478/botcro-2019-0005</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Acta botanica Croatica</title>
+         </titleInfo>
+         <identifier type="issn">0365-0588</identifier>
+         <identifier type="local">Journal:J000000039</identifier>
+         <part>
+            <detail type="volume">
+               <number>78</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>25</start>
+               <end>34</end>
+               <total>10</total>
+            </extent>
+            <text type="year">2019</text>
+            <text type="month">Apr</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.2478/botcro-2019-0005</identifier>
+      <identifier type="control">9916334729407426</identifier>
+      <identifier type="agricola">IND606375830</identifier>
+      <identifier type="local">agid:6375830</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190419</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118155351.0</recordChangeDate>
+         <recordIdentifier>9916334729407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Assessing the impacts of fragmentation on plant communities in New Zealand: scaling from survey plots to landscapes</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Raffaele</namePart>
+         <namePart type="family">Lafortezza</namePart>
+         <displayForm>Lafortezza, Raffaele</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">David A.</namePart>
+         <namePart type="family">Coomes</namePart>
+         <displayForm>Coomes, David A.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Valerie</namePart>
+         <namePart type="family">Kapos</namePart>
+         <displayForm>Kapos, Valerie</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Robert M.</namePart>
+         <namePart type="family">Ewers</namePart>
+         <displayForm>Ewers, Robert M.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2010-09</dateIssued>
+         <dateIssued encoding="marc">2010</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 741-754.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Few studies have attempted to assess the overall impact of fragmentation at the landscape scale. We quantify the impacts of fragmentation on plant diversity by assessing patterns of community composition in relation to a range of fragmentation measures. The investigation was undertaken in two regions of New Zealand - a relatively unfragmented area of lowland rain forest in south Westland and a highly fragmented montane forest on the eastern slopes of the Southern Alps. We calculated an index of community similarity (Bray-Curtis) between forest plots we regarded as potentially affected by fragmentation and control forest plots located deep inside continuous forest areas. Using a multiple nonlinear regression technique that incorporates spatial autocorrelation effects, we analysed plant community composition in relation to measures of fragmentation at the patch and landscape levels. From the resulting regression equation, we predicted community composition for every forest pixel on land-cover maps of the study areas and used these maps to calculate a landscape-level estimate of compositional change, which we term 'BioFrag'. BioFrag has a value of one if fragmentation has no detectable effect on communities within a landscape, and tends towards zero if fragmentation has a strong effect. We detected a weak, but significant, impact of fragmentation metrics operating at both the patch and landscape levels. Observed values of BioFrag ranged from 0.68 to 0.90, suggesting that patterns of fragmentation have medium to weak impacts on forest plant communities in New Zealand. BioFrag values varied in meaningful ways among landscapes and between the ground-cover and tree and shrub communities. BioFrag advances methods that describe spatial patterns of forest cover by incorporating the exact spatial patterns of observed species responses to fragmentation operating at multiple spatial scales. BioFrag can be applied to any landscape and ecological community across the globe and represents a significant step towards developing a biologically relevant, landscape-scale index of habitat fragmentation.</abstract>
+      <subject authority="atg">
+         <topic>autocorrelation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>botanical composition</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>community structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>equations</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat fragmentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land cover</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant communities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rain forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>shrubs</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surveys</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topographic slope</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Alps region</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>New Zealand</geographic>
+      </subject>
+      <subject>
+         <topic>Biodiversity indicators</topic>
+      </subject>
+      <subject>
+         <topic>fragmentation</topic>
+      </subject>
+      <subject>
+         <topic>similarity index</topic>
+      </subject>
+      <subject>
+         <topic>spatial modelling</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1111/j.1466-8238.2010.00542.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Global ecology and biogeography</title>
+         </titleInfo>
+         <identifier type="issn">1466-822X</identifier>
+         <part>
+            <detail type="volume">
+               <number>19</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>5</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>741</start>
+               <end>754</end>
+               <total>14</total>
+            </extent>
+            <text type="year">2010</text>
+            <text type="month">Sept</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1466-8238.2010.00542.x</identifier>
+      <identifier type="control">9916335051007426</identifier>
+      <identifier type="agricola">IND44409115</identifier>
+      <identifier type="local">agid:2312849</identifier>
+      <extension>
+         <note type="saleTape">20100806 20100903 00000000</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">100806</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118162432.0</recordChangeDate>
+         <recordIdentifier>9916335051007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Modelling fuel succession in Mediterranean cork oak forests along a 70-year chronosequence</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Miguel</namePart>
+         <namePart type="family">Porto</namePart>
+         <displayForm>Porto, Miguel</displayForm>
+         <affiliation>Centro de Biologia Ambiental, Departamento de Biologia Vegetal, Faculdade de Ciências de Lisboa, Universidade de Lisboa, C2 Campo Grande, 1749-016 Lisboa, Portugal</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Otília</namePart>
+         <namePart type="family">Correia</namePart>
+         <displayForm>Correia, Otília</displayForm>
+         <affiliation>Centro de Biologia Ambiental, Departamento de Biologia Vegetal, Faculdade de Ciências de Lisboa, Universidade de Lisboa, C2 Campo Grande, 1749-016 Lisboa, Portugal</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Pedro</namePart>
+         <namePart type="family">Beja</namePart>
+         <displayForm>Beja, Pedro</displayForm>
+         <affiliation>EDP Biodiversity Chair, CIBIO-Centro de Investigação em Biodiversidade e Recursos Genéticos, Campus Agrário de Vairão, Universidade do Porto, 4485-601 Vairão, Portugal</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2013-08-15</dateIssued>
+         <dateIssued encoding="marc">2013</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 221-230.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Mechanical removal of understory vegetation is increasingly used in Euro-Mediterranean forests to reduce fire hazard, but little is known about the long-term patterns of fuel change after management. We used a 70-year post-management chronosequence to investigate fuel succession in cork oak Quercus suber forests. Mean shrub height, crown volume, total standing biomass, and biomass of leaves, and coarse and fine materials, increased rapidly during the first 10years after management, but then converged slowly to a plateau that was not reached within the chronosequence. A high vertical continuity of fuels from the ground level to the tree canopy (0–2m) was reached in about 10–20years, but peak understory cluttering occurred only at 50–70years. Fine materials accumulated primarily at lower strata (&lt;1m) throughout the chronosequence, whereas leaves and coarse materials accumulated first at lower strata, and then progressively occupied the upper strata (&gt;1.5m). Results suggest that recurrent fuel management may promote highly flammable pioneer shrublands, whereas lack of management promotes late-successional vegetation with high risk of intense wildfires. Solving this conundrum requires careful planning of the spatial and temporal distribution of treatments to reduce the risk of fire spread at the landscape scale.</abstract>
+      <subject authority="atg">
+         <topic>Quercus suber</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>biomass</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>chronosequences</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fire hazard</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fire spread</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest fires</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaves</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>planning</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>risk</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>shrublands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>shrubs</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>understory</topic>
+      </subject>
+      <subject>
+         <topic>Fuel succession</topic>
+      </subject>
+      <subject>
+         <topic>Fuel management</topic>
+      </subject>
+      <subject>
+         <topic>Quercus suber forests</topic>
+      </subject>
+      <subject>
+         <topic>Fire risk</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.foreco.2013.03.028</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <detail type="volume">
+               <number>302</number>
+               <caption>v.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>221</start>
+               <end>230</end>
+               <total>10</total>
+            </extent>
+            <text type="year">2013</text>
+            <text type="month">Aug</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2013.03.028</identifier>
+      <identifier type="control">9916335302907426</identifier>
+      <identifier type="agricola">IND500667174</identifier>
+      <identifier type="local">agid:557239</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190403</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118163157.0</recordChangeDate>
+         <recordIdentifier>9916335302907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Recurrent nuclear DNA introgression accompanies chloroplast DNA exchange between two eucalypt species</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">G.E.</namePart>
+         <namePart type="family">McKinnon</namePart>
+         <displayForm>McKinnon, G.E.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">J.J.</namePart>
+         <namePart type="family">Smith</namePart>
+         <displayForm>Smith, J.J.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">B.M.</namePart>
+         <namePart type="family">Potts</namePart>
+         <displayForm>Potts, B.M.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2010-04</dateIssued>
+         <dateIssued encoding="marc">2010</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1367-1380.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Numerous studies within plant genera have found geographically structured sharing of chloroplast (cp) DNA among sympatric species, consistent with introgressive hybridization. Current research is aimed at understanding the extent, direction and significance of nuclear (nr) DNA exchange that accompanies putative cpDNA exchange. Eucalyptus is a complex tree genus for which cpDNA sharing has been established between multiple species. Prior phylogeographic analysis has indicated cpDNA introgression into the widespread forest species Eucalyptus globulus from its rare congener E. cordata. In this study, we use AFLP markers to characterize corresponding nrDNA introgression, on both a broad and fine spatial scale. Using 388 samples we examine (i) the fine-scale spatial structure of cp and nrDNA introgression from E. cordata into E. globulus at a site in natural forest and (ii) broad-scale patterns of AFLP marker introgression at six additional mixed populations. We show that while E. globulus and E. cordata retain strongly differentiated nuclear gene pools overall, leakage of nrDNA occurs at mixed populations, with some AFLP markers being transferred to E. globulus recurrently at different sites. On the fine scale, different AFLP fragments show varying distances of introgression into E. globulus, while introgression of cpDNA is extensive. The frequency of E. cordata markers in E. globulus is correlated with spatial proximity to E. cordata, but departs from expectations based on AFLP marker frequency in E. cordata, indicating that selection may be governing the persistence of introgressed fragments in E. globulus.</abstract>
+      <subject authority="atg">
+         <topic>Eucalyptus globulus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>amplified fragment length polymorphism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>chloroplast DNA</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>chloroplasts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>gene pool</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>introgression</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>nuclear genome</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>sympatry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Amplified Fragment Length Polymorphism Analysis</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Cell Nucleus</topic>
+         <topic>genetics</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>DNA, Chloroplast</topic>
+         <topic>genetics</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>DNA, Plant</topic>
+         <topic>genetics</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Eucalyptus</topic>
+         <topic>genetics</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Evolution, Molecular</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Genetics, Population</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Hybridization, Genetic</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Models, Genetic</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Sequence Analysis, DNA</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Species Specificity</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Australia</geographic>
+      </subject>
+      <subject>
+         <topic>AFLP</topic>
+      </subject>
+      <subject>
+         <topic>eucalypt genetics</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1111/j.1365-294X.2010.04579.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Molecular ecology</title>
+         </titleInfo>
+         <identifier type="issn">0962-1083</identifier>
+         <part>
+            <detail type="volume">
+               <number>19</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>7</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>1367</start>
+               <end>1380</end>
+               <total>14</total>
+            </extent>
+            <text type="year">2010</text>
+            <text type="month">Apr</text>
+         </part>
+      </relatedItem>
+      <identifier type="pmid">20298471</identifier>
+      <identifier type="doi">10.1111/j.1365-294X.2010.04579.x</identifier>
+      <identifier type="control">9916335723207426</identifier>
+      <identifier type="agricola">IND44345303</identifier>
+      <identifier type="local">agid:2237084</identifier>
+      <extension>
+         <note type="saleTape">20111120 20111202 00000000</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">100326</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118165957.0</recordChangeDate>
+         <recordIdentifier>9916335723207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-13</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

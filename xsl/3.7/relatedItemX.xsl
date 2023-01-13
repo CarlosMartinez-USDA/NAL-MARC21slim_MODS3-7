@@ -12,9 +12,9 @@
 
     <!-- includes -->
 
-    <xsl:include href="NAL-MARC21slimUtils.xsl"/>
-    <xsl:include href="commons/functions.xsl"/>
-    <xsl:include href="commons/params.xsl"/>
+    <xsl:include href="../../NAL-MARC21slimUtils.xsl"/>
+    <xsl:include href="/../../commons/functions.xsl"/>
+    <xsl:include href="/../../commons/params.xsl"/>
 
     <!-- outputs -->
 

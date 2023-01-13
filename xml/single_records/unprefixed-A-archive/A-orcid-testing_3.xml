@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+   <leader>05178nab a2200661 u 4500</leader>
+   <controlfield tag="001">9915611022607426</controlfield>
+   <controlfield tag="005">20221118223158.0</controlfield>
+   <controlfield tag="008">220211e202202 xx |||||o|||||||||||eng||</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND607667053</subfield>
+      <subfield code="2">DNAL</subfield>
+   </datafield>
+   <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/1365-2745.13812</subfield>
+      <subfield code="2">doi</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:7667053-01nal_inst</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Ernst, Adrienne R.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Plant Biology and Conservation, Northwestern University, Evanston,
+                IL, USA</subfield>
+      <subfield code="1">https://orcid.org/0000-0002-8507-6869</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The invasion paradox dissolves when using phylogenetic and temporal
+                perspectives</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 443-456.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">JOURNAL ARTICLE</subfield>
+   </datafield>
+   <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">The prediction that higher biodiversity leads to denser niche packing
+                and thus higher community resistance to invasion has long been studied, with species
+                richness as the predominant measure of diversity. However, few studies have explored
+                how phylogenetic and functional diversity, which should represent niche space more
+                faithfully than taxonomic diversity, influence community invasibility, especially
+                across longer time frames and over larger spatial extents. We used a 15‐year,
+                150‐site grassland dataset to assess relationships between invasive plant abundance
+                and phylogenetic, functional and taxonomic diversity of recipient native plant
+                communities. We analysed the dataset both pooled across all surveys and
+                longitudinally, leveraging time‐series data to compare observed patterns in invasion
+                with those predicted by two community assembly processes: biotic resistance and
+                competitive exclusion. We expected more phylogenetically and functionally diverse
+                communities to exhibit greater resistance to invasion. With the pooled dataset, we
+                found support for the long‐standing observation that communities with more native
+                species have lower abundance of invasive species, and a more novel finding that more
+                phylogenetically diverse communities had higher abundance of invasive species. We
+                found no influence of aggregate (multivariate) functional diversity on invasion, but
+                assemblages with taller plants, lower variability in plant height and lower seed
+                mass were less invaded. Viewed longitudinally, the phylogenetic diversity
+                relationship was reversed: the most phylogenetically diverse communities were most
+                resistant to invasion. This apparent discrepancy suggests invasion dynamics are
+                influenced by both site attributes and biotic resistance and emphasizes the value in
+                studying invasion across time. Synthesis. Our results provide insight into the
+                nuances of the diversity–invasibility relationship: invasion dynamics differed for
+                different dimensions of diversity and depending on whether the relationship was
+                evaluated longitudinally. Our findings highlight the limitations of using single
+                time‐point ‘snapshots’ of community composition to infer invasion
+                mechanisms.</subfield>
+   </datafield>
+   <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+   </datafield>
+   <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+   </datafield>
+   <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">DGE‐1842165</subfield>
+      <subfield code="c">National Science Foundation</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">community structure</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">competitive exclusion</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">data collection</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">functional diversity</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">grasslands</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">indigenous species</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">invasive species</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">phylogeny</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">plant height</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">prediction</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seed weight</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">species richness</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">time series analysis</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Barak, Rebecca S.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Negaunee Institute for Plant Conservation Science and Action, Chicago
+                Botanic Garden, Glencoe, IL, USA</subfield>
+      <subfield code="1">https://orcid.org/0000-0003-2908-2436</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hipp, Andrew L.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Center for Tree Science, The Morton Arboretum, Lisle, IL,
+                USA</subfield>
+      <subfield code="1">https://orcid.org/0000-0002-1241-9904</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kramer, Andrea T.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Negaunee Institute for Plant Conservation Science and Action, Chicago
+                Botanic Garden, Glencoe, IL, USA</subfield>
+      <subfield code="1">https://orcid.org/0000-0002-0956-0157</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Marx, Hannah E.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Deparment of Biology, University of New Mexico, Albuquerque, NM,
+                USA</subfield>
+      <subfield code="1">https://orcid.org/0000-0002-3526-7878</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Larkin, Daniel J.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Fisheries, Wildlife, and Conservation Biology,
+                University of Minnesota, St. Paul, MN, USA</subfield>
+      <subfield code="1">https://orcid.org/0000-0001-6378-0495</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">journal of ecology.</subfield>
+      <subfield code="g">2022 Feb., v. 110, no. 2 p.443-456</subfield>
+      <subfield code="d">John Wiley &amp; Sons, Ltd</subfield>
+      <subfield code="w">Journal:jnl44660</subfield>
+      <subfield code="x">0022-0477</subfield>
+      <subfield code="7">nnas</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+   </datafield>
+   <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl44660</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1111/1365-2745.13812</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+   </datafield>
+   <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl44660</subfield>
+      <subfield code="b">0022-0477</subfield>
+      <subfield code="c">110</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">443</subfield>
+   </datafield>
+   <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">journal of ecology</subfield>
+   </datafield>
+   <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:10229</subfield>
+   </datafield>
+   <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+   </datafield>
+   <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">John Wiley &amp; Sons, Inc</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+   </datafield>
+   <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND607667053</subfield>
+      <subfield code="9">ExL</subfield>
+   </datafield>
+   <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-22</subfield>
+   </datafield>
+   <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="d">NAL-AP-2-clean</subfield>
+   </datafield>
+   <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/wiley/00220477_2022_110_2.xml</subfield>
+   </datafield>
+   <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/wiley/00220477_2022_110_2.xml</subfield>
+   </datafield>
+   <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/wiley/</subfield>
+   </datafield>
+   <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:7667053</subfield>
+   </datafield>
+   <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-11</subfield>
+   </datafield>
+   <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-21</subfield>
+   </datafield>
+</record>

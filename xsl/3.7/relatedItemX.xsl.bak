@@ -12,9 +12,9 @@
 
     <!-- includes -->
 
-    <xsl:include href="NAL-MARC21slimUtils.xsl"/>
-    <xsl:include href="commons/functions.xsl"/>
-    <xsl:include href="commons/params.xsl"/>
+    <xsl:include href="../NAL-MARC21slimUtils.xsl"/>
+    <xsl:include href="../commons/functions.xsl"/>
+    <xsl:include href="../commons/params.xsl"/>
 
     <!-- outputs -->
 
@@ -8094,7 +8094,7 @@ select="subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select="."/&gt
                 </xsl:choose>
             </xsl:if>
     
-            <!--dateCreated-->
+            <!--dateCreated/dateIssued-->
             <xsl:variable name="controlField008-7-10"
                 select="normalize-space(substring($controlField008, 8, 4))"/>
             <xsl:variable name="controlField008-11-14"
@@ -8113,7 +8113,96 @@ select="subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select="."/&gt
                 </xsl:analyze-string>
             </xsl:variable>
             
-            
+            <!-- tmee 1.35 and 1.36 and 1.84-->
+            <!--
+	Example: <controlfield tag="008">221003s2022 flu 001 0 eng </controlfield> 
+	Fixed field 008: Character Positions	
+			All materials
+			00-05 - Date entered on file
+			06 - Type of date/Publication status
+			07-10 - Date 1
+			11-14 - Date 2
+			15-17 - Place of publication, production, or execution
+			18-34 - [See one of the seven separate 008/18-34 configuration sections for these elements.]
+			35-37 - Language
+			38 - Modified record
+			39 - Cataloging source
+		
+    Question: Where was this item published?
+    Answer: Reading lines 15-17 you can determine it was in "flu" which decode is Florida. 
+    -->
+          
+            <xsl:if
+                test="($controlField008-6 = 'e' or $controlField008-6 = 'p' or $controlField008-6 = 'r' or $controlField008-6 = 's' or $controlField008-6 = 't') and ($marcLeader6 = 'd' or $marcLeader6 = 'f' or $marcLeader6 = 'p' or $marcLeader6 = 't')">
+                <xsl:if test="$controlField008-7-10 and ($controlField008-7-10 != $dataField260c)">
+                    <dateCreated encoding="marc">
+                        <xsl:value-of select="$controlField008-7-10"/>
+                    </dateCreated>
+                </xsl:if>
+            </xsl:if>
+            <!-- 2022-11-23 CM3, added NALControlField008 variable -->
+            <xsl:choose>
+                <!--YYYYMMDD -->
+                <xsl:when
+                    test="($controlField008-6 = 'e' or $controlField008-6 = 'p' or $controlField008-6 = 'r' or $controlField008-6 = 's' or $controlField008-6 = 't') and not($marcLeader6 = 'd' or $marcLeader6 = 'f' or $marcLeader6 = 'p' or $marcLeader6 = 't')">
+                    <!-- use substring to limit for dates-->
+                    <xsl:variable name="NALcontrolField008"
+                        select="substring(controlfield[@tag = '008'], 1, 15)"/>
+                    <xsl:choose>
+                        <xsl:when test="matches($NALcontrolField008, '(\d+)(\w)(.*)')">
+                            <xsl:analyze-string select="substring($NALcontrolField008, 1, 15)"
+                                regex="(\d+)(\w)(\d+)">
+                                <xsl:matching-substring>
+                                    <dateIssued encoding="w3cdtf" keyDate="yes">
+                                        <xsl:choose>
+                                            <xsl:when test="matches(regex-group(3), '\d{8}')">
+                                                <!--YYYY-->
+                                                <xsl:number value="substring(regex-group(3), 1, 4)"
+                                                    format="0001"/>
+                                                <xsl:text>-</xsl:text>
+                                                <!--MM-->
+                                                <xsl:number value="substring(regex-group(3), 5, 2)"
+                                                    format="01"/>
+                                                <xsl:text>-</xsl:text>
+                                                <!--DD-->
+                                                <xsl:number value="substring(regex-group(3), 7, 2)"
+                                                    format="01"/>
+                                            </xsl:when>
+                                            <xsl:when test="matches(regex-group(3), '\d{6}')">
+                                                <!--YYYY-->
+                                                <xsl:number value="substring(regex-group(3), 1, 4)"
+                                                    format="0001"/>
+                                                <xsl:text>-</xsl:text>
+                                                <!--MM-->
+                                                <xsl:number value="substring(regex-group(3), 5, 2)"
+                                                    format="01"/>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <!--YYYY-->
+                                                <xsl:number value="substring(regex-group(3), 1, 4)"
+                                                    format="0001"/>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </dateIssued>
+                                </xsl:matching-substring>
+                            </xsl:analyze-string>
+                        </xsl:when>
+                        <xsl:when test="contains(., $controlfield008-7-12)">
+                            <dateIssued encoding="marc">
+                                <xsl:value-of select="$controlfield008-7-12"/>
+                            </dateIssued>
+                        </xsl:when>
+                        <xsl:when test="contains(., $controlField008-11-14)">
+                            <dateIssued encoding="marc">
+                                <xsl:value-of
+                                    select="concat($controlField008-7-10, $controlField008-11-14)"/>
+                            </dateIssued>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:when>
+            </xsl:choose>
+           
+            <!-- 2014-08-17 JG -->   
             <xsl:if
                 test="($controlField008-6 = 'e' or $controlField008-6 = 'p' or $controlField008-6 = 'r' or $controlField008-6 = 's' or $controlField008-6 = 't') and ($marcLeader6 = 'd' or $marcLeader6 = 'f' or $marcLeader6 = 'p' or $marcLeader6 = 't')">
                 <xsl:if test="$controlField008-7-10 and ($controlField008-7-10 != $dataField260c)">

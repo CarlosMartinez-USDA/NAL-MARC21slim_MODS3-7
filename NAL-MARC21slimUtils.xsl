@@ -462,7 +462,7 @@
 			</xd:p>
 		</xd:desc>
 		<xd:param name="arg"/>
-	</xd:doc>
+	</xd:doc>	
 	<xsl:function name="f:proper-case">
 		<xsl:param name="arg" as="xs:string?"/>
 		<xsl:variable name="white-space" as="xs:string" select="(' ')"/>
@@ -474,6 +474,9 @@
 				else f:sentence-case($arg)"
 				/>
 	</xsl:function>
+	
+	
+	
 	<xd:doc>
 		<xd:desc/>
 		<xd:param name="arg"/>
@@ -502,7 +505,7 @@
 		<xsl:param name="arg" as="xs:string"/>		
 		<xsl:value-of select="if (matches($arg,'orcid|viaf|isni|[a-z]+') =true())
 							  then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3')
-							  else if (matches($arg,'id.loc.gov|id.nlm.nih.gov|agclass.nal.usda.gov|lod.nal.usda.gov|[a-z]\.[a-z]\.gov|[a-z]\.[a-z]\.org')= true()) 
+							  else if (matches($arg,'id.loc.gov|id.nlm.nih.gov|agclass.nal.usda.gov|lod.nal.usda.gov|\w+\.\w+\.gov|\w+\.\w+\.org')= true()) 
 							  then replace($arg,'(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)','$3$4')
 							  else $arg"/>
 	</xsl:function>

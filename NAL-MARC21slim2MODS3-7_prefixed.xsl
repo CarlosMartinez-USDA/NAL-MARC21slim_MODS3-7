@@ -27,7 +27,8 @@
 
     <!-- Maintenance note: For each revision, change the content of <recordInfo><recordOrigin> to reflect the new revision number.
 	MARC21slim2MODS3-7
-	
+	&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;
+	&#9474;&#160;MODS 3.7
 	┌ ━ ━ ━ ━ ━ ┐ 
 	│ MODS 3.7 │  
 	└ ━ ━ ━ ━ ━ ┘
@@ -63,9 +64,9 @@
 	┌ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ┐ 
 	│  NAL Revisions (Revision 1.160) 20230104      |    
 	└ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ┘ 
-	┌ ━ ━ ━ ━ ━ ┐ 
-	│ MODS 3.6  │  
-	└ ━ ━ ━ ━ ━ ┘ 
+	┌━━━━━━━━━━━┐ 
+	│ MODS3.6 │  
+	└━━━━━━━━━━━┘ 
 	Revision 1.140 - Fixed admin metadata - XSLT was referencing MODS 3.6 - 2020/07/17 - tmee
 	Revision 1.139 - Update to MODS v.3.7 - 2020/02/13 ws
 	Revision 1.138 - Update output to notes fields for 500. - 2020/01/06 ws
@@ -1825,7 +1826,7 @@
                                     </xsl:with-param>
                                 </xsl:call-template>
                             </xsl:variable>
-
+                            <!--1.169 normalize-spacing-->
                             <title>
                                 <xsl:value-of select="normalize-space($this)"/>
                             </title>
@@ -1957,6 +1958,7 @@
                                     </xsl:with-param>
                                 </xsl:call-template>
                             </xsl:variable>
+                            <!--1.169 normalize-spacing-->
                             <title>
                                 <xsl:value-of select="normalize-space($this)"/>
                             </title>
@@ -2008,7 +2010,7 @@
                                     </xsl:with-param>
                                 </xsl:call-template>
                             </xsl:variable>
-
+                            <!--1.169 normalize-spacing-->
                             <title>
                                 <xsl:value-of select="normalize-space($this)"/>
                             </title>
@@ -2094,7 +2096,7 @@
                                     </xsl:with-param>
                                 </xsl:call-template>
                             </xsl:variable>
-
+                            <!--1.169 normalize-spacing-->
                             <title>
                                 <xsl:value-of select="normalize-space($this)"/>
                             </title>
@@ -6313,6 +6315,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                             </xsl:with-param>
                         </xsl:call-template>
                     </xsl:variable>
+                    <!--1.169 normalize-spacing-->
                     <title>
                         <xsl:value-of select="normalize-space($this)"/>
                     </title>
@@ -6363,6 +6366,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                             </xsl:with-param>
                         </xsl:call-template>
                     </xsl:variable>
+                    <!--1.169 normalize-spacing-->
                     <title>
                         <xsl:value-of select="normalize-space($this)"/>
                     </title>
@@ -6407,7 +6411,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                             </xsl:with-param>
                         </xsl:call-template>
                     </xsl:variable>
-
+                    <!--1.169 normalize-spacing-->
                     <title>
                         <xsl:value-of select="normalize-space($this)"/>
                     </title>
@@ -6437,7 +6441,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                         </xsl:with-param>
                     </xsl:call-template>
                 </xsl:variable>
-
+                <!--1.169 normalize-spacing-->
                 <title>
                     <xsl:value-of select="normalize-space($this)"/>
                 </title>
@@ -6968,6 +6972,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                                 </xsl:with-param>
                             </xsl:call-template>
                         </xsl:variable>
+                        <!--1.169 normalize-spacing-->
                         <title>
                             <xsl:value-of select="normalize-space($this)"/>
                         </title>

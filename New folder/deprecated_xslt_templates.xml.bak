@@ -1,0 +1,433 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<!--Archiving XSLT Templates-->
+<!--NAL-MARC21slim2MODS3-7.xsl - deprecated template removals -->
+        
+		<!--originInfo-->
+		
+		<!--<!-\- 1.130 depreciated
+		<originInfo>
+			<xsl:call-template name="scriptCode"/>
+			<xsl:for-each select="datafield[(@tag=260 or @tag=250) and subfield[@code='a' or code='b' or @code='c' or code='g']]">
+				<xsl:call-template name="z2xx880"/>
+			</xsl:for-each>
+
+			<xsl:variable name="MARCpublicationCode" select="normalize-space(substring($controlField008,16,3))"/>
+			<xsl:if test="translate($MARCpublicationCode,'|','')">
+				<place>
+					<placeTerm>
+						<xsl:attribute name="type">code</xsl:attribute>
+						<xsl:attribute name="authority">marccountry</xsl:attribute>
+						<xsl:value-of select="$MARCpublicationCode"/>
+					</placeTerm>
+				</place>
+			</xsl:if>
+			<xsl:for-each select="datafield[@tag=044]/subfield[@code='c']">
+				<place>
+					<placeTerm>
+						<xsl:attribute name="type">code</xsl:attribute>
+						<xsl:attribute name="authority">iso3166</xsl:attribute>
+						<xsl:value-of select="."/>
+					</placeTerm>
+				</place>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=260]/subfield[@code='a']">
+				<place>
+					<placeTerm>
+						<xsl:attribute name="type">text</xsl:attribute>
+						<xsl:call-template name="chopPunctuationFront">
+							<xsl:with-param name="chopString">
+								<xsl:call-template name="chopPunctuation">
+									<xsl:with-param name="chopString" select="."/>
+								</xsl:call-template>
+							</xsl:with-param>
+						</xsl:call-template>
+					</placeTerm>
+				</place>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=046]/subfield[@code='m']">
+				<dateValid point="start">
+					<xsl:value-of select="."/>
+				</dateValid>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=046]/subfield[@code='n']">
+				<dateValid point="end">
+					<xsl:value-of select="."/>
+				</dateValid>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=046]/subfield[@code='j']">
+				<dateModified>
+					<xsl:value-of select="."/>
+				</dateModified>
+			</xsl:for-each>
+
+			//- tmee 1.52 -//
+
+			<xsl:for-each select="datafield[@tag=046]/subfield[@code='c']">
+				<dateIssued encoding="marc" point="start">
+					<xsl:value-of select="."/>
+				</dateIssued>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=046]/subfield[@code='e']">
+				<dateIssued encoding="marc" point="end">
+					<xsl:value-of select="."/>
+				</dateIssued>
+			</xsl:for-each>
+
+			<xsl:for-each select="datafield[@tag=046]/subfield[@code='k']">
+				<dateCreated encoding="marc" point="start">
+					<xsl:value-of select="."/>
+				</dateCreated>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=046]/subfield[@code='l']">
+				<dateCreated encoding="marc" point="end">
+					<xsl:value-of select="."/>
+				</dateCreated>
+			</xsl:for-each>
+
+			//- tmee 1.35 1.36 dateIssued/nonMSS vs dateCreated/MSS -//
+			<xsl:for-each select="datafield[@tag=260]/subfield[@code='b' or @code='c' or @code='g']">
+				<xsl:choose>
+					<xsl:when test="@code='b'">
+						<publisher>
+							<xsl:call-template name="chopPunctuation">
+								<xsl:with-param name="chopString" select="."/>
+								<xsl:with-param name="punctuation">
+									<xsl:text>:,;/ </xsl:text>
+								</xsl:with-param>
+							</xsl:call-template>
+						</publisher>
+					</xsl:when>
+					<xsl:when test="(@code='c')">
+						<xsl:if test="$marcLeader6='d' or $marcLeader6='f' or $marcLeader6='p' or $marcLeader6='t'">
+							<dateCreated>
+								<xsl:call-template name="chopPunctuation">
+									<xsl:with-param name="chopString" select="."/>
+								</xsl:call-template>
+							</dateCreated>
+						</xsl:if>
+
+						<xsl:if test="not($marcLeader6='d' or $marcLeader6='f' or $marcLeader6='p' or $marcLeader6='t')">
+							<dateIssued>
+								<xsl:call-template name="chopPunctuation">
+									<xsl:with-param name="chopString" select="."/>
+								</xsl:call-template>
+							</dateIssued>
+						</xsl:if>
+					</xsl:when>
+					<xsl:when test="@code='g'">
+						<xsl:if test="$marcLeader6='d' or $marcLeader6='f' or $marcLeader6='p' or $marcLeader6='t'">
+							<dateCreated>
+								<xsl:value-of select="."/>
+							</dateCreated>
+						</xsl:if>c            
+						<xsl:if test="not($marcLeader6='d' or $marcLeader6='f' or $marcLeader6='p' or $marcLeader6='t')">
+							<dateCreated>
+								<xsl:value-of select="."/>
+							</dateCreated>
+						</xsl:if>
+					</xsl:when>
+				</xsl:choose>
+			</xsl:for-each>
+			<xsl:variable name="dataField260c">
+				<xsl:call-template name="chopPunctuation">
+					<xsl:with-param name="chopString" select="datafield[@tag=260]/subfield[@code='c']"/>
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:variable name="controlField008-7-10" select="normalize-space(substring($controlField008, 8, 4))"/>
+			<xsl:variable name="controlField008-11-14" select="normalize-space(substring($controlField008, 12, 4))"/>
+			<xsl:variable name="controlField008-6" select="normalize-space(substring($controlField008, 7, 1))"/>
+			
+			//- tmee 1.35 and 1.36 and 1.84-//
+			<xsl:if test="($controlField008-6='e' or $controlField008-6='p' or $controlField008-6='r' or $controlField008-6='s' or $controlField008-6='t') and ($marcLeader6='d' or $marcLeader6='f' or $marcLeader6='p' or $marcLeader6='t')">
+				<xsl:if test="$controlField008-7-10 and ($controlField008-7-10 != $dataField260c)">
+					<dateCreated encoding="marc">
+						<xsl:value-of select="$controlField008-7-10"/>
+					</dateCreated>
+				</xsl:if>
+			</xsl:if>
+
+			<xsl:if test="($controlField008-6='e' or $controlField008-6='p' or $controlField008-6='r' or $controlField008-6='s' or $controlField008-6='t') and not($marcLeader6='d' or $marcLeader6='f' or $marcLeader6='p' or $marcLeader6='t')">
+				<xsl:if test="$controlField008-7-10 and ($controlField008-7-10 != $dataField260c)">
+					<dateIssued encoding="marc">
+						<xsl:value-of select="$controlField008-7-10"/></dateIssued>
+				</xsl:if>
+			</xsl:if>
+
+			<xsl:if test="$controlField008-6='c' or $controlField008-6='d' or $controlField008-6='i' or $controlField008-6='k' or $controlField008-6='m' or $controlField008-6='u'">
+				<xsl:if test="$controlField008-7-10">
+					<dateIssued encoding="marc" point="start">
+						<xsl:value-of select="$controlField008-7-10"/>
+					</dateIssued>
+				</xsl:if>
+			</xsl:if>
+
+			<xsl:if test="$controlField008-6='c' or $controlField008-6='d' or $controlField008-6='i' or $controlField008-6='k' or $controlField008-6='m' or $controlField008-6='u'">
+				<xsl:if test="$controlField008-11-14">
+					<dateIssued encoding="marc" point="end">
+						<xsl:value-of select="$controlField008-11-14"/>
+					</dateIssued>
+				</xsl:if>
+			</xsl:if>
+
+			<xsl:if test="$controlField008-6='q'">
+				<xsl:if test="$controlField008-7-10">
+					<dateIssued encoding="marc" point="start" qualifier="questionable">
+						<xsl:value-of select="$controlField008-7-10"/>
+					</dateIssued>
+				</xsl:if>
+			</xsl:if>
+			<xsl:if test="$controlField008-6='q'">
+				<xsl:if test="$controlField008-11-14">
+					<dateIssued encoding="marc" point="end" qualifier="questionable">
+						<xsl:value-of select="$controlField008-11-14"/>
+					</dateIssued>
+				</xsl:if>
+			</xsl:if>
+			//- tmee 1.77 008-06 dateIssued for value 's' 1.89 removed 20130920  
+			<xsl:if test="$controlField008-6='s'">
+				<xsl:if test="$controlField008-7-10">
+					<dateIssued encoding="marc">
+						<xsl:value-of select="$controlField008-7-10"/>
+					</dateIssued>
+				</xsl:if>
+			</xsl:if>
+			-//
+			
+			<xsl:if test="$controlField008-6='t'">
+				<xsl:if test="$controlField008-11-14">
+					<copyrightDate encoding="marc">
+						<xsl:value-of select="$controlField008-11-14"/>
+					</copyrightDate>
+				</xsl:if>
+			</xsl:if>
+			<xsl:for-each select="datafield[@tag=033][@ind1=0 or @ind1=1]/subfield[@code='a']">
+				<dateCaptured encoding="iso8601">
+					<xsl:value-of select="."/>
+				</dateCaptured>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=033][@ind1=2]/subfield[@code='a'][1]">
+				<dateCaptured encoding="iso8601" point="start">
+					<xsl:value-of select="."/>
+				</dateCaptured>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=033][@ind1=2]/subfield[@code='a'][2]">
+				<dateCaptured encoding="iso8601" point="end">
+					<xsl:value-of select="."/>
+				</dateCaptured>
+			</xsl:for-each>
+			<xsl:for-each select="datafield[@tag=250]/subfield[@code='a']">
+				<edition>
+					<xsl:value-of select="."/>
+				</edition>
+			</xsl:for-each>
+				//- 1.120 - @260$issuance -//
+				//-\- 2.12 cm3 -\-//
+		//-\- 1.94 -\-//
+		<xsl:if
+			test="$marcLeader7 = 'a' or $marcLeader7 = 'c' or $marcLeader7 = 'd' or $marcLeader7 = 'm' or $marcLeader7 = 'm' and ($marcLeader19 = 'a' or $marcLeader19 = 'b' or $marcLeader19 = 'c') or $marcLeader7 = 'm' and ($marcLeader19 = '#')">
+			<xsl:for-each select="leader">
+				<issuance>
+					<!-\- 2.08 cm3 -\->
+					<xsl:choose>
+						<xsl:when
+							test="$marcLeader7 = 'a' or $marcLeader7 = 'c' or $marcLeader7 = 'd' or $marcLeader7 = 'm'"
+							>monographic</xsl:when>
+						<!-\- <xsl:when test="$marcLeader7 = 'b'">continuing</xsl:when> -\->
+						<xsl:when
+							test="$marcLeader7 = 'm' and ($marcLeader19 = 'a' or $marcLeader19 = 'b' or $marcLeader19 = 'c')"
+							>multipart monograph</xsl:when>
+						<xsl:when test="$marcLeader7 = 'm' and ($marcLeader19 = '#')">single
+							unit</xsl:when>-->
+        <!-- <xsl:when test="$marcLeader7 = 'i'">integrating resource</xsl:when>
+                        <xsl:when test="$marcLeader7 = 'b' or $marcLeader7 = 's'">serial</xsl:when>-->
+        <!--</xsl:choose>
+				</issuance>
+			</xsl:for-each>
+		</xsl:if>-->
+        <!--</xsl:for-each>
+			
+			//- 1.96 20140422 -//
+			<xsl:for-each select="datafield[@tag=310]|datafield[@tag=321]">
+				<frequency>
+					<xsl:call-template name="subfieldSelect">
+						<xsl:with-param name="codes">ab</xsl:with-param>
+					</xsl:call-template>
+				</frequency>
+			</xsl:for-each>
+			
+			//- 1.67 1.72 updated fixed location issue 201308 1.86	-//
+			
+			<xsl:if test="$typeOf008='SE'">
+				<xsl:for-each select="controlfield[@tag=008]">
+					<xsl:variable name="controlField008-18" select="substring($controlField008,19,1)"/>
+					<xsl:variable name="frequency">
+						<frequency>
+							<xsl:choose>
+								<xsl:when test="$controlField008-18='a'">Annual</xsl:when>
+								<xsl:when test="$controlField008-18='b'">Bimonthly</xsl:when>
+								<xsl:when test="$controlField008-18='c'">Semiweekly</xsl:when>
+								<xsl:when test="$controlField008-18='d'">Daily</xsl:when>
+								<xsl:when test="$controlField008-18='e'">Biweekly</xsl:when>
+								<xsl:when test="$controlField008-18='f'">Semiannual</xsl:when>
+								<xsl:when test="$controlField008-18='g'">Biennial</xsl:when>
+								<xsl:when test="$controlField008-18='h'">Triennial</xsl:when>
+								<xsl:when test="$controlField008-18='i'">Three times a week</xsl:when>
+								<xsl:when test="$controlField008-18='j'">Three times a month</xsl:when>
+								<xsl:when test="$controlField008-18='k'">Continuously updated</xsl:when>
+								<xsl:when test="$controlField008-18='m'">Monthly</xsl:when>
+								<xsl:when test="$controlField008-18='q'">Quarterly</xsl:when>
+								<xsl:when test="$controlField008-18='s'">Semimonthly</xsl:when>
+								<xsl:when test="$controlField008-18='t'">Three times a year</xsl:when>
+								<xsl:when test="$controlField008-18='u'">Unknown</xsl:when>
+								<xsl:when test="$controlField008-18='w'">Weekly</xsl:when>
+								//- 1.106 20141218 -//
+								<xsl:when test="$controlField008-18=' '">Completely irregular</xsl:when>
+								<xsl:when test="$controlField008-18='#'">Completely irregular</xsl:when>
+								<xsl:otherwise/>
+							</xsl:choose>
+						</frequency>
+					</xsl:variable>
+					<xsl:if test="$frequency!=''">
+						<frequency authority="marcfrequency">
+							<xsl:value-of select="$frequency"/>
+						</frequency>
+					</xsl:if>
+				</xsl:for-each>
+			</xsl:if>
+		</originInfo>
+-->
+    
+ <!-- removed deprecated physicalDescription tempalte 20230108 cm3 --> 
+
+  <!-- 1.130 depreciatedn   <xsl:choose>
+                <!--YYYYMMDD -->
+                <xsl:when
+                    test="($controlField008-6 = 'e' or $controlField008-6 = 'p' or $controlField008-6 = 'r' or $controlField008-6 = 's' or $controlField008-6 = 't') and not($marcLeader6 = 'd' or $marcLeader6 = 'f' or $marcLeader6 = 'p' or $marcLeader6 = 't')">
+                    <!-- use substring to limit for dates-->
+                    <xsl:variable name="controlField008-0-14"
+                        select="substring(controlfield[@tag = '008'], 1, 15)"/>
+                    <xsl:choose>
+                        <xsl:when test="matches($controlField008-0-14, '(\d+)(\w)(.*)')">
+                            <xsl:analyze-string select="substring($controlField008-0-14, 1, 15)"
+                                regex="(\d+)(\w)(\d+)">
+                                <xsl:matching-substring>
+                                    <dateIssued encoding="w3cdtf" keyDate="yes">
+                                        <xsl:choose>
+                                            <xsl:when test="matches(regex-group(3), '\d{8}')">
+                                                <!--YYYY-->
+                                                <xsl:number value="substring(regex-group(3), 1, 4)"
+                                                  format="0001"/>
+                                                <xsl:text>-</xsl:text>
+                                                <!--MM-->
+                                                <xsl:number value="substring(regex-group(3), 5, 2)"
+                                                  format="01"/>
+                                                <xsl:text>-</xsl:text>
+                                                <!--DD-->
+                                                <xsl:number value="substring(regex-group(3), 7, 2)"
+                                                  format="01"/>
+                                            </xsl:when>
+                                            <xsl:when test="matches(regex-group(3), '\d{6}')">
+                                                <!--YYYY-->
+                                                <xsl:number value="substring(regex-group(3), 1, 4)"
+                                                  format="0001"/>
+                                                <xsl:text>-</xsl:text>
+                                                <!--MM-->
+                                                <xsl:number value="substring(regex-group(3), 5, 2)"
+                                                  format="01"/>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <!--YYYY-->
+                                                <xsl:number value="substring(regex-group(3), 1, 4)"
+                                                  format="0001"/>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </dateIssued>
+                                </xsl:matching-substring>
+                            </xsl:analyze-string>
+                        </xsl:when>
+                        <xsl:when test="contains(., $controlfield008-7-12)">
+                            <dateIssued encoding="marc">
+                                <xsl:value-of select="$controlfield008-7-12"/>
+                            </dateIssued>
+                        </xsl:when>
+                        <xsl:when test="contains(., $controlField008-11-14)">
+                            <dateIssued encoding="marc">
+                                <xsl:value-of
+                                    select="concat($controlField008-7-10, $controlField008-11-14)"/>
+                            </dateIssued>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:when>
+            </xsl:choose>
+
+		<xsl:for-each select="datafield[@tag=880]">
+			<xsl:variable name="related_datafield" select="substring-before(subfield[@code='6'],'-')"/>
+			<xsl:variable name="occurence_number" select="substring( substring-after(subfield[@code='6'],'-') , 1 , 2 )"/>
+			<xsl:variable name="hit" select="../datafield[@tag=$related_datafield and contains(subfield[@code='6'] , concat('880-' , $occurence_number))]/@tag"/>
+			 
+			<xsl:choose>
+				<xsl:when test="$hit='260'">
+					<originInfo>
+						<xsl:call-template name="scriptCode"/>
+						<xsl:for-each select="../datafield[@tag=260 and subfield[@code='a' or code='b' or @code='c' or code='g']]">
+							<xsl:call-template name="z2xx880"/>
+						</xsl:for-each>
+						<xsl:if test="subfield[@code='a']">
+							<place>
+								<placeTerm type="text">
+									<xsl:value-of select="subfield[@code='a']"/>
+								</placeTerm>
+							</place>
+						</xsl:if>
+						<xsl:if test="subfield[@code='b']">
+							<publisher>
+								<xsl:value-of select="subfield[@code='b']"/>
+							</publisher>
+						</xsl:if>
+						<xsl:if test="subfield[@code='c']">
+							<dateIssued>
+								//- 1.128 -//
+								<xsl:call-template name="chopPunctuation">
+									<xsl:with-param name="chopString" select="subfield[@code='c']"/>
+								</xsl:call-template>
+							</dateIssued>
+						</xsl:if>
+						<xsl:if test="subfield[@code='g']">
+							<dateCreated>
+								<xsl:value-of select="subfield[@code='g']"/>
+							</dateCreated>
+						</xsl:if>
+						<xsl:for-each select="../datafield[@tag=880]/subfield[@code=6][contains(text(),'250')]">
+							<edition>
+								<xsl:value-of select="following-sibling::subfield"/>
+							</edition>
+						</xsl:for-each>
+					</originInfo>
+				</xsl:when>
+				<xsl:when test="$hit='300'">
+					<physicalDescription>
+						<xsl:for-each select="../datafield[@tag=300]">
+							<xsl:call-template name="z3xx880"/>
+						</xsl:for-each>
+						<extent>
+							<xsl:for-each select="subfield">
+								<xsl:if test="@code='a' or @code='3' or @code='b' or @code='c'">
+									<xsl:value-of select="."/>
+									<xsl:text>&#160;</xsl:text>
+								</xsl:if>
+							</xsl:for-each>
+						</extent>
+						<form>
+							<xsl:attribute name="authority">
+								<xsl:value-of select="subfield[@code='2']"/>
+							</xsl:attribute>
+							<xsl:call-template name="xxx880"/>
+							<xsl:call-template name="subfieldSelect">
+								<xsl:with-param name="codes">a</xsl:with-param>
+							</xsl:call-template>
+						</form>
+					</physicalDescription>
+				</xsl:when>
+			</xsl:choose>
+		</xsl:for-each>
+-->

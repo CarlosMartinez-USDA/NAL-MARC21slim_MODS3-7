@@ -131,7 +131,7 @@
          <recordCreationDate encoding="marc">220619</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118220436.0</recordChangeDate>
          <recordIdentifier>9915610355207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-12</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -279,7 +279,7 @@
          <recordCreationDate encoding="marc">220905</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118220848.0</recordChangeDate>
          <recordIdentifier>9915610429607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-12</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -468,7 +468,7 @@
          <recordCreationDate encoding="marc">220211</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
          <recordIdentifier>9915611022607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-12</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -485,7 +485,7 @@
          <displayForm>Ernst, Adrienne r.</displayForm>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-8507-6869</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0003-2908-2436</nameIdentifier>
-         <nameIdentifier type="viaf">https://viaf.org/viaf/1240586</nameIdentifier>
+         <nameIdentifier type="orcid">https://orcid.org/0000-0002-1241-9904</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-0956-0157</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-3526-7878</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0001-6378-0495</nameIdentifier>
@@ -500,7 +500,7 @@
          <displayForm>Barak, Rebecca s.</displayForm>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-8507-6869</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0003-2908-2436</nameIdentifier>
-         <nameIdentifier type="viaf">https://viaf.org/viaf/1240586</nameIdentifier>
+         <nameIdentifier type="orcid">https://orcid.org/0000-0002-1241-9904</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-0956-0157</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-3526-7878</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0001-6378-0495</nameIdentifier>
@@ -515,7 +515,7 @@
          <displayForm>Hipp, Andrew l.</displayForm>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-8507-6869</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0003-2908-2436</nameIdentifier>
-         <nameIdentifier type="viaf">https://viaf.org/viaf/1240586</nameIdentifier>
+         <nameIdentifier type="orcid">https://orcid.org/0000-0002-1241-9904</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-0956-0157</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-3526-7878</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0001-6378-0495</nameIdentifier>
@@ -530,7 +530,7 @@
          <displayForm>Kramer, Andrea t.</displayForm>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-8507-6869</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0003-2908-2436</nameIdentifier>
-         <nameIdentifier type="viaf">https://viaf.org/viaf/1240586</nameIdentifier>
+         <nameIdentifier type="orcid">https://orcid.org/0000-0002-1241-9904</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-0956-0157</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-3526-7878</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0001-6378-0495</nameIdentifier>
@@ -545,7 +545,7 @@
          <displayForm>Marx, Hannah e.</displayForm>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-8507-6869</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0003-2908-2436</nameIdentifier>
-         <nameIdentifier type="viaf">https://viaf.org/viaf/1240586</nameIdentifier>
+         <nameIdentifier type="orcid">https://orcid.org/0000-0002-1241-9904</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-0956-0157</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-3526-7878</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0001-6378-0495</nameIdentifier>
@@ -560,7 +560,7 @@
          <displayForm>Larkin, Daniel j.</displayForm>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-8507-6869</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0003-2908-2436</nameIdentifier>
-         <nameIdentifier type="viaf">https://viaf.org/viaf/1240586</nameIdentifier>
+         <nameIdentifier type="orcid">https://orcid.org/0000-0002-1241-9904</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-0956-0157</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0002-3526-7878</nameIdentifier>
          <nameIdentifier type="orcid">https://orcid.org/0000-0001-6378-0495</nameIdentifier>
@@ -657,7 +657,7 @@
          <recordCreationDate encoding="marc">220211</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118223158.0</recordChangeDate>
          <recordIdentifier>9915611022607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-12</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -782,7 +782,7 @@
          <recordCreationDate encoding="marc">190314</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119001538.0</recordChangeDate>
          <recordIdentifier>9915614108807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-12</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -941,7 +941,7 @@
          <recordCreationDate encoding="marc">190314</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119002133.0</recordChangeDate>
          <recordIdentifier>9915614131907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-12</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1092,7 +1092,7 @@
          <recordCreationDate encoding="marc">190816</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118231846.0</recordChangeDate>
          <recordIdentifier>9915620021407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-10</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7_non-prefixed.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.167) 20230106 cm3), Transformed on: 2023-01-12</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>

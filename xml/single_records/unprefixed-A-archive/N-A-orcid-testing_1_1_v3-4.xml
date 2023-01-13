@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Structure complexity is the primary driver of functional diversity in                 the temperate forests of northeastern China</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Zhenghua</namePart>
+      <namePart type="family">Lian</namePart>
+      <displayForm>Lian, Zhenghua</displayForm>
+      <affiliation>Research Center of Forest Management Engineering of State Forestry and Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Juan</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Juan</displayForm>
+      <affiliation>Department of Forest Ecology, School of Ecology and Nature  Conservation, Beijing Forestry University, Beijing, 100083, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Chunyu</namePart>
+      <namePart type="family">Fan</namePart>
+      <displayForm>Fan, Chunyu</displayForm>
+      <affiliation>Research Center of Forest Management Engineering of State Forestry and Grassland Administration, Beijing Forestry University, Beijing, 100083, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Klaus</namePart>
+      <namePart type="family">von Gadow</namePart>
+      <displayForm>von Gadow, Klaus</displayForm>
+      <affiliation>Faculty of Forestry and Forest Ecology, Georg-August-University Göttingen, Büsgenweg 5, D-37077, Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <abstract>Assessing functional diversity to identify its spatial patterns and  drivers is an important step towards understanding the adaptive capacity of  ecosystems to environmental change. However, until now, these mechanisms were poorly  understood in the temperate forests of northeastern China, which prevented the  development of new management methods aimed at increasing functional trait diversity  and thus ecological resilience. In this study, we mapped functional diversity  distributions using a Kriging Interpolation Method. A specific random forest model  approach was adopted to test the importance ranking of 18 variables in explaining  the spatial variation of functional diversity. Three piecewise structural equation  models (pSEMs) with forest types as random effects were constructed for testing the  direct effects of climate, and the indirect effects of stand structure on functional  diversity across the large study region. Specific causal relationships in each  forest type were also examined using 15 linear structural equation models. Although  environmental filtering by climate is important, stand structure explains most of  the functional variation of the forest ecosystems in northeastern China. Our study  thus only partially supports the stress-dominance hypothesis. Several abundant  species determine most of the functional diversity, which supports the mass ratio  hypothesis. Our results suggest that forest management aimed at increasing  structural complexity can contribute to increased functional diversity, especially  regarding the mixing of coniferous and broad-leaved tree species.</abstract>
+   <accessCondition type="restriction on access">Creative Commons Attribution 4.0 Generic (CC BY-NC-ND 4.0)</accessCondition>
+   <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+   <subject authority="atg">
+      <topic>algorithms</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>broadleaved trees</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>climate</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>ecological resilience</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>equations</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>forest management</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>forest types</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>functional diversity</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>kriging</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>stand structure</topic>
+   </subject>
+   <subject>
+      <topic>Functional diversity distribution</topic>
+   </subject>
+   <subject>
+      <topic>Forest types</topic>
+   </subject>
+   <subject>
+      <topic>Forest management</topic>
+   </subject>
+   <subject>
+      <topic>Random forest</topic>
+   </subject>
+   <subject>
+      <topic>Stand structure attributes</topic>
+   </subject>
+   <subject>
+      <topic>Structural equation modeling</topic>
+   </subject>
+   <location>
+      <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.fecs.2022.100048</url>
+   </location>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Forest ecosystems</title>
+      </titleInfo>
+      <identifier type="issn">2197-5620</identifier>
+      <identifier type="local">Journal:21605</identifier>
+      <part>
+         <detail type="volume">
+            <number>8</number>
+            <caption>v.</caption>
+         </detail>
+         <extent unit="pages">
+            <total>100048</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1016/j.fecs.2022.100048</identifier>
+   <identifier type="control">9915610355207426</identifier>
+   <identifier type="agricola">IND607785982</identifier>
+   <extension>
+      <identifier type="local">agid:7785982</identifier>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">220619</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221118220436.0</recordChangeDate>
+      <recordIdentifier>9915610355207426</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-MARC21slim2MODS3-4.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>
